@@ -1,0 +1,72 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#430:8:0.2182
+Default$$NumberLiteral::2$$org.apache.commons.math.util.MathUtils#430:624:0.2182
+Default$$SimpleName::v$$org.apache.commons.math.util.MathUtils#431:8:0.2182
+Default$$NumberLiteral::2$$org.apache.commons.math.util.MathUtils#431:624:0.2182
+Default$$SimpleName::t$$org.apache.commons.math.util.MathUtils#450:51:0.1826
+Default$$SimpleName::t$$org.apache.commons.math.util.MathUtils#446:8:0.1715
+Default$$NumberLiteral::2$$org.apache.commons.math.util.MathUtils#446:624:0.1715
+Insert After$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#413:1:0.1474
+Insert After$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#413:7:0.1474
+Default$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#413:17:0.1474
+Default$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#413:18:0.1474
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#413:18:0.1474
+Default$$SimpleName::abs$$org.apache.commons.math.util.MathUtils#413:46:0.1474
+Default$$SimpleName::abs$$org.apache.commons.math.util.MathUtils#413:46:0.1474
+Default$$SimpleName::Math$$org.apache.commons.math.util.MathUtils#413:466:0.1474
+Default$$SimpleName::Math$$org.apache.commons.math.util.MathUtils#413:466:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#413:1040:0.1474
+Default$$SimpleName::v$$org.apache.commons.math.util.MathUtils#413:1040:0.1474
+Insert Before$$SimpleName::t$$org.apache.commons.math.util.MathUtils#439:1:0.1474
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#439:4:0.1474
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#439:4:0.1474
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.MathUtils#439:4:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#439:115:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#439:115:0.1474
+Insert Before$$SimpleName::u$$org.apache.commons.math.util.MathUtils#439:123:0.1474
+Insert Before$$SimpleName::u$$org.apache.commons.math.util.MathUtils#439:123:0.1474
+Default$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#439:235:0.1474
+Default$$NumberLiteral::2$$org.apache.commons.math.util.MathUtils#439:235:0.1474
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#428:4:0.1474
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.MathUtils#428:4:0.1474
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#428:4:0.1474
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.MathUtils#428:4:0.1474
+Insert After$$NumberLiteral::31$$org.apache.commons.math.util.MathUtils#428:4:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#428:115:0.1474
+Default$$SimpleName::v$$org.apache.commons.math.util.MathUtils#428:115:0.1474
+Default$$SimpleName::k$$org.apache.commons.math.util.MathUtils#428:115:0.1474
+Insert Before$$SimpleName::u$$org.apache.commons.math.util.MathUtils#428:123:0.1474
+Insert Before$$SimpleName::v$$org.apache.commons.math.util.MathUtils#428:123:0.1474
+Insert Before$$SimpleName::k$$org.apache.commons.math.util.MathUtils#428:123:0.1474
+Default$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#428:235:0.1474
+Default$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#428:235:0.1474
+Default$$NumberLiteral::31$$org.apache.commons.math.util.MathUtils#428:235:0.1474
+Default$$SimpleName::v$$org.apache.commons.math.util.MathUtils#452:25:0.1474
+Default$$SimpleName::t$$org.apache.commons.math.util.MathUtils#452:624:0.1474
+Default$$Assignment::=$$org.apache.commons.math.util.MathUtils#452:1101:0.1474
+Insert After$$SimpleName::v$$org.apache.commons.math.util.MathUtils#455:4:0.1474
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.MathUtils#455:4:0.1474
+Insert After$$SimpleName::u$$org.apache.commons.math.util.MathUtils#455:17:0.1474
+Default$$SimpleName::v$$org.apache.commons.math.util.MathUtils#455:123:0.1474
+Insert Before$$SimpleName::v$$org.apache.commons.math.util.MathUtils#455:123:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#455:235:0.1474
+Insert Before$$SimpleName::k$$org.apache.commons.math.util.MathUtils#427:1:0.1474
+Default$$PrimitiveType::int$$org.apache.commons.math.util.MathUtils#427:9:0.1474
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MathUtils#427:253:0.1474
+Default$$NumberLiteral::0$$org.apache.commons.math.util.MathUtils#427:1116:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#421:51:0.1474
+Default$$SimpleName::v$$org.apache.commons.math.util.MathUtils#424:51:0.1474
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#445:4:0.1474
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.MathUtils#445:4:0.1474
+Default$$SimpleName::t$$org.apache.commons.math.util.MathUtils#445:115:0.1474
+Insert Before$$SimpleName::t$$org.apache.commons.math.util.MathUtils#445:123:0.1474
+Default$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#445:235:0.1474
+Default$$SimpleName::k$$org.apache.commons.math.util.MathUtils#459:12:0.1474
+Insert After$$SimpleName::k$$org.apache.commons.math.util.MathUtils#459:17:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#459:51:0.1474
+Insert Before$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#459:115:0.1474
+Insert After$$SimpleName::u$$org.apache.commons.math.util.MathUtils#412:4:0.1474
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.MathUtils#412:4:0.1474
+Insert After$$SimpleName::v$$org.apache.commons.math.util.MathUtils#412:17:0.1474
+Default$$SimpleName::u$$org.apache.commons.math.util.MathUtils#412:123:0.1474
+Insert Before$$SimpleName::u$$org.apache.commons.math.util.MathUtils#412:123:0.1474

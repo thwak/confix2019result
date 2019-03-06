@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.CheckSideEffects
+insert
+if (!parent.isCall()) continue;
+
+at Insert Before
+VariableDeclarationStatement::null
+com.google.javascript.jscomp.CheckSideEffects:119
+Context:P:EnhancedForStatement{statements},L:,R:{60{39}{59{42}{32{42}{42}}}}
+Applied Change
+insert
+if (!var0.method0()) continue;
+from
+lucene-c863a72:lucene/core/src/java/org/apache/lucene/index/SegmentReader.java:::
+1
+P:EnhancedForStatement{statements},L:,R:{60{39}{59{42}{32{42}{42}}}}

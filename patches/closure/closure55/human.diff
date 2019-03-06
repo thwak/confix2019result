@@ -1,0 +1,12 @@
+--- ../result-tf-hash/closure/closure55/buggy/com/google/javascript/jscomp/FunctionRewriter.java	2019-02-21 22:35:19.498082919 +0000
++++ ../result-tf-hash/closure/closure55/human/com/google/javascript/jscomp/FunctionRewriter.java	2019-02-21 22:35:19.502082891 +0000
+@@ -114,7 +114,8 @@
+   }
+ 
+   private static boolean isReduceableFunctionExpression(Node n) {
+-    return NodeUtil.isFunctionExpression(n);
++    return NodeUtil.isFunctionExpression(n)
++        && !NodeUtil.isGetOrSetKey(n.getParent());
+   }
+ 
+   /**

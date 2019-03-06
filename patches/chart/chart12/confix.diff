@@ -1,0 +1,11 @@
+--- ../result-tf-hash/chart/chart12/buggy/org/jfree/data/general/AbstractDataset.java	2019-02-21 11:23:58.157767966 +0000
++++ ../result-tf-hash/chart/chart12/confix/org/jfree/data/general/AbstractDataset.java	2019-02-21 11:23:58.149767933 +0000
+@@ -157,7 +157,7 @@
+      * @see #removeChangeListener(DatasetChangeListener)
+      */
+     public boolean hasListener(EventListener listener) {
+-        List list = Arrays.asList(this.listenerList.getListenerList());
++        List list = Arrays.asList(listener);
+         return list.contains(listener);
+     }
+     

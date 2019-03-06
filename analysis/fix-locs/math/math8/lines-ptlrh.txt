@@ -1,0 +1,57 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:9:0.2774
+Default$$SimpleName::singletons$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:11:0.2774
+Default$$SimpleName::probabilities$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:11:0.2774
+Default$$SimpleName::i$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:38:0.2774
+Default$$SimpleName::i$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:38:0.2774
+Default$$SimpleType::Pair$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:66:0.2774
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:86:0.2774
+Insert After$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:86:0.2774
+Default$$SimpleName::samples$$org.apache.commons.math3.distribution.DiscreteRealDistribution#95:466:0.2774
+Default$$SimpleType::List$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:1:0.2774
+Insert Before$$SimpleName::samples$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:1:0.2774
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:9:0.2774
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:9:0.2774
+Default$$SimpleType::Pair$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:66:0.2774
+Default$$SimpleType::Pair$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:66:0.2774
+Default$$ParameterizedType::null$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:86:0.2774
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:86:0.2774
+Insert After$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:86:0.2774
+Default$$ParameterizedType::null$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:86:0.2774
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:86:0.2774
+Insert After$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#92:86:0.2774
+Default$$SimpleName::innerDistribution$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:1:0.2774
+Default$$SimpleName::rng$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:2:0.2774
+Default$$ParameterizedType::null$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:34:0.2774
+Default$$SimpleType::DiscreteDistribution$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:66:0.2774
+Default$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:86:0.2774
+Insert After$$SimpleType::Double$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:86:0.2774
+Default$$SimpleName::samples$$org.apache.commons.math3.distribution.DiscreteRealDistribution#98:118:0.2774
+Insert Before$$SimpleName::i$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:1:0.2774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:2:0.2774
+Insert After$$QualifiedName::singletons.length$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:3:0.2774
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:4:0.2774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:17:0.2774
+Default$$InfixExpression::<$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:39:0.2774
+Default$$SimpleName::i$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:55:0.2774
+Insert Before$$SimpleName::i$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:123:0.2774
+Default$$QualifiedName::singletons.length$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:235:0.2774
+Default$$NumberLiteral::0$$org.apache.commons.math3.distribution.DiscreteRealDistribution#94:1116:0.2774
+Default$$SimpleName::probabilities$$org.apache.commons.math3.distribution.DiscreteRealDistribution#66:15:0.2774
+Default$$SimpleType::Well19937c$$org.apache.commons.math3.distribution.DiscreteRealDistribution#66:44:0.2774
+Insert After$$QualifiedName::probabilities.length$$org.apache.commons.math3.distribution.DiscreteRealDistribution#88:3:0.2774
+Default$$QualifiedName::probabilities.length$$org.apache.commons.math3.distribution.DiscreteRealDistribution#88:35:0.2774
+Default$$QualifiedName::singletons.length$$org.apache.commons.math3.distribution.DiscreteRealDistribution#88:55:0.2774
+Insert Before$$QualifiedName::singletons.length$$org.apache.commons.math3.distribution.DiscreteRealDistribution#88:55:0.2774
+Default$$SimpleName::rng$$org.apache.commons.math3.distribution.DiscreteRealDistribution#87:8:0.2774
+Insert After$$Dimension::null$$org.apache.commons.math3.distribution.DiscreteDistribution#187:1:1.0000
+Insert Before$$SimpleName::out$$org.apache.commons.math3.distribution.DiscreteDistribution#187:1:1.0000
+Insert After$$Dimension::null$$org.apache.commons.math3.distribution.DiscreteDistribution#187:1:1.0000
+Default$$SimpleName::getClass$$org.apache.commons.math3.distribution.DiscreteDistribution#187:1:1.0000
+Insert Before$$Modifier::final$$org.apache.commons.math3.distribution.DiscreteDistribution#187:2:1.0000
+Default$$SimpleName::get$$org.apache.commons.math3.distribution.DiscreteDistribution#187:6:1.0000
+Default$$SimpleType::T$$org.apache.commons.math3.distribution.DiscreteDistribution#187:35:1.0000
+Default$$SimpleType::T$$org.apache.commons.math3.distribution.DiscreteDistribution#187:35:1.0000
+Default$$QualifiedName::java.lang.reflect.Array$$org.apache.commons.math3.distribution.DiscreteDistribution#187:466:1.0000
+Default$$SimpleName::singletons$$org.apache.commons.math3.distribution.DiscreteDistribution#187:466:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.math3.distribution.DiscreteDistribution#187:1040:1.0000

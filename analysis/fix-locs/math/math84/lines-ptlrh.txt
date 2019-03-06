@@ -1,0 +1,14 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::contracted$$org.apache.commons.math.optimization.direct.MultiDirectional#89:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.direct.MultiDirectional#89:2:0.7071
+Default$$SimpleType::RealPointValuePair$$org.apache.commons.math.optimization.direct.MultiDirectional#89:4:0.7071
+Default$$SimpleName::evaluateNewSimplex$$org.apache.commons.math.optimization.direct.MultiDirectional#89:13:0.7071
+Default$$SimpleName::original$$org.apache.commons.math.optimization.direct.MultiDirectional#89:267:0.7071
+Default$$SimpleName::gamma$$org.apache.commons.math.optimization.direct.MultiDirectional#89:267:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.direct.MultiDirectional#89:527:0.7071
+Default$$SimpleName::comparator$$org.apache.commons.math.optimization.direct.MultiDirectional#89:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.direct.MultiDirectional#89:1116:0.7071
+Insert After$$Block::null$$org.apache.commons.math.optimization.direct.MultiDirectional#90:2:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.direct.MultiDirectional#90:4:0.7071
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.direct.MultiDirectional#90:4:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.direct.MultiDirectional#90:5:0.7071

@@ -1,0 +1,19 @@
+--- ../result-tf-hash/math/math74/buggy/org/apache/commons/math/ode/nonstiff/AdamsMoultonIntegrator.java	2019-02-21 11:38:18.545404209 +0000
++++ ../result-tf-hash/math/math74/confix/org/apache/commons/math/ode/nonstiff/AdamsMoultonIntegrator.java	2019-02-21 11:38:18.545404209 +0000
+@@ -28,6 +28,7 @@
+ import org.apache.commons.math.ode.events.CombinedEventsManager;
+ import org.apache.commons.math.ode.sampling.NordsieckStepInterpolator;
+ import org.apache.commons.math.ode.sampling.StepHandler;
++import java.util.Map;
+ 
+ 
+ /**
+@@ -236,7 +237,7 @@
+         interpolator.reinitialize(stepStart, stepSize, scaled, nordsieck);
+         interpolator.storeTime(stepStart);
+ 
+-        double hNew = stepSize;
++        double hNew = t;
+         interpolator.rescale(hNew);
+ 
+         boolean lastStep = false;

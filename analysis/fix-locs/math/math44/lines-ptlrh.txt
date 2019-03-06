@@ -1,0 +1,814 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::resetState$$org.apache.commons.math.ode.events.EventState#334:46:0.3162
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#334:267:0.3162
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#334:466:0.3162
+Default$$SimpleName::y$$org.apache.commons.math.ode.events.EventState#334:1040:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#334:1101:0.3162
+Insert After$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#329:4:0.2582
+Insert After$$Block::null$$org.apache.commons.math.ode.events.EventState#329:7:0.2582
+Insert After$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#329:17:0.2582
+Insert After$$SimpleName::convergence$$org.apache.commons.math.ode.events.EventState#329:17:0.2582
+Insert Before$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#329:123:0.2582
+Default$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#329:123:0.2582
+Insert Before$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#329:123:0.2582
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#329:235:0.2582
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#329:466:0.2582
+Default$$InfixExpression::-$$org.apache.commons.math.ode.events.EventState#329:1040:0.2582
+Insert After$$QualifiedName::EventHandler.Action.RESET_STATE$$org.apache.commons.math.ode.events.EventState#339:3:0.2582
+Default$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#339:55:0.2582
+Insert Before$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#339:123:0.2582
+Default$$QualifiedName::EventHandler.Action.RESET_STATE$$org.apache.commons.math.ode.events.EventState#339:235:0.2582
+Default$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#337:7:0.2582
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.events.EventState#337:624:0.2582
+Insert After$$QualifiedName::EventHandler.Action.RESET_STATE$$org.apache.commons.math.ode.events.EventState#333:3:0.2582
+Insert After$$Block::null$$org.apache.commons.math.ode.events.EventState#333:7:0.2582
+Default$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#333:55:0.2582
+Insert Before$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#333:123:0.2582
+Default$$QualifiedName::EventHandler.Action.RESET_STATE$$org.apache.commons.math.ode.events.EventState#333:235:0.2582
+Default$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#336:6:0.2582
+Default$$BooleanLiteral::false$$org.apache.commons.math.ode.events.EventState#336:624:0.2582
+Insert After$$SimpleName::increasing$$org.apache.commons.math.ode.events.EventState#305:4:0.2357
+Insert After$$SimpleName::forward$$org.apache.commons.math.ode.events.EventState#305:17:0.2357
+Default$$SimpleName::eventOccurred$$org.apache.commons.math.ode.events.EventState#305:46:0.2357
+Default$$SimpleName::increasing$$org.apache.commons.math.ode.events.EventState#305:123:0.2357
+Insert Before$$SimpleName::increasing$$org.apache.commons.math.ode.events.EventState#305:123:0.2357
+Default$$SimpleName::forward$$org.apache.commons.math.ode.events.EventState#305:235:0.2357
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#305:267:0.2357
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#305:466:0.2357
+Default$$SimpleName::isNaN$$org.apache.commons.math.ode.events.EventState#246:46:0.2357
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#246:51:0.2357
+Default$$SimpleName::Double$$org.apache.commons.math.ode.events.EventState#246:466:0.2357
+Default$$SimpleName::previousEventTime$$org.apache.commons.math.ode.events.EventState#246:1040:0.2357
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#254:18:0.2357
+Default$$SimpleName::isNaN$$org.apache.commons.math.ode.events.EventState#254:46:0.2357
+Default$$SimpleName::Double$$org.apache.commons.math.ode.events.EventState#254:466:0.2357
+Default$$SimpleName::previousEventTime$$org.apache.commons.math.ode.events.EventState#254:1040:0.2357
+Default$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#285:6:0.2357
+Default$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#256:25:0.2357
+Default$$Assignment::=$$org.apache.commons.math.ode.events.EventState#256:27:0.2357
+Default$$SimpleName::root$$org.apache.commons.math.ode.events.EventState#256:624:0.2357
+Default$$SimpleName::previousEventTime$$org.apache.commons.math.ode.events.EventState#303:25:0.2357
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#303:624:0.2357
+Default$$SimpleName::g0Positive$$org.apache.commons.math.ode.events.EventState#304:25:0.2357
+Default$$SimpleName::increasing$$org.apache.commons.math.ode.events.EventState#304:624:0.2357
+Insert Before$$SimpleName::bracketing$$org.apache.commons.math.ode.events.EventState#227:1:0.2357
+Default$$SimpleType::BracketedUnivariateRealSolver$$org.apache.commons.math.ode.events.EventState#227:66:0.2357
+Default$$SimpleType::UnivariateRealFunction$$org.apache.commons.math.ode.events.EventState#227:86:0.2357
+Insert After$$SimpleType::UnivariateRealFunction$$org.apache.commons.math.ode.events.EventState#227:86:0.2357
+Default$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#257:6:0.2357
+Default$$BooleanLiteral::true$$org.apache.commons.math.ode.events.EventState#257:624:0.2357
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.ode.events.EventState#258:3:0.2357
+Default$$SimpleName::g$$org.apache.commons.math.ode.events.EventState#203:46:0.2294
+Default$$SimpleName::getInterpolatedState$$org.apache.commons.math.ode.events.EventState#203:62:0.2294
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#203:68:0.2294
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#203:466:0.2294
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#203:466:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#203:590:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#203:1040:0.2294
+Default$$SimpleName::setInterpolatedTime$$org.apache.commons.math.ode.events.EventState#202:46:0.2294
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#202:466:0.2294
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#202:1040:0.2294
+Insert After$$QualifiedName::EventHandler.Action.STOP$$org.apache.commons.math.ode.events.EventState#317:3:0.2294
+Default$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#317:55:0.2294
+Insert Before$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#317:123:0.2294
+Default$$QualifiedName::EventHandler.Action.STOP$$org.apache.commons.math.ode.events.EventState#317:235:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.ode.events.EventState#317:1531:0.2294
+Insert After$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#221:4:0.2294
+Insert After$$SimpleName::ga$$org.apache.commons.math.ode.events.EventState#221:17:0.2294
+Default$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#221:123:0.2294
+Insert Before$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#221:123:0.2294
+Default$$SimpleName::ga$$org.apache.commons.math.ode.events.EventState#221:235:0.2294
+Insert After$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#307:4:0.2294
+Default$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#307:115:0.2294
+Insert Before$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#307:123:0.2294
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#307:235:0.2294
+Default$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#308:7:0.2294
+Default$$QualifiedName::EventHandler.Action.CONTINUE$$org.apache.commons.math.ode.events.EventState#308:624:0.2294
+Default$$SimpleName::solver$$org.apache.commons.math.ode.events.EventState#225:1:0.2294
+Insert After$$WildcardType::null$$org.apache.commons.math.ode.events.EventState#225:1:0.2294
+Default$$SimpleType::BracketedUnivariateRealSolver$$org.apache.commons.math.ode.events.EventState#225:3:0.2294
+Default$$WildcardType::null$$org.apache.commons.math.ode.events.EventState#225:86:0.2294
+Insert After$$Modifier::public$$org.apache.commons.math.ode.events.EventState#44:5:0.2294
+Insert Before$$Modifier::public$$org.apache.commons.math.ode.events.EventState#44:10:0.2294
+Default$$Modifier::public$$org.apache.commons.math.ode.events.EventState#44:16:0.2294
+Insert Before$$SimpleName::n$$org.apache.commons.math.ode.events.EventState#197:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#197:2:0.2236
+Default$$SimpleName::max$$org.apache.commons.math.ode.events.EventState#197:6:0.2236
+Default$$SimpleName::maxCheckInterval$$org.apache.commons.math.ode.events.EventState#197:17:0.2236
+Insert After$$SimpleName::maxCheckInterval$$org.apache.commons.math.ode.events.EventState#197:17:0.2236
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#197:18:0.2236
+Default$$SimpleName::abs$$org.apache.commons.math.ode.events.EventState#197:46:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#197:123:0.2236
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#197:466:0.2236
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#197:466:0.2236
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#197:466:0.2236
+Default$$SimpleName::dt$$org.apache.commons.math.ode.events.EventState#197:1040:0.2236
+Insert Before$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#214:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#214:2:0.2236
+Default$$SimpleName::g$$org.apache.commons.math.ode.events.EventState#214:46:0.2236
+Default$$SimpleName::getInterpolatedState$$org.apache.commons.math.ode.events.EventState#214:62:0.2236
+Default$$SimpleName::tb$$org.apache.commons.math.ode.events.EventState#214:68:0.2236
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#214:466:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#214:466:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#214:1040:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#214:1116:0.2236
+Default$$SimpleName::g$$org.apache.commons.math.ode.events.EventState#156:46:0.2236
+Default$$SimpleName::getInterpolatedState$$org.apache.commons.math.ode.events.EventState#156:62:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#156:68:0.2236
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#156:466:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#156:466:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#156:624:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#156:1040:0.2236
+Default$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#299:5:0.2236
+Default$$SimpleName::g$$org.apache.commons.math.ode.events.EventState#299:46:0.2236
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#299:267:0.2236
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#299:466:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#299:624:0.2236
+Default$$SimpleName::y$$org.apache.commons.math.ode.events.EventState#299:1040:0.2236
+Default$$SimpleName::convergence$$org.apache.commons.math.ode.events.EventState#105:1:0.2236
+Default$$ThisExpression::null$$org.apache.commons.math.ode.events.EventState#105:13:0.2236
+Default$$SimpleName::abs$$org.apache.commons.math.ode.events.EventState#105:46:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#105:187:0.2236
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#105:466:0.2236
+Default$$SimpleName::convergence$$org.apache.commons.math.ode.events.EventState#105:1040:0.2236
+Insert After$$Block::null$$org.apache.commons.math.ode.events.EventState#193:7:0.2236
+Default$$SimpleName::convergence$$org.apache.commons.math.ode.events.EventState#193:17:0.2236
+Insert After$$SimpleName::convergence$$org.apache.commons.math.ode.events.EventState#193:17:0.2236
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#193:18:0.2236
+Default$$SimpleName::abs$$org.apache.commons.math.ode.events.EventState#193:46:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#193:123:0.2236
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#193:466:0.2236
+Default$$SimpleName::dt$$org.apache.commons.math.ode.events.EventState#193:1040:0.2236
+Default$$SimpleName::setInterpolatedTime$$org.apache.commons.math.ode.events.EventState#155:46:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#155:466:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#155:1040:0.2236
+Default$$SimpleName::setInterpolatedTime$$org.apache.commons.math.ode.events.EventState#213:46:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#213:466:0.2236
+Default$$SimpleName::tb$$org.apache.commons.math.ode.events.EventState#213:1040:0.2236
+Insert After$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#301:4:0.2236
+Insert After$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#301:17:0.2236
+Insert After$$SimpleName::convergence$$org.apache.commons.math.ode.events.EventState#301:17:0.2236
+Insert Before$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#301:123:0.2236
+Default$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#301:123:0.2236
+Insert Before$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#301:123:0.2236
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#301:235:0.2236
+Default$$SimpleName::FastMath$$org.apache.commons.math.ode.events.EventState#301:466:0.2236
+Default$$InfixExpression::-$$org.apache.commons.math.ode.events.EventState#301:1040:0.2236
+Insert Before$$SimpleName::t1$$org.apache.commons.math.ode.events.EventState#191:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#191:2:0.2236
+Default$$SimpleName::getCurrentTime$$org.apache.commons.math.ode.events.EventState#191:62:0.2236
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.events.EventState#191:253:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#191:466:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#191:1116:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#154:12:0.2236
+Default$$SimpleName::getPreviousTime$$org.apache.commons.math.ode.events.EventState#154:62:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#154:466:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#154:624:0.2236
+Default$$SimpleName::forward$$org.apache.commons.math.ode.events.EventState#190:12:0.2236
+Default$$SimpleName::isForward$$org.apache.commons.math.ode.events.EventState#190:62:0.2236
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.events.EventState#190:466:0.2236
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.events.EventState#190:624:0.2236
+Insert Before$$SimpleName::tb$$org.apache.commons.math.ode.events.EventState#212:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#212:2:0.2236
+Insert After$$NumberLiteral::1$$org.apache.commons.math.ode.events.EventState#212:4:0.2236
+Insert After$$SimpleName::h$$org.apache.commons.math.ode.events.EventState#212:17:0.2236
+Default$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#212:115:0.2236
+Insert Before$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#212:123:0.2236
+Insert Before$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#212:123:0.2236
+Default$$InfixExpression::+$$org.apache.commons.math.ode.events.EventState#212:167:0.2236
+Default$$NumberLiteral::1$$org.apache.commons.math.ode.events.EventState#212:235:0.2236
+Insert Before$$SimpleName::ta$$org.apache.commons.math.ode.events.EventState#207:1:0.2236
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.events.EventState#207:253:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#207:1116:0.2236
+Insert Before$$SimpleName::ga$$org.apache.commons.math.ode.events.EventState#208:1:0.2236
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.events.EventState#208:253:0.2236
+Default$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#208:1116:0.2236
+Insert Before$$SimpleName::dt$$org.apache.commons.math.ode.events.EventState#192:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#192:2:0.2236
+Insert After$$SimpleName::t1$$org.apache.commons.math.ode.events.EventState#192:4:0.2236
+Insert After$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#192:17:0.2236
+Default$$SimpleName::t1$$org.apache.commons.math.ode.events.EventState#192:123:0.2236
+Insert Before$$SimpleName::t1$$org.apache.commons.math.ode.events.EventState#192:123:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#192:235:0.2236
+Default$$InfixExpression::-$$org.apache.commons.math.ode.events.EventState#192:1116:0.2236
+Insert Before$$SimpleName::h$$org.apache.commons.math.ode.events.EventState#198:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#198:2:0.2236
+Insert After$$SimpleName::dt$$org.apache.commons.math.ode.events.EventState#198:4:0.2236
+Insert After$$SimpleName::n$$org.apache.commons.math.ode.events.EventState#198:17:0.2236
+Default$$SimpleName::dt$$org.apache.commons.math.ode.events.EventState#198:123:0.2236
+Insert Before$$SimpleName::dt$$org.apache.commons.math.ode.events.EventState#198:123:0.2236
+Default$$SimpleName::n$$org.apache.commons.math.ode.events.EventState#198:235:0.2236
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.events.EventState#198:253:0.2236
+Default$$InfixExpression::/$$org.apache.commons.math.ode.events.EventState#198:1116:0.2236
+Insert Before$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#209:1:0.2236
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.events.EventState#209:2:0.2236
+Insert After$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#209:4:0.2236
+Default$$InfixExpression::<$$org.apache.commons.math.ode.events.EventState#209:8:0.2236
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.ode.events.EventState#209:12:0.2236
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.events.EventState#209:17:0.2236
+Insert After$$SimpleName::n$$org.apache.commons.math.ode.events.EventState#209:17:0.2236
+Default$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#209:51:0.2236
+Default$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#209:123:0.2236
+Insert Before$$SimpleName::i$$org.apache.commons.math.ode.events.EventState#209:123:0.2236
+Default$$SimpleName::n$$org.apache.commons.math.ode.events.EventState#209:235:0.2236
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#209:1116:0.2236
+Insert Before$$SimpleName::f$$org.apache.commons.math.ode.events.EventState#200:1:0.2236
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.events.EventState#200:2:0.2236
+Insert After$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#217:4:0.2236
+Default$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#217:115:0.2236
+Insert Before$$SimpleName::g0Positive$$org.apache.commons.math.ode.events.EventState#217:123:0.2236
+Insert Before$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#217:123:0.2236
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#217:235:0.2236
+Insert After$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#177:4:0.2236
+Default$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#177:115:0.2236
+Insert Before$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#177:123:0.2236
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#177:235:0.2236
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#103:1:0.2236
+Default$$ThisExpression::null$$org.apache.commons.math.ode.events.EventState#103:13:0.2236
+Default$$FieldAccess::null$$org.apache.commons.math.ode.events.EventState#103:25:0.2236
+Default$$Assignment::=$$org.apache.commons.math.ode.events.EventState#103:98:0.2236
+Default$$SimpleName::handler$$org.apache.commons.math.ode.events.EventState#103:187:0.2236
+Default$$SimpleName::ga$$org.apache.commons.math.ode.events.EventState#268:25:0.2236
+Default$$SimpleName::gb$$org.apache.commons.math.ode.events.EventState#268:624:0.2236
+Default$$SimpleName::ta$$org.apache.commons.math.ode.events.EventState#267:25:0.2236
+Default$$SimpleName::tb$$org.apache.commons.math.ode.events.EventState#267:624:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#298:25:0.2236
+Default$$SimpleName::t$$org.apache.commons.math.ode.events.EventState#298:624:0.2236
+Default$$SimpleName::solver$$org.apache.commons.math.ode.events.EventState#107:1:0.2236
+Default$$Assignment::=$$org.apache.commons.math.ode.events.EventState#107:2:0.2236
+Default$$ThisExpression::null$$org.apache.commons.math.ode.events.EventState#107:13:0.2236
+Default$$FieldAccess::null$$org.apache.commons.math.ode.events.EventState#107:25:0.2236
+Default$$SimpleName::solver$$org.apache.commons.math.ode.events.EventState#107:187:0.2236
+Default$$SimpleName::maxIterationCount$$org.apache.commons.math.ode.events.EventState#106:1:0.2236
+Default$$Assignment::=$$org.apache.commons.math.ode.events.EventState#106:2:0.2236
+Default$$ThisExpression::null$$org.apache.commons.math.ode.events.EventState#106:13:0.2236
+Default$$FieldAccess::null$$org.apache.commons.math.ode.events.EventState#106:25:0.2236
+Default$$SimpleName::maxIterationCount$$org.apache.commons.math.ode.events.EventState#106:187:0.2236
+Default$$SimpleName::maxCheckInterval$$org.apache.commons.math.ode.events.EventState#104:1:0.2236
+Default$$ThisExpression::null$$org.apache.commons.math.ode.events.EventState#104:13:0.2236
+Default$$FieldAccess::null$$org.apache.commons.math.ode.events.EventState#104:25:0.2236
+Default$$SimpleName::maxCheckInterval$$org.apache.commons.math.ode.events.EventState#104:187:0.2236
+Insert After$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#157:4:0.2236
+Default$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#157:115:0.2236
+Insert Before$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#157:123:0.2236
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.events.EventState#157:235:0.2236
+Default$$SimpleName::nextAction$$org.apache.commons.math.ode.events.EventState#117:7:0.2236
+Default$$QualifiedName::EventHandler.Action.CONTINUE$$org.apache.commons.math.ode.events.EventState#117:624:0.2236
+Default$$SimpleName::t0$$org.apache.commons.math.ode.events.EventState#110:7:0.2236
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.events.EventState#110:624:0.2236
+Default$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#114:7:0.2236
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.events.EventState#114:624:0.2236
+Default$$SimpleName::g0$$org.apache.commons.math.ode.events.EventState#111:7:0.2236
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.events.EventState#111:624:0.2236
+Default$$SimpleName::previousEventTime$$org.apache.commons.math.ode.events.EventState#115:7:0.2236
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.events.EventState#115:624:0.2236
+Default$$SimpleName::pendingEventTime$$org.apache.commons.math.ode.events.EventState#275:7:0.2236
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.events.EventState#275:624:0.2236
+Default$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#113:6:0.2236
+Default$$BooleanLiteral::false$$org.apache.commons.math.ode.events.EventState#113:624:0.2236
+Default$$SimpleName::g0Positive$$org.apache.commons.math.ode.events.EventState#112:6:0.2236
+Default$$BooleanLiteral::true$$org.apache.commons.math.ode.events.EventState#112:624:0.2236
+Default$$SimpleName::increasing$$org.apache.commons.math.ode.events.EventState#116:6:0.2236
+Default$$BooleanLiteral::true$$org.apache.commons.math.ode.events.EventState#116:624:0.2236
+Default$$SimpleName::pendingEvent$$org.apache.commons.math.ode.events.EventState#274:6:0.2236
+Default$$BooleanLiteral::false$$org.apache.commons.math.ode.events.EventState#274:624:0.2236
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.ode.events.EventState#102:1:0.2236
+Default$$SimpleType::UnivariateRealSolver$$org.apache.commons.math.ode.events.EventState#102:19:0.2236
+Insert After$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:4:0.5774
+Insert After$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:4:0.5774
+Insert After$$SimpleName::minStep$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:17:0.5774
+Insert After$$SimpleName::maxStep$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:17:0.5774
+Default$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:123:0.5774
+Insert Before$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:123:0.5774
+Default$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:123:0.5774
+Insert Before$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:123:0.5774
+Default$$SimpleName::minStep$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:235:0.5774
+Default$$SimpleName::maxStep$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#209:235:0.5774
+Default$$SimpleName::initialStep$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#212:25:0.5774
+Default$$SimpleName::initialStepSize$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#212:624:0.5774
+Default$$Assignment::=$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#212:1101:0.5774
+Default$$SimpleName::forward$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#252:6:0.5774
+Default$$SimpleName::initialStep$$org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator#252:51:0.5774
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#3375:4:0.3780
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#3375:115:0.3780
+Insert Before$$SimpleName::y$$org.apache.commons.math.util.FastMath#3375:123:0.3780
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#3375:235:0.3780
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#3373:8:0.3780
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#3379:590:0.3780
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#172:8:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#172:624:0.2887
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#173:8:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#173:624:0.2887
+Default$$SimpleName::computeDerivatives$$org.apache.commons.math.ode.AbstractIntegrator#341:13:0.2774
+Default$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#341:267:0.2774
+Default$$SimpleName::y$$org.apache.commons.math.ode.AbstractIntegrator#341:267:0.2774
+Default$$SimpleName::yDot$$org.apache.commons.math.ode.AbstractIntegrator#341:1040:0.2774
+Default$$SimpleName::arraycopy$$org.apache.commons.math.ode.AbstractIntegrator#340:46:0.2774
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.AbstractIntegrator#340:46:0.2774
+Default$$SimpleName::eventY$$org.apache.commons.math.ode.AbstractIntegrator#340:48:0.2774
+Default$$QualifiedName::y.length$$org.apache.commons.math.ode.AbstractIntegrator#340:52:0.2774
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.AbstractIntegrator#340:267:0.2774
+Default$$SimpleName::System$$org.apache.commons.math.ode.AbstractIntegrator#340:466:0.2774
+Default$$SimpleName::resetOccurred$$org.apache.commons.math.ode.AbstractIntegrator#342:6:0.2774
+Default$$BooleanLiteral::true$$org.apache.commons.math.ode.AbstractIntegrator#342:624:0.2774
+Default$$ReturnStatement::null$$org.apache.commons.math.ode.AbstractIntegrator#343:30:0.2774
+Default$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#343:590:0.2774
+Default$$SimpleName::reset$$org.apache.commons.math.ode.AbstractIntegrator#337:46:0.2582
+Default$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#337:267:0.2582
+Default$$SimpleName::currentEvent$$org.apache.commons.math.ode.AbstractIntegrator#337:466:0.2582
+Default$$SimpleName::eventY$$org.apache.commons.math.ode.AbstractIntegrator#337:1040:0.2582
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#287:18:0.2582
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#287:590:0.2582
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#287:1101:0.2582
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:1:0.2500
+Default$$SimpleName::guessX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:13:0.2500
+Default$$SimpleName::targetY$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:267:0.2500
+Default$$SimpleName::tmpX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:267:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:267:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:267:0.2500
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#252:1040:0.2500
+Insert After$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:3:0.2500
+Insert After$$SimpleName::xB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:4:0.2500
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:4:0.2500
+Insert After$$SimpleName::xA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:17:0.2500
+Insert After$$SimpleName::xTol$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:17:0.2500
+Default$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:46:0.2500
+Default$$SimpleName::xB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:123:0.2500
+Insert Before$$SimpleName::xB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:123:0.2500
+Default$$SimpleName::xA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:235:0.2500
+Default$$SimpleName::absYA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:267:0.2500
+Default$$SimpleName::FastMath$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:466:0.2500
+Default$$SimpleName::absYB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#213:1040:0.2500
+Insert After$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:4:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:5:0.2500
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:17:0.2500
+Default$$SimpleName::arraycopy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:46:0.2500
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:123:0.2500
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:123:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:235:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:267:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:267:0.2500
+Default$$SimpleName::tmpX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:267:0.2500
+Default$$SimpleName::System$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:466:0.2500
+Default$$InfixExpression::-$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#251:1040:0.2500
+Insert Before$$SimpleName::absYA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:1:0.2500
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:2:0.2500
+Default$$SimpleName::abs$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:46:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:253:0.2500
+Default$$SimpleName::FastMath$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:466:0.2500
+Default$$SimpleName::yA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:1040:0.2500
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#200:1116:0.2500
+Insert Before$$SimpleName::absYB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:1:0.2500
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:2:0.2500
+Default$$SimpleName::abs$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:46:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:253:0.2500
+Default$$SimpleName::FastMath$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:466:0.2500
+Default$$SimpleName::yB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:1040:0.2500
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#204:1116:0.2500
+Insert After$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:4:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:4:0.2500
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:17:0.2500
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:18:0.2500
+Default$$SimpleName::isNaN$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:46:0.2500
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:123:0.2500
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:123:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:235:0.2500
+Default$$SimpleName::Double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:466:0.2500
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#273:1040:0.2500
+Default$$SimpleName::isNaN$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#275:46:0.2500
+Default$$SimpleName::Double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#275:466:0.2500
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#275:1040:0.2500
+Insert Before$$SimpleName::nextY$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#283:1:0.2500
+Insert Before$$Modifier::final$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#283:2:0.2500
+Default$$SimpleName::computeObjectiveValue$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#283:13:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#283:253:0.2500
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#283:1040:0.2500
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#283:1116:0.2500
+Insert After$$Block::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#284:9:0.2500
+Default$$SimpleName::equals$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#284:46:0.2500
+Default$$SimpleName::nextY$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#284:48:0.2500
+Default$$SimpleName::Precision$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#284:466:0.2500
+Default$$SimpleName::computeObjectiveValue$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#154:1:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#154:7:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#154:7:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#154:38:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#154:38:0.2500
+Default$$ArrayAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#154:1040:0.2500
+Default$$SimpleName::computeObjectiveValue$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#161:1:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#161:7:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#161:7:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#161:38:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#161:38:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#155:7:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#155:38:0.2500
+Default$$SimpleName::Precision$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#155:466:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#162:7:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#162:38:0.2500
+Default$$SimpleName::Precision$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#162:466:0.2500
+Insert Before$$SimpleName::xTol$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#211:1:0.2500
+Insert Before$$Modifier::final$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#211:2:0.2500
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#211:9:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:1:0.2500
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:4:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:4:0.2500
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:4:0.2500
+Insert After$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:4:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:11:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:11:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:11:0.2500
+Insert After$$SimpleName::delta$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:17:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:38:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:38:0.2500
+Default$$InfixExpression::-$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:38:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:38:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:115:0.2500
+Insert Before$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:123:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:123:0.2500
+Insert Before$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:235:0.2500
+Default$$SimpleName::delta$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#368:235:0.2500
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:1:0.2500
+Insert Before$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:1:0.2500
+Default$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:2:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:4:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:17:0.2500
+Default$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:51:0.2500
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:115:0.2500
+Insert Before$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:123:0.2500
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:123:0.2500
+Default$$InfixExpression::-$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:235:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:235:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#365:1116:0.2500
+Default$$SimpleName::verifySequence$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:1:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:7:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:7:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:7:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:38:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:38:0.2500
+Default$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#151:38:0.2500
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:4:0.2500
+Default$$SimpleName::targetY$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:4:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:11:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:11:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:38:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:38:0.2500
+Insert Before$$SimpleName::x0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:123:0.2500
+Insert Before$$SimpleName::targetY$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#375:123:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#148:7:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#148:38:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#149:7:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#149:38:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#150:7:0.2500
+Default$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#150:38:0.2500
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#247:1:0.2500
+Default$$PrimitiveType::int$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#247:10:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#247:253:0.2500
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#247:1116:0.2500
+Insert Before$$SimpleName::xA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:1:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:1:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:4:0.2500
+Default$$InfixExpression::-$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:38:0.2500
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:115:0.2500
+Insert Before$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#198:235:0.2500
+Insert Before$$SimpleName::yA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:1:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:1:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:4:0.2500
+Default$$InfixExpression::-$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:38:0.2500
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:115:0.2500
+Insert Before$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#199:235:0.2500
+Insert Before$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:1:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:4:0.2500
+Insert After$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:4:0.2500
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:17:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:51:0.2500
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:115:0.2500
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:123:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:123:0.2500
+Insert Before$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:235:0.2500
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#374:235:0.2500
+Insert Before$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:1:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:4:0.2500
+Insert After$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:4:0.2500
+Insert After$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:17:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:51:0.2500
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:115:0.2500
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:123:0.2500
+Default$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:123:0.2500
+Insert Before$$SimpleName::j$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:235:0.2500
+Default$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#367:235:0.2500
+Insert Before$$SimpleName::delta$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:1:0.2500
+Insert Before$$Modifier::final$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:2:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:4:0.2500
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:17:0.2500
+Default$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:115:0.2500
+Default$$InfixExpression::+$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:123:0.2500
+Insert Before$$SimpleName::i$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#366:235:0.2500
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:1:0.2500
+Insert Before$$SimpleName::xB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:1:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:3:0.2500
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:11:0.2500
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:38:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:253:0.2500
+Default$$ArrayAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#202:1116:0.2500
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:1:0.2500
+Insert Before$$SimpleName::yB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:1:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:3:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:11:0.2500
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:38:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:253:0.2500
+Default$$ArrayAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#203:1116:0.2500
+Insert After$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:4:0.2500
+Insert After$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:4:0.2500
+Insert After$$SimpleName::xA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:17:0.2500
+Insert After$$SimpleName::xB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:17:0.2500
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:123:0.2500
+Insert Before$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:123:0.2500
+Default$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:123:0.2500
+Insert Before$$SimpleName::nextX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:123:0.2500
+Default$$SimpleName::xA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:235:0.2500
+Default$$SimpleName::xB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#254:235:0.2500
+Insert After$$Dimension::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:1:0.2500
+Insert Before$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:1:0.2500
+Insert After$$Dimension::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:1:0.2500
+Insert Before$$Modifier::final$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:2:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:4:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:35:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:35:0.2500
+Default$$InfixExpression::+$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:71:0.2500
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:115:0.2500
+Insert Before$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#146:235:0.2500
+Insert After$$Dimension::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:1:0.2500
+Insert Before$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:1:0.2500
+Insert After$$Dimension::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:1:0.2500
+Insert Before$$Modifier::final$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:2:0.2500
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:4:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:35:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:35:0.2500
+Default$$InfixExpression::+$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:71:0.2500
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:115:0.2500
+Insert Before$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:123:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#147:235:0.2500
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#246:1:0.2500
+Insert Before$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#246:1:0.2500
+Default$$PrimitiveType::int$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#246:9:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#246:253:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#246:1116:0.2500
+Insert Before$$SimpleName::agingA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#201:1:0.2500
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#201:2:0.2500
+Default$$PrimitiveType::int$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#201:9:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#201:253:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#201:1116:0.2500
+Insert Before$$SimpleName::agingB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#205:1:0.2500
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#205:2:0.2500
+Default$$PrimitiveType::int$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#205:9:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#205:253:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#205:1116:0.2500
+Insert Before$$SimpleName::x0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#373:1:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#373:9:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#373:253:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#373:1116:0.2500
+Insert After$$Dimension::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:1:0.2500
+Insert Before$$SimpleName::tmpX$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:1:0.2500
+Insert After$$Dimension::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:1:0.2500
+Insert Before$$Modifier::final$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:2:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:35:0.2500
+Default$$PrimitiveType::double$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:35:0.2500
+Default$$QualifiedName::x.length$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#195:71:0.2500
+Default$$SimpleName::targetY$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#241:8:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#241:624:0.2500
+Default$$Assignment::=$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#241:1101:0.2500
+Default$$SimpleName::allowed$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#385:1:0.2500
+Default$$ThisExpression::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#385:13:0.2500
+Default$$FieldAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#385:25:0.2500
+Default$$SimpleName::allowedSolution$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#385:187:0.2500
+Insert After$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#169:4:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#169:7:0.2500
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#169:7:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#169:38:0.2500
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#169:38:0.2500
+Insert After$$SimpleName::agingA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#233:4:0.2500
+Insert After$$SimpleName::MAXIMAL_AGING$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#233:17:0.2500
+Default$$SimpleName::agingA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#233:123:0.2500
+Insert Before$$SimpleName::agingA$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#233:123:0.2500
+Default$$SimpleName::MAXIMAL_AGING$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#233:235:0.2500
+Insert After$$SimpleName::agingB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#236:4:0.2500
+Insert After$$SimpleName::MAXIMAL_AGING$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#236:17:0.2500
+Default$$SimpleName::agingB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#236:123:0.2500
+Insert Before$$SimpleName::agingB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#236:123:0.2500
+Default$$SimpleName::MAXIMAL_AGING$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#236:235:0.2500
+Default$$SimpleName::solve$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Default$$SimpleName::maxEval$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Default$$SimpleName::f$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Insert After$$SimpleName::f$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Default$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Insert Before$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Insert After$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Insert Before$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:3:0.2500
+Default$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:7:0.2500
+Insert After$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#386:7:0.2500
+Default$$SimpleName::x0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#378:590:0.2500
+Default$$SimpleName::compare$$org.apache.commons.math.ode.AbstractIntegrator#296:29:0.2425
+Default$$SimpleName::getEventTime$$org.apache.commons.math.ode.AbstractIntegrator#296:62:0.2425
+Default$$SimpleName::getEventTime$$org.apache.commons.math.ode.AbstractIntegrator#296:62:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#296:68:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#296:87:0.2425
+Insert Before$$SimpleName::orderingSign$$org.apache.commons.math.ode.AbstractIntegrator#296:123:0.2425
+Default$$SimpleName::Double$$org.apache.commons.math.ode.AbstractIntegrator#296:466:0.2425
+Default$$SimpleName::es0$$org.apache.commons.math.ode.AbstractIntegrator#296:466:0.2425
+Default$$SimpleName::es1$$org.apache.commons.math.ode.AbstractIntegrator#296:466:0.2425
+Insert After$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:4:0.2425
+Default$$SimpleName::solve$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:13:0.2425
+Insert After$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:17:0.2425
+Insert Before$$NumberLiteral::0.5$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:115:0.2425
+Insert Before$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:123:0.2425
+Default$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:123:0.2425
+Insert Before$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:123:0.2425
+Default$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:235:0.2425
+Default$$SimpleName::maxEval$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:267:0.2425
+Default$$SimpleName::f$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:267:0.2425
+Default$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#195:267:0.2425
+Default$$SimpleName::verifySequence$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#268:46:0.2425
+Default$$SimpleName::lower$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#268:267:0.2425
+Default$$SimpleName::initial$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#268:267:0.2425
+Default$$SimpleName::UnivariateRealSolverUtils$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#268:466:0.2425
+Default$$SimpleName::upper$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#268:1040:0.2425
+Default$$SimpleName::stepAccepted$$org.apache.commons.math.ode.AbstractIntegrator#323:46:0.2425
+Default$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#323:267:0.2425
+Default$$SimpleName::currentEvent$$org.apache.commons.math.ode.AbstractIntegrator#323:466:0.2425
+Default$$SimpleName::eventY$$org.apache.commons.math.ode.AbstractIntegrator#323:1040:0.2425
+Default$$SimpleName::addEventHandler$$org.apache.commons.math.ode.AbstractIntegrator#128:13:0.2425
+Default$$SimpleName::handler$$org.apache.commons.math.ode.AbstractIntegrator#128:267:0.2425
+Default$$SimpleName::maxCheckInterval$$org.apache.commons.math.ode.AbstractIntegrator#128:267:0.2425
+Default$$SimpleName::convergence$$org.apache.commons.math.ode.AbstractIntegrator#128:267:0.2425
+Default$$SimpleName::add$$org.apache.commons.math.ode.AbstractIntegrator#304:46:0.2425
+Default$$SimpleName::occuringEvents$$org.apache.commons.math.ode.AbstractIntegrator#304:466:0.2425
+Default$$SimpleName::state$$org.apache.commons.math.ode.AbstractIntegrator#304:1040:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#304:1101:0.2425
+Default$$SimpleName::verifyInterval$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#355:13:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#355:118:0.2425
+Default$$SimpleName::initial$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#355:267:0.2425
+Default$$SimpleName::upper$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#355:1040:0.2425
+Default$$SimpleName::verifyInterval$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#354:13:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#354:50:0.2425
+Default$$SimpleName::lower$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#354:267:0.2425
+Default$$SimpleName::initial$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#354:1040:0.2425
+Default$$SimpleName::setSoftCurrentTime$$org.apache.commons.math.ode.AbstractIntegrator#318:46:0.2425
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.AbstractIntegrator#318:466:0.2425
+Default$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#318:1040:0.2425
+Default$$SimpleName::setSoftPreviousTime$$org.apache.commons.math.ode.AbstractIntegrator#317:46:0.2425
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.AbstractIntegrator#317:466:0.2425
+Default$$SimpleName::previousT$$org.apache.commons.math.ode.AbstractIntegrator#317:1040:0.2425
+Default$$SimpleName::setInterpolatedTime$$org.apache.commons.math.ode.AbstractIntegrator#321:46:0.2425
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.AbstractIntegrator#321:466:0.2425
+Default$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#321:1040:0.2425
+Insert Before$$SimpleName::iterator$$org.apache.commons.math.ode.AbstractIntegrator#311:1:0.2425
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.AbstractIntegrator#311:2:0.2425
+Default$$ParameterizedType::null$$org.apache.commons.math.ode.AbstractIntegrator#311:26:0.2425
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.AbstractIntegrator#311:37:0.2425
+Default$$SimpleName::iterator$$org.apache.commons.math.ode.AbstractIntegrator#311:62:0.2425
+Default$$SimpleType::Iterator$$org.apache.commons.math.ode.AbstractIntegrator#311:66:0.2425
+Default$$SimpleType::EventState$$org.apache.commons.math.ode.AbstractIntegrator#311:86:0.2425
+Insert After$$SimpleType::EventState$$org.apache.commons.math.ode.AbstractIntegrator#311:86:0.2425
+Default$$SimpleName::occuringEvents$$org.apache.commons.math.ode.AbstractIntegrator#311:466:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#311:1116:0.2425
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.ode.AbstractIntegrator#316:1:0.2425
+Insert Before$$SimpleName::eventT$$org.apache.commons.math.ode.AbstractIntegrator#316:1:0.2425
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.AbstractIntegrator#316:2:0.2425
+Default$$SimpleName::getEventTime$$org.apache.commons.math.ode.AbstractIntegrator#316:62:0.2425
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.AbstractIntegrator#316:253:0.2425
+Default$$SimpleName::currentEvent$$org.apache.commons.math.ode.AbstractIntegrator#316:466:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#316:1116:0.2425
+Insert Before$$SimpleName::currentEvent$$org.apache.commons.math.ode.AbstractIntegrator#312:1:0.2425
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.AbstractIntegrator#312:2:0.2425
+Default$$SimpleType::EventState$$org.apache.commons.math.ode.AbstractIntegrator#312:26:0.2425
+Default$$SimpleName::next$$org.apache.commons.math.ode.AbstractIntegrator#312:62:0.2425
+Default$$SimpleName::iterator$$org.apache.commons.math.ode.AbstractIntegrator#312:466:0.2425
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.AbstractIntegrator#312:527:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#312:1116:0.2425
+Insert After$$Dimension::null$$org.apache.commons.math.ode.AbstractIntegrator#322:1:0.2425
+Insert Before$$SimpleName::eventY$$org.apache.commons.math.ode.AbstractIntegrator#322:1:0.2425
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.AbstractIntegrator#322:2:0.2425
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.AbstractIntegrator#322:20:0.2425
+Default$$PrimitiveType::double$$org.apache.commons.math.ode.AbstractIntegrator#322:35:0.2425
+Default$$SimpleName::getInterpolatedState$$org.apache.commons.math.ode.AbstractIntegrator#322:62:0.2425
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.AbstractIntegrator#322:466:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#322:1116:0.2425
+Default$$SimpleName::isLastStep$$org.apache.commons.math.ode.AbstractIntegrator#324:12:0.2425
+Default$$SimpleName::stop$$org.apache.commons.math.ode.AbstractIntegrator#324:62:0.2425
+Default$$SimpleName::currentEvent$$org.apache.commons.math.ode.AbstractIntegrator#324:466:0.2425
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#324:624:0.2425
+Default$$SimpleName::remove$$org.apache.commons.math.ode.AbstractIntegrator#313:62:0.2425
+Default$$SimpleName::iterator$$org.apache.commons.math.ode.AbstractIntegrator#313:466:0.2425
+Default$$SimpleName::softPreviousTime$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#320:1:0.2425
+Default$$ThisExpression::null$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#320:13:0.2425
+Default$$FieldAccess::null$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#320:25:0.2425
+Default$$SimpleName::softPreviousTime$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#320:187:0.2425
+Default$$Assignment::=$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#320:1531:0.2425
+Default$$SimpleName::softCurrentTime$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#334:1:0.2425
+Default$$ThisExpression::null$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#334:13:0.2425
+Default$$FieldAccess::null$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#334:25:0.2425
+Default$$SimpleName::softCurrentTime$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#334:187:0.2425
+Default$$Assignment::=$$org.apache.commons.math.ode.sampling.AbstractStepInterpolator#334:1531:0.2425
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#122:35:0.2425
+Default$$SimpleName::searchStart$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#122:590:0.2425
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#122:1531:0.2425
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#86:1:0.2425
+Default$$ThisExpression::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#86:13:0.2425
+Default$$FieldAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#86:25:0.2425
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#86:187:0.2425
+Insert After$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#83:4:0.2425
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#83:115:0.2425
+Insert Before$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#83:123:0.2425
+Default$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#83:235:0.2425
+Default$$SimpleName::allowed$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#87:1:0.2425
+Default$$FieldAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#87:7:0.2425
+Default$$ThisExpression::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#87:13:0.2425
+Default$$Assignment::=$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#87:129:0.2425
+Default$$QualifiedName::AllowedSolution.ANY_SIDE$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#87:187:0.2425
+Default$$SimpleType::StepHandler$$org.apache.commons.math.ode.AbstractIntegrator#327:19:0.2425
+Default$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#82:8:0.2425
+Insert Before$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#82:12:0.2425
+Insert After$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#82:22:0.2425
+Default$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver#37:8:0.2357
+Insert Before$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver#37:12:0.2357
+Insert After$$SuperConstructorInvocation::null$$org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver#37:16:0.2357
+Insert After$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver#37:22:0.2357
+Default$$SuperConstructorInvocation::null$$org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver#37:1531:0.2357
+Insert After$$ConstructorInvocation::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#65:1:0.2357
+Default$$SimpleName::DEFAULT_RELATIVE_ACCURACY$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#65:4:0.2357
+Default$$SimpleName::setup$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#187:13:0.2294
+Default$$SimpleName::maxEval$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#187:267:0.2294
+Default$$SimpleName::f$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#187:267:0.2294
+Default$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#187:267:0.2294
+Default$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#187:267:0.2294
+Default$$SimpleName::startValue$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#187:1040:0.2294
+Default$$SimpleName::stepAccepted$$org.apache.commons.math.ode.AbstractIntegrator#362:46:0.2294
+Default$$SimpleName::currentT$$org.apache.commons.math.ode.AbstractIntegrator#362:267:0.2294
+Default$$SimpleName::state$$org.apache.commons.math.ode.AbstractIntegrator#362:466:0.2294
+Default$$SimpleName::currentY$$org.apache.commons.math.ode.AbstractIntegrator#362:1040:0.2294
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#154:1:0.2294
+Default$$SimpleName::value$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#154:46:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#154:88:0.2294
+Default$$SimpleName::function$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#154:466:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#154:590:0.2294
+Default$$SimpleName::point$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#154:1040:0.2294
+Insert After$$Block::null$$org.apache.commons.math.ode.AbstractIntegrator#302:9:0.2294
+Default$$SimpleName::evaluateStep$$org.apache.commons.math.ode.AbstractIntegrator#302:46:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#302:65:0.2294
+Default$$SimpleName::state$$org.apache.commons.math.ode.AbstractIntegrator#302:466:0.2294
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.AbstractIntegrator#302:1040:0.2294
+Default$$SimpleName::reinitializeBegin$$org.apache.commons.math.ode.AbstractIntegrator#285:46:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#285:96:0.2294
+Default$$SimpleName::state$$org.apache.commons.math.ode.AbstractIntegrator#285:466:0.2294
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.AbstractIntegrator#285:1040:0.2294
+Default$$SimpleName::checkNotNull$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#173:46:0.2294
+Default$$SimpleName::MathUtils$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#173:466:0.2294
+Default$$SimpleName::f$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#173:1040:0.2294
+Default$$SimpleName::setMaximalCount$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#180:46:0.2294
+Default$$SimpleName::evaluations$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#180:466:0.2294
+Default$$SimpleName::maxEval$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#180:1040:0.2294
+Default$$SimpleType::EventState$$org.apache.commons.math.ode.AbstractIntegrator#139:34:0.2294
+Default$$SimpleName::maxCheckInterval$$org.apache.commons.math.ode.AbstractIntegrator#139:64:0.2294
+Default$$SimpleName::convergence$$org.apache.commons.math.ode.AbstractIntegrator#139:64:0.2294
+Default$$SimpleName::handler$$org.apache.commons.math.ode.AbstractIntegrator#139:70:0.2294
+Default$$SimpleName::eventsStates$$org.apache.commons.math.ode.AbstractIntegrator#139:466:0.2294
+Default$$SimpleName::isLastStep$$org.apache.commons.math.ode.AbstractIntegrator#363:1:0.2294
+Insert After$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#363:14:0.2294
+Default$$SimpleName::isLastStep$$org.apache.commons.math.ode.AbstractIntegrator#363:61:0.2294
+Default$$SimpleName::stop$$org.apache.commons.math.ode.AbstractIntegrator#363:62:0.2294
+Insert Before$$SimpleName::isLastStep$$org.apache.commons.math.ode.AbstractIntegrator#363:123:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.AbstractIntegrator#363:235:0.2294
+Default$$SimpleName::state$$org.apache.commons.math.ode.AbstractIntegrator#363:466:0.2294
+Default$$SimpleName::resetCount$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#181:62:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#181:118:0.2294
+Default$$SimpleName::evaluations$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#181:466:0.2294
+Default$$SimpleName::incrementCount$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#294:62:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#294:210:0.2294
+Default$$SimpleName::evaluations$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#294:466:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#190:590:0.2294
+Insert After$$SimpleName::lower$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#336:4:0.2294
+Insert After$$SimpleName::upper$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#336:17:0.2294
+Default$$SimpleName::lower$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#336:123:0.2294
+Insert Before$$SimpleName::lower$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#336:123:0.2294
+Default$$SimpleName::upper$$org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#336:235:0.2294
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#110:35:0.2294
+Default$$SimpleName::searchMin$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#110:590:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#110:1531:0.2294
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#116:35:0.2294
+Default$$SimpleName::searchMax$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#116:590:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#116:1531:0.2294
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#128:35:0.2294
+Default$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#128:590:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#128:1531:0.2294
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#134:35:0.2294
+Default$$SimpleName::relativeAccuracy$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#134:590:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#134:1531:0.2294
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#140:35:0.2294
+Default$$SimpleName::functionValueAccuracy$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#140:590:0.2294
+Default$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#140:1531:0.2294

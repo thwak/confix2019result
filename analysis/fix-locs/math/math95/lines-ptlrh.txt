@@ -1,0 +1,45 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::bracket$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#128:13:0.5774
+Default$$SimpleName::upperBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#128:46:0.5774
+Default$$SimpleName::function$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#128:267:0.5774
+Default$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#128:267:0.5774
+Default$$SimpleName::lowerBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#128:267:0.5774
+Insert Before$$SimpleName::lowerBound$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:1:0.5774
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:12:0.5774
+Default$$SimpleName::getDomainLowerBound$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:13:0.5774
+Default$$PrimitiveType::double$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:68:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:253:0.5774
+Default$$SimpleName::p$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#80:1116:0.5774
+Insert Before$$SimpleName::upperBound$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:1:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:12:0.5774
+Default$$SimpleName::getDomainUpperBound$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:13:0.5774
+Default$$PrimitiveType::double$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:68:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:253:0.5774
+Default$$SimpleName::p$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#81:1116:0.5774
+Default$$SimpleName::bracket$$org.apache.commons.math.distribution.AbstractContinuousDistribution#84:46:0.5774
+Default$$SimpleName::UnivariateRealSolverUtils$$org.apache.commons.math.distribution.AbstractContinuousDistribution#84:466:0.5774
+Insert Before$$SimpleName::d$$org.apache.commons.math.distribution.FDistributionImpl#145:1:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.FDistributionImpl#145:253:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.distribution.FDistributionImpl#145:1116:0.5774
+Insert After$$Block::null$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:1:0.5774
+Insert After$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:4:0.5774
+Insert After$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:4:0.5774
+Insert After$$SimpleName::lowerBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:4:0.5774
+Insert After$$SimpleName::lowerBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:17:0.5774
+Insert After$$SimpleName::upperBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:17:0.5774
+Insert After$$SimpleName::upperBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:17:0.5774
+Default$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:123:0.5774
+Insert Before$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:123:0.5774
+Default$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:123:0.5774
+Insert Before$$SimpleName::initial$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:123:0.5774
+Default$$SimpleName::lowerBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:123:0.5774
+Insert Before$$SimpleName::lowerBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:123:0.5774
+Default$$SimpleName::lowerBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:235:0.5774
+Default$$SimpleName::upperBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:235:0.5774
+Default$$SimpleName::upperBound$$org.apache.commons.math.analysis.UnivariateRealSolverUtils#178:235:0.5774
+Insert After$$NumberLiteral::2.0$$org.apache.commons.math.distribution.FDistributionImpl#147:4:0.5774
+Default$$SimpleName::d$$org.apache.commons.math.distribution.FDistributionImpl#147:115:0.5774
+Insert Before$$SimpleName::d$$org.apache.commons.math.distribution.FDistributionImpl#147:123:0.5774
+Insert Before$$SimpleName::d$$org.apache.commons.math.distribution.FDistributionImpl#147:123:0.5774

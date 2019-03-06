@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.CollapseProperties
+update
+parent
+to
+newVar
+at line 827
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+3314
+P:MethodInvocation{expression},L:,R:{42}

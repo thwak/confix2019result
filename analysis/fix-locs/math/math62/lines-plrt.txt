@@ -1,0 +1,18 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::optima$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:11:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:19:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:31:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:31:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:38:0.7071
+Default$$SimpleName::optimize$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:44:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:44:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:44:0.7071
+Default$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:45:0.7071
+Insert After$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:45:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:45:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:140:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:140:0.7071
+Default$$SimpleName::f$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:205:0.7071
+Default$$SimpleName::bound1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:205:0.7071
+Default$$SimpleName::bound1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:205:0.7071
+Default$$SimpleName::bound2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:312:0.7071

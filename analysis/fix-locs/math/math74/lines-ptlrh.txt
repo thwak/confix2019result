@@ -1,0 +1,232 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::rescale$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#311:46:0.7071
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#311:466:0.7071
+Default$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#311:1040:0.7071
+Insert Before$$SimpleName::factor$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:2:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:3:0.7071
+Default$$SimpleName::computeStepGrowShrinkFactor$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:13:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:253:0.7071
+Default$$SimpleName::error$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#309:1116:0.7071
+Default$$SimpleName::filterStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:1:0.7071
+Insert After$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:4:0.7071
+Insert After$$SimpleName::factor$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:17:0.7071
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:123:0.7071
+Insert Before$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:123:0.7071
+Default$$SimpleName::factor$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:235:0.7071
+Default$$BooleanLiteral::false$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#310:1040:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:1:0.5774
+Insert After$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:7:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:17:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:18:0.5774
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:18:0.5774
+Default$$SimpleName::abs$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:46:0.5774
+Default$$SimpleName::ulp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:46:0.5774
+Default$$SimpleName::Math$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:466:0.5774
+Default$$SimpleName::Math$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:466:0.5774
+Default$$SimpleName::dt$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:1040:0.5774
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#291:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#297:27:0.5774
+Default$$SimpleName::rescale$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#297:46:0.5774
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#297:466:0.5774
+Default$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#297:1040:0.5774
+Insert Before$$SimpleName::dt$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:2:0.5774
+Insert After$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:2:0.5774
+Insert After$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:17:0.5774
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:60:0.5774
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:61:0.5774
+Default$$SimpleName::getEventTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:62:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:123:0.5774
+Default$$SimpleName::manager$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#290:466:0.5774
+Insert Before$$SimpleName::stopTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#356:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#356:2:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#356:253:0.5774
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#356:1116:0.5774
+Default$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#296:25:0.5774
+Default$$Assignment::=$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#296:37:0.5774
+Default$$SimpleName::dt$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#296:624:0.5774
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#357:7:0.5774
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#357:624:0.5774
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#358:7:0.5774
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#358:624:0.5774
+Default$$ReturnStatement::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#359:9:0.5774
+Default$$SimpleName::stopTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#359:590:0.5774
+Insert Before$$SimpleName::yScale$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:2:0.5000
+Default$$SimpleName::abs$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:3:0.5000
+Default$$SimpleName::abs$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:3:0.5000
+Default$$SimpleName::previous$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:11:0.5000
+Default$$SimpleName::after$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:11:0.5000
+Default$$SimpleName::i$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:38:0.5000
+Default$$SimpleName::i$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:38:0.5000
+Default$$SimpleName::Math$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:466:0.5000
+Default$$SimpleName::Math$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:466:0.5000
+Default$$SimpleName::Math$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:466:0.5000
+Default$$ArrayAccess::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:1040:0.5000
+Default$$ArrayAccess::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#427:1040:0.5000
+Default$$SimpleName::reinitialize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#236:46:0.5000
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#236:267:0.5000
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#236:267:0.5000
+Default$$SimpleName::scaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#236:267:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#236:466:0.5000
+Default$$SimpleName::nordsieck$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#236:1040:0.5000
+Default$$SimpleName::reinitialize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#285:46:0.5000
+Default$$SimpleName::stepEnd$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#285:267:0.5000
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#285:267:0.5000
+Default$$SimpleName::correctedScaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#285:267:0.5000
+Default$$SimpleName::interpolatorTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#285:466:0.5000
+Default$$SimpleName::nordsieckTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#285:1040:0.5000
+Default$$SimpleName::reinitialize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#303:46:0.5000
+Default$$SimpleName::stepEnd$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#303:267:0.5000
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#303:267:0.5000
+Default$$SimpleName::scaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#303:267:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#303:466:0.5000
+Default$$SimpleName::nordsieck$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#303:1040:0.5000
+Default$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#350:5:0.5000
+Default$$SimpleName::filterStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#350:13:0.5000
+Default$$SimpleName::scaledH$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#350:267:0.5000
+Default$$SimpleName::forward$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#350:267:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#350:624:0.5000
+Default$$SimpleName::nextIsLast$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#350:1040:0.5000
+Default$$SimpleName::computeDerivatives$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#275:13:0.5000
+Default$$SimpleName::stepEnd$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#275:267:0.5000
+Default$$SimpleName::yTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#275:267:0.5000
+Default$$SimpleName::yDot$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#275:1040:0.5000
+Default$$SimpleName::computeDerivatives$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#259:13:0.5000
+Default$$SimpleName::stepEnd$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#259:267:0.5000
+Default$$SimpleName::yTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#259:267:0.5000
+Default$$SimpleName::yDot$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#259:1040:0.5000
+Default$$SimpleName::updateHighOrderDerivativesPhase2$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#267:13:0.5000
+Default$$SimpleName::scaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#267:267:0.5000
+Default$$SimpleName::predictedScaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#267:267:0.5000
+Default$$SimpleName::nordsieckTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#267:1040:0.5000
+Default$$SimpleName::updateHighOrderDerivativesPhase2$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#282:13:0.5000
+Default$$SimpleName::predictedScaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#282:267:0.5000
+Default$$SimpleName::correctedScaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#282:267:0.5000
+Default$$SimpleName::nordsieckTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#282:1040:0.5000
+Insert Before$$PrefixExpression::!$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#330:9:0.5000
+Default$$SimpleName::reset$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#330:46:0.5000
+Default$$SimpleName::lastStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#330:51:0.5000
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#330:267:0.5000
+Default$$SimpleName::manager$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#330:466:0.5000
+Default$$SimpleName::y$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#330:1040:0.5000
+Default$$SimpleName::handleStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#326:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#326:267:0.5000
+Default$$SimpleName::handler$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#326:466:0.5000
+Default$$SimpleName::lastStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#326:1040:0.5000
+Default$$SimpleName::stepAccepted$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#320:46:0.5000
+Default$$SimpleName::nextStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#320:267:0.5000
+Default$$SimpleName::manager$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#320:466:0.5000
+Default$$SimpleName::y$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#320:1040:0.5000
+Default$$SimpleName::evaluateStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#289:46:0.5000
+Default$$SimpleName::manager$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#289:466:0.5000
+Default$$SimpleName::interpolatorTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#289:1040:0.5000
+Default$$SimpleName::rescale$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#351:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#351:466:0.5000
+Default$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#351:1040:0.5000
+Default$$SimpleName::arraycopy$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:29:0.5000
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:46:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:48:0.5000
+Default$$QualifiedName::y0.length$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:52:0.5000
+Default$$SimpleName::getInterpolatedState$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:62:0.5000
+Default$$SimpleName::System$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:466:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#256:466:0.5000
+Default$$SimpleName::setInterpolatedTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#325:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#325:466:0.5000
+Default$$SimpleName::nextStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#325:1040:0.5000
+Default$$SimpleName::rescale$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#240:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#240:466:0.5000
+Default$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#240:1040:0.5000
+Default$$SimpleName::storeTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#286:46:0.5000
+Default$$SimpleName::interpolatorTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#286:466:0.5000
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#286:1040:0.5000
+Default$$SimpleName::storeTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#288:46:0.5000
+Default$$SimpleName::interpolatorTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#288:466:0.5000
+Default$$SimpleName::stepEnd$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#288:1040:0.5000
+Default$$SimpleName::storeTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#237:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#237:466:0.5000
+Default$$SimpleName::stepStart$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#237:1040:0.5000
+Default$$SimpleName::setInterpolatedTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#255:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#255:466:0.5000
+Default$$SimpleName::stepEnd$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#255:1040:0.5000
+Default$$SimpleName::storeTime$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#319:46:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#319:466:0.5000
+Default$$SimpleName::nextStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#319:1040:0.5000
+Default$$SimpleName::arraycopy$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#318:46:0.5000
+Default$$SimpleName::yTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#318:48:0.5000
+Default$$SimpleName::n$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#318:52:0.5000
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#318:267:0.5000
+Default$$NumberLiteral::0$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#318:267:0.5000
+Default$$SimpleName::System$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#318:466:0.5000
+Default$$SimpleName::fill$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#400:46:0.5000
+Default$$SimpleName::after$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#400:48:0.5000
+Default$$SimpleName::Arrays$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#400:466:0.5000
+Default$$NumberLiteral::0.0$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#400:1040:0.5000
+Insert Before$$SimpleName::factor$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#346:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#346:2:0.5000
+Default$$SimpleName::computeStepGrowShrinkFactor$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#346:13:0.5000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#346:253:0.5000
+Default$$SimpleName::error$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#346:1040:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#346:1116:0.5000
+Insert Before$$SimpleName::nordsieckTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:2:0.5000
+Default$$SimpleName::updateHighOrderDerivativesPhase1$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:13:0.5000
+Default$$SimpleType::Array2DRowRealMatrix$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:26:0.5000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:527:0.5000
+Default$$SimpleName::nordsieck$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:1040:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#266:1116:0.5000
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#343:1:0.5000
+Default$$SimpleName::filterStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#343:13:0.5000
+Default$$SimpleName::forward$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#343:29:0.5000
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#343:267:0.5000
+Default$$BooleanLiteral::true$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#343:1040:0.5000
+Default$$SimpleType::Corrector$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#270:34:0.5000
+Default$$SimpleName::predictedScaled$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#270:64:0.5000
+Default$$SimpleName::y$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#270:70:0.5000
+Default$$SimpleName::yTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#270:118:0.5000
+Default$$SimpleName::nordsieckTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#270:466:0.5000
+Default$$ClassInstanceCreation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#270:1040:0.5000
+Insert After$$QualifiedName::after.length$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#435:3:0.5000
+Default$$SimpleName::error$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#435:55:0.5000
+Insert Before$$SimpleName::error$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#435:123:0.5000
+Default$$QualifiedName::after.length$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#435:235:0.5000
+Default$$SimpleName::Math$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#435:466:0.5000
+Default$$SimpleName::lastStep$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#321:12:0.5000
+Default$$SimpleName::stop$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#321:62:0.5000
+Default$$SimpleName::manager$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#321:466:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#321:624:0.5000
+Default$$SimpleName::before$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#394:1:0.5000
+Default$$FieldAccess::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#394:12:0.5000
+Default$$ThisExpression::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#394:13:0.5000
+Default$$SimpleName::clone$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#394:62:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#394:187:0.5000
+Default$$SimpleName::state$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#394:466:0.5000
+Default$$SimpleName::shift$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#287:62:0.5000
+Default$$SimpleName::interpolatorTmp$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#287:466:0.5000
+Default$$SimpleName::shift$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#246:62:0.5000
+Default$$SimpleName::interpolator$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#246:466:0.5000
+Insert Before$$SimpleName::nextIsLast$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:2:0.5000
+Insert After$$SimpleName::nextT$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:4:0.5000
+Insert After$$SimpleName::nextT$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:4:0.5000
+Insert After$$SimpleName::t$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:17:0.5000
+Insert After$$SimpleName::t$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:17:0.5000
+Default$$SimpleName::nextT$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:123:0.5000
+Insert Before$$SimpleName::nextT$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:123:0.5000
+Default$$SimpleName::nextT$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:123:0.5000
+Insert Before$$SimpleName::nextT$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:123:0.5000
+Default$$SimpleName::t$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:235:0.5000
+Default$$SimpleName::t$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#349:235:0.5000
+Insert Before$$SimpleName::ratio$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:2:0.5000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:4:0.5000
+Default$$SimpleName::after$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:11:0.5000
+Default$$SimpleName::before$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:11:0.5000
+Insert After$$SimpleName::tol$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:17:0.5000
+Default$$SimpleName::i$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:38:0.5000
+Default$$SimpleName::i$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#431:38:0.5000
+Insert Before$$SimpleName::hNew$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#239:1:0.5000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#239:253:0.5000
+Default$$SimpleName::stepSize$$org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator#239:1116:0.5000

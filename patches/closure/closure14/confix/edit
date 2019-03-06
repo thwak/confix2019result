@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.ControlFlowAnalysis
+update
+Branch.UNCOND
+to
+Branch.ON_EX
+at line 767
+Applied Change
+update
+var0
+to
+var0
+from
+lucene-ad131bd:solr/core/src/java/org/apache/solr/handler/StreamHandler.java:::::::::
+344
+P:MethodInvocation{arguments},L:{42},R:{42}

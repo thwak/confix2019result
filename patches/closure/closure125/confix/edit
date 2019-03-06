@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.TypeCheck
+update
+getInstanceType
+to
+toMaybeEnumElementType
+at line 1663
+Applied Change
+update
+method0
+to
+method0
+from
+collections-46f3c54:src/java/org/apache/commons/collections/map/AbstractHashedMap.java::
+1679
+P:MethodInvocation{name},L:{42},R:

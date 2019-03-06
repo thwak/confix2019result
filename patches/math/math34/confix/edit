@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.genetics.ListPopulation
+replace
+chromosomes
+with
+Collections.unmodifiableList(chromosomes)
+at line 209
+Applied Change
+replace
+var0
+with
+var0.method0(var1)
+from
+lucene-39d6be4:solr/core/src/java/org/apache/solr/cloud/DeleteShardCmd.java::
+5
+P:MethodInvocation{expression},L:,R:{42}

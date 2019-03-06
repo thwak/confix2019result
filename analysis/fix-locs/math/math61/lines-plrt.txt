@@ -1,0 +1,25 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::format$$org.apache.commons.math.MathRuntimeException#136:2:1.0000
+Default$$SimpleType::MessageFormat$$org.apache.commons.math.MathRuntimeException#136:23:1.0000
+Default$$SimpleName::getLocalizedString$$org.apache.commons.math.MathRuntimeException#136:44:1.0000
+Default$$SimpleName::locale$$org.apache.commons.math.MathRuntimeException#136:64:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math.MathRuntimeException#136:70:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.MathRuntimeException#136:227:1.0000
+Default$$SimpleName::pattern$$org.apache.commons.math.MathRuntimeException#136:461:1.0000
+Default$$SimpleName::locale$$org.apache.commons.math.MathRuntimeException#136:821:1.0000
+Default$$SimpleName::arguments$$org.apache.commons.math.MathRuntimeException#136:821:1.0000
+Default$$SimpleName::buildMessage$$org.apache.commons.math.MathRuntimeException#401:5:1.0000
+Default$$SimpleName::pattern$$org.apache.commons.math.MathRuntimeException#401:31:1.0000
+Default$$SimpleName::getDefault$$org.apache.commons.math.MathRuntimeException#401:58:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math.MathRuntimeException#401:205:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.MathRuntimeException#401:227:1.0000
+Default$$SimpleName::arguments$$org.apache.commons.math.MathRuntimeException#401:312:1.0000
+Default$$SimpleName::Locale$$org.apache.commons.math.MathRuntimeException#401:461:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math.MathRuntimeException#401:1531:1.0000
+Default$$SimpleName::buildMessage$$org.apache.commons.math.MathRuntimeException#395:1:1.0000
+Default$$SimpleName::pattern$$org.apache.commons.math.MathRuntimeException#395:20:1.0000
+Default$$QualifiedName::Locale.US$$org.apache.commons.math.MathRuntimeException#395:205:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.MathRuntimeException#395:227:1.0000
+Default$$SimpleName::arguments$$org.apache.commons.math.MathRuntimeException#395:312:1.0000
+Default$$SimpleName::createIllegalArgumentException$$org.apache.commons.math.distribution.PoissonDistributionImpl#94:9:1.0000
+Insert Before$$ThrowStatement::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#94:24:1.0000

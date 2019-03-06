@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang.text.ExtendedMessageFormat
+replace
+appendTo
+with
+next(pos)
+at line 422
+Applied Change
+replace
+var0
+with
+method0(var0)
+from
+lucene-e1a1dbf:lucene/sandbox/src/java/org/apache/lucene/document/InetAddressPoint.java:::
+5
+P:InfixExpression{leftOperand},L:,R:{33}

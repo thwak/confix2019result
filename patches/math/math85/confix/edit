@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils
+update
+fb
+to
+b
+at line 198
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+196
+P:InfixExpression{rightOperand},L:{42},R:

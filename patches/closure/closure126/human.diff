@@ -1,0 +1,13 @@
+--- ../result-tf-hash/closure/closure126/buggy/com/google/javascript/jscomp/MinimizeExitPoints.java	2019-02-21 22:35:19.322084130 +0000
++++ ../result-tf-hash/closure/closure126/human/com/google/javascript/jscomp/MinimizeExitPoints.java	2019-02-21 22:35:19.330084075 +0000
+@@ -138,10 +138,6 @@
+        * can cause problems if it changes the completion type of the finally
+        * block. See ECMA 262 Sections 8.9 & 12.14
+        */
+-      if (NodeUtil.hasFinally(n)) {
+-        Node finallyBlock = n.getLastChild();
+-        tryMinimizeExits(finallyBlock, exitType, labelName);
+-      }
+     }
+ 
+     // Just a 'label'.

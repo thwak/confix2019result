@@ -1,0 +1,4 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::addChildAfter$$com.google.javascript.jscomp.CollapseProperties#827:46:0.3780
+Default$$SimpleName::newVar$$com.google.javascript.jscomp.CollapseProperties#827:267:0.3780
+Default$$SimpleName::parent$$com.google.javascript.jscomp.CollapseProperties#827:466:0.3780

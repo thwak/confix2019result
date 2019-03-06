@@ -1,0 +1,11 @@
+--- ../result-tf-hash/chart/chart11/buggy/org/jfree/chart/util/ShapeUtilities.java	2019-02-21 11:23:58.129767849 +0000
++++ ../result-tf-hash/chart/chart11/human/org/jfree/chart/util/ShapeUtilities.java	2019-02-21 11:23:58.137767883 +0000
+@@ -272,7 +272,7 @@
+             return false;
+         }
+         PathIterator iterator1 = p1.getPathIterator(null);
+-        PathIterator iterator2 = p1.getPathIterator(null);
++        PathIterator iterator2 = p2.getPathIterator(null);
+         double[] d1 = new double[6];
+         double[] d2 = new double[6];
+         boolean done = iterator1.isDone() && iterator2.isDone();

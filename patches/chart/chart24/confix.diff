@@ -1,0 +1,19 @@
+--- ../result-tf-hash/chart/chart24/buggy/org/jfree/chart/renderer/GrayPaintScale.java	2019-02-21 11:23:58.329768680 +0000
++++ ../result-tf-hash/chart/chart24/confix/org/jfree/chart/renderer/GrayPaintScale.java	2019-02-21 11:23:58.309768597 +0000
+@@ -50,6 +50,7 @@
+ import java.io.Serializable;
+ 
+ import org.jfree.chart.util.PublicCloneable;
++import java.util.Map;
+ 
+ /**
+  * A paint scale that returns shades of gray.
+@@ -123,7 +124,7 @@
+     public Paint getPaint(double value) {
+         double v = Math.max(value, this.lowerBound);
+         v = Math.min(v, this.upperBound);
+-        int g = (int) ((value - this.lowerBound) / (this.upperBound 
++        int g = (int) ((v - this.lowerBound) / (this.upperBound 
+                 - this.lowerBound) * 255.0);
+         return new Color(g, g, g);
+     }

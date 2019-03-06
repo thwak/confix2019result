@@ -1,0 +1,15 @@
+Class:org.joda.time.DateTimeZone
+replace
+millisOffset
+with
+parseOffset(id)
+at line 284
+Applied Change
+replace
+var0
+with
+method0(var0)
+from
+lucene-e1a1dbf:lucene/sandbox/src/java/org/apache/lucene/document/InetAddressPoint.java:::
+46
+P:MethodInvocation{arguments},L:{42},R:

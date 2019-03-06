@@ -1,0 +1,22 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::a2$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:1:0.5774
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:1:0.5774
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:1:0.5774
+Insert After$$NumberLiteral::8$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:4:0.5774
+Insert After$$NumberLiteral::4$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:4:0.5774
+Insert After$$SimpleName::b2$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:17:0.5774
+Insert After$$SimpleName::b1$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:17:0.5774
+Default$$SimpleName::np$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:115:0.5774
+Insert Before$$NumberLiteral::1$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:115:0.5774
+Default$$SimpleName::np$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:115:0.5774
+Insert Before$$SimpleName::np$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:123:0.5774
+Insert Before$$SimpleName::np$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:123:0.5774
+Default$$NumberLiteral::4$$org.apache.commons.math.linear.EigenDecompositionImpl#1540:235:0.5774
+Insert Before$$SimpleName::gam$$org.apache.commons.math.linear.EigenDecompositionImpl#1536:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.linear.EigenDecompositionImpl#1536:2:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.linear.EigenDecompositionImpl#1536:253:0.5774
+Default$$SimpleName::dN2$$org.apache.commons.math.linear.EigenDecompositionImpl#1536:1116:0.5774
+Insert Before$$SimpleName::b1$$org.apache.commons.math.linear.EigenDecompositionImpl#1534:1:0.5774
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1534:1:0.5774
+Insert After$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1534:4:0.5774
+Default$$SimpleName::np$$org.apache.commons.math.linear.EigenDecompositionImpl#1534:115:0.5774

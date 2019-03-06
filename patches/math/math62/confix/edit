@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer
+update
+bound2
+to
+min
+at line 162
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java:
+367
+P:MethodInvocation{arguments},L:SimpleName{arguments},R:

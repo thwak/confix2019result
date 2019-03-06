@@ -1,0 +1,15 @@
+Class:org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator
+replace
+toolTipText
+with
+ImageMapUtilities.htmlEscape(toolTipText)
+at line 65
+Applied Change
+replace
+var0
+with
+Type0.method0(var0)
+from
+lucene-4f26f19:lucene/src/java/org/apache/lucene/index/ParallelReader.java::
+3
+P:InfixExpression{rightOperand},L:{45},R:{45}

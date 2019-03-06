@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.parsing.JsDocInfoParser
+update
+parseTypeName
+to
+parseTypeExpression
+at line 1908
+Applied Change
+update
+method0
+to
+method0
+from
+collections-46f3c54:src/java/org/apache/commons/collections/map/AbstractHashedMap.java::
+798
+P:MethodInvocation{name},L:,R:{42}

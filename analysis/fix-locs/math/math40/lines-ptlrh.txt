@@ -1,0 +1,101 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::allowed$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#393:1:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#393:13:0.7071
+Default$$FieldAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#393:25:0.7071
+Default$$SimpleName::allowedSolution$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#393:187:0.7071
+Default$$SimpleName::solve$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394:3:0.7071
+Default$$SimpleName::maxEval$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394:3:0.7071
+Default$$SimpleName::f$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394:3:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394:3:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394:3:0.7071
+Default$$SimpleName::startValue$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#394:7:0.7071
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#128:1:0.5000
+Default$$ThisExpression::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#128:13:0.5000
+Default$$FieldAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#128:25:0.5000
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#128:187:0.5000
+Default$$SimpleName::allowed$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#129:1:0.5000
+Default$$FieldAccess::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#129:7:0.5000
+Default$$ThisExpression::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#129:13:0.5000
+Default$$Assignment::=$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#129:129:0.5000
+Default$$QualifiedName::AllowedSolution.ANY_SIDE$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#129:187:0.5000
+Insert After$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#125:4:0.4472
+Default$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#125:115:0.4472
+Insert Before$$SimpleName::maximalOrder$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#125:123:0.4472
+Default$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#125:235:0.4472
+Default$$SimpleName::absoluteAccuracy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#124:7:0.4472
+Default$$SimpleName::relativeAccuracy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#124:12:0.4472
+Default$$SimpleName::functionValueAccuracy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#124:22:0.4472
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#265:51:0.2673
+Default$$SimpleName::yB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#235:1:0.2425
+Insert After$$SimpleName::yB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#235:17:0.2425
+Default$$SimpleName::REDUCTION_FACTOR$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#235:51:0.2425
+Default$$SimpleName::arraycopy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:46:0.2357
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:48:0.2357
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:52:0.2357
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:267:0.2357
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:267:0.2357
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:267:0.2357
+Default$$SimpleName::System$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#295:466:0.2357
+Default$$SimpleName::arraycopy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:46:0.2357
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:48:0.2357
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:52:0.2357
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:267:0.2357
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:267:0.2357
+Default$$NumberLiteral::0$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:267:0.2357
+Default$$SimpleName::System$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#296:466:0.2357
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#294:1:0.2357
+Insert After$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#294:4:0.2357
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#294:17:0.2357
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#294:123:0.2357
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#294:123:0.2357
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#294:235:0.2357
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#297:25:0.2357
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#297:624:0.2357
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:4:0.2294
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:4:0.2294
+Insert After$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:4:0.2294
+Insert After$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:17:0.2294
+Default$$SimpleName::arraycopy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:46:0.2294
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:115:0.2294
+Insert Before$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:123:0.2294
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:123:0.2294
+Insert Before$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:123:0.2294
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:235:0.2294
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:235:0.2294
+Default$$SimpleName::x$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:267:0.2294
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:267:0.2294
+Default$$SimpleName::System$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#316:466:0.2294
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:4:0.2294
+Insert After$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:4:0.2294
+Insert After$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:4:0.2294
+Insert After$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:17:0.2294
+Default$$SimpleName::arraycopy$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:46:0.2294
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:115:0.2294
+Insert Before$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:123:0.2294
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:123:0.2294
+Insert Before$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:123:0.2294
+Default$$NumberLiteral::1$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:235:0.2294
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:235:0.2294
+Default$$SimpleName::y$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:267:0.2294
+Default$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:267:0.2294
+Default$$SimpleName::System$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#318:466:0.2294
+Default$$SimpleName::absYB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#327:8:0.2294
+Default$$SimpleName::abs$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#327:46:0.2294
+Default$$SimpleName::FastMath$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#327:466:0.2294
+Default$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#327:624:0.2294
+Default$$SimpleName::yB$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#327:1040:0.2294
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:1:0.2294
+Insert After$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:4:0.2294
+Insert After$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:4:0.2294
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:17:0.2294
+Insert After$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:17:0.2294
+Default$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:115:0.2294
+Insert Before$$SimpleName::nbPoints$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:123:0.2294
+Default$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:123:0.2294
+Insert Before$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:123:0.2294
+Default$$NumberLiteral::2$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:235:0.2294
+Default$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#290:235:0.2294
+Insert After$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#260:4:0.2294
+Insert After$$SimpleName::end$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#260:4:0.2294
+Insert After$$SimpleName::start$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#260:17:0.2294
+Insert After$$SimpleName::signChangeIndex$$org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#260:17:0.2294

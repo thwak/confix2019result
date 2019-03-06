@@ -1,0 +1,15 @@
+Class:org.jfree.data.xy.XYSeries
+update
+x
+to
+y
+at line 527
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+47
+P:ClassInstanceCreation{arguments},L:{43},R:

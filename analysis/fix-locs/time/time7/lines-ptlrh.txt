@@ -1,0 +1,21 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::newPos$$org.joda.time.format.DateTimeFormatter#714:1:0.2828
+Default$$SimpleName::parseInto$$org.joda.time.format.DateTimeFormatter#714:46:0.2828
+Default$$SimpleName::bucket$$org.joda.time.format.DateTimeFormatter#714:267:0.2828
+Default$$SimpleName::text$$org.joda.time.format.DateTimeFormatter#714:267:0.2828
+Default$$SimpleName::parser$$org.joda.time.format.DateTimeFormatter#714:466:0.2828
+Default$$SimpleName::position$$org.joda.time.format.DateTimeFormatter#714:1040:0.2828
+Insert Before$$SimpleName::instantLocal$$org.joda.time.format.DateTimeFormatter#708:1:0.2828
+Insert After$$MethodInvocation::null$$org.joda.time.format.DateTimeFormatter#708:1:0.2828
+Default$$SimpleName::getOffset$$org.joda.time.format.DateTimeFormatter#708:5:0.2828
+Default$$SimpleName::getZone$$org.joda.time.format.DateTimeFormatter#708:62:0.2828
+Insert Before$$SimpleName::instantMillis$$org.joda.time.format.DateTimeFormatter#708:123:0.2828
+Default$$MethodInvocation::null$$org.joda.time.format.DateTimeFormatter#708:466:0.2828
+Default$$SimpleName::chrono$$org.joda.time.format.DateTimeFormatter#708:466:0.2828
+Default$$SimpleName::instantMillis$$org.joda.time.format.DateTimeFormatter#708:1040:0.2828
+Insert Before$$SimpleName::defaultYear$$org.joda.time.format.DateTimeFormatter#710:1:0.2828
+Default$$SimpleName::get$$org.joda.time.format.DateTimeFormatter#710:5:0.2828
+Default$$SimpleName::year$$org.joda.time.format.DateTimeFormatter#710:62:0.2828
+Default$$VariableDeclarationFragment::null$$org.joda.time.format.DateTimeFormatter#710:253:0.2828
+Default$$MethodInvocation::null$$org.joda.time.format.DateTimeFormatter#710:466:0.2828
+Default$$SimpleName::chrono$$org.joda.time.format.DateTimeFormatter#710:466:0.2828

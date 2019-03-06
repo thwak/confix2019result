@@ -1,0 +1,5 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::addOrUpdate$$org.jfree.data.xy.XYSeries#527:1:0.7071
+Default$$SimpleType::Double$$org.jfree.data.xy.XYSeries#527:34:0.7071
+Default$$SimpleType::Double$$org.jfree.data.xy.XYSeries#527:34:0.7071
+Default$$SimpleName::x$$org.jfree.data.xy.XYSeries#527:141:0.7071

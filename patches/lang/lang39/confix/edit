@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang3.StringUtils
+update
+replacementList
+to
+searchList
+at line 3676
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+190
+P:ArrayAccess{array},L:,R:{42}

@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.parsing.JsDocInfoParser
+insert
+canSkipTypeAnnotation&=!hasType;
+
+at Insert Before
+IfStatement::null
+com.google.javascript.jscomp.parsing.JsDocInfoParser:881
+Context:P:IfStatement{statements},L:Assignment{statements},R:IfStatement{statements}
+Applied Change
+insert
+var0 &= !var1
+from
+groovy-b0a7551:src/main/org/codehaus/groovy/control/StaticImportVisitor.java:
+1
+P:IfStatement{statements},L:Assignment{statements},R:IfStatement{statements}

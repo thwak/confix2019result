@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.WarningLevel
+update
+options.checkGlobalThisLevel
+to
+options.checkMissingReturn
+at line 79
+Applied Change
+update
+var0
+to
+var0
+from
+lucene-ad131bd:solr/core/src/java/org/apache/solr/handler/StreamHandler.java:::::::::
+6
+P:Assignment{leftHandSide},L:,R:{40}

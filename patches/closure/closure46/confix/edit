@@ -1,0 +1,15 @@
+Class:com.google.javascript.rhino.jstype.RecordType
+replace
+!that.isRecordType()
+with
+!isNativeObjectType()
+at line 142
+Applied Change
+replace
+!method0(var0)
+with
+!method0()
+from
+hadoop-af5edca:hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/SnappyCodec.java:
+6
+P:IfStatement{expression},L:,R:Block{thenStatement}

@@ -1,0 +1,25 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#1064:44:0.5774
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#1064:210:0.5774
+Insert After$$SimpleName::clone$$org.jfree.data.time.TimeSeries#1064:312:0.5774
+Default$$SimpleName::copy$$org.jfree.data.time.TimeSeries#1064:461:0.5774
+Default$$SimpleName::clone$$org.jfree.data.time.TimeSeries#1064:821:0.5774
+Insert Before$$SimpleName::clone$$org.jfree.data.time.TimeSeries#1062:1:0.5774
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#1062:6:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#1062:6:0.5774
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#1062:31:0.5774
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#1062:40:0.5774
+Default$$SimpleName::clone$$org.jfree.data.time.TimeSeries#1062:58:0.5774
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#1062:269:0.5774
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#1062:461:0.5774
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#1062:527:0.5774
+Default$$CastExpression::null$$org.jfree.data.time.TimeSeries#1062:1116:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#1062:1522:0.5774
+Insert After$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#1058:1:0.5774
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#1058:1:0.5774
+Default$$SimpleName::size$$org.jfree.data.time.TimeSeries#1058:2:0.5774
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#1058:2:0.5774
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#1058:13:0.5774
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#1058:14:0.5774
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#1058:110:0.5774
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#1058:165:0.5774

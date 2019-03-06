@@ -1,0 +1,279 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::getSolution$$org.apache.commons.math.optimization.linear.SimplexSolver#192:62:0.3333
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#192:466:0.3333
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#192:590:0.3333
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#176:3:0.3162
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#176:6:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#176:52:0.3162
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#176:52:0.3162
+Default$$SimpleName::getRhsOffset$$org.apache.commons.math.optimization.linear.SimplexSolver#176:62:0.3162
+Default$$SimpleName::MathUtils$$org.apache.commons.math.optimization.linear.SimplexSolver#176:466:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#176:466:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#176:466:0.3162
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#133:4:0.3162
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#133:6:0.3162
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#133:7:0.3162
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#133:52:0.3162
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#133:52:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#133:267:0.3162
+Default$$SimpleName::MathUtils$$org.apache.commons.math.optimization.linear.SimplexSolver#133:466:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#133:466:0.3162
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#150:4:0.3162
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#150:6:0.3162
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#150:7:0.3162
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#150:52:0.3162
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#150:52:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#150:267:0.3162
+Default$$SimpleName::MathUtils$$org.apache.commons.math.optimization.linear.SimplexSolver#150:466:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#150:466:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#132:1:0.3162
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#132:1:0.3162
+Insert After$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#132:4:0.3162
+Default$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#132:60:0.3162
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#132:61:0.3162
+Default$$SimpleName::getNumObjectiveFunctions$$org.apache.commons.math.optimization.linear.SimplexSolver#132:62:0.3162
+Default$$SimpleName::getWidth$$org.apache.commons.math.optimization.linear.SimplexSolver#132:62:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#132:115:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#132:123:0.3162
+Default$$InfixExpression::-$$org.apache.commons.math.optimization.linear.SimplexSolver#132:235:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#132:466:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#132:466:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#132:1116:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#149:1:0.3162
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#149:1:0.3162
+Insert After$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#149:4:0.3162
+Default$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#149:60:0.3162
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#149:61:0.3162
+Default$$SimpleName::getNumObjectiveFunctions$$org.apache.commons.math.optimization.linear.SimplexSolver#149:62:0.3162
+Default$$SimpleName::getWidth$$org.apache.commons.math.optimization.linear.SimplexSolver#149:62:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#149:115:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#149:123:0.3162
+Default$$InfixExpression::-$$org.apache.commons.math.optimization.linear.SimplexSolver#149:235:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#149:466:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#149:466:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#149:1116:0.3162
+Default$$SimpleName::isOptimal$$org.apache.commons.math.optimization.linear.SimplexSolver#189:13:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#189:51:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#189:1040:0.3162
+Default$$SimpleName::isPhase1Solved$$org.apache.commons.math.optimization.linear.SimplexSolver#171:13:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#171:51:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#171:1040:0.3162
+Default$$SimpleName::doIteration$$org.apache.commons.math.optimization.linear.SimplexSolver#172:13:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#172:1040:0.3162
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#129:1:0.3162
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#129:4:0.3162
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#129:7:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#129:60:0.3162
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#129:61:0.3162
+Default$$SimpleName::getNumArtificialVariables$$org.apache.commons.math.optimization.linear.SimplexSolver#129:62:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#129:115:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#129:466:0.3162
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#146:1:0.3162
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#146:4:0.3162
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#146:7:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#146:60:0.3162
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#146:61:0.3162
+Default$$SimpleName::getNumArtificialVariables$$org.apache.commons.math.optimization.linear.SimplexSolver#146:62:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#146:115:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#146:466:0.3162
+Default$$SimpleName::discardArtificialVariables$$org.apache.commons.math.optimization.linear.SimplexSolver#188:62:0.3162
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#188:466:0.3162
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#134:17:0.3162
+Default$$ReturnStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#134:1101:0.3162
+Default$$SimpleName::compareTo$$org.apache.commons.math.optimization.linear.SimplexSolver#81:2:0.3015
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#81:4:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#81:46:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#81:48:0.3015
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#81:52:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#81:267:0.3015
+Default$$SimpleName::MathUtils$$org.apache.commons.math.optimization.linear.SimplexSolver#81:466:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#81:466:0.3015
+Default$$SimpleName::col$$org.apache.commons.math.optimization.linear.SimplexSolver#81:1040:0.3015
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#62:4:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#62:6:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#62:52:0.3015
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#62:267:0.3015
+Default$$SimpleName::MathUtils$$org.apache.commons.math.optimization.linear.SimplexSolver#62:466:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#62:466:0.3015
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#62:1040:0.3015
+Default$$SimpleName::subtractRow$$org.apache.commons.math.optimization.linear.SimplexSolver#118:46:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#118:267:0.3015
+Default$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#118:267:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#118:466:0.3015
+Default$$SimpleName::multiplier$$org.apache.commons.math.optimization.linear.SimplexSolver#118:1040:0.3015
+Insert Before$$SimpleName::rhs$$org.apache.commons.math.optimization.linear.SimplexSolver#80:1:0.3015
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#80:1:0.3015
+Insert After$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#80:4:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#80:46:0.3015
+Default$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#80:60:0.3015
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#80:61:0.3015
+Default$$SimpleName::getWidth$$org.apache.commons.math.optimization.linear.SimplexSolver#80:62:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#80:115:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#80:466:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#80:466:0.3015
+Default$$InfixExpression::-$$org.apache.commons.math.optimization.linear.SimplexSolver#80:1040:0.3015
+Insert Before$$SimpleName::ratio$$org.apache.commons.math.optimization.linear.SimplexSolver#82:1:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#82:46:0.3015
+Insert Before$$SimpleName::rhs$$org.apache.commons.math.optimization.linear.SimplexSolver#82:123:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#82:267:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#82:466:0.3015
+Default$$SimpleName::col$$org.apache.commons.math.optimization.linear.SimplexSolver#82:1040:0.3015
+Insert Before$$SimpleName::multiplier$$org.apache.commons.math.optimization.linear.SimplexSolver#117:1:0.3015
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#117:2:0.3015
+Default$$PrimitiveType::double$$org.apache.commons.math.optimization.linear.SimplexSolver#117:11:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#117:46:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#117:253:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#117:267:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#117:466:0.3015
+Default$$SimpleName::pivotCol$$org.apache.commons.math.optimization.linear.SimplexSolver#117:1040:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#117:1116:0.3015
+Insert Before$$SimpleName::pivotVal$$org.apache.commons.math.optimization.linear.SimplexSolver#111:1:0.3015
+Default$$PrimitiveType::double$$org.apache.commons.math.optimization.linear.SimplexSolver#111:11:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#111:46:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#111:253:0.3015
+Default$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#111:267:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#111:466:0.3015
+Default$$SimpleName::pivotCol$$org.apache.commons.math.optimization.linear.SimplexSolver#111:1040:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#111:1116:0.3015
+Default$$SimpleName::divideRow$$org.apache.commons.math.optimization.linear.SimplexSolver#112:46:0.3015
+Default$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#112:267:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#112:466:0.3015
+Default$$SimpleName::pivotVal$$org.apache.commons.math.optimization.linear.SimplexSolver#112:1040:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#61:1:0.3015
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#61:1:0.3015
+Insert After$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#61:4:0.3015
+Default$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexSolver#61:60:0.3015
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#61:61:0.3015
+Default$$SimpleName::getNumObjectiveFunctions$$org.apache.commons.math.optimization.linear.SimplexSolver#61:62:0.3015
+Default$$SimpleName::getWidth$$org.apache.commons.math.optimization.linear.SimplexSolver#61:62:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#61:115:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#61:123:0.3015
+Default$$InfixExpression::-$$org.apache.commons.math.optimization.linear.SimplexSolver#61:235:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#61:466:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#61:466:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#61:1116:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#79:1:0.3015
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#79:14:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#79:61:0.3015
+Default$$SimpleName::getNumObjectiveFunctions$$org.apache.commons.math.optimization.linear.SimplexSolver#79:62:0.3015
+Default$$SimpleName::getHeight$$org.apache.commons.math.optimization.linear.SimplexSolver#79:62:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#79:123:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#79:235:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#79:466:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#79:466:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#79:1116:0.3015
+Insert Before$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#105:1:0.3015
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#105:8:0.3015
+Default$$SimpleName::getPivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#105:13:0.3015
+Default$$SimpleType::Integer$$org.apache.commons.math.optimization.linear.SimplexSolver#105:41:0.3015
+Default$$SimpleName::pivotCol$$org.apache.commons.math.optimization.linear.SimplexSolver#105:267:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#105:527:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#105:1040:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#105:1116:0.3015
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#104:1:0.3015
+Insert Before$$SimpleName::pivotCol$$org.apache.commons.math.optimization.linear.SimplexSolver#104:1:0.3015
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#104:8:0.3015
+Default$$SimpleName::getPivotColumn$$org.apache.commons.math.optimization.linear.SimplexSolver#104:13:0.3015
+Default$$SimpleType::Integer$$org.apache.commons.math.optimization.linear.SimplexSolver#104:68:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#104:527:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#104:1040:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#104:1116:0.3015
+Default$$SimpleName::minValue$$org.apache.commons.math.optimization.linear.SimplexSolver#63:1:0.3015
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexSolver#63:6:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#63:52:0.3015
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#63:267:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#63:466:0.3015
+Default$$SimpleName::solvePhase1$$org.apache.commons.math.optimization.linear.SimplexSolver#187:13:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#187:1040:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#115:1:0.3015
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#115:2:0.3015
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.optimization.linear.SimplexSolver#115:3:0.3015
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#115:14:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#115:17:0.3015
+Default$$InfixExpression::<$$org.apache.commons.math.optimization.linear.SimplexSolver#115:39:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#115:61:0.3015
+Default$$SimpleName::getHeight$$org.apache.commons.math.optimization.linear.SimplexSolver#115:62:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#115:123:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#115:235:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#115:466:0.3015
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#115:1116:0.3015
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#167:1:0.3015
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#167:2:0.3015
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#167:4:0.3015
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#167:60:0.3015
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#167:61:0.3015
+Default$$SimpleName::getNumArtificialVariables$$org.apache.commons.math.optimization.linear.SimplexSolver#167:62:0.3015
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#167:115:0.3015
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#167:466:0.3015
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#50:1:0.3015
+Default$$ThisExpression::null$$org.apache.commons.math.optimization.linear.SimplexSolver#50:13:0.3015
+Default$$FieldAccess::null$$org.apache.commons.math.optimization.linear.SimplexSolver#50:25:0.3015
+Default$$SimpleName::epsilon$$org.apache.commons.math.optimization.linear.SimplexSolver#50:187:0.3015
+Default$$Assignment::=$$org.apache.commons.math.optimization.linear.SimplexSolver#50:1531:0.3015
+Insert Before$$SimpleName::minValue$$org.apache.commons.math.optimization.linear.SimplexSolver#59:1:0.3015
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#59:4:0.3015
+Default$$PrimitiveType::double$$org.apache.commons.math.optimization.linear.SimplexSolver#59:9:0.3015
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#59:31:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#59:253:0.3015
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexSolver#59:1116:0.3015
+Insert Before$$SimpleName::minRatio$$org.apache.commons.math.optimization.linear.SimplexSolver#77:1:0.3015
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#77:2:0.3015
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#77:5:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#77:253:0.3015
+Default$$QualifiedName::Double.MAX_VALUE$$org.apache.commons.math.optimization.linear.SimplexSolver#77:1116:0.3015
+Insert Before$$SimpleName::minPos$$org.apache.commons.math.optimization.linear.SimplexSolver#60:1:0.3015
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.linear.SimplexSolver#60:4:0.3015
+Default$$SimpleType::Integer$$org.apache.commons.math.optimization.linear.SimplexSolver#60:45:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#60:527:0.3015
+Default$$NullLiteral::null$$org.apache.commons.math.optimization.linear.SimplexSolver#60:1116:0.3015
+Insert Before$$SimpleName::minRatioPos$$org.apache.commons.math.optimization.linear.SimplexSolver#78:1:0.3015
+Default$$SimpleType::Integer$$org.apache.commons.math.optimization.linear.SimplexSolver#78:45:0.3015
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.linear.SimplexSolver#78:527:0.3015
+Default$$NullLiteral::null$$org.apache.commons.math.optimization.linear.SimplexSolver#78:1116:0.3015
+Default$$SimpleName::minRatioPos$$org.apache.commons.math.optimization.linear.SimplexSolver#85:25:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#85:624:0.3015
+Default$$SimpleName::minPos$$org.apache.commons.math.optimization.linear.SimplexSolver#64:25:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#64:624:0.3015
+Default$$SimpleName::minRatio$$org.apache.commons.math.optimization.linear.SimplexSolver#84:25:0.3015
+Default$$SimpleName::ratio$$org.apache.commons.math.optimization.linear.SimplexSolver#84:624:0.3015
+Default$$ConstructorInvocation::null$$org.apache.commons.math.optimization.linear.SimplexSolver#42:1531:0.3015
+Insert After$$Block::null$$org.apache.commons.math.optimization.linear.SimplexSolver#106:3:0.3015
+Default$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#106:44:0.3015
+Insert Before$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#106:123:0.3015
+Insert After$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#116:4:0.3015
+Insert After$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#116:17:0.3015
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#116:123:0.3015
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexSolver#116:123:0.3015
+Default$$SimpleName::pivotRow$$org.apache.commons.math.optimization.linear.SimplexSolver#116:235:0.3015
+Insert After$$SimpleName::ratio$$org.apache.commons.math.optimization.linear.SimplexSolver#83:4:0.3015
+Insert After$$SimpleName::minRatio$$org.apache.commons.math.optimization.linear.SimplexSolver#83:17:0.3015
+Default$$SimpleName::ratio$$org.apache.commons.math.optimization.linear.SimplexSolver#83:123:0.3015
+Insert Before$$SimpleName::ratio$$org.apache.commons.math.optimization.linear.SimplexSolver#83:123:0.3015
+Default$$SimpleName::minRatio$$org.apache.commons.math.optimization.linear.SimplexSolver#83:235:0.3015
+Insert Before$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexSolver#185:1:0.3015
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.linear.SimplexSolver#185:2:0.3015
+Default$$SimpleName::minPos$$org.apache.commons.math.optimization.linear.SimplexSolver#67:590:0.3015
+Default$$SimpleName::minRatioPos$$org.apache.commons.math.optimization.linear.SimplexSolver#89:590:0.3015
+Insert After$$Modifier::public$$org.apache.commons.math.optimization.linear.SimplexSolver#49:4:0.3015
+Default$$Modifier::public$$org.apache.commons.math.optimization.linear.SimplexSolver#49:10:0.3015
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.optimization.linear.SimplexSolver#49:14:0.3015
+Insert Before$$Modifier::public$$org.apache.commons.math.optimization.linear.SimplexSolver#49:15:0.3015
+Default$$SimpleName::coefficients$$org.apache.commons.math.optimization.linear.SimplexTableau#339:11:0.5774
+Default$$SimpleName::i$$org.apache.commons.math.optimization.linear.SimplexTableau#339:38:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.linear.SimplexTableau#339:50:0.5774
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexTableau#172:9:0.4082
+Default$$SimpleName::matrix$$org.apache.commons.math.optimization.linear.SimplexTableau#172:11:0.4082
+Default$$SimpleName::row$$org.apache.commons.math.optimization.linear.SimplexTableau#172:38:0.4082
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.optimization.RealPointValuePair#70:20:0.3780
+Default$$SimpleName::clone$$org.apache.commons.math.optimization.RealPointValuePair#70:62:0.3780
+Default$$SimpleName::point$$org.apache.commons.math.optimization.RealPointValuePair#70:466:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.RealPointValuePair#70:590:0.3780
+Default$$ReturnStatement::null$$org.apache.commons.math.optimization.RealPointValuePair#70:1531:0.3780
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.optimization.linear.SimplexTableau#279:3:0.3536
+Default$$ReturnStatement::null$$org.apache.commons.math.optimization.linear.SimplexTableau#279:1101:0.3536
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.linear.SimplexTableau#338:4:0.3333
+Insert After$$NumberLiteral::1$$org.apache.commons.math.optimization.linear.SimplexTableau#338:4:0.3333
+Default$$SimpleName::getEntry$$org.apache.commons.math.optimization.linear.SimplexTableau#338:46:0.3333
+Default$$SimpleName::basicRow$$org.apache.commons.math.optimization.linear.SimplexTableau#338:267:0.3333
+Default$$SimpleName::tableau$$org.apache.commons.math.optimization.linear.SimplexTableau#338:466:0.3333
+Default$$SimpleName::j$$org.apache.commons.math.optimization.linear.SimplexTableau#338:1040:0.3333

@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang.text.StrBuilder
+replace
+endIndex
+with
+startIndex - 1
+at line 1114
+Applied Change
+replace
+var0
+with
+var0-1
+from
+lucene-c1a3e1b:lucene/core/src/java/org/apache/lucene/geo/Polygon.java::
+1
+P:InfixExpression{rightOperand},L:{42},R:

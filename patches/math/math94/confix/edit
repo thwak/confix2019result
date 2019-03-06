@@ -1,0 +1,14 @@
+Class:org.apache.commons.math.util.MathUtils
+insert
+System.currentTimeMillis()
+at Insert Before
+SimpleName::u
+org.apache.commons.math.util.MathUtils:412
+Context:P:InfixExpression{leftOperand},L:,R:{42}
+Applied Change
+insert
+System.currentTimeMillis()
+from
+lucene-96bc27a:solr/core/src/java/org/apache/solr/cloud/OverseerCollectionProcessor.java::
+2
+P:InfixExpression{leftOperand},L:,R:{42}

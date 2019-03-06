@@ -1,0 +1,16 @@
+Class:org.apache.commons.math3.complex.Complex
+replace
+return NaN;
+with
+return INF;
+
+at line 305
+Applied Change
+replace
+return var0;
+with
+return var0;
+from
+collections-fd3dc7c:src/java/org/apache/commons/collections/map/MultiValueMap.java:totalSize:13312:totalSize:13312
+43
+P:IfStatement{statements},L:,R:

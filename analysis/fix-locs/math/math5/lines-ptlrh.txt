@@ -1,0 +1,20 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$SimpleName::real$$org.apache.commons.math3.complex.Complex#1228:3:1.0000
+Insert Before$$StringLiteral::", "$$org.apache.commons.math3.complex.Complex#1228:3:1.0000
+Insert After$$StringLiteral::", "$$org.apache.commons.math3.complex.Complex#1228:3:1.0000
+Insert Before$$SimpleName::imaginary$$org.apache.commons.math3.complex.Complex#1228:3:1.0000
+Insert After$$SimpleName::imaginary$$org.apache.commons.math3.complex.Complex#1228:3:1.0000
+Insert Before$$StringLiteral::")"$$org.apache.commons.math3.complex.Complex#1228:3:1.0000
+Insert After$$StringLiteral::"("$$org.apache.commons.math3.complex.Complex#1228:4:1.0000
+Default$$StringLiteral::", "$$org.apache.commons.math3.complex.Complex#1228:5:1.0000
+Default$$StringLiteral::")"$$org.apache.commons.math3.complex.Complex#1228:17:1.0000
+Insert Before$$StringLiteral::"("$$org.apache.commons.math3.complex.Complex#1228:33:1.0000
+Insert After$$StringLiteral::")"$$org.apache.commons.math3.complex.Complex#1228:64:1.0000
+Default$$SimpleName::imaginary$$org.apache.commons.math3.complex.Complex#1228:70:1.0000
+Default$$SimpleName::real$$org.apache.commons.math3.complex.Complex#1228:74:1.0000
+Default$$StringLiteral::"("$$org.apache.commons.math3.complex.Complex#1228:123:1.0000
+Default$$InfixExpression::+$$org.apache.commons.math3.complex.Complex#1228:590:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math3.complex.Complex#1228:1531:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.complex.Complex#305:18:1.0000
+Default$$SimpleName::NaN$$org.apache.commons.math3.complex.Complex#305:590:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math3.complex.Complex#305:1101:1.0000

@@ -1,0 +1,125 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$ThrowStatement::null$$org.joda.time.DateTimeZone#259:3:1.0000
+Insert After$$InfixExpression::+$$org.joda.time.DateTimeZone#259:4:1.0000
+Insert After$$StringLiteral::"Minutes out of range: "$$org.joda.time.DateTimeZone#259:4:1.0000
+Insert After$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#259:17:1.0000
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#259:24:1.0000
+Insert Before$$StringLiteral::"Minutes out of range: "$$org.joda.time.DateTimeZone#259:33:1.0000
+Default$$ClassInstanceCreation::null$$org.joda.time.DateTimeZone#259:52:1.0000
+Default$$StringLiteral::"Minutes out of range: "$$org.joda.time.DateTimeZone#259:123:1.0000
+Default$$InfixExpression::+$$org.joda.time.DateTimeZone#259:141:1.0000
+Insert Before$$ReturnStatement::null$$org.joda.time.DateTimeZone#256:2:0.7071
+Default$$QualifiedName::DateTimeZone.UTC$$org.joda.time.DateTimeZone#256:590:0.7071
+Default$$ReturnStatement::null$$org.joda.time.DateTimeZone#256:1101:0.7071
+Default$$SimpleName::safeAdd$$org.joda.time.DateTimeZone#265:46:0.4082
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#265:51:0.4082
+Default$$SimpleName::FieldUtils$$org.joda.time.DateTimeZone#265:466:0.4082
+Default$$SimpleName::buf$$org.joda.time.DateTimeZone#636:466:0.2774
+Default$$SimpleName::offset$$org.joda.time.DateTimeZone#637:51:0.2774
+Default$$SimpleName::zone$$org.joda.time.DateTimeZone#359:12:0.2236
+Default$$SimpleName::get$$org.joda.time.DateTimeZone#359:62:0.2236
+Default$$SimpleName::ref$$org.joda.time.DateTimeZone#359:466:0.2236
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#359:624:0.2236
+Insert Before$$ReturnStatement::null$$org.joda.time.DateTimeZone#361:18:0.2236
+Default$$SimpleName::zone$$org.joda.time.DateTimeZone#361:590:0.2236
+Default$$ReturnStatement::null$$org.joda.time.DateTimeZone#361:1101:0.2236
+Insert After$$IfStatement::null$$org.joda.time.DateTimeZone#360:2:0.2236
+Insert After$$Block::null$$org.joda.time.DateTimeZone#360:9:0.2236
+Default$$InfixExpression::!=$$org.joda.time.DateTimeZone#360:44:0.2236
+Default$$SimpleName::zone$$org.joda.time.DateTimeZone#360:44:0.2236
+Insert Before$$SimpleName::zone$$org.joda.time.DateTimeZone#360:123:0.2236
+Default$$SimpleName::fixedOffsetZone$$org.joda.time.DateTimeZone#221:13:0.1857
+Default$$SimpleName::id$$org.joda.time.DateTimeZone#221:267:0.1857
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#221:590:0.1857
+Default$$SimpleName::offset$$org.joda.time.DateTimeZone#221:1040:0.1857
+Insert Before$$SimpleName::offset$$org.joda.time.DateTimeZone#216:1:0.1857
+Insert Before$$VariableDeclarationStatement::null$$org.joda.time.DateTimeZone#216:3:0.1857
+Default$$SimpleName::parseOffset$$org.joda.time.DateTimeZone#216:13:0.1857
+Default$$PrimitiveType::int$$org.joda.time.DateTimeZone#216:68:0.1857
+Default$$VariableDeclarationFragment::null$$org.joda.time.DateTimeZone#216:253:0.1857
+Default$$SimpleName::id$$org.joda.time.DateTimeZone#216:1040:0.1857
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#216:1116:0.1857
+Default$$SimpleName::id$$org.joda.time.DateTimeZone#220:12:0.1857
+Default$$SimpleName::printOffset$$org.joda.time.DateTimeZone#220:13:0.1857
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#220:624:0.1857
+Default$$SimpleName::offset$$org.joda.time.DateTimeZone#220:1040:0.1857
+Insert After$$NumberLiteral::0L$$org.joda.time.DateTimeZone#217:4:0.1857
+Default$$SimpleName::offset$$org.joda.time.DateTimeZone#217:115:0.1857
+Insert Before$$SimpleName::offset$$org.joda.time.DateTimeZone#217:123:0.1857
+Insert After$$MethodInvocation::null$$org.joda.time.DateTimeZone#215:3:0.1826
+Default$$SimpleName::startsWith$$org.joda.time.DateTimeZone#215:12:0.1826
+Default$$SimpleName::startsWith$$org.joda.time.DateTimeZone#215:12:0.1826
+Insert After$$StringLiteral::"+"$$org.joda.time.DateTimeZone#215:107:0.1826
+Insert After$$StringLiteral::"-"$$org.joda.time.DateTimeZone#215:107:0.1826
+Default$$SimpleName::id$$org.joda.time.DateTimeZone#215:466:0.1826
+Default$$SimpleName::id$$org.joda.time.DateTimeZone#215:466:0.1826
+Default$$StringLiteral::"+"$$org.joda.time.DateTimeZone#215:1040:0.1826
+Default$$StringLiteral::"-"$$org.joda.time.DateTimeZone#215:1040:0.1826
+Default$$SimpleName::parseMillis$$org.joda.time.DateTimeZone#619:1:0.1796
+Default$$SimpleName::withChronology$$org.joda.time.DateTimeZone#619:4:0.1796
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#619:466:0.1796
+Default$$SimpleName::chrono$$org.joda.time.DateTimeZone#619:1040:0.1796
+Default$$SimpleName::str$$org.joda.time.DateTimeZone#619:1040:0.1796
+Default$$SimpleType::DateTimeFormatterBuilder$$org.joda.time.DateTimeZone#672:44:0.1796
+Default$$ClassInstanceCreation::null$$org.joda.time.DateTimeZone#672:466:0.1796
+Insert Before$$ReturnStatement::null$$org.joda.time.DateTimeZone#607:9:0.1796
+Default$$ReturnStatement::null$$org.joda.time.DateTimeZone#607:1531:0.1796
+Insert Before$$ReturnStatement::null$$org.joda.time.DateTimeZone#610:1:0.1796
+Default$$ReturnStatement::null$$org.joda.time.DateTimeZone#610:1531:0.1796
+Insert Before$$SimpleName::chrono$$org.joda.time.DateTimeZone#605:1:0.1796
+Default$$SimpleName::cOffsetFormatter$$org.joda.time.DateTimeZone#671:44:0.1796
+Insert Before$$SimpleName::cOffsetFormatter$$org.joda.time.DateTimeZone#671:123:0.1796
+Default$$SimpleName::cOffsetFormatter$$org.joda.time.DateTimeZone#676:590:0.1796
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#267:5:0.1313
+Default$$SimpleName::safeAdd$$org.joda.time.DateTimeZone#267:46:0.1313
+Default$$SimpleName::hoursInMinutes$$org.joda.time.DateTimeZone#267:267:0.1313
+Default$$SimpleName::FieldUtils$$org.joda.time.DateTimeZone#267:466:0.1313
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#267:624:0.1313
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#267:1040:0.1313
+Default$$Assignment::=$$org.joda.time.DateTimeZone#267:1101:0.1313
+Insert Before$$VariableDeclarationStatement::null$$org.joda.time.DateTimeZone#263:1:0.1270
+Insert Before$$SimpleName::hoursInMinutes$$org.joda.time.DateTimeZone#263:1:0.1270
+Default$$SimpleName::safeMultiply$$org.joda.time.DateTimeZone#263:46:0.1270
+Default$$SimpleName::hoursOffset$$org.joda.time.DateTimeZone#263:48:0.1270
+Default$$SimpleName::FieldUtils$$org.joda.time.DateTimeZone#263:466:0.1270
+Default$$SimpleName::offset$$org.joda.time.DateTimeZone#269:1:0.1270
+Default$$SimpleName::safeMultiply$$org.joda.time.DateTimeZone#269:46:0.1270
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#269:46:0.1270
+Default$$SimpleName::FieldUtils$$org.joda.time.DateTimeZone#269:466:0.1270
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#269:624:0.1270
+Default$$QualifiedName::DateTimeConstants.MILLIS_PER_MINUTE$$org.joda.time.DateTimeZone#269:1040:0.1270
+Default$$SimpleName::forOffsetMillis$$org.joda.time.DateTimeZone#273:13:0.1270
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#273:590:0.1270
+Default$$SimpleName::offset$$org.joda.time.DateTimeZone#273:1040:0.1270
+Insert Before$$SimpleName::offset$$org.joda.time.DateTimeZone#261:1:0.1270
+Default$$PrimitiveType::int$$org.joda.time.DateTimeZone#261:9:0.1270
+Default$$VariableDeclarationFragment::null$$org.joda.time.DateTimeZone#261:253:0.1270
+Default$$NumberLiteral::0$$org.joda.time.DateTimeZone#261:1116:0.1270
+Insert After$$Block::null$$org.joda.time.DateTimeZone#258:1:0.1270
+Insert After$$NumberLiteral::0$$org.joda.time.DateTimeZone#258:4:0.1270
+Insert After$$NumberLiteral::59$$org.joda.time.DateTimeZone#258:4:0.1270
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#258:115:0.1270
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#258:115:0.1270
+Insert Before$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#258:123:0.1270
+Insert Before$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#258:123:0.1270
+Default$$NumberLiteral::0$$org.joda.time.DateTimeZone#258:235:0.1270
+Insert Before$$InfixExpression::==$$org.joda.time.DateTimeZone#255:3:0.1270
+Insert After$$NumberLiteral::0$$org.joda.time.DateTimeZone#255:4:0.1270
+Insert After$$NumberLiteral::0$$org.joda.time.DateTimeZone#255:4:0.1270
+Insert After$$Block::null$$org.joda.time.DateTimeZone#255:4:0.1270
+Default$$SimpleName::hoursOffset$$org.joda.time.DateTimeZone#255:115:0.1270
+Default$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#255:115:0.1270
+Insert Before$$SimpleName::hoursOffset$$org.joda.time.DateTimeZone#255:123:0.1270
+Insert Before$$SimpleName::minutesOffset$$org.joda.time.DateTimeZone#255:123:0.1270
+Default$$NumberLiteral::0$$org.joda.time.DateTimeZone#255:235:0.1270
+Default$$NumberLiteral::0$$org.joda.time.DateTimeZone#255:235:0.1270
+Insert After$$NumberLiteral::0$$org.joda.time.DateTimeZone#264:4:0.1270
+Default$$SimpleName::hoursInMinutes$$org.joda.time.DateTimeZone#264:115:0.1270
+Insert Before$$SimpleName::hoursInMinutes$$org.joda.time.DateTimeZone#264:123:0.1270
+Default$$NumberLiteral::0$$org.joda.time.DateTimeZone#264:235:0.1270
+Insert Before$$ReturnStatement::null$$org.joda.time.DateTimeZone#284:2:0.1179
+Default$$SimpleName::fixedOffsetZone$$org.joda.time.DateTimeZone#284:13:0.1179
+Default$$ReturnStatement::null$$org.joda.time.DateTimeZone#284:115:0.1179
+Default$$SimpleName::id$$org.joda.time.DateTimeZone#284:267:0.1179
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#284:590:0.1179
+Default$$SimpleName::millisOffset$$org.joda.time.DateTimeZone#284:1040:0.1179

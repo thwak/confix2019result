@@ -1,0 +1,10 @@
+--- ../result-tf-hash/math/math34/buggy/org/apache/commons/math3/genetics/ListPopulation.java	2019-02-21 11:38:18.449403804 +0000
++++ ../result-tf-hash/math/math34/confix/org/apache/commons/math3/genetics/ListPopulation.java	2019-02-21 11:38:18.445403788 +0000
+@@ -206,6 +206,6 @@
+      * @return chromosome iterator
+      */
+     public Iterator<Chromosome> iterator() {
+-        return chromosomes.iterator();
++        return Collections.unmodifiableList(chromosomes).iterator();
+     }
+ }

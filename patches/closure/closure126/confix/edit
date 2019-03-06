@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.MinimizeExitPoints
+update
+finallyBlock
+to
+tryBlock
+at line 143
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+693
+P:MethodInvocation{arguments},L:{42},R:{42}

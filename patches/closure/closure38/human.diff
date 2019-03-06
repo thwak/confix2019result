@@ -1,0 +1,11 @@
+--- ../result-tf-hash/closure/closure38/buggy/com/google/javascript/jscomp/CodeConsumer.java	2019-02-21 22:35:19.450083249 +0000
++++ ../result-tf-hash/closure/closure38/human/com/google/javascript/jscomp/CodeConsumer.java	2019-02-21 22:35:19.454083222 +0000
+@@ -242,7 +242,7 @@
+     // x--4 (which is a syntax error).
+     char prev = getLastChar();
+     boolean negativeZero = isNegativeZero(x);
+-    if (x < 0 && prev == '-') {
++    if ((x < 0 || negativeZero) && prev == '-') {
+       add(" ");
+     }
+ 

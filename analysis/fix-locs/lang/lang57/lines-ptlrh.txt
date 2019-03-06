@@ -1,0 +1,13 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::list$$org.apache.commons.lang.LocaleUtils#51:1:1.0000
+Default$$SimpleType::List$$org.apache.commons.lang.LocaleUtils#51:6:1.0000
+Default$$SimpleName::asList$$org.apache.commons.lang.LocaleUtils#51:29:1.0000
+Default$$SimpleName::getAvailableLocales$$org.apache.commons.lang.LocaleUtils#51:62:1.0000
+Default$$SimpleName::Arrays$$org.apache.commons.lang.LocaleUtils#51:466:1.0000
+Default$$SimpleName::Locale$$org.apache.commons.lang.LocaleUtils#51:466:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.LocaleUtils#51:527:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.LocaleUtils#51:1040:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.LocaleUtils#51:1116:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang.LocaleUtils#223:15:1.0000
+Default$$SimpleName::contains$$org.apache.commons.lang.LocaleUtils#223:46:1.0000
+Default$$SimpleName::cAvailableLocaleSet$$org.apache.commons.lang.LocaleUtils#223:466:1.0000

@@ -1,0 +1,18 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::v$$org.jfree.chart.renderer.GrayPaintScale#124:1:1.0000
+Default$$SimpleName::lowerBound$$org.jfree.chart.renderer.GrayPaintScale#124:1:1.0000
+Default$$SimpleName::value$$org.jfree.chart.renderer.GrayPaintScale#124:2:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.renderer.GrayPaintScale#124:13:1.0000
+Default$$SimpleName::max$$org.jfree.chart.renderer.GrayPaintScale#124:46:1.0000
+Default$$SimpleName::Math$$org.jfree.chart.renderer.GrayPaintScale#124:466:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.renderer.GrayPaintScale#124:1040:1.0000
+Default$$SimpleName::upperBound$$org.jfree.chart.renderer.GrayPaintScale#125:1:1.0000
+Default$$SimpleName::v$$org.jfree.chart.renderer.GrayPaintScale#125:2:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.renderer.GrayPaintScale#125:13:1.0000
+Default$$SimpleName::min$$org.jfree.chart.renderer.GrayPaintScale#125:46:1.0000
+Default$$SimpleName::Math$$org.jfree.chart.renderer.GrayPaintScale#125:466:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.renderer.GrayPaintScale#125:1040:1.0000
+Insert Before$$SimpleName::g$$org.jfree.chart.renderer.GrayPaintScale#126:1:1.0000
+Default$$SimpleName::lowerBound$$org.jfree.chart.renderer.GrayPaintScale#126:1:1.0000
+Default$$SimpleName::upperBound$$org.jfree.chart.renderer.GrayPaintScale#126:1:1.0000
+Default$$SimpleName::value$$org.jfree.chart.renderer.GrayPaintScale#126:5:1.0000

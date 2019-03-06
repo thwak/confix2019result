@@ -1,0 +1,520 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::createSynthesizedExternVar$$com.google.javascript.jscomp.VarCheck#137:13:0.5657
+Default$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#137:1040:0.5657
+Default$$SimpleName::addSuppression$$com.google.javascript.jscomp.VarCheck#139:12:0.5657
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#139:466:0.5657
+Default$$StringLiteral::"duplicate"$$com.google.javascript.jscomp.VarCheck#139:1040:0.5657
+Insert Before$$SimpleType::CompilerPass$$com.google.javascript.jscomp.VarCheck#34:2:0.5394
+Default$$SimpleType::AbstractPostOrderCallback$$com.google.javascript.jscomp.VarCheck#34:6:0.5394
+Default$$SimpleName::report$$com.google.javascript.jscomp.VarCheck#247:46:0.4000
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#247:62:0.4000
+Default$$SimpleName::NAME_REFERENCE_IN_EXTERNS_ERROR$$com.google.javascript.jscomp.VarCheck#247:68:0.4000
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#247:267:0.4000
+Default$$SimpleName::t$$com.google.javascript.jscomp.VarCheck#247:466:0.4000
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#247:466:0.4000
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#247:1040:0.4000
+Insert Before$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#250:1:0.4000
+Default$$SimpleType::Scope.Var$$com.google.javascript.jscomp.VarCheck#250:6:0.4000
+Default$$SimpleName::getVar$$com.google.javascript.jscomp.VarCheck#250:29:0.4000
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#250:62:0.4000
+Default$$SimpleName::scope$$com.google.javascript.jscomp.VarCheck#250:466:0.4000
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#250:466:0.4000
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#250:527:0.4000
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#250:1040:0.4000
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#250:1116:0.4000
+Default$$SimpleName::add$$com.google.javascript.jscomp.VarCheck#252:29:0.4000
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#252:62:0.4000
+Default$$SimpleName::varsToDeclareInExterns$$com.google.javascript.jscomp.VarCheck#252:466:0.4000
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#252:466:0.4000
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#252:1040:0.4000
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#252:1101:0.4000
+Insert Before$$SimpleName::scope$$com.google.javascript.jscomp.VarCheck#249:1:0.4000
+Default$$SimpleName::getScope$$com.google.javascript.jscomp.VarCheck#249:62:0.4000
+Default$$SimpleType::Scope$$com.google.javascript.jscomp.VarCheck#249:68:0.4000
+Default$$SimpleName::t$$com.google.javascript.jscomp.VarCheck#249:466:0.4000
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#249:527:0.4000
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#249:1116:0.4000
+Insert After$$Block::null$$com.google.javascript.jscomp.VarCheck#251:3:0.4000
+Default$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#251:44:0.4000
+Insert Before$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#251:123:0.4000
+Default$$SimpleName::report$$com.google.javascript.jscomp.VarCheck#241:46:0.3651
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#241:62:0.3651
+Default$$SimpleName::UNDEFINED_EXTERN_VAR_ERROR$$com.google.javascript.jscomp.VarCheck#241:68:0.3651
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#241:267:0.3651
+Default$$SimpleName::t$$com.google.javascript.jscomp.VarCheck#241:466:0.3651
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#241:466:0.3651
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#241:1040:0.3651
+Default$$SimpleName::add$$com.google.javascript.jscomp.VarCheck#242:29:0.3651
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#242:62:0.3651
+Default$$SimpleName::varsToDeclareInExterns$$com.google.javascript.jscomp.VarCheck#242:466:0.3651
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#242:466:0.3651
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#242:1040:0.3651
+Default$$SimpleName::isConstant$$com.google.javascript.jscomp.VarCheck#214:5:0.2981
+Default$$SimpleName::getCodingConvention$$com.google.javascript.jscomp.VarCheck#214:62:0.2981
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#214:466:0.2981
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#214:466:0.2981
+Default$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#214:1040:0.2981
+Default$$SimpleName::synthesizedExternsRoot$$com.google.javascript.jscomp.VarCheck#273:8:0.2981
+Default$$SimpleName::getAstRoot$$com.google.javascript.jscomp.VarCheck#273:46:0.2981
+Default$$SimpleName::synthesizedExterns$$com.google.javascript.jscomp.VarCheck#273:466:0.2981
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#273:624:0.2981
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#273:1040:0.2981
+Default$$SimpleName::remove$$com.google.javascript.jscomp.VarCheck#220:46:0.2981
+Default$$SimpleName::varsToDeclareInExterns$$com.google.javascript.jscomp.VarCheck#220:466:0.2981
+Default$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#220:1040:0.2981
+Insert Before$$SimpleName::nameNode$$com.google.javascript.jscomp.VarCheck#206:1:0.2981
+Default$$SimpleType::Node$$com.google.javascript.jscomp.VarCheck#206:3:0.2981
+Default$$SimpleName::newString$$com.google.javascript.jscomp.VarCheck#206:10:0.2981
+Default$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#206:96:0.2981
+Default$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.VarCheck#206:267:0.2981
+Default$$SimpleName::Node$$com.google.javascript.jscomp.VarCheck#206:466:0.2981
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#206:1116:0.2981
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#218:466:0.2981
+Insert Before$$SimpleName::synthesizedExterns$$com.google.javascript.jscomp.VarCheck#272:1:0.2981
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#272:3:0.2981
+Default$$SimpleType::CompilerInput$$com.google.javascript.jscomp.VarCheck#272:13:0.2981
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#272:527:0.2981
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#272:1116:0.2981
+Insert After$$Block::null$$com.google.javascript.jscomp.VarCheck#262:1:0.2981
+Default$$SimpleName::synthesizedExternsInput$$com.google.javascript.jscomp.VarCheck#262:44:0.2981
+Insert Before$$SimpleName::synthesizedExternsInput$$com.google.javascript.jscomp.VarCheck#262:123:0.2981
+Default$$SimpleName::synthesizedExternsRoot$$com.google.javascript.jscomp.VarCheck#271:44:0.2981
+Insert Before$$SimpleName::synthesizedExternsRoot$$com.google.javascript.jscomp.VarCheck#271:123:0.2981
+Default$$SimpleName::synthesizedExternsInput$$com.google.javascript.jscomp.VarCheck#263:1:0.2981
+Default$$SimpleName::synthesizedExternsInput$$com.google.javascript.jscomp.VarCheck#266:590:0.2981
+Default$$SimpleName::synthesizedExternsRoot$$com.google.javascript.jscomp.VarCheck#275:590:0.2981
+Insert Before$$SimpleName::varModule$$com.google.javascript.jscomp.VarCheck#175:1:0.2728
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#175:29:0.2728
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#175:29:0.2728
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#175:29:0.2728
+Default$$SimpleName::getModule$$com.google.javascript.jscomp.VarCheck#175:62:0.2728
+Default$$SimpleType::JSModule$$com.google.javascript.jscomp.VarCheck#175:68:0.2728
+Default$$SimpleName::varInput$$com.google.javascript.jscomp.VarCheck#175:466:0.2728
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#175:527:0.2728
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#175:1116:0.2728
+Insert Before$$SimpleName::currModule$$com.google.javascript.jscomp.VarCheck#174:1:0.2728
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#174:29:0.2728
+Default$$SimpleName::getModule$$com.google.javascript.jscomp.VarCheck#174:62:0.2728
+Default$$SimpleType::JSModule$$com.google.javascript.jscomp.VarCheck#174:68:0.2728
+Default$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#174:466:0.2728
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#174:527:0.2728
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#174:1116:0.2728
+Insert Before$$SimpleName::moduleGraph$$com.google.javascript.jscomp.VarCheck#176:1:0.2728
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#176:29:0.2728
+Default$$SimpleName::getModuleGraph$$com.google.javascript.jscomp.VarCheck#176:62:0.2728
+Default$$SimpleType::JSModuleGraph$$com.google.javascript.jscomp.VarCheck#176:68:0.2728
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#176:466:0.2728
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#176:527:0.2728
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#176:1116:0.2728
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.VarCheck#177:2:0.2728
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.VarCheck#177:2:0.2728
+Insert After$$SimpleName::varModule$$com.google.javascript.jscomp.VarCheck#177:4:0.2728
+Insert After$$SimpleName::currModule$$com.google.javascript.jscomp.VarCheck#177:17:0.2728
+Default$$SimpleName::varModule$$com.google.javascript.jscomp.VarCheck#177:44:0.2728
+Default$$SimpleName::currModule$$com.google.javascript.jscomp.VarCheck#177:44:0.2728
+Default$$SimpleName::varModule$$com.google.javascript.jscomp.VarCheck#177:123:0.2728
+Insert Before$$SimpleName::varModule$$com.google.javascript.jscomp.VarCheck#177:123:0.2728
+Insert Before$$SimpleName::varModule$$com.google.javascript.jscomp.VarCheck#177:123:0.2728
+Insert Before$$SimpleName::currModule$$com.google.javascript.jscomp.VarCheck#177:123:0.2728
+Default$$SimpleName::currModule$$com.google.javascript.jscomp.VarCheck#177:235:0.2728
+Default$$SimpleName::getType$$com.google.javascript.jscomp.VarCheck#230:62:0.1789
+Default$$SimpleName::parent$$com.google.javascript.jscomp.VarCheck#230:466:0.1789
+Insert Before$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#166:1:0.1461
+Default$$SimpleName::getInput$$com.google.javascript.jscomp.VarCheck#166:62:0.1461
+Default$$SimpleType::CompilerInput$$com.google.javascript.jscomp.VarCheck#166:68:0.1461
+Default$$SimpleName::t$$com.google.javascript.jscomp.VarCheck#166:466:0.1461
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#166:527:0.1461
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#166:1116:0.1461
+Insert After$$Block::null$$com.google.javascript.jscomp.VarCheck#168:2:0.1461
+Insert After$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#168:4:0.1461
+Insert After$$SimpleName::varInput$$com.google.javascript.jscomp.VarCheck#168:17:0.1461
+Default$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#168:44:0.1461
+Default$$SimpleName::varInput$$com.google.javascript.jscomp.VarCheck#168:44:0.1461
+Default$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#168:123:0.1461
+Insert Before$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#168:123:0.1461
+Insert Before$$SimpleName::currInput$$com.google.javascript.jscomp.VarCheck#168:123:0.1461
+Insert Before$$SimpleName::varInput$$com.google.javascript.jscomp.VarCheck#168:123:0.1461
+Default$$SimpleName::varInput$$com.google.javascript.jscomp.VarCheck#168:235:0.1461
+Insert Before$$SimpleName::varInput$$com.google.javascript.jscomp.VarCheck#167:1:0.1461
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#167:2:0.1461
+Default$$SimpleType::CompilerInput$$com.google.javascript.jscomp.VarCheck#167:7:0.1461
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#167:527:0.1461
+Default$$QualifiedName::var.input$$com.google.javascript.jscomp.VarCheck#167:1116:0.1461
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.VarCheck#170:34:0.1461
+Default$$SimpleName::externs$$com.google.javascript.jscomp.VarCheck#102:7:0.1428
+Default$$SimpleType::NameRefInExternsCheck$$com.google.javascript.jscomp.VarCheck#102:44:0.1428
+Default$$SimpleName::traverse$$com.google.javascript.jscomp.VarCheck#102:46:0.1428
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#102:267:0.1428
+Default$$SimpleName::NodeTraversal$$com.google.javascript.jscomp.VarCheck#102:466:0.1428
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.VarCheck#102:1040:0.1428
+Insert After$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.VarCheck#229:3:0.1428
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#229:55:0.1428
+Default$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.VarCheck#229:60:0.1428
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#229:61:0.1428
+Default$$SimpleName::getType$$com.google.javascript.jscomp.VarCheck#229:62:0.1428
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#229:466:0.1428
+Insert After$$Modifier::private$$com.google.javascript.jscomp.VarCheck#227:2:0.1428
+Default$$Modifier::private$$com.google.javascript.jscomp.VarCheck#227:16:0.1428
+Insert Before$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#144:1:0.1419
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#144:8:0.1419
+Default$$SimpleType::Scope.Var$$com.google.javascript.jscomp.VarCheck#144:41:0.1419
+Default$$SimpleName::getVar$$com.google.javascript.jscomp.VarCheck#144:46:0.1419
+Default$$SimpleName::scope$$com.google.javascript.jscomp.VarCheck#144:466:0.1419
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#144:527:0.1419
+Default$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#144:1040:0.1419
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#144:1116:0.1419
+Insert Before$$SimpleName::scope$$com.google.javascript.jscomp.VarCheck#143:1:0.1419
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#143:8:0.1419
+Default$$SimpleName::getScope$$com.google.javascript.jscomp.VarCheck#143:62:0.1419
+Default$$SimpleType::Scope$$com.google.javascript.jscomp.VarCheck#143:68:0.1419
+Default$$SimpleName::t$$com.google.javascript.jscomp.VarCheck#143:466:0.1419
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#143:527:0.1419
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#143:1116:0.1419
+Insert After$$QualifiedName::Token.VAR$$com.google.javascript.jscomp.VarCheck#134:3:0.1419
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#134:55:0.1419
+Default$$QualifiedName::Token.VAR$$com.google.javascript.jscomp.VarCheck#134:60:0.1419
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#134:61:0.1419
+Default$$SimpleName::getType$$com.google.javascript.jscomp.VarCheck#134:62:0.1419
+Default$$SimpleName::parent$$com.google.javascript.jscomp.VarCheck#134:466:0.1419
+Default$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#145:44:0.1419
+Insert Before$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#145:123:0.1419
+Insert Before$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#118:1:0.1414
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#118:62:0.1414
+Default$$SimpleType::String$$com.google.javascript.jscomp.VarCheck#118:68:0.1414
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#118:466:0.1414
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#118:527:0.1414
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#118:1116:0.1414
+Default$$SimpleName::isEmpty$$com.google.javascript.jscomp.VarCheck#121:62:0.1414
+Default$$SimpleName::varName$$com.google.javascript.jscomp.VarCheck#121:466:0.1414
+Default$$SimpleName::varsToDeclareInExterns$$com.google.javascript.jscomp.VarCheck#107:3:0.1410
+Insert After$$EnhancedForStatement::null$$com.google.javascript.jscomp.VarCheck#107:4:0.1410
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.VarCheck#107:26:0.1410
+Default$$Block::null$$com.google.javascript.jscomp.VarCheck#107:73:0.1410
+Default$$SimpleType::String$$com.google.javascript.jscomp.VarCheck#107:232:0.1410
+Insert Before$$SimpleName::varsToDeclareInExterns$$com.google.javascript.jscomp.VarCheck#75:1:0.1405
+Insert After$$Modifier::private$$com.google.javascript.jscomp.VarCheck#75:3:0.1405
+Default$$Modifier::private$$com.google.javascript.jscomp.VarCheck#75:5:0.1405
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.VarCheck#75:6:0.1405
+Default$$SimpleName::newHashSet$$com.google.javascript.jscomp.VarCheck#75:62:0.1405
+Default$$SimpleType::Set$$com.google.javascript.jscomp.VarCheck#75:66:0.1405
+Default$$SimpleType::String$$com.google.javascript.jscomp.VarCheck#75:86:0.1405
+Insert After$$SimpleType::String$$com.google.javascript.jscomp.VarCheck#75:86:0.1405
+Default$$SimpleName::Sets$$com.google.javascript.jscomp.VarCheck#75:466:0.1405
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#75:1116:0.1405
+Insert After$$Block::null$$com.google.javascript.jscomp.VarCheck#114:2:0.1405
+Insert After$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.VarCheck#114:3:0.1405
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#114:55:0.1405
+Default$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.VarCheck#114:60:0.1405
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#114:61:0.1405
+Default$$SimpleName::getType$$com.google.javascript.jscomp.VarCheck#114:62:0.1405
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#114:466:0.1405
+Default$$SimpleName::traverseRoots$$com.google.javascript.jscomp.VarCheck#105:46:0.1405
+Default$$SimpleName::NodeTraversal$$com.google.javascript.jscomp.VarCheck#105:466:0.1405
+Default$$SimpleName::strictExternCheck$$com.google.javascript.jscomp.VarCheck#91:1:0.1405
+Default$$ThisExpression::null$$com.google.javascript.jscomp.VarCheck#91:13:0.1405
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#91:466:0.1405
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.VarCheck#89:64:0.1405
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.VarCheck#89:64:0.1405
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.VarCheck#89:96:0.1405
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.VarCheck#89:139:0.1405
+Default$$SimpleType::AbstractCompiler$$com.google.javascript.jscomp.VarCheck#89:232:0.1405
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.VarCheck#89:232:0.1405
+Insert Before$$SimpleName::synthesizedExternsInput$$com.google.javascript.jscomp.VarCheck#69:1:0.1405
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.VarCheck#69:2:0.1405
+Insert After$$Modifier::private$$com.google.javascript.jscomp.VarCheck#69:3:0.1405
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.VarCheck#69:6:0.1405
+Default$$SimpleType::CompilerInput$$com.google.javascript.jscomp.VarCheck#69:6:0.1405
+Default$$Modifier::private$$com.google.javascript.jscomp.VarCheck#69:14:0.1405
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#69:155:0.1405
+Default$$NullLiteral::null$$com.google.javascript.jscomp.VarCheck#69:1116:0.1405
+Insert Before$$SimpleName::synthesizedExternsRoot$$com.google.javascript.jscomp.VarCheck#70:1:0.1405
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.VarCheck#70:2:0.1405
+Insert After$$Modifier::private$$com.google.javascript.jscomp.VarCheck#70:3:0.1405
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.VarCheck#70:6:0.1405
+Default$$SimpleType::Node$$com.google.javascript.jscomp.VarCheck#70:6:0.1405
+Default$$Modifier::private$$com.google.javascript.jscomp.VarCheck#70:14:0.1405
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#70:155:0.1405
+Default$$NullLiteral::null$$com.google.javascript.jscomp.VarCheck#70:1116:0.1405
+Default$$SimpleName::sanityCheck$$com.google.javascript.jscomp.VarCheck#93:1:0.1405
+Default$$ThisExpression::null$$com.google.javascript.jscomp.VarCheck#93:13:0.1405
+Default$$FieldAccess::null$$com.google.javascript.jscomp.VarCheck#93:25:0.1405
+Default$$SimpleName::sanityCheck$$com.google.javascript.jscomp.VarCheck#93:187:0.1405
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#90:1:0.1405
+Default$$ThisExpression::null$$com.google.javascript.jscomp.VarCheck#90:13:0.1405
+Default$$FieldAccess::null$$com.google.javascript.jscomp.VarCheck#90:25:0.1405
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.VarCheck#90:187:0.1405
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.VarCheck#115:34:0.1405
+Default$$SimpleName::sanityCheck$$com.google.javascript.jscomp.VarCheck#101:51:0.1405
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#239:1:0.1206
+Insert Before$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#239:1:0.1206
+Default$$SimpleType::Scope.Var$$com.google.javascript.jscomp.VarCheck#239:6:0.1206
+Default$$SimpleName::getVar$$com.google.javascript.jscomp.VarCheck#239:29:0.1206
+Default$$SimpleName::getString$$com.google.javascript.jscomp.VarCheck#239:62:0.1206
+Default$$SimpleName::scope$$com.google.javascript.jscomp.VarCheck#239:466:0.1206
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#239:466:0.1206
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#239:527:0.1206
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#239:1040:0.1206
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#239:1116:0.1206
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#238:1:0.1206
+Insert Before$$SimpleName::scope$$com.google.javascript.jscomp.VarCheck#238:1:0.1206
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.VarCheck#238:27:0.1206
+Default$$SimpleName::getScope$$com.google.javascript.jscomp.VarCheck#238:62:0.1206
+Default$$SimpleType::Scope$$com.google.javascript.jscomp.VarCheck#238:68:0.1206
+Default$$SimpleName::t$$com.google.javascript.jscomp.VarCheck#238:466:0.1206
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.VarCheck#238:527:0.1206
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#238:1116:0.1206
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#237:14:0.1206
+Default$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#237:61:0.1206
+Default$$SimpleName::getFirstChild$$com.google.javascript.jscomp.VarCheck#237:62:0.1206
+Insert Before$$SimpleName::n$$com.google.javascript.jscomp.VarCheck#237:123:0.1206
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.VarCheck#237:235:0.1206
+Default$$SimpleName::parent$$com.google.javascript.jscomp.VarCheck#237:466:0.1206
+Default$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#240:44:0.1206
+Insert Before$$SimpleName::var$$com.google.javascript.jscomp.VarCheck#240:123:0.1206
+Insert Before$$SimpleName::UNDEFINED_VAR_ERROR$$com.google.javascript.jscomp.VarCheck#36:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#36:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#36:9:0.0298
+Default$$SimpleName::error$$com.google.javascript.jscomp.VarCheck#36:12:0.0298
+Default$$SimpleName::DiagnosticType$$com.google.javascript.jscomp.VarCheck#36:466:0.0298
+Insert Before$$SimpleName::VIOLATED_MODULE_DEP_ERROR$$com.google.javascript.jscomp.VarCheck#40:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#40:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#40:9:0.0298
+Default$$SimpleName::error$$com.google.javascript.jscomp.VarCheck#40:12:0.0298
+Default$$SimpleName::DiagnosticType$$com.google.javascript.jscomp.VarCheck#40:466:0.0298
+Insert Before$$SimpleName::MISSING_MODULE_DEP_ERROR$$com.google.javascript.jscomp.VarCheck#45:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#45:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#45:9:0.0298
+Default$$SimpleName::warning$$com.google.javascript.jscomp.VarCheck#45:12:0.0298
+Default$$SimpleName::DiagnosticType$$com.google.javascript.jscomp.VarCheck#45:466:0.0298
+Insert Before$$SimpleName::STRICT_MODULE_DEP_ERROR$$com.google.javascript.jscomp.VarCheck#50:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#50:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#50:9:0.0298
+Default$$SimpleName::disabled$$com.google.javascript.jscomp.VarCheck#50:12:0.0298
+Default$$SimpleName::DiagnosticType$$com.google.javascript.jscomp.VarCheck#50:466:0.0298
+Insert Before$$SimpleName::NAME_REFERENCE_IN_EXTERNS_ERROR$$com.google.javascript.jscomp.VarCheck#55:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#55:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#55:9:0.0298
+Insert Before$$SimpleName::UNDEFINED_EXTERN_VAR_ERROR$$com.google.javascript.jscomp.VarCheck#60:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#60:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#60:9:0.0298
+Insert Before$$SimpleName::INVALID_FUNCTION_DECL$$com.google.javascript.jscomp.VarCheck#65:1:0.0298
+Insert After$$Modifier::final$$com.google.javascript.jscomp.VarCheck#65:3:0.0298
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.VarCheck#65:9:0.0298
+Default$$SimpleName::checkState$$com.google.javascript.jscomp.Normalize#698:29:0.1491
+Default$$SimpleName::hasOneChild$$com.google.javascript.jscomp.Normalize#698:62:0.1491
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#698:87:0.1491
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.Normalize#698:466:0.1491
+Default$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#698:466:0.1491
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#698:1040:0.1491
+Insert After$$QualifiedName::Token.FUNCTION$$com.google.javascript.jscomp.Normalize#690:3:0.1491
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.Normalize#690:11:0.1491
+Default$$SimpleName::v$$com.google.javascript.jscomp.Normalize#690:44:0.1491
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#690:55:0.1491
+Default$$QualifiedName::Token.FUNCTION$$com.google.javascript.jscomp.Normalize#690:60:0.1491
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#690:61:0.1491
+Default$$SimpleName::getType$$com.google.javascript.jscomp.Normalize#690:62:0.1491
+Insert Before$$SimpleName::v$$com.google.javascript.jscomp.Normalize#690:123:0.1491
+Default$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#690:466:0.1491
+Insert After$$QualifiedName::Token.VAR$$com.google.javascript.jscomp.Normalize#697:3:0.1491
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#697:55:0.1491
+Default$$QualifiedName::Token.VAR$$com.google.javascript.jscomp.Normalize#697:60:0.1491
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#697:61:0.1491
+Default$$SimpleName::getType$$com.google.javascript.jscomp.Normalize#697:62:0.1491
+Default$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#697:466:0.1491
+Insert After$$PrefixExpression::!$$com.google.javascript.jscomp.Normalize#660:6:0.1291
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#660:13:0.1291
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#660:51:0.1291
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.Normalize#660:60:0.1291
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#660:61:0.1291
+Default$$SimpleName::isExtern$$com.google.javascript.jscomp.Normalize#660:62:0.1291
+Default$$SimpleName::isExtern$$com.google.javascript.jscomp.Normalize#660:62:0.1291
+Default$$SimpleName::v$$com.google.javascript.jscomp.Normalize#660:466:0.1291
+Default$$SimpleName::input$$com.google.javascript.jscomp.Normalize#660:466:0.1291
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.Normalize#668:1:0.1240
+Default$$QualifiedName::Token.CATCH$$com.google.javascript.jscomp.Normalize#668:3:0.1240
+Insert After$$QualifiedName::Token.CATCH$$com.google.javascript.jscomp.Normalize#668:3:0.1240
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#668:4:0.1240
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.Normalize#668:11:0.1240
+Default$$SimpleName::getType$$com.google.javascript.jscomp.Normalize#668:11:0.1240
+Default$$SimpleName::v$$com.google.javascript.jscomp.Normalize#668:44:0.1240
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#668:55:0.1240
+Default$$SimpleName::getParentNode$$com.google.javascript.jscomp.Normalize#668:62:0.1240
+Insert Before$$SimpleName::v$$com.google.javascript.jscomp.Normalize#668:123:0.1240
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#668:466:0.1240
+Default$$SimpleName::v$$com.google.javascript.jscomp.Normalize#668:466:0.1240
+Insert After$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.Normalize#651:3:0.1085
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#651:55:0.1085
+Default$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.Normalize#651:60:0.1085
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#651:61:0.1085
+Default$$SimpleName::getType$$com.google.javascript.jscomp.Normalize#651:62:0.1085
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.Normalize#651:466:0.1085
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#651:466:0.1085
+Insert Before$$SimpleName::v$$com.google.javascript.jscomp.Normalize#653:1:0.1085
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.Normalize#653:8:0.1085
+Default$$SimpleType::Var$$com.google.javascript.jscomp.Normalize#653:41:0.1085
+Default$$SimpleName::getVar$$com.google.javascript.jscomp.Normalize#653:46:0.1085
+Default$$SimpleName::s$$com.google.javascript.jscomp.Normalize#653:466:0.1085
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#653:527:0.1085
+Default$$SimpleName::name$$com.google.javascript.jscomp.Normalize#653:1040:0.1085
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#653:1116:0.1085
+Insert Before$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#652:1:0.1085
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.Normalize#652:8:0.1085
+Default$$SimpleName::getParent$$com.google.javascript.jscomp.Normalize#652:62:0.1085
+Default$$SimpleType::Node$$com.google.javascript.jscomp.Normalize#652:68:0.1085
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#652:466:0.1085
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#652:527:0.1085
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#652:1116:0.1085
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.Normalize#655:11:0.1085
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#655:14:0.1085
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#655:33:0.1085
+Default$$SimpleName::v$$com.google.javascript.jscomp.Normalize#655:44:0.1085
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.Normalize#655:61:0.1085
+Default$$SimpleName::isGlobal$$com.google.javascript.jscomp.Normalize#655:62:0.1085
+Insert Before$$SimpleName::v$$com.google.javascript.jscomp.Normalize#655:123:0.1085
+Default$$SimpleName::s$$com.google.javascript.jscomp.Normalize#655:466:0.1085
+Default$$SimpleName::traverseRoots$$com.google.javascript.jscomp.Normalize#633:46:0.0125
+Default$$SimpleName::externs$$com.google.javascript.jscomp.Normalize#633:267:0.0125
+Default$$SimpleName::t$$com.google.javascript.jscomp.Normalize#633:466:0.0125
+Default$$SimpleName::root$$com.google.javascript.jscomp.Normalize#633:1040:0.0125
+Default$$SimpleName::traverseRoots$$com.google.javascript.jscomp.Normalize#126:46:0.0125
+Default$$SimpleName::externs$$com.google.javascript.jscomp.Normalize#126:267:0.0125
+Default$$SimpleName::t$$com.google.javascript.jscomp.Normalize#126:466:0.0125
+Default$$SimpleName::root$$com.google.javascript.jscomp.Normalize#126:1040:0.0125
+Default$$SimpleName::removeDuplicateDeclarations$$com.google.javascript.jscomp.Normalize#142:13:0.0125
+Default$$SimpleName::externs$$com.google.javascript.jscomp.Normalize#142:267:0.0125
+Default$$SimpleName::root$$com.google.javascript.jscomp.Normalize#142:1040:0.0125
+Insert Before$$SimpleName::hasOkDuplicateDeclaration$$com.google.javascript.jscomp.Normalize#642:1:0.0125
+Insert After$$Modifier::private$$com.google.javascript.jscomp.Normalize#642:3:0.0125
+Default$$Modifier::private$$com.google.javascript.jscomp.Normalize#642:5:0.0125
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.Normalize#642:6:0.0125
+Default$$SimpleName::newHashSet$$com.google.javascript.jscomp.Normalize#642:62:0.0125
+Default$$SimpleType::Set$$com.google.javascript.jscomp.Normalize#642:66:0.0125
+Default$$SimpleType::Var$$com.google.javascript.jscomp.Normalize#642:86:0.0125
+Insert After$$SimpleType::Var$$com.google.javascript.jscomp.Normalize#642:86:0.0125
+Default$$SimpleName::Sets$$com.google.javascript.jscomp.Normalize#642:466:0.0125
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#642:1116:0.0125
+Default$$SimpleName::getScope$$com.google.javascript.jscomp.Normalize#760:62:0.0125
+Default$$SimpleName::t$$com.google.javascript.jscomp.Normalize#760:466:0.0125
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#760:1531:0.0125
+Default$$SimpleType::NodeTraversal$$com.google.javascript.jscomp.Normalize#632:1:0.0125
+Insert Before$$SimpleName::t$$com.google.javascript.jscomp.Normalize#632:1:0.0125
+Default$$SimpleType::NodeTraversal$$com.google.javascript.jscomp.Normalize#632:34:0.0125
+Default$$SimpleName::tickler$$com.google.javascript.jscomp.Normalize#632:64:0.0125
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.Normalize#632:70:0.0125
+Default$$SimpleName::scopeCreator$$com.google.javascript.jscomp.Normalize#632:118:0.0125
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#632:527:0.0125
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.Normalize#632:1116:0.0125
+Default$$SimpleType::NodeTraversal$$com.google.javascript.jscomp.Normalize#125:1:0.0125
+Insert Before$$SimpleName::t$$com.google.javascript.jscomp.Normalize#125:1:0.0125
+Default$$SimpleType::NodeTraversal$$com.google.javascript.jscomp.Normalize#125:34:0.0125
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.Normalize#125:70:0.0125
+Default$$SimpleName::renamer$$com.google.javascript.jscomp.Normalize#125:118:0.0125
+Insert After$$SimpleName::renamer$$com.google.javascript.jscomp.Normalize#125:118:0.0125
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#125:527:0.0125
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.Normalize#125:1116:0.0125
+Insert Before$$SimpleName::scopeCreator$$com.google.javascript.jscomp.Normalize#630:1:0.0125
+Default$$SimpleType::SyntacticScopeCreator$$com.google.javascript.jscomp.Normalize#630:34:0.0125
+Insert Before$$SimpleName::tickler$$com.google.javascript.jscomp.Normalize#629:1:0.0125
+Default$$SimpleType::Callback$$com.google.javascript.jscomp.Normalize#629:16:0.0125
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.Normalize#629:21:0.0125
+Default$$SimpleType::ScopeTicklingCallback$$com.google.javascript.jscomp.Normalize#629:44:0.0125
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#629:527:0.0125
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.Normalize#629:1116:0.0125
+Insert Before$$SimpleName::renamer$$com.google.javascript.jscomp.Normalize#124:1:0.0125
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.Normalize#124:7:0.0125
+Default$$SimpleType::MakeDeclaredNamesUnique$$com.google.javascript.jscomp.Normalize#124:16:0.0125
+Default$$SimpleType::MakeDeclaredNamesUnique$$com.google.javascript.jscomp.Normalize#124:44:0.0125
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#124:527:0.0125
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.Normalize#124:1116:0.0125
+Insert After$$Modifier::private$$com.google.javascript.jscomp.Normalize#639:1:0.0125
+Insert Before$$Modifier::final$$com.google.javascript.jscomp.Normalize#639:1:0.0125
+Insert After$$Modifier::final$$com.google.javascript.jscomp.Normalize#639:3:0.0125
+Insert After$$Modifier::private$$com.google.javascript.jscomp.Normalize#754:1:0.0125
+Insert Before$$Modifier::final$$com.google.javascript.jscomp.Normalize#754:1:0.0125
+Insert After$$Modifier::final$$com.google.javascript.jscomp.Normalize#754:3:0.0125
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.Normalize#77:5:0.0125
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.Normalize#77:64:0.0125
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.Normalize#77:64:0.0125
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.Normalize#77:96:0.0125
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.Normalize#77:139:0.0125
+Default$$SimpleType::AbstractCompiler$$com.google.javascript.jscomp.Normalize#77:232:0.0125
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.Normalize#77:232:0.0125
+Default$$SimpleType::NodeTraversal$$com.google.javascript.jscomp.Normalize#120:34:0.0125
+Default$$SimpleName::assertOnChange$$com.google.javascript.jscomp.Normalize#79:1:0.0125
+Default$$ThisExpression::null$$com.google.javascript.jscomp.Normalize#79:13:0.0125
+Default$$FieldAccess::null$$com.google.javascript.jscomp.Normalize#79:25:0.0125
+Default$$Assignment::=$$com.google.javascript.jscomp.Normalize#79:129:0.0125
+Default$$SimpleName::assertOnChange$$com.google.javascript.jscomp.Normalize#79:187:0.0125
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.Normalize#78:1:0.0125
+Default$$ThisExpression::null$$com.google.javascript.jscomp.Normalize#78:13:0.0125
+Default$$FieldAccess::null$$com.google.javascript.jscomp.Normalize#78:25:0.0125
+Default$$Assignment::=$$com.google.javascript.jscomp.Normalize#78:98:0.0125
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.Normalize#78:187:0.0125
+Insert Before$$SimpleName::isMarkedConstant$$com.google.javascript.jscomp.Normalize#365:1:0.0124
+Default$$SimpleName::getBooleanProp$$com.google.javascript.jscomp.Normalize#365:10:0.0124
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#365:466:0.0124
+Default$$QualifiedName::Node.IS_CONSTANT_NAME$$com.google.javascript.jscomp.Normalize#365:1040:0.0124
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#365:1116:0.0124
+Insert Before$$PrefixExpression::!$$com.google.javascript.jscomp.Normalize#366:9:0.0124
+Default$$SimpleName::isMarkedConstant$$com.google.javascript.jscomp.Normalize#366:51:0.0124
+Insert Before$$SimpleName::isObjLitKey$$com.google.javascript.jscomp.Normalize#360:1:0.0123
+Default$$SimpleName::isObjectLitKey$$com.google.javascript.jscomp.Normalize#360:46:0.0123
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.Normalize#360:253:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#360:267:0.0123
+Default$$SimpleName::NodeUtil$$com.google.javascript.jscomp.Normalize#360:466:0.0123
+Default$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#360:1040:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#360:1116:0.0123
+Default$$SimpleName::annotateConstantsByConvention$$com.google.javascript.jscomp.Normalize#341:13:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#341:267:0.0123
+Default$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#341:1040:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#341:1101:0.0123
+Insert After$$Block::null$$com.google.javascript.jscomp.Normalize#340:9:0.0123
+Default$$SimpleName::isNormalizedObfuscated$$com.google.javascript.jscomp.Normalize#340:11:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#340:51:0.0123
+Default$$SimpleName::getLifeCycleStage$$com.google.javascript.jscomp.Normalize#340:62:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#340:466:0.0123
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.Normalize#340:466:0.0123
+Insert After$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.Normalize#364:3:0.0123
+Default$$SimpleName::isProperty$$com.google.javascript.jscomp.Normalize#364:3:0.0123
+Insert After$$SimpleName::isProperty$$com.google.javascript.jscomp.Normalize#364:17:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#364:55:0.0123
+Default$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.Normalize#364:60:0.0123
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#364:61:0.0123
+Default$$SimpleName::getType$$com.google.javascript.jscomp.Normalize#364:62:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#364:466:0.0123
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.Normalize#351:466:0.0123
+Insert Before$$SimpleName::isProperty$$com.google.javascript.jscomp.Normalize#361:1:0.0123
+Insert Before$$SimpleName::isObjLitKey$$com.google.javascript.jscomp.Normalize#361:123:0.0123
+Insert After$$Modifier::public$$com.google.javascript.jscomp.Normalize#70:1:0.0123
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.Normalize#70:1:0.0123
+Insert Before$$SimpleName::CATCH_BLOCK_VAR_ERROR$$com.google.javascript.jscomp.Normalize#70:1:0.0123
+Insert Before$$Modifier::public$$com.google.javascript.jscomp.Normalize#70:3:0.0123
+Insert After$$Modifier::final$$com.google.javascript.jscomp.Normalize#70:3:0.0123
+Default$$Modifier::public$$com.google.javascript.jscomp.Normalize#70:9:0.0123
+Insert After$$QualifiedName::Token.LABEL$$com.google.javascript.jscomp.Normalize#442:3:0.0123
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#442:18:0.0123
+Default$$SimpleName::isStatementBlock$$com.google.javascript.jscomp.Normalize#442:46:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#442:55:0.0123
+Default$$QualifiedName::Token.LABEL$$com.google.javascript.jscomp.Normalize#442:60:0.0123
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#442:61:0.0123
+Default$$SimpleName::getType$$com.google.javascript.jscomp.Normalize#442:62:0.0123
+Default$$SimpleName::NodeUtil$$com.google.javascript.jscomp.Normalize#442:466:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#442:466:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#442:1040:0.0123
+Default$$SimpleName::doStatementNormalizations$$com.google.javascript.jscomp.Normalize#312:13:0.0123
+Default$$SimpleName::t$$com.google.javascript.jscomp.Normalize#312:267:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#312:267:0.0123
+Default$$SimpleName::parent$$com.google.javascript.jscomp.Normalize#312:1040:0.0123
+Insert After$$Block::null$$com.google.javascript.jscomp.Normalize#448:12:0.0123
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Normalize#448:36:0.0123
+Default$$SimpleName::isStatementBlock$$com.google.javascript.jscomp.Normalize#448:46:0.0123
+Default$$SimpleName::NodeUtil$$com.google.javascript.jscomp.Normalize#448:466:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#448:1040:0.0123
+Insert Before$$SimpleName::next$$com.google.javascript.jscomp.Normalize#499:1:0.0123
+Insert Before$$SimpleName::c$$com.google.javascript.jscomp.Normalize#499:1:0.0123
+Default$$SimpleName::c$$com.google.javascript.jscomp.Normalize#499:25:0.0123
+Default$$SimpleName::c$$com.google.javascript.jscomp.Normalize#499:44:0.0123
+Default$$SimpleName::getFirstChild$$com.google.javascript.jscomp.Normalize#499:62:0.0123
+Insert Before$$SimpleName::c$$com.google.javascript.jscomp.Normalize#499:123:0.0123
+Default$$SimpleName::n$$com.google.javascript.jscomp.Normalize#499:466:0.0123
+Default$$SimpleName::next$$com.google.javascript.jscomp.Normalize#499:624:0.0123

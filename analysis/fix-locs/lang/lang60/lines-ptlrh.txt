@@ -1,0 +1,134 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$Dimension::null$$org.apache.commons.lang.text.StrBuilder#1672:1:0.7071
+Insert Before$$SimpleName::thisBuf$$org.apache.commons.lang.text.StrBuilder#1672:1:0.7071
+Default$$SimpleName::buffer$$org.apache.commons.lang.text.StrBuilder#1672:1116:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1673:1:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1673:2:0.7071
+Insert After$$QualifiedName::thisBuf.length$$org.apache.commons.lang.text.StrBuilder#1673:3:0.7071
+Default$$VariableDeclarationExpression::null$$org.apache.commons.lang.text.StrBuilder#1673:4:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1673:17:0.7071
+Default$$InfixExpression::<$$org.apache.commons.lang.text.StrBuilder#1673:39:0.7071
+Default$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1673:55:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1673:123:0.7071
+Default$$QualifiedName::thisBuf.length$$org.apache.commons.lang.text.StrBuilder#1673:235:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1673:1116:0.7071
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang.text.StrBuilder#1675:17:0.7071
+Default$$ReturnStatement::null$$org.apache.commons.lang.text.StrBuilder#1675:1101:0.7071
+Insert Before$$ArrayAccess::null$$org.apache.commons.lang.text.StrBuilder#1674:4:0.7071
+Insert After$$Block::null$$org.apache.commons.lang.text.StrBuilder#1674:7:0.7071
+Default$$SimpleName::thisBuf$$org.apache.commons.lang.text.StrBuilder#1674:11:0.7071
+Default$$SimpleName::ch$$org.apache.commons.lang.text.StrBuilder#1674:12:0.7071
+Insert After$$SimpleName::ch$$org.apache.commons.lang.text.StrBuilder#1674:17:0.7071
+Default$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1674:38:0.7071
+Insert After$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1206:4:0.5774
+Default$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1206:5:0.5774
+Default$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1206:5:0.5774
+Default$$SimpleName::deleteImpl$$org.apache.commons.lang.text.StrBuilder#1206:13:0.5774
+Insert After$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1206:17:0.5774
+Default$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1206:123:0.5774
+Insert Before$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1206:123:0.5774
+Default$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1206:235:0.5774
+Insert Before$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1202:1:0.5774
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1202:44:0.5774
+Default$$SimpleName::length$$org.apache.commons.lang.text.StrBuilder#1202:62:0.5774
+Insert Before$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1202:123:0.5774
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1202:466:0.5774
+Insert Before$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1204:1:0.5774
+Default$$SimpleName::indexOf$$org.apache.commons.lang.text.StrBuilder#1204:13:0.5774
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1204:48:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1204:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.lang.text.StrBuilder#1204:1116:0.5774
+Insert After$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1203:4:0.5774
+Default$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1203:115:0.5774
+Insert Before$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1203:123:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1203:235:0.5774
+Insert After$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1205:4:0.5774
+Default$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1205:115:0.5774
+Insert Before$$SimpleName::index$$org.apache.commons.lang.text.StrBuilder#1205:123:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1205:235:0.5774
+Default$$SimpleName::thisBuf$$org.apache.commons.lang.text.StrBuilder#1780:1:0.3162
+Insert After$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1780:4:0.3162
+Insert After$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1780:17:0.3162
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang.text.StrBuilder#1780:18:0.3162
+Default$$InfixExpression::+$$org.apache.commons.lang.text.StrBuilder#1780:38:0.3162
+Default$$SimpleName::charAt$$org.apache.commons.lang.text.StrBuilder#1780:46:0.3162
+Default$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1780:123:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1780:123:0.3162
+Default$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1780:235:0.3162
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1780:466:0.3162
+Default$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1780:1040:0.3162
+Insert Before$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1765:1:0.3162
+Default$$SimpleName::length$$org.apache.commons.lang.text.StrBuilder#1765:62:0.3162
+Default$$PrimitiveType::int$$org.apache.commons.lang.text.StrBuilder#1765:68:0.3162
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1765:253:0.3162
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1765:466:0.3162
+Default$$MethodInvocation::null$$org.apache.commons.lang.text.StrBuilder#1765:1116:0.3162
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1778:1:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1778:1:0.3162
+Insert After$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1778:4:0.3162
+Default$$InfixExpression::<$$org.apache.commons.lang.text.StrBuilder#1778:5:0.3162
+Default$$VariableDeclarationExpression::null$$org.apache.commons.lang.text.StrBuilder#1778:12:0.3162
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1778:17:0.3162
+Insert After$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1778:17:0.3162
+Default$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1778:123:0.3162
+Insert Before$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1778:123:0.3162
+Default$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1778:235:0.3162
+Default$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1778:1116:0.3162
+Insert Before$$SimpleName::len$$org.apache.commons.lang.text.StrBuilder#1776:1:0.3162
+Insert After$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1776:4:0.3162
+Insert After$$NumberLiteral::1$$org.apache.commons.lang.text.StrBuilder#1776:4:0.3162
+Insert After$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1776:17:0.3162
+Default$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1776:123:0.3162
+Insert Before$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1776:123:0.3162
+Default$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1776:235:0.3162
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1776:253:0.3162
+Insert After$$Dimension::null$$org.apache.commons.lang.text.StrBuilder#1775:1:0.3162
+Insert Before$$SimpleName::thisBuf$$org.apache.commons.lang.text.StrBuilder#1775:1:0.3162
+Default$$SimpleName::buffer$$org.apache.commons.lang.text.StrBuilder#1775:1116:0.3162
+Insert Before$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1779:1:0.3162
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1779:2:0.3162
+Insert After$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1779:4:0.3162
+Default$$VariableDeclarationExpression::null$$org.apache.commons.lang.text.StrBuilder#1779:12:0.3162
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#1779:17:0.3162
+Insert After$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1779:17:0.3162
+Default$$InfixExpression::<$$org.apache.commons.lang.text.StrBuilder#1779:39:0.3162
+Default$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1779:123:0.3162
+Insert Before$$SimpleName::j$$org.apache.commons.lang.text.StrBuilder#1779:123:0.3162
+Default$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1779:235:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1779:1116:0.3162
+Insert After$$Block::null$$org.apache.commons.lang.text.StrBuilder#1762:1:0.3162
+Insert After$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1762:4:0.3162
+Insert After$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1762:17:0.3162
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1762:44:0.3162
+Insert Before$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#1762:123:0.3162
+Default$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1762:123:0.3162
+Insert Before$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1762:123:0.3162
+Default$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1762:235:0.3162
+Insert After$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1761:4:0.3162
+Default$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1761:10:0.3162
+Default$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1761:115:0.3162
+Insert Before$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1761:123:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1761:235:0.3162
+Insert After$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1769:4:0.3162
+Insert After$$Block::null$$org.apache.commons.lang.text.StrBuilder#1769:9:0.3162
+Default$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1769:115:0.3162
+Insert Before$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1769:123:0.3162
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#1769:235:0.3162
+Insert After$$Block::null$$org.apache.commons.lang.text.StrBuilder#1772:1:0.3162
+Insert After$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1772:4:0.3162
+Insert After$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1772:17:0.3162
+Default$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1772:123:0.3162
+Insert Before$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1772:123:0.3162
+Default$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1772:235:0.3162
+Insert After$$NumberLiteral::1$$org.apache.commons.lang.text.StrBuilder#1766:4:0.3162
+Default$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1766:115:0.3162
+Insert Before$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#1766:123:0.3162
+Default$$NumberLiteral::1$$org.apache.commons.lang.text.StrBuilder#1766:235:0.3162
+Default$$SimpleName::i$$org.apache.commons.lang.text.StrBuilder#1784:590:0.3162
+Insert After$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1114:4:0.2500
+Default$$SimpleName::startIndex$$org.apache.commons.lang.text.StrBuilder#1114:5:0.2500
+Insert After$$SimpleName::endIndex$$org.apache.commons.lang.text.StrBuilder#1114:17:0.2500
+Default$$SimpleName::arraycopy$$org.apache.commons.lang.text.StrBuilder#1114:46:0.2500
+Default$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1114:123:0.2500
+Insert Before$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#1114:123:0.2500
+Default$$SimpleName::endIndex$$org.apache.commons.lang.text.StrBuilder#1114:235:0.2500

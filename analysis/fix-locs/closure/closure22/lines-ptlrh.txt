@@ -1,0 +1,23 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#103:14:0.5774
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#103:61:0.5774
+Default$$SimpleName::parent$$com.google.javascript.jscomp.CheckSideEffects#103:61:0.5774
+Default$$SimpleName::isCall$$com.google.javascript.jscomp.CheckSideEffects#103:62:0.5774
+Default$$SimpleName::getFirstChild$$com.google.javascript.jscomp.CheckSideEffects#103:62:0.5774
+Insert Before$$SimpleName::parent$$com.google.javascript.jscomp.CheckSideEffects#103:123:0.5774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#103:235:0.5774
+Default$$SimpleName::gramps$$com.google.javascript.jscomp.CheckSideEffects#103:466:0.5774
+Default$$SimpleName::gramps$$com.google.javascript.jscomp.CheckSideEffects#103:466:0.5774
+Insert After$$QualifiedName::Token.EXPR_RESULT$$com.google.javascript.jscomp.CheckSideEffects#122:3:0.5774
+Insert After$$QualifiedName::Token.BLOCK$$com.google.javascript.jscomp.CheckSideEffects#122:3:0.5774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#122:55:0.5774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#122:55:0.5774
+Default$$QualifiedName::Token.EXPR_RESULT$$com.google.javascript.jscomp.CheckSideEffects#122:60:0.5774
+Default$$QualifiedName::Token.BLOCK$$com.google.javascript.jscomp.CheckSideEffects#122:60:0.5774
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#122:61:0.5774
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.CheckSideEffects#122:61:0.5774
+Default$$SimpleName::getType$$com.google.javascript.jscomp.CheckSideEffects#122:62:0.5774
+Default$$SimpleName::getType$$com.google.javascript.jscomp.CheckSideEffects#122:62:0.5774
+Default$$SimpleName::parent$$com.google.javascript.jscomp.CheckSideEffects#122:466:0.5774
+Default$$SimpleName::parent$$com.google.javascript.jscomp.CheckSideEffects#122:466:0.5774
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CheckSideEffects#113:1:0.5774

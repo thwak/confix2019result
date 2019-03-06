@@ -1,0 +1,76 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::min$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:46:0.5774
+Default$$SimpleName::getY$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:62:0.5774
+Default$$SimpleName::minY$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:68:0.5774
+Default$$SimpleName::Math$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:466:0.5774
+Default$$SimpleName::point$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:624:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#274:1040:0.5774
+Default$$SimpleName::max$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:46:0.5774
+Default$$SimpleName::getY$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:62:0.5774
+Default$$SimpleName::maxY$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:68:0.5774
+Default$$SimpleName::Math$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:466:0.5774
+Default$$SimpleName::point$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:624:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#275:1040:0.5774
+Default$$SimpleName::points$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:2:0.5774
+Insert After$$NumberLiteral::1$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:4:0.5774
+Default$$SimpleName::points$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:7:0.5774
+Default$$NumberLiteral::1$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:35:0.5774
+Default$$InfixExpression::-$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:38:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:38:0.5774
+Insert Before$$QualifiedName::points.length$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:55:0.5774
+Default$$QualifiedName::points.length$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:115:0.5774
+Default$$ArrayAccess::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#183:466:0.5774
+Insert Before$$SimpleName::minY$$org.apache.commons.math.optimization.fitting.GaussianFitter#271:1:0.5774
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#271:2:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#271:2:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#271:253:0.5774
+Default$$QualifiedName::Double.POSITIVE_INFINITY$$org.apache.commons.math.optimization.fitting.GaussianFitter#271:1116:0.5774
+Insert Before$$SimpleName::maxY$$org.apache.commons.math.optimization.fitting.GaussianFitter#272:1:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#272:2:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#272:2:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#272:253:0.5774
+Default$$QualifiedName::Double.NEGATIVE_INFINITY$$org.apache.commons.math.optimization.fitting.GaussianFitter#272:1116:0.5774
+Default$$SimpleType::OutOfRangeException$$org.apache.commons.math.optimization.fitting.GaussianFitter#277:34:0.5774
+Default$$SimpleName::minY$$org.apache.commons.math.optimization.fitting.GaussianFitter#277:64:0.5774
+Default$$SimpleName::y$$org.apache.commons.math.optimization.fitting.GaussianFitter#277:70:0.5774
+Insert Before$$SimpleName::y$$org.apache.commons.math.optimization.fitting.GaussianFitter#277:70:0.5774
+Default$$SimpleName::maxY$$org.apache.commons.math.optimization.fitting.GaussianFitter#277:118:0.5774
+Default$$SimpleType::OutOfRangeException$$org.apache.commons.math.optimization.fitting.GaussianFitter#182:232:0.5774
+Default$$SimpleType::WeightedObservedPoint$$org.apache.commons.math.optimization.fitting.GaussianFitter#273:19:0.5774
+Insert After$$Dimension::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:1:0.4082
+Insert Before$$SimpleName::twoPoints$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:1:0.4082
+Default$$SimpleName::getInterpolationPointsForY$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:13:0.4082
+Default$$SimpleType::WeightedObservedPoint$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:35:0.4082
+Default$$SimpleName::points$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:267:0.4082
+Default$$SimpleName::startIdx$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:267:0.4082
+Default$$SimpleName::idxStep$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:267:0.4082
+Default$$SimpleName::y$$org.apache.commons.math.optimization.fitting.GaussianFitter#226:1040:0.4082
+Default$$SimpleName::log$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:6:0.4082
+Default$$SimpleName::params$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:7:0.4082
+Default$$NumberLiteral::2$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:38:0.4082
+Insert Before$$NumberLiteral::2.0$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:115:0.4082
+Insert Before$$NumberLiteral::2.0$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:115:0.4082
+Insert Before$$SimpleName::fwhmApprox$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:123:0.4082
+Default$$SimpleName::Math$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:466:0.4082
+Default$$SimpleName::Math$$org.apache.commons.math.optimization.fitting.GaussianFitter#185:466:0.4082
+Default$$SimpleName::points$$org.apache.commons.math.optimization.fitting.GaussianFitter#169:16:0.4082
+Default$$SimpleName::sort$$org.apache.commons.math.optimization.fitting.GaussianFitter#169:46:0.4082
+Default$$SimpleName::Arrays$$org.apache.commons.math.optimization.fitting.GaussianFitter#169:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#169:1040:0.4082
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:2:0.4082
+Insert After$$Block::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:7:0.4082
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:14:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:60:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:61:0.4082
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:61:0.4082
+Default$$SimpleName::getX$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:62:0.4082
+Default$$SimpleName::getX$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:62:0.4082
+Default$$SimpleName::p1$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:466:0.4082
+Default$$SimpleName::p2$$org.apache.commons.math.optimization.fitting.GaussianFitter#316:466:0.4082
+Insert After$$Block::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#313:1:0.4082
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#313:2:0.4082
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#313:14:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#313:60:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.fitting.GaussianFitter#313:61:0.4082

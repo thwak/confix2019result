@@ -1,0 +1,80 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::name$$com.google.javascript.jscomp.CheckGlobalNames#220:7:0.3780
+Default$$QualifiedName::name.parent$$com.google.javascript.jscomp.CheckGlobalNames#220:624:0.3780
+Default$$SimpleName::reportRefToUndefinedName$$com.google.javascript.jscomp.CheckGlobalNames#159:13:0.2582
+Default$$SimpleName::name$$com.google.javascript.jscomp.CheckGlobalNames#159:267:0.2582
+Default$$SimpleName::ref$$com.google.javascript.jscomp.CheckGlobalNames#159:1040:0.2582
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckGlobalNames#159:1101:0.2582
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.CheckGlobalNames#223:466:0.2582
+Default$$QualifiedName::name.parent$$com.google.javascript.jscomp.CheckGlobalNames#218:44:0.2582
+Insert Before$$QualifiedName::name.parent$$com.google.javascript.jscomp.CheckGlobalNames#218:55:0.2582
+Insert After$$Block::null$$com.google.javascript.jscomp.CheckGlobalNames#158:9:0.2500
+Default$$Block::null$$com.google.javascript.jscomp.CheckGlobalNames#158:37:0.2500
+Default$$SimpleName::isGlobalExpr$$com.google.javascript.jscomp.CheckGlobalNames#158:51:0.2500
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.CheckGlobalNames#158:65:0.2500
+Default$$SimpleName::isExprResult$$com.google.javascript.jscomp.CheckGlobalNames#199:62:0.2357
+Default$$SimpleName::parent$$com.google.javascript.jscomp.CheckGlobalNames#199:466:0.2357
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CheckGlobalNames#198:1:0.2357
+Insert Before$$SimpleName::parent$$com.google.javascript.jscomp.CheckGlobalNames#198:1:0.2357
+Default$$SimpleName::getParent$$com.google.javascript.jscomp.CheckGlobalNames#198:2:0.2357
+Default$$QualifiedName::ref.node$$com.google.javascript.jscomp.CheckGlobalNames#198:466:0.2357
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#198:527:0.2357
+Default$$SimpleType::GlobalNamespace$$com.google.javascript.jscomp.CheckGlobalNames#81:34:0.1491
+Default$$SimpleName::externs$$com.google.javascript.jscomp.CheckGlobalNames#81:64:0.1491
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.CheckGlobalNames#81:70:0.1491
+Default$$SimpleName::root$$com.google.javascript.jscomp.CheckGlobalNames#81:118:0.1491
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.CheckGlobalNames#81:624:0.1491
+Insert Before$$SimpleName::isGlobalExpr$$com.google.javascript.jscomp.CheckGlobalNames#155:1:0.1231
+Default$$SimpleName::isExprResult$$com.google.javascript.jscomp.CheckGlobalNames#155:3:0.1231
+Default$$SimpleName::getParent$$com.google.javascript.jscomp.CheckGlobalNames#155:11:0.1231
+Default$$SimpleName::getNode$$com.google.javascript.jscomp.CheckGlobalNames#155:62:0.1231
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckGlobalNames#155:466:0.1231
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckGlobalNames#155:466:0.1231
+Default$$SimpleName::ref$$com.google.javascript.jscomp.CheckGlobalNames#155:466:0.1231
+Default$$SimpleName::checkDescendantNames$$com.google.javascript.jscomp.CheckGlobalNames#141:13:0.1231
+Default$$SimpleName::prop$$com.google.javascript.jscomp.CheckGlobalNames#141:267:0.1231
+Default$$SimpleName::propIsDefined$$com.google.javascript.jscomp.CheckGlobalNames#141:1040:0.1231
+Default$$SimpleName::validateName$$com.google.javascript.jscomp.CheckGlobalNames#140:13:0.1231
+Default$$SimpleName::prop$$com.google.javascript.jscomp.CheckGlobalNames#140:267:0.1231
+Default$$SimpleName::propIsDefined$$com.google.javascript.jscomp.CheckGlobalNames#140:1040:0.1231
+Insert After$$PrefixExpression::!$$com.google.javascript.jscomp.CheckGlobalNames#157:6:0.1231
+Insert Before$$PrefixExpression::!$$com.google.javascript.jscomp.CheckGlobalNames#157:9:0.1231
+Default$$SimpleName::isTypedef$$com.google.javascript.jscomp.CheckGlobalNames#157:13:0.1231
+Default$$SimpleName::isDefined$$com.google.javascript.jscomp.CheckGlobalNames#157:51:0.1231
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckGlobalNames#157:51:0.1231
+Default$$SimpleName::ref$$com.google.javascript.jscomp.CheckGlobalNames#157:1040:0.1231
+Insert Before$$SimpleName::declaration$$com.google.javascript.jscomp.CheckGlobalNames#149:1:0.1231
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CheckGlobalNames#149:48:0.1231
+Default$$SimpleName::getDeclaration$$com.google.javascript.jscomp.CheckGlobalNames#149:62:0.1231
+Default$$SimpleType::Ref$$com.google.javascript.jscomp.CheckGlobalNames#149:68:0.1231
+Default$$SimpleName::name$$com.google.javascript.jscomp.CheckGlobalNames#149:466:0.1231
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#149:527:0.1231
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckGlobalNames#149:1116:0.1231
+Insert Before$$SimpleName::moduleGraph$$com.google.javascript.jscomp.CheckGlobalNames#152:1:0.1231
+Default$$SimpleName::getModuleGraph$$com.google.javascript.jscomp.CheckGlobalNames#152:62:0.1231
+Default$$SimpleType::JSModuleGraph$$com.google.javascript.jscomp.CheckGlobalNames#152:68:0.1231
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.CheckGlobalNames#152:466:0.1231
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#152:527:0.1231
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CheckGlobalNames#152:1116:0.1231
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.CheckGlobalNames#153:18:0.1231
+Default$$SimpleName::getRefs$$com.google.javascript.jscomp.CheckGlobalNames#153:62:0.1231
+Default$$SimpleType::Ref$$com.google.javascript.jscomp.CheckGlobalNames#153:232:0.1231
+Default$$SimpleName::name$$com.google.javascript.jscomp.CheckGlobalNames#153:466:0.1231
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#132:1:0.1231
+Insert Before$$SimpleName::propIsDefined$$com.google.javascript.jscomp.CheckGlobalNames#132:1:0.1231
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.CheckGlobalNames#132:2:0.1231
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#132:253:0.1231
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.CheckGlobalNames#132:1116:0.1231
+Insert Before$$SimpleName::parent$$com.google.javascript.jscomp.CheckGlobalNames#150:1:0.1231
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#150:2:0.1231
+Default$$SimpleType::Name$$com.google.javascript.jscomp.CheckGlobalNames#150:7:0.1231
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CheckGlobalNames#150:527:0.1231
+Default$$QualifiedName::name.parent$$com.google.javascript.jscomp.CheckGlobalNames#150:1116:0.1231
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.CheckGlobalNames#129:3:0.1231
+Default$$SimpleType::Name$$com.google.javascript.jscomp.CheckGlobalNames#129:232:0.1231
+Insert After$$QualifiedName::name.localSets$$com.google.javascript.jscomp.CheckGlobalNames#101:3:0.0971
+Insert After$$NumberLiteral::0$$com.google.javascript.jscomp.CheckGlobalNames#101:4:0.0971
+Default$$SimpleName::checkDescendantNames$$com.google.javascript.jscomp.CheckGlobalNames#101:13:0.0971
+Default$$QualifiedName::name.localSets$$com.google.javascript.jscomp.CheckGlobalNames#101:35:0.0971
+Default$$QualifiedName::name.globalSets$$com.google.javascript.jscomp.CheckGlobalNames#101:55:0.0971
+Insert Before$$QualifiedName::name.globalSets$$com.google.javascript.jscomp.CheckGlobalNames#101:55:0.0971

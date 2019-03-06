@@ -1,0 +1,43 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#1441:1:0.5774
+Insert After$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#1441:7:0.5774
+Insert After$$Block::null$$org.apache.commons.lang3.StringUtils#1441:7:0.5774
+Default$$SimpleName::isEmpty$$org.apache.commons.lang3.StringUtils#1441:13:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#1441:18:0.5774
+Default$$SimpleName::isEmpty$$org.apache.commons.lang3.StringUtils#1441:46:0.5774
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#1441:61:0.5774
+Default$$SimpleName::ArrayUtils$$org.apache.commons.lang3.StringUtils#1441:466:0.5774
+Default$$SimpleName::cs$$org.apache.commons.lang3.StringUtils#1441:1040:0.5774
+Default$$SimpleName::searchChars$$org.apache.commons.lang3.StringUtils#1441:1040:0.5774
+Insert Before$$SimpleName::ch$$org.apache.commons.lang3.StringUtils#1447:1:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.StringUtils#1447:3:0.5774
+Default$$SimpleName::charAt$$org.apache.commons.lang3.StringUtils#1447:46:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.StringUtils#1447:253:0.5774
+Default$$SimpleName::cs$$org.apache.commons.lang3.StringUtils#1447:466:0.5774
+Default$$SimpleName::i$$org.apache.commons.lang3.StringUtils#1447:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#1447:1116:0.5774
+Insert Before$$SimpleName::csLength$$org.apache.commons.lang3.StringUtils#1444:1:0.5774
+Default$$SimpleName::length$$org.apache.commons.lang3.StringUtils#1444:62:0.5774
+Default$$PrimitiveType::int$$org.apache.commons.lang3.StringUtils#1444:68:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.StringUtils#1444:253:0.5774
+Default$$SimpleName::cs$$org.apache.commons.lang3.StringUtils#1444:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#1444:1116:0.5774
+Insert Before$$SimpleName::j$$org.apache.commons.lang3.StringUtils#1448:1:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.StringUtils#1448:2:0.5774
+Insert After$$SimpleName::j$$org.apache.commons.lang3.StringUtils#1448:4:0.5774
+Default$$VariableDeclarationExpression::null$$org.apache.commons.lang3.StringUtils#1448:12:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.StringUtils#1448:17:0.5774
+Insert After$$SimpleName::searchLength$$org.apache.commons.lang3.StringUtils#1448:17:0.5774
+Default$$InfixExpression::<$$org.apache.commons.lang3.StringUtils#1448:39:0.5774
+Default$$SimpleName::j$$org.apache.commons.lang3.StringUtils#1448:123:0.5774
+Insert Before$$SimpleName::j$$org.apache.commons.lang3.StringUtils#1448:123:0.5774
+Default$$SimpleName::searchLength$$org.apache.commons.lang3.StringUtils#1448:235:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.lang3.StringUtils#1448:1116:0.5774
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.StringUtils#1446:1:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.StringUtils#1446:2:0.5774
+Insert After$$SimpleName::i$$org.apache.commons.lang3.StringUtils#1446:4:0.5774
+Default$$VariableDeclarationExpression::null$$org.apache.commons.lang3.StringUtils#1446:12:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.StringUtils#1446:17:0.5774
+Insert After$$SimpleName::csLength$$org.apache.commons.lang3.StringUtils#1446:17:0.5774
+Default$$InfixExpression::<$$org.apache.commons.lang3.StringUtils#1446:39:0.5774
+Default$$SimpleName::i$$org.apache.commons.lang3.StringUtils#1446:123:0.5774

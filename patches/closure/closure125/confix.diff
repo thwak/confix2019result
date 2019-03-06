@@ -1,0 +1,19 @@
+--- ../result-tf-hash/closure/closure125/buggy/com/google/javascript/jscomp/TypeCheck.java	2019-02-21 22:35:19.294084323 +0000
++++ ../result-tf-hash/closure/closure125/confix/com/google/javascript/jscomp/TypeCheck.java	2019-02-21 22:35:19.274084460 +0000
+@@ -49,6 +49,7 @@
+ import java.util.HashMap;
+ import java.util.Iterator;
+ import java.util.Set;
++import java.util.Map;
+ 
+ /**
+  * <p>Checks the types of JS expressions against any declared type
+@@ -1660,7 +1661,7 @@
+       FunctionType fnType = type.toMaybeFunctionType();
+       if (fnType != null) {
+         visitParameterList(t, n, fnType);
+-        ensureTyped(t, n, fnType.getInstanceType());
++        ensureTyped(t, n, fnType.toMaybeEnumElementType());
+       } else {
+         ensureTyped(t, n);
+       }

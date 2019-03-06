@@ -1,0 +1,476 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$SimpleName::lineLength$$com.google.javascript.jscomp.CodePrinter#491:4:0.0176
+Insert After$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#491:17:0.0176
+Default$$SimpleName::lineLength$$com.google.javascript.jscomp.CodePrinter#491:123:0.0176
+Insert Before$$SimpleName::lineLength$$com.google.javascript.jscomp.CodePrinter#491:123:0.0176
+Default$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#491:235:0.0176
+Default$$SimpleName::preferredBreakPosition$$com.google.javascript.jscomp.CodePrinter#510:12:0.0170
+Default$$SimpleName::length$$com.google.javascript.jscomp.CodePrinter#510:62:0.0170
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#510:466:0.0170
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#510:624:0.0170
+Default$$SimpleName::append$$com.google.javascript.jscomp.CodePrinter#444:46:0.0170
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#444:466:0.0170
+Default$$SimpleName::str$$com.google.javascript.jscomp.CodePrinter#444:1040:0.0170
+Default$$SimpleName::lineLength$$com.google.javascript.jscomp.CodePrinter#445:12:0.0170
+Default$$SimpleName::length$$com.google.javascript.jscomp.CodePrinter#445:62:0.0170
+Default$$SimpleName::str$$com.google.javascript.jscomp.CodePrinter#445:466:0.0170
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#445:624:0.0170
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#207:1:0.0169
+Default$$SimpleName::charAt$$com.google.javascript.jscomp.CodePrinter#207:1:0.0169
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#207:1:0.0169
+Insert After$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#207:4:0.0169
+Insert After$$NumberLiteral::1$$com.google.javascript.jscomp.CodePrinter#207:4:0.0169
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#207:60:0.0169
+Default$$NumberLiteral::1$$com.google.javascript.jscomp.CodePrinter#207:60:0.0169
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#207:61:0.0169
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#207:61:0.0169
+Default$$SimpleName::length$$com.google.javascript.jscomp.CodePrinter#207:62:0.0169
+Default$$SimpleName::length$$com.google.javascript.jscomp.CodePrinter#207:62:0.0169
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#207:115:0.0169
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#207:115:0.0169
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#207:466:0.0169
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#207:466:0.0169
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#207:466:0.0169
+Default$$InfixExpression::-$$com.google.javascript.jscomp.CodePrinter#207:1040:0.0169
+Default$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#614:1:0.0167
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#614:13:0.0167
+Default$$FieldAccess::null$$com.google.javascript.jscomp.CodePrinter#614:25:0.0167
+Default$$SimpleName::threshold$$com.google.javascript.jscomp.CodePrinter#614:187:0.0167
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.CodePrinter#615:2:0.0167
+Default$$SimpleName::preferLineBreakAtEndOfFile$$com.google.javascript.jscomp.CodePrinter#436:1:0.0167
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#436:13:0.0167
+Default$$FieldAccess::null$$com.google.javascript.jscomp.CodePrinter#436:25:0.0167
+Default$$Assignment::=$$com.google.javascript.jscomp.CodePrinter#436:129:0.0167
+Default$$SimpleName::preferLineBreakAtEndOfFile$$com.google.javascript.jscomp.CodePrinter#436:187:0.0167
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#418:1:0.0167
+Insert Before$$SimpleName::preferredBreakPosition$$com.google.javascript.jscomp.CodePrinter#418:1:0.0167
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#418:2:0.0167
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#418:5:0.0167
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#418:5:0.0167
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#418:5:0.0167
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#418:6:0.0167
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#418:13:0.0167
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#418:55:0.0167
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#418:1116:0.0167
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#419:1:0.0167
+Insert Before$$SimpleName::prevCutPosition$$com.google.javascript.jscomp.CodePrinter#419:1:0.0167
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#419:2:0.0167
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#419:5:0.0167
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#419:5:0.0167
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#419:5:0.0167
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#419:6:0.0167
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#419:13:0.0167
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#419:55:0.0167
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#419:1116:0.0167
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#417:1:0.0167
+Insert Before$$SimpleName::lineStartPosition$$com.google.javascript.jscomp.CodePrinter#417:1:0.0167
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#417:2:0.0167
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#417:5:0.0167
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#417:5:0.0167
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#417:6:0.0167
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#417:13:0.0167
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#417:55:0.0167
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#417:1116:0.0167
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#420:1:0.0167
+Insert Before$$SimpleName::prevLineStartPosition$$com.google.javascript.jscomp.CodePrinter#420:1:0.0167
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#420:2:0.0167
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#420:5:0.0167
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#420:5:0.0167
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#420:6:0.0167
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#420:13:0.0167
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#420:55:0.0167
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#420:1116:0.0167
+Default$$SimpleName::lineBreak$$com.google.javascript.jscomp.CodePrinter#435:1:0.0167
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#435:13:0.0167
+Default$$FieldAccess::null$$com.google.javascript.jscomp.CodePrinter#435:25:0.0167
+Default$$SimpleName::lineBreak$$com.google.javascript.jscomp.CodePrinter#435:187:0.0167
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.CodePrinter#517:34:0.0167
+Default$$SimpleName::createSrcMap$$com.google.javascript.jscomp.CodePrinter#434:7:0.0167
+Default$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#434:12:0.0167
+Default$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#434:22:0.0167
+Default$$SuperConstructorInvocation::null$$com.google.javascript.jscomp.CodePrinter#434:98:0.0167
+Insert After$$Block::null$$com.google.javascript.jscomp.CodePrinter#516:2:0.0167
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.CodePrinter#516:28:0.0167
+Default$$SimpleName::preferLineBreakAtEndOfFile$$com.google.javascript.jscomp.CodePrinter#516:51:0.0167
+Insert After$$Modifier::static$$com.google.javascript.jscomp.CodePrinter#402:3:0.0167
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.CodePrinter#402:10:0.0167
+Default$$SimpleName::prettyPrint$$com.google.javascript.jscomp.CodePrinter#574:1:0.0166
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#574:13:0.0166
+Default$$FieldAccess::null$$com.google.javascript.jscomp.CodePrinter#574:25:0.0166
+Default$$SimpleName::prettyPrint$$com.google.javascript.jscomp.CodePrinter#574:187:0.0166
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.CodePrinter#575:2:0.0166
+Default$$SimpleName::toSource$$com.google.javascript.jscomp.CodePrinter#670:13:0.0166
+Default$$SimpleName::root$$com.google.javascript.jscomp.CodePrinter#670:267:0.0166
+Default$$SimpleName::outputFormat$$com.google.javascript.jscomp.CodePrinter#670:267:0.0166
+Default$$SimpleName::lineBreak$$com.google.javascript.jscomp.CodePrinter#670:267:0.0166
+Default$$SimpleName::preferLineBreakAtEndOfFile$$com.google.javascript.jscomp.CodePrinter#670:267:0.0166
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#114:13:0.0166
+Insert After$$SimpleName::node$$com.google.javascript.jscomp.CodePrinter#114:17:0.0166
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#114:51:0.0166
+Default$$SimpleName::isEmpty$$com.google.javascript.jscomp.CodePrinter#114:62:0.0166
+Default$$SimpleName::peek$$com.google.javascript.jscomp.CodePrinter#114:62:0.0166
+Insert Before$$SimpleName::createSrcMap$$com.google.javascript.jscomp.CodePrinter#114:123:0.0166
+Default$$SimpleName::mappings$$com.google.javascript.jscomp.CodePrinter#114:466:0.0166
+Default$$SimpleName::mappings$$com.google.javascript.jscomp.CodePrinter#114:466:0.0166
+Default$$SimpleName::add$$com.google.javascript.jscomp.CodePrinter#711:46:0.0166
+Default$$SimpleName::cg$$com.google.javascript.jscomp.CodePrinter#711:466:0.0166
+Default$$SimpleName::root$$com.google.javascript.jscomp.CodePrinter#711:1040:0.0166
+Insert After$$SimpleName::root$$com.google.javascript.jscomp.CodePrinter#711:1040:0.0166
+Default$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#61:44:0.0166
+Insert Before$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#61:123:0.0166
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.CodePrinter#61:466:0.0166
+Default$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#91:44:0.0166
+Insert Before$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#91:123:0.0166
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.CodePrinter#91:466:0.0166
+Default$$SimpleName::node$$com.google.javascript.jscomp.CodePrinter#92:44:0.0166
+Insert Before$$SimpleName::node$$com.google.javascript.jscomp.CodePrinter#92:123:0.0166
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.CodePrinter#92:466:0.0166
+Default$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#692:44:0.0166
+Insert Before$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#692:123:0.0166
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.CodePrinter#692:466:0.0166
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.CodePrinter#202:20:0.0166
+Default$$SimpleName::toString$$com.google.javascript.jscomp.CodePrinter#202:62:0.0166
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#202:466:0.0166
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#202:590:0.0166
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.CodePrinter#202:1531:0.0166
+Insert Before$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#714:1:0.0166
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CodePrinter#714:4:0.0166
+Default$$SimpleName::getCode$$com.google.javascript.jscomp.CodePrinter#714:62:0.0166
+Default$$SimpleType::String$$com.google.javascript.jscomp.CodePrinter#714:68:0.0166
+Default$$SimpleName::mcp$$com.google.javascript.jscomp.CodePrinter#714:466:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#714:527:0.0166
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodePrinter#714:1116:0.0166
+Default$$SimpleName::endFile$$com.google.javascript.jscomp.CodePrinter#712:62:0.0166
+Default$$SimpleName::mcp$$com.google.javascript.jscomp.CodePrinter#712:466:0.0166
+Insert Before$$SimpleName::createSourceMap$$com.google.javascript.jscomp.CodePrinter#694:1:0.0166
+Default$$SimpleName::sourceMap$$com.google.javascript.jscomp.CodePrinter#694:44:0.0166
+Insert Before$$SimpleName::sourceMap$$com.google.javascript.jscomp.CodePrinter#694:123:0.0166
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.CodePrinter#694:167:0.0166
+Default$$SimpleName::root$$com.google.javascript.jscomp.CodePrinter#566:25:0.0166
+Default$$SimpleName::node$$com.google.javascript.jscomp.CodePrinter#566:624:0.0166
+Default$$Assignment::=$$com.google.javascript.jscomp.CodePrinter#566:1531:0.0166
+Insert Before$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#552:1:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#552:5:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#552:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#552:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#552:55:0.0166
+Default$$SimpleName::DEFAULT_LINE_LENGTH_THRESHOLD$$com.google.javascript.jscomp.CodePrinter#552:1116:0.0166
+Insert Before$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#52:1:0.0166
+Default$$SimpleType::StringBuilder$$com.google.javascript.jscomp.CodePrinter#52:2:0.0166
+Insert Before$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#52:3:0.0166
+Insert After$$Modifier::final$$com.google.javascript.jscomp.CodePrinter#52:3:0.0166
+Default$$Modifier::final$$com.google.javascript.jscomp.CodePrinter#52:5:0.0166
+Default$$SimpleType::StringBuilder$$com.google.javascript.jscomp.CodePrinter#52:6:0.0166
+Default$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#52:9:0.0166
+Insert Before$$SimpleName::outputFormat$$com.google.javascript.jscomp.CodePrinter#664:1:0.0166
+Default$$SimpleName::mappings$$com.google.javascript.jscomp.CodePrinter#66:1:0.0166
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#66:13:0.0166
+Default$$SimpleType::ArrayDeque$$com.google.javascript.jscomp.CodePrinter#66:66:0.0166
+Default$$SimpleType::Mapping$$com.google.javascript.jscomp.CodePrinter#66:86:0.0166
+Insert After$$SimpleType::Mapping$$com.google.javascript.jscomp.CodePrinter#66:86:0.0166
+Default$$SimpleName::allMappings$$com.google.javascript.jscomp.CodePrinter#67:1:0.0166
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#67:13:0.0166
+Default$$ParameterizedType::null$$com.google.javascript.jscomp.CodePrinter#67:44:0.0166
+Default$$SimpleType::ArrayList$$com.google.javascript.jscomp.CodePrinter#67:66:0.0166
+Default$$SimpleType::Mapping$$com.google.javascript.jscomp.CodePrinter#67:86:0.0166
+Insert After$$SimpleType::Mapping$$com.google.javascript.jscomp.CodePrinter#67:86:0.0166
+Insert Before$$SimpleName::outputCharset$$com.google.javascript.jscomp.CodePrinter#558:1:0.0166
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#558:2:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#558:3:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#558:6:0.0166
+Default$$SimpleType::Charset$$com.google.javascript.jscomp.CodePrinter#558:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#558:14:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#558:155:0.0166
+Default$$NullLiteral::null$$com.google.javascript.jscomp.CodePrinter#558:1116:0.0166
+Insert Before$$SimpleName::sourceMap$$com.google.javascript.jscomp.CodePrinter#553:1:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#553:3:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#553:6:0.0166
+Default$$SimpleType::SourceMap$$com.google.javascript.jscomp.CodePrinter#553:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#553:14:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#553:155:0.0166
+Default$$NullLiteral::null$$com.google.javascript.jscomp.CodePrinter#553:1116:0.0166
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.CodePrinter#565:3:0.0166
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.CodePrinter#565:139:0.0166
+Default$$Block::null$$com.google.javascript.jscomp.CodePrinter#565:223:0.0166
+Default$$SimpleType::Node$$com.google.javascript.jscomp.CodePrinter#565:232:0.0166
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.CodePrinter#549:1:0.0166
+Insert Before$$SimpleName::lineBreak$$com.google.javascript.jscomp.CodePrinter#549:1:0.0166
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#549:3:0.0166
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#549:3:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#549:5:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#549:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#549:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#549:55:0.0166
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.CodePrinter#549:1116:0.0166
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.CodePrinter#550:1:0.0166
+Insert Before$$SimpleName::preferLineBreakAtEndOfFile$$com.google.javascript.jscomp.CodePrinter#550:1:0.0166
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#550:3:0.0166
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#550:3:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#550:5:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#550:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#550:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#550:55:0.0166
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.CodePrinter#550:1116:0.0166
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.CodePrinter#548:1:0.0166
+Insert Before$$SimpleName::prettyPrint$$com.google.javascript.jscomp.CodePrinter#548:1:0.0166
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#548:3:0.0166
+Insert After$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#548:3:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#548:5:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#548:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#548:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#548:55:0.0166
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.CodePrinter#548:1116:0.0166
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.CodePrinter#551:1:0.0166
+Insert Before$$SimpleName::outputTypes$$com.google.javascript.jscomp.CodePrinter#551:1:0.0166
+Insert Before$$FieldDeclaration::null$$com.google.javascript.jscomp.CodePrinter#551:3:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#551:5:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#551:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#551:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#551:55:0.0166
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.CodePrinter#551:1116:0.0166
+Insert After$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#54:1:0.0166
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#54:1:0.0166
+Insert Before$$SimpleName::lineLength$$com.google.javascript.jscomp.CodePrinter#54:1:0.0166
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#54:2:0.0166
+Insert Before$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#54:3:0.0166
+Default$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#54:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#54:55:0.0166
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#54:1116:0.0166
+Insert After$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#55:1:0.0166
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#55:1:0.0166
+Insert Before$$SimpleName::lineIndex$$com.google.javascript.jscomp.CodePrinter#55:1:0.0166
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#55:2:0.0166
+Insert Before$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#55:3:0.0166
+Default$$Modifier::protected$$com.google.javascript.jscomp.CodePrinter#55:13:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#55:55:0.0166
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#55:1116:0.0166
+Default$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#62:1:0.0166
+Insert After$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#62:4:0.0166
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#62:13:0.0166
+Default$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#62:115:0.0166
+Insert Before$$SimpleName::lineLengthThreshold$$com.google.javascript.jscomp.CodePrinter#62:123:0.0166
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodePrinter#62:235:0.0166
+Default$$SimpleName::createSrcMap$$com.google.javascript.jscomp.CodePrinter#64:1:0.0166
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#64:13:0.0166
+Default$$FieldAccess::null$$com.google.javascript.jscomp.CodePrinter#64:25:0.0166
+Default$$SimpleName::createSrcMap$$com.google.javascript.jscomp.CodePrinter#64:187:0.0166
+Default$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#65:1:0.0166
+Default$$ThisExpression::null$$com.google.javascript.jscomp.CodePrinter#65:13:0.0166
+Default$$FieldAccess::null$$com.google.javascript.jscomp.CodePrinter#65:25:0.0166
+Default$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#65:187:0.0166
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.CodePrinter#659:5:0.0166
+Insert After$$Block::null$$com.google.javascript.jscomp.CodePrinter#659:9:0.0166
+Default$$InfixExpression::==$$com.google.javascript.jscomp.CodePrinter#659:37:0.0166
+Default$$SimpleName::root$$com.google.javascript.jscomp.CodePrinter#659:44:0.0166
+Default$$Block::null$$com.google.javascript.jscomp.CodePrinter#659:99:0.0166
+Insert Before$$SimpleName::root$$com.google.javascript.jscomp.CodePrinter#659:123:0.0166
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.CodePrinter#60:30:0.0166
+Default$$SimpleType::SourceMap.DetailLevel$$com.google.javascript.jscomp.CodePrinter#60:232:0.0166
+Default$$SimpleName::code$$com.google.javascript.jscomp.CodePrinter#720:590:0.0166
+Insert Before$$SimpleName::mcp$$com.google.javascript.jscomp.CodePrinter#695:1:0.0166
+Insert Before$$SimpleName::cg$$com.google.javascript.jscomp.CodePrinter#702:1:0.0166
+Insert Before$$SimpleName::sourceMapDetailLevel$$com.google.javascript.jscomp.CodePrinter#554:1:0.0166
+Insert After$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#554:3:0.0166
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#554:6:0.0166
+Default$$Modifier::private$$com.google.javascript.jscomp.CodePrinter#554:14:0.0166
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodePrinter#554:155:0.0166
+Insert Before$$SimpleName::createSrcMap$$com.google.javascript.jscomp.CodePrinter#93:123:0.0166
+Insert After$$Block::null$$com.google.javascript.jscomp.CodePrinter#716:9:0.0166
+Default$$Block::null$$com.google.javascript.jscomp.CodePrinter#716:53:0.0166
+Default$$SimpleName::createSourceMap$$com.google.javascript.jscomp.CodePrinter#716:65:0.0166
+Insert After$$Block::null$$com.google.javascript.jscomp.CodePrinter#707:12:0.0166
+Default$$SimpleName::tagAsStrict$$com.google.javascript.jscomp.CodePrinter#707:36:0.0166
+Default$$Block::null$$com.google.javascript.jscomp.CodePrinter#707:53:0.0166
+Default$$SimpleName::add$$com.google.javascript.jscomp.CodeConsumer#265:1:0.2774
+Default$$SimpleName::valueOf$$com.google.javascript.jscomp.CodeConsumer#265:46:0.2774
+Default$$SimpleName::String$$com.google.javascript.jscomp.CodeConsumer#265:466:0.2774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodeConsumer#265:1040:0.2774
+Default$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#265:1040:0.2774
+Default$$StringLiteral::"-"$$com.google.javascript.jscomp.NodeUtil#2148:590:0.2041
+Default$$QualifiedName::Token.SUB$$com.google.javascript.jscomp.parsing.IRFactory#1139:590:0.1857
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.IRFactory#978:51:0.1796
+Default$$SimpleName::getDouble$$com.google.javascript.jscomp.parsing.IRFactory#978:62:0.1796
+Default$$SimpleName::operand$$com.google.javascript.jscomp.parsing.IRFactory#978:466:0.1796
+Default$$SimpleName::operand$$com.google.javascript.jscomp.parsing.IRFactory#978:466:0.1796
+Default$$SimpleName::number$$com.google.javascript.rhino.Node#171:1:0.1796
+Default$$ThisExpression::null$$com.google.javascript.rhino.Node#171:13:0.1796
+Default$$FieldAccess::null$$com.google.javascript.rhino.Node#171:25:0.1796
+Default$$SimpleName::d$$com.google.javascript.rhino.Node#171:187:0.1796
+Default$$Assignment::=$$com.google.javascript.rhino.Node#171:1531:0.1796
+Default$$SimpleName::operand$$com.google.javascript.jscomp.parsing.IRFactory#979:590:0.1796
+Default$$QualifiedName::Token.NEG$$com.google.javascript.jscomp.parsing.IRFactory#1153:590:0.1601
+Default$$SimpleName::inputsById$$com.google.javascript.jscomp.Compiler#1472:12:0.0593
+Default$$SimpleName::newHashMap$$com.google.javascript.jscomp.Compiler#1472:62:0.0593
+Default$$SimpleName::Maps$$com.google.javascript.jscomp.Compiler#1472:466:0.0593
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Compiler#1472:624:0.0593
+Default$$Assignment::=$$com.google.javascript.jscomp.Compiler#1472:1101:0.0593
+Insert Before$$SwitchCase::null$$com.google.javascript.jscomp.NodeUtil#1196:2:0.0592
+Default$$SimpleName::put$$com.google.javascript.jscomp.Compiler#1474:29:0.0581
+Default$$SimpleName::getInputId$$com.google.javascript.jscomp.Compiler#1474:62:0.0581
+Default$$SimpleName::input$$com.google.javascript.jscomp.Compiler#1474:87:0.0581
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.Compiler#1474:267:0.0581
+Default$$SimpleName::inputsById$$com.google.javascript.jscomp.Compiler#1474:466:0.0581
+Default$$SimpleName::input$$com.google.javascript.jscomp.Compiler#1474:466:0.0581
+Default$$SimpleName::getAstRoot$$com.google.javascript.jscomp.Compiler#1475:3:0.0581
+Default$$SimpleName::input$$com.google.javascript.jscomp.Compiler#1475:466:0.0581
+Default$$ThisExpression::null$$com.google.javascript.jscomp.Compiler#1475:1040:0.0581
+Insert Before$$SimpleName::input$$com.google.javascript.jscomp.Compiler#1469:1:0.0581
+Insert After$$Block::null$$com.google.javascript.jscomp.Compiler#1471:6:0.0581
+Default$$InfixExpression::==$$com.google.javascript.jscomp.Compiler#1471:25:0.0581
+Default$$SimpleName::inputsById$$com.google.javascript.jscomp.Compiler#1471:44:0.0581
+Default$$Block::null$$com.google.javascript.jscomp.Compiler#1471:99:0.0581
+Insert Before$$SimpleName::inputsById$$com.google.javascript.jscomp.Compiler#1471:123:0.0581
+Insert Before$$SimpleName::type$$com.google.javascript.jscomp.parsing.IRFactory#975:1:0.0535
+Default$$SimpleName::transformTokenType$$com.google.javascript.jscomp.parsing.IRFactory#975:4:0.0535
+Default$$SimpleName::getType$$com.google.javascript.jscomp.parsing.IRFactory#975:62:0.0535
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.IRFactory#975:253:0.0535
+Default$$SimpleName::exprNode$$com.google.javascript.jscomp.parsing.IRFactory#975:466:0.0535
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.IRFactory#975:1040:0.0535
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.IRFactory#975:1116:0.0535
+Insert Before$$SimpleName::operand$$com.google.javascript.jscomp.parsing.IRFactory#976:1:0.0535
+Default$$SimpleType::Node$$com.google.javascript.jscomp.parsing.IRFactory#976:3:0.0535
+Default$$SimpleName::transform$$com.google.javascript.jscomp.parsing.IRFactory#976:4:0.0535
+Default$$SimpleName::getOperand$$com.google.javascript.jscomp.parsing.IRFactory#976:62:0.0535
+Default$$SimpleName::exprNode$$com.google.javascript.jscomp.parsing.IRFactory#976:466:0.0535
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.IRFactory#976:527:0.0535
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.IRFactory#976:1040:0.0535
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.IRFactory#976:1116:0.0535
+Insert After$$QualifiedName::Token.NEG$$com.google.javascript.jscomp.parsing.IRFactory#977:3:0.0535
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.IRFactory#977:14:0.0535
+Default$$SimpleName::type$$com.google.javascript.jscomp.parsing.IRFactory#977:55:0.0535
+Default$$SimpleName::isNumber$$com.google.javascript.jscomp.parsing.IRFactory#977:62:0.0535
+Insert Before$$SimpleName::type$$com.google.javascript.jscomp.parsing.IRFactory#977:123:0.0535
+Default$$QualifiedName::Token.NEG$$com.google.javascript.jscomp.parsing.IRFactory#977:235:0.0535
+Default$$SimpleName::operand$$com.google.javascript.jscomp.parsing.IRFactory#977:466:0.0535
+Default$$SimpleName::processUnaryExpression$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#169:1:0.0535
+Default$$SimpleType::UnaryExpression$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#169:8:0.0535
+Default$$SimpleName::node$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#169:31:0.0535
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#169:590:0.0535
+Default$$CastExpression::null$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#169:1040:0.0535
+Default$$SimpleName::processInfixExpression$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#144:1:0.0389
+Default$$SimpleType::InfixExpression$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#144:8:0.0389
+Default$$SimpleName::node$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#144:31:0.0389
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#144:590:0.0389
+Default$$CastExpression::null$$com.google.javascript.jscomp.parsing.TypeSafeDispatcher#144:1040:0.0389
+Default$$SimpleName::options$$com.google.javascript.jscomp.Compiler#254:466:0.0379
+Default$$SimpleType::DiagnosticGroupWarningsGuard$$com.google.javascript.jscomp.Compiler#289:8:0.0378
+Default$$SimpleName::composedGuards$$com.google.javascript.jscomp.Compiler#289:466:0.0378
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.WarningsGuard#95:10:0.0378
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.WarningsGuard#95:1531:0.0378
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.WarningsGuard#106:10:0.0378
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.WarningsGuard#106:1531:0.0378
+Default$$SimpleName::disables$$com.google.javascript.jscomp.Compiler#248:10:0.0371
+Default$$SimpleName::options$$com.google.javascript.jscomp.Compiler#248:466:0.0371
+Default$$QualifiedName::DiagnosticGroups.CHECK_TYPES$$com.google.javascript.jscomp.Compiler#248:1040:0.0371
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.CompilerOptions#1025:15:0.0369
+Default$$SimpleName::disables$$com.google.javascript.jscomp.CompilerOptions#1025:46:0.0369
+Default$$SimpleName::warningsGuard$$com.google.javascript.jscomp.CompilerOptions#1025:466:0.0369
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CompilerOptions#1025:590:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.CompilerOptions#1025:1040:0.0369
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.CompilerOptions#1025:1531:0.0369
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.ComposeWarningsGuard#119:1:0.0369
+Insert Before$$SimpleName::singleton$$com.google.javascript.jscomp.ComposeWarningsGuard#119:1:0.0369
+Default$$SimpleType::DiagnosticGroup$$com.google.javascript.jscomp.ComposeWarningsGuard#119:41:0.0369
+Default$$SimpleName::forType$$com.google.javascript.jscomp.ComposeWarningsGuard#119:46:0.0369
+Default$$SimpleName::DiagnosticGroup$$com.google.javascript.jscomp.ComposeWarningsGuard#119:466:0.0369
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.ComposeWarningsGuard#119:527:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.ComposeWarningsGuard#119:1040:0.0369
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ComposeWarningsGuard#119:1116:0.0369
+Default$$SimpleName::get$$com.google.javascript.jscomp.DiagnosticGroup#75:46:0.0369
+Default$$SimpleName::singletons$$com.google.javascript.jscomp.DiagnosticGroup#75:466:0.0369
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.DiagnosticGroup#75:590:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.DiagnosticGroup#75:1040:0.0369
+Default$$SimpleName::types$$com.google.javascript.jscomp.DiagnosticGroup#63:1:0.0369
+Default$$ThisExpression::null$$com.google.javascript.jscomp.DiagnosticGroup#63:13:0.0369
+Default$$SimpleName::of$$com.google.javascript.jscomp.DiagnosticGroup#63:46:0.0369
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.DiagnosticGroup#63:187:0.0369
+Default$$SimpleName::ImmutableSet$$com.google.javascript.jscomp.DiagnosticGroup#63:466:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.DiagnosticGroup#63:1040:0.0369
+Default$$SimpleName::containsKey$$com.google.javascript.jscomp.DiagnosticGroup#72:46:0.0369
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.DiagnosticGroup#72:51:0.0369
+Default$$SimpleName::singletons$$com.google.javascript.jscomp.DiagnosticGroup#72:466:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.DiagnosticGroup#72:1040:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.DiagnosticGroup#73:5:0.0369
+Default$$SimpleType::DiagnosticGroup$$com.google.javascript.jscomp.DiagnosticGroup#73:34:0.0369
+Default$$SimpleName::put$$com.google.javascript.jscomp.DiagnosticGroup#73:46:0.0369
+Default$$SimpleName::type$$com.google.javascript.jscomp.DiagnosticGroup#73:141:0.0369
+Default$$SimpleName::singletons$$com.google.javascript.jscomp.DiagnosticGroup#73:466:0.0369
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.DiagnosticGroup#73:1040:0.0369
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.ComposeWarningsGuard#118:18:0.0369
+Default$$SimpleName::getTypes$$com.google.javascript.jscomp.ComposeWarningsGuard#118:62:0.0369
+Default$$SimpleType::DiagnosticType$$com.google.javascript.jscomp.ComposeWarningsGuard#118:232:0.0369
+Default$$SimpleName::group$$com.google.javascript.jscomp.ComposeWarningsGuard#118:466:0.0369
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.DiagnosticGroup#61:3:0.0369
+Insert After$$Modifier::private$$com.google.javascript.jscomp.DiagnosticGroup#61:3:0.0369
+Default$$Modifier::private$$com.google.javascript.jscomp.DiagnosticGroup#61:10:0.0369
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.DiagnosticGroup#61:139:0.0369
+Default$$SimpleType::DiagnosticType$$com.google.javascript.jscomp.DiagnosticGroup#61:232:0.0369
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.ComposeWarningsGuard#121:26:0.0369
+Default$$SimpleType::WarningsGuard$$com.google.javascript.jscomp.ComposeWarningsGuard#121:232:0.0369
+Default$$SimpleName::name$$com.google.javascript.jscomp.DiagnosticGroup#62:1:0.0369
+Default$$FieldAccess::null$$com.google.javascript.jscomp.DiagnosticGroup#62:7:0.0369
+Default$$ThisExpression::null$$com.google.javascript.jscomp.DiagnosticGroup#62:13:0.0369
+Default$$NullLiteral::null$$com.google.javascript.jscomp.DiagnosticGroup#62:187:0.0369
+Insert After$$Block::null$$com.google.javascript.jscomp.DiagnosticGroup#119:7:0.0362
+Default$$SimpleName::matches$$com.google.javascript.jscomp.DiagnosticGroup#119:13:0.0362
+Default$$Block::null$$com.google.javascript.jscomp.DiagnosticGroup#119:29:0.0362
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.DiagnosticGroup#119:51:0.0362
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.DiagnosticGroup#119:64:0.0362
+Default$$SimpleName::type$$com.google.javascript.jscomp.DiagnosticGroup#119:1040:0.0362
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.DiagnosticGroup#120:17:0.0362
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.DiagnosticGroup#120:1101:0.0362
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.DiagnosticGroup#118:3:0.0362
+Default$$SimpleType::DiagnosticType$$com.google.javascript.jscomp.DiagnosticGroup#118:232:0.0362
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:7:0.0340
+Insert Before$$PrefixExpression::!$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:13:0.0340
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:18:0.0340
+Default$$SimpleName::isSubGroup$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:46:0.0340
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:51:0.0340
+Default$$SimpleName::isOn$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:62:0.0340
+Default$$SimpleName::level$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:466:0.0340
+Default$$SimpleName::group$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:466:0.0340
+Default$$SimpleName::otherGroup$$com.google.javascript.jscomp.DiagnosticGroupWarningsGuard#45:1040:0.0340
+Insert After$$Block::null$$com.google.javascript.jscomp.ComposeWarningsGuard#144:7:0.0338
+Default$$SimpleName::disables$$com.google.javascript.jscomp.ComposeWarningsGuard#144:46:0.0338
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ComposeWarningsGuard#144:64:0.0338
+Default$$SimpleName::guard$$com.google.javascript.jscomp.ComposeWarningsGuard#144:466:0.0338
+Default$$SimpleName::group$$com.google.javascript.jscomp.ComposeWarningsGuard#144:1040:0.0338
+Default$$SimpleName::getType$$com.google.javascript.rhino.Node#2297:1:0.0252
+Insert After$$QualifiedName::Token.NUMBER$$com.google.javascript.rhino.Node#2297:3:0.0252
+Default$$SimpleName::addNumber$$com.google.javascript.jscomp.CodeGenerator#245:29:0.0245
+Default$$SimpleName::getDouble$$com.google.javascript.jscomp.CodeGenerator#245:62:0.0245
+Default$$SimpleName::cc$$com.google.javascript.jscomp.CodeGenerator#245:466:0.0245
+Default$$SimpleName::n$$com.google.javascript.jscomp.CodeGenerator#245:466:0.0245
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodeGenerator#245:1040:0.0245
+Insert After$$NumberLiteral::0$$com.google.javascript.jscomp.CodeGenerator#244:4:0.0245
+Default$$SimpleName::childCount$$com.google.javascript.jscomp.CodeGenerator#244:115:0.0245
+Insert Before$$SimpleName::childCount$$com.google.javascript.jscomp.CodeGenerator#244:123:0.0245
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodeGenerator#244:235:0.0245
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.CodeGenerator#244:466:0.0245
+Insert Before$$BreakStatement::null$$com.google.javascript.jscomp.CodeGenerator#246:3:0.0245
+Insert Before$$InfixExpression::==$$com.google.javascript.jscomp.CodeConsumer#270:3:0.0245
+Insert After$$NumberLiteral::0.0$$com.google.javascript.jscomp.CodeConsumer#270:4:0.0245
+Default$$SimpleName::copySign$$com.google.javascript.jscomp.CodeConsumer#270:6:0.0245
+Default$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#270:52:0.0245
+Default$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#270:115:0.0245
+Insert Before$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#270:123:0.0245
+Default$$NumberLiteral::1$$com.google.javascript.jscomp.CodeConsumer#270:267:0.0245
+Default$$SimpleName::Math$$com.google.javascript.jscomp.CodeConsumer#270:466:0.0245
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CodeConsumer#244:1:0.0245
+Insert Before$$SimpleName::negativeZero$$com.google.javascript.jscomp.CodeConsumer#244:1:0.0245
+Default$$SimpleName::isNegativeZero$$com.google.javascript.jscomp.CodeConsumer#244:13:0.0245
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.CodeConsumer#244:68:0.0245
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodeConsumer#244:253:0.0245
+Default$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#244:1040:0.0245
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodeConsumer#244:1116:0.0245
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CodeConsumer#243:1:0.0245
+Insert Before$$SimpleName::prev$$com.google.javascript.jscomp.CodeConsumer#243:1:0.0245
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.CodeConsumer#243:4:0.0245
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.CodeConsumer#243:253:0.0245
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.CodeConsumer#243:1116:0.0245
+Insert After$$NumberLiteral::0$$com.google.javascript.jscomp.CodeConsumer#245:4:0.0245
+Default$$SimpleName::prev$$com.google.javascript.jscomp.CodeConsumer#245:5:0.0245
+Default$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#245:115:0.0245
+Insert Before$$SimpleName::x$$com.google.javascript.jscomp.CodeConsumer#245:123:0.0245
+Insert Before$$SimpleName::prev$$com.google.javascript.jscomp.CodeConsumer#245:123:0.0245
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.CodeConsumer#245:235:0.0245

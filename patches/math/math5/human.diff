@@ -1,0 +1,11 @@
+--- ../result-tf-hash/math/math5/buggy/org/apache/commons/math3/complex/Complex.java	2019-02-21 11:23:33.465665460 +0000
++++ ../result-tf-hash/math/math5/human/org/apache/commons/math3/complex/Complex.java	2019-02-21 11:23:33.473665493 +0000
+@@ -302,7 +302,7 @@
+         }
+ 
+         if (real == 0.0 && imaginary == 0.0) {
+-            return NaN;
++            return INF;
+         }
+ 
+         if (isInfinite) {

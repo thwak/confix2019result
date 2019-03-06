@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.linear.EigenDecompositionImpl
+replace
+np
+with
+np - 6
+at line 1534
+Applied Change
+replace
+var0
+with
+var0 / 4.0
+from
+lucene-b8feb92:lucene/spatial3d/src/java/org/apache/lucene/spatial3d/geom/PlanetModel.java::
+1
+P:InfixExpression{leftOperand},L:,R:{34}

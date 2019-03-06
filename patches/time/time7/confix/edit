@@ -1,0 +1,15 @@
+Class:org.joda.time.format.DateTimeFormatter
+replace
+chrono
+with
+chrono.withUTC()
+at line 710
+Applied Change
+replace
+var0
+with
+var0.method0()
+from
+lucene-a7a28ec:solr/solrj/src/java/org/apache/solr/client/solrj/cloud/autoscaling/Policy.java::
+200
+P:MethodInvocation{expression},L:,R:{42}

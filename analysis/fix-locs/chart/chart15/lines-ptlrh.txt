@@ -1,0 +1,786 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::drawBackground$$org.jfree.chart.plot.PiePlot3D#239:13:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#239:267:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#239:1040:0.7071
+Default$$SimpleName::clip$$org.jfree.chart.plot.PiePlot3D#242:46:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#242:466:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#242:1040:0.7071
+Default$$SimpleName::trim$$org.jfree.chart.plot.PiePlot3D#231:46:0.7071
+Default$$SimpleName::insets$$org.jfree.chart.plot.PiePlot3D#231:466:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#231:1040:0.7071
+Insert Before$$SimpleName::state$$org.jfree.chart.plot.PiePlot3D#280:1:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#280:12:0.7071
+Default$$SimpleName::initialise$$org.jfree.chart.plot.PiePlot3D#280:13:0.7071
+Default$$SimpleName::info$$org.jfree.chart.plot.PiePlot3D#280:13:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#280:267:0.7071
+Insert Before$$SimpleName::linkX$$org.jfree.chart.plot.PiePlot3D#266:1:0.7071
+Insert After$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#266:4:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#266:61:0.7071
+Default$$SimpleName::getX$$org.jfree.chart.plot.PiePlot3D#266:62:0.7071
+Default$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#266:115:0.7071
+Insert Before$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#266:123:0.7071
+Default$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#266:235:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#266:466:0.7071
+Insert Before$$SimpleName::linkY$$org.jfree.chart.plot.PiePlot3D#267:1:0.7071
+Insert After$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#267:4:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#267:61:0.7071
+Default$$SimpleName::getY$$org.jfree.chart.plot.PiePlot3D#267:62:0.7071
+Default$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#267:115:0.7071
+Insert Before$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#267:123:0.7071
+Default$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#267:235:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#267:466:0.7071
+Insert Before$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#250:1:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#250:1:0.7071
+Insert After$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#250:4:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#250:61:0.7071
+Default$$SimpleName::getWidth$$org.jfree.chart.plot.PiePlot3D#250:62:0.7071
+Default$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#250:123:0.7071
+Insert Before$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#250:123:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#250:466:0.7071
+Insert Before$$SimpleName::linkW$$org.jfree.chart.plot.PiePlot3D#268:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#268:2:0.7071
+Insert After$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#268:17:0.7071
+Default$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#268:60:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#268:61:0.7071
+Default$$SimpleName::getWidth$$org.jfree.chart.plot.PiePlot3D#268:62:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#268:123:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#268:466:0.7071
+Insert Before$$SimpleName::linkH$$org.jfree.chart.plot.PiePlot3D#269:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#269:2:0.7071
+Insert After$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#269:17:0.7071
+Default$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#269:60:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#269:61:0.7071
+Default$$SimpleName::getHeight$$org.jfree.chart.plot.PiePlot3D#269:62:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#269:123:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#269:466:0.7071
+Insert Before$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#252:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#252:2:0.7071
+Insert After$$NumberLiteral::2.0$$org.jfree.chart.plot.PiePlot3D#252:4:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#252:61:0.7071
+Default$$SimpleName::getHeight$$org.jfree.chart.plot.PiePlot3D#252:62:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#252:123:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#252:466:0.7071
+Insert Before$$SimpleName::savedClip$$org.jfree.chart.plot.PiePlot3D#241:1:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#241:5:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#241:10:0.7071
+Default$$SimpleName::getClip$$org.jfree.chart.plot.PiePlot3D#241:62:0.7071
+Default$$SimpleType::Shape$$org.jfree.chart.plot.PiePlot3D#241:68:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#241:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#241:527:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#241:1116:0.7071
+Insert Before$$SimpleName::originalPlotArea$$org.jfree.chart.plot.PiePlot3D#233:1:0.7071
+Default$$SimpleType::Rectangle2D$$org.jfree.chart.plot.PiePlot3D#233:5:0.7071
+Default$$SimpleType::Rectangle2D$$org.jfree.chart.plot.PiePlot3D#233:8:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#233:31:0.7071
+Default$$SimpleName::clone$$org.jfree.chart.plot.PiePlot3D#233:62:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#233:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#233:527:0.7071
+Default$$CastExpression::null$$org.jfree.chart.plot.PiePlot3D#233:1116:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#248:3:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#248:9:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#245:1:0.7071
+Insert Before$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#245:1:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#245:253:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#245:1116:0.7071
+Insert Before$$SimpleName::insets$$org.jfree.chart.plot.PiePlot3D#230:1:0.7071
+Default$$SimpleType::RectangleInsets$$org.jfree.chart.plot.PiePlot3D#230:13:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#230:22:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#230:527:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#230:1116:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#247:9:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#247:44:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#246:1:0.7071
+Insert Before$$SimpleName::labelPercent$$org.jfree.chart.plot.PiePlot3D#246:1:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#246:9:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#246:253:0.7071
+Insert After$$Block::null$$org.jfree.chart.plot.PiePlot3D#234:3:0.7071
+Default$$SimpleName::info$$org.jfree.chart.plot.PiePlot3D#234:44:0.7071
+Insert Before$$SimpleName::info$$org.jfree.chart.plot.PiePlot3D#234:123:0.7071
+Default$$SimpleName::setCircular$$org.jfree.chart.plot.PiePlot3D#152:1:0.4082
+Default$$BooleanLiteral::false$$org.jfree.chart.plot.PiePlot3D#152:30:0.4082
+Insert Before$$Modifier::private$$org.jfree.chart.plot.PiePlot3D#126:1:0.4082
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#126:1:0.4082
+Insert Before$$SimpleName::depthFactor$$org.jfree.chart.plot.PiePlot3D#126:1:0.4082
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#126:2:0.4082
+Default$$Modifier::private$$org.jfree.chart.plot.PiePlot3D#126:3:0.4082
+Insert After$$Modifier::private$$org.jfree.chart.plot.PiePlot3D#126:5:0.4082
+Insert Before$$Modifier::private$$org.jfree.chart.plot.PiePlot3D#134:1:0.4082
+Default$$PrimitiveType::boolean$$org.jfree.chart.plot.PiePlot3D#134:1:0.4082
+Insert Before$$SimpleName::darkerSides$$org.jfree.chart.plot.PiePlot3D#134:1:0.4082
+Default$$Modifier::private$$org.jfree.chart.plot.PiePlot3D#134:3:0.4082
+Insert After$$Modifier::private$$org.jfree.chart.plot.PiePlot3D#134:5:0.4082
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#134:55:0.4082
+Default$$BooleanLiteral::false$$org.jfree.chart.plot.PiePlot3D#134:1116:0.4082
+Default$$SimpleName::dataset$$org.jfree.chart.plot.PiePlot3D#151:8:0.4082
+Insert Before$$ThrowStatement::null$$org.jfree.data.general.DatasetUtilities#153:5:1.0000
+Default$$SimpleType::IllegalArgumentException$$org.jfree.data.general.DatasetUtilities#153:8:1.0000
+Insert After$$StringLiteral::"Null 'dataset' argument."$$org.jfree.data.general.DatasetUtilities#153:16:1.0000
+Default$$ClassInstanceCreation::null$$org.jfree.data.general.DatasetUtilities#153:52:1.0000
+Default$$StringLiteral::"Null 'dataset' argument."$$org.jfree.data.general.DatasetUtilities#153:141:1.0000
+Default$$ThrowStatement::null$$org.jfree.data.general.DatasetUtilities#153:1101:1.0000
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#2613:18:1.0000
+Default$$SimpleName::result$$org.jfree.chart.plot.PiePlot#2613:590:1.0000
+Default$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#2613:1101:1.0000
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#670:1:0.7071
+Default$$SimpleName::interiorGap$$org.jfree.chart.plot.PiePlot#670:1:0.7071
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#670:13:0.7071
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#670:590:0.7071
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#1398:1:0.7071
+Default$$SimpleName::labelGenerator$$org.jfree.chart.plot.PiePlot#1398:1:0.7071
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#1398:13:0.7071
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#1398:590:0.7071
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#1423:1:0.7071
+Default$$SimpleName::labelGap$$org.jfree.chart.plot.PiePlot#1423:1:0.7071
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#1423:13:0.7071
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#1423:590:0.7071
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#1448:1:0.7071
+Default$$SimpleName::maximumLabelWidth$$org.jfree.chart.plot.PiePlot#1448:1:0.7071
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#1448:13:0.7071
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#1448:590:0.7071
+Default$$SimpleName::setTotal$$org.jfree.chart.plot.PiePlot#2051:1:0.5774
+Default$$SimpleName::calculatePieDatasetTotal$$org.jfree.chart.plot.PiePlot#2051:29:0.5774
+Default$$SimpleName::state$$org.jfree.chart.plot.PiePlot#2051:466:0.5774
+Default$$SimpleName::DatasetUtilities$$org.jfree.chart.plot.PiePlot#2051:466:0.5774
+Default$$SimpleName::drawBackgroundImage$$org.jfree.chart.plot.Plot#932:13:0.5774
+Default$$MethodInvocation::null$$org.jfree.chart.plot.Plot#932:118:0.5774
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#932:267:0.5774
+Default$$SimpleName::area$$org.jfree.chart.plot.Plot#932:1040:0.5774
+Default$$SimpleName::fillBackground$$org.jfree.chart.plot.Plot#931:13:0.5774
+Default$$MethodInvocation::null$$org.jfree.chart.plot.Plot#931:50:0.5774
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#931:267:0.5774
+Default$$SimpleName::area$$org.jfree.chart.plot.Plot#931:1040:0.5774
+Insert After$$SimpleName::area$$org.jfree.chart.plot.Plot#931:1040:0.5774
+Default$$SimpleName::fillBackground$$org.jfree.chart.plot.Plot#946:13:0.5774
+Default$$SimpleName::area$$org.jfree.chart.plot.Plot#946:46:0.5774
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#946:267:0.5774
+Default$$QualifiedName::PlotOrientation.VERTICAL$$org.jfree.chart.plot.Plot#946:1040:0.5774
+Default$$MethodInvocation::null$$org.jfree.chart.plot.Plot#946:1531:0.5774
+Default$$SimpleName::setPassesRequired$$org.jfree.chart.plot.PiePlot#2050:6:0.5774
+Default$$SimpleName::state$$org.jfree.chart.plot.PiePlot#2050:466:0.5774
+Default$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot#2050:1040:0.5774
+Default$$SimpleName::passesRequired$$org.jfree.chart.plot.PiePlotState#109:1:0.5774
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlotState#109:13:0.5774
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlotState#109:25:0.5774
+Default$$SimpleName::passes$$org.jfree.chart.plot.PiePlotState#109:187:0.5774
+Default$$Assignment::=$$org.jfree.chart.plot.PiePlotState#109:1531:0.5774
+Insert Before$$SimpleName::state$$org.jfree.chart.plot.PiePlot#2049:1:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot#2049:8:0.5774
+Default$$SimpleType::PiePlotState$$org.jfree.chart.plot.PiePlot#2049:8:0.5774
+Default$$SimpleType::PiePlotState$$org.jfree.chart.plot.PiePlot#2049:34:0.5774
+Default$$SimpleName::info$$org.jfree.chart.plot.PiePlot#2049:141:0.5774
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot#2049:527:0.5774
+Default$$ClassInstanceCreation::null$$org.jfree.chart.plot.PiePlot#2049:1116:0.5774
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#706:1:0.5774
+Default$$SimpleName::circular$$org.jfree.chart.plot.PiePlot#706:1:0.5774
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#706:13:0.5774
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#706:590:0.5774
+Default$$SimpleName::total$$org.jfree.chart.plot.PiePlotState#91:1:0.5774
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlotState#91:8:0.5774
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlotState#91:13:0.5774
+Default$$SimpleName::passesRequired$$org.jfree.chart.plot.PiePlotState#90:1:0.5774
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlotState#90:8:0.5774
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlotState#90:13:0.5774
+Default$$SimpleName::info$$org.jfree.chart.plot.PiePlotState#89:8:0.5774
+Default$$SimpleType::RectangleInsets$$org.jfree.chart.ChartFactory#695:6:0.5000
+Insert Before$$NumberLiteral::0.0$$org.jfree.chart.ChartFactory#695:12:0.5000
+Default$$SimpleName::plot$$org.jfree.chart.ChartFactory#695:466:0.5000
+Insert Before$$SimpleName::plot$$org.jfree.chart.ChartFactory#694:1:0.5000
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.ChartFactory#694:8:0.5000
+Default$$SimpleType::PiePlot3D$$org.jfree.chart.ChartFactory#694:8:0.5000
+Default$$SimpleType::PiePlot3D$$org.jfree.chart.ChartFactory#694:34:0.5000
+Default$$SimpleName::dataset$$org.jfree.chart.ChartFactory#694:141:0.5000
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.ChartFactory#694:527:0.5000
+Default$$ClassInstanceCreation::null$$org.jfree.chart.ChartFactory#694:1116:0.5000
+Insert Before$$SimpleName::result$$org.jfree.chart.plot.PiePlot#2611:1:0.5000
+Default$$SimpleType::LegendItemCollection$$org.jfree.chart.plot.PiePlot#2611:16:0.5000
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot#2611:21:0.5000
+Default$$SimpleType::LegendItemCollection$$org.jfree.chart.plot.PiePlot#2611:44:0.5000
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot#2611:527:0.5000
+Default$$ClassInstanceCreation::null$$org.jfree.chart.plot.PiePlot#2611:1116:0.5000
+Default$$SimpleName::plot$$org.jfree.chart.ChartFactory#702:9:0.5000
+Default$$SimpleName::title$$org.jfree.chart.ChartFactory#702:12:0.5000
+Default$$SimpleType::JFreeChart$$org.jfree.chart.ChartFactory#702:34:0.5000
+Default$$QualifiedName::JFreeChart.DEFAULT_TITLE_FONT$$org.jfree.chart.ChartFactory#702:64:0.5000
+Insert Before$$IfStatement::null$$org.jfree.data.general.DatasetUtilities#152:5:0.5000
+Insert After$$Block::null$$org.jfree.data.general.DatasetUtilities#152:9:0.5000
+Default$$InfixExpression::==$$org.jfree.data.general.DatasetUtilities#152:37:0.5000
+Default$$SimpleName::dataset$$org.jfree.data.general.DatasetUtilities#152:44:0.5000
+Default$$Block::null$$org.jfree.data.general.DatasetUtilities#152:99:0.5000
+Insert Before$$SimpleName::dataset$$org.jfree.data.general.DatasetUtilities#152:123:0.5000
+Default$$SimpleName::dataset$$org.jfree.chart.plot.PiePlot#2612:1:0.5000
+Insert After$$Block::null$$org.jfree.chart.plot.PiePlot#2612:9:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#2612:13:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#2612:44:0.5000
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.PiePlot#551:1:0.4082
+Default$$SimpleName::dataset$$org.jfree.chart.plot.PiePlot#551:1:0.4082
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#551:13:0.4082
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#551:590:0.4082
+Default$$SimpleName::circular$$org.jfree.chart.plot.PiePlot#731:1:0.3780
+Default$$ThisExpression::null$$org.jfree.chart.plot.PiePlot#731:13:0.3780
+Default$$FieldAccess::null$$org.jfree.chart.plot.PiePlot#731:25:0.3780
+Default$$SimpleName::circular$$org.jfree.chart.plot.PiePlot#731:187:0.3780
+Insert Before$$ReturnStatement::null$$org.jfree.chart.title.LegendTitle#472:18:0.3015
+Default$$SimpleName::result$$org.jfree.chart.title.LegendTitle#472:590:0.3015
+Default$$ReturnStatement::null$$org.jfree.chart.title.LegendTitle#472:1101:0.3015
+Insert Before$$ReturnStatement::null$$org.jfree.chart.block.LineBorder#146:34:0.3015
+Default$$SimpleName::insets$$org.jfree.chart.plot.Plot#522:1:0.2294
+Default$$SimpleName::equals$$org.jfree.chart.plot.Plot#522:1:0.2294
+Default$$ThisExpression::null$$org.jfree.chart.plot.Plot#522:13:0.2294
+Default$$FieldAccess::null$$org.jfree.chart.plot.Plot#522:466:0.2294
+Default$$SimpleName::insets$$org.jfree.chart.plot.Plot#522:1040:0.2294
+Default$$SimpleName::setInsets$$org.jfree.chart.plot.Plot#504:13:0.2294
+Default$$SimpleName::insets$$org.jfree.chart.plot.Plot#504:29:0.2294
+Default$$BooleanLiteral::true$$org.jfree.chart.plot.Plot#504:1040:0.2294
+Default$$SimpleType::PlotChangeEvent$$org.jfree.chart.plot.Plot#525:3:0.2294
+Default$$ThisExpression::null$$org.jfree.chart.plot.Plot#525:141:0.2294
+Default$$SimpleName::insets$$org.jfree.chart.plot.Plot#523:1:0.2294
+Default$$ThisExpression::null$$org.jfree.chart.plot.Plot#523:13:0.2294
+Default$$FieldAccess::null$$org.jfree.chart.plot.Plot#523:25:0.2294
+Default$$SimpleName::insets$$org.jfree.chart.plot.Plot#523:187:0.2294
+Insert Before$$IfStatement::null$$org.jfree.chart.plot.Plot#519:5:0.2294
+Insert After$$Block::null$$org.jfree.chart.plot.Plot#519:9:0.2294
+Default$$InfixExpression::==$$org.jfree.chart.plot.Plot#519:37:0.2294
+Default$$SimpleName::insets$$org.jfree.chart.plot.Plot#519:44:0.2294
+Default$$Block::null$$org.jfree.chart.plot.Plot#519:99:0.2294
+Insert Before$$SimpleName::insets$$org.jfree.chart.plot.Plot#519:123:0.2294
+Insert Before$$ReturnStatement::null$$org.jfree.chart.util.RectangleInsets#192:17:0.2182
+Default$$ReturnStatement::null$$org.jfree.chart.util.RectangleInsets#192:1101:0.2182
+Default$$SimpleName::info$$org.jfree.chart.renderer.RendererState#63:1:0.2041
+Default$$ThisExpression::null$$org.jfree.chart.renderer.RendererState#63:13:0.2041
+Default$$FieldAccess::null$$org.jfree.chart.renderer.RendererState#63:25:0.2041
+Default$$SimpleName::info$$org.jfree.chart.renderer.RendererState#63:187:0.2041
+Default$$Assignment::=$$org.jfree.chart.renderer.RendererState#63:1531:0.2041
+Insert After$$Modifier::public$$org.jfree.chart.renderer.RendererState#62:4:0.2041
+Insert After$$SingleVariableDeclaration::null$$org.jfree.chart.renderer.RendererState#62:7:0.2041
+Default$$Modifier::public$$org.jfree.chart.renderer.RendererState#62:10:0.2041
+Default$$SingleVariableDeclaration::null$$org.jfree.chart.renderer.RendererState#62:14:0.2041
+Insert Before$$Modifier::public$$org.jfree.chart.renderer.RendererState#62:15:0.2041
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.chart.renderer.RendererState#62:139:0.2041
+Default$$Block::null$$org.jfree.chart.renderer.RendererState#62:223:0.2041
+Default$$SimpleType::PlotRenderingInfo$$org.jfree.chart.renderer.RendererState#62:232:0.2041
+Default$$SimpleName::getInstance$$org.jfree.chart.plot.Plot#986:10:0.1826
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#986:466:0.1826
+Default$$SimpleName::AlphaComposite$$org.jfree.chart.plot.Plot#986:466:0.1826
+Default$$SimpleName::setComposite$$org.jfree.chart.plot.Plot#990:46:0.1826
+Default$$MethodInvocation::null$$org.jfree.chart.plot.Plot#990:118:0.1826
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#990:466:0.1826
+Default$$SimpleName::originalComposite$$org.jfree.chart.plot.Plot#990:1040:0.1826
+Default$$MethodInvocation::null$$org.jfree.chart.plot.Plot#989:31:0.1826
+Default$$SimpleName::fill$$org.jfree.chart.plot.Plot#989:46:0.1826
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#989:466:0.1826
+Default$$SimpleName::area$$org.jfree.chart.plot.Plot#989:1040:0.1826
+Default$$SimpleName::setPaint$$org.jfree.chart.plot.Plot#988:46:0.1826
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#988:466:0.1826
+Default$$SimpleName::p$$org.jfree.chart.plot.Plot#988:1040:0.1826
+Insert Before$$SimpleName::originalComposite$$org.jfree.chart.plot.Plot#985:1:0.1826
+Default$$SimpleName::getComposite$$org.jfree.chart.plot.Plot#985:62:0.1826
+Default$$SimpleType::Composite$$org.jfree.chart.plot.Plot#985:68:0.1826
+Default$$SimpleName::g2$$org.jfree.chart.plot.Plot#985:466:0.1826
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.Plot#985:527:0.1826
+Default$$MethodInvocation::null$$org.jfree.chart.plot.Plot#985:1116:0.1826
+Default$$SimpleType::Paint$$org.jfree.chart.plot.Plot#969:1:0.1826
+Insert Before$$SimpleName::p$$org.jfree.chart.plot.Plot#969:1:0.1826
+Default$$SimpleName::backgroundPaint$$org.jfree.chart.plot.Plot#969:1:0.1826
+Default$$ThisExpression::null$$org.jfree.chart.plot.Plot#969:13:0.1826
+Default$$FieldAccess::null$$org.jfree.chart.plot.Plot#969:1116:0.1826
+Default$$SimpleName::backgroundImage$$org.jfree.chart.plot.Plot#1005:1:0.1826
+Default$$ThisExpression::null$$org.jfree.chart.plot.Plot#1005:13:0.1826
+Default$$FieldAccess::null$$org.jfree.chart.plot.Plot#1005:44:0.1826
+Insert Before$$IfStatement::null$$org.jfree.chart.plot.Plot#963:5:0.1826
+Insert After$$Block::null$$org.jfree.chart.plot.Plot#963:9:0.1826
+Default$$InfixExpression::==$$org.jfree.chart.plot.Plot#963:37:0.1826
+Default$$SimpleName::orientation$$org.jfree.chart.plot.Plot#963:44:0.1826
+Default$$Block::null$$org.jfree.chart.plot.Plot#963:99:0.1826
+Insert Before$$SimpleName::orientation$$org.jfree.chart.plot.Plot#963:123:0.1826
+Default$$SimpleName::backgroundPaint$$org.jfree.chart.plot.Plot#966:1:0.1826
+Insert After$$Block::null$$org.jfree.chart.plot.Plot#966:2:0.1826
+Default$$ThisExpression::null$$org.jfree.chart.plot.Plot#966:13:0.1826
+Default$$FieldAccess::null$$org.jfree.chart.plot.Plot#966:44:0.1826
+Default$$SimpleType::GradientPaint$$org.jfree.chart.plot.Plot#970:6:0.1826
+Default$$SimpleName::p$$org.jfree.chart.plot.Plot#970:8:0.1826
+Default$$SimpleName::addLine$$org.jfree.chart.text.TextUtilities#196:5:0.1796
+Default$$SimpleName::font$$org.jfree.chart.text.TextUtilities#196:5:0.1796
+Default$$SimpleName::substring$$org.jfree.chart.text.TextUtilities#196:46:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.text.TextUtilities#196:267:0.1796
+Insert Before$$SimpleName::current$$org.jfree.chart.text.TextUtilities#196:267:0.1796
+Default$$SimpleName::result$$org.jfree.chart.text.TextUtilities#196:466:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#196:466:0.1796
+Default$$SimpleName::current$$org.jfree.chart.text.TextUtilities#196:1040:0.1796
+Insert After$$SimpleName::current$$org.jfree.chart.text.TextUtilities#196:1040:0.1796
+Default$$SimpleName::paint$$org.jfree.chart.text.TextUtilities#196:1040:0.1796
+Insert After$$QualifiedName::size.height$$org.jfree.chart.JFreeChart#1309:3:0.1796
+Default$$SimpleName::setRect$$org.jfree.chart.JFreeChart#1309:29:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1309:55:0.1796
+Default$$QualifiedName::size.height$$org.jfree.chart.JFreeChart#1309:60:0.1796
+Insert Before$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1309:61:0.1796
+Default$$SimpleName::getX$$org.jfree.chart.JFreeChart#1309:62:0.1796
+Default$$SimpleName::getY$$org.jfree.chart.JFreeChart#1309:62:0.1796
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1309:466:0.1796
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1309:466:0.1796
+Default$$SimpleName::Math$$org.jfree.chart.JFreeChart#1309:466:0.1796
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1309:466:0.1796
+Default$$SimpleName::retValue$$org.jfree.chart.JFreeChart#1308:2:0.1796
+Default$$SimpleName::draw$$org.jfree.chart.JFreeChart#1308:46:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.JFreeChart#1308:267:0.1796
+Default$$SimpleName::titleArea$$org.jfree.chart.JFreeChart#1308:267:0.1796
+Default$$SimpleName::t$$org.jfree.chart.JFreeChart#1308:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1308:624:0.1796
+Default$$SimpleName::p$$org.jfree.chart.JFreeChart#1308:1040:0.1796
+Default$$SimpleName::x$$org.jfree.chart.text.TextUtilities#251:2:0.1796
+Default$$SimpleName::getStringWidth$$org.jfree.chart.text.TextUtilities#251:46:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#251:267:0.1796
+Default$$SimpleName::current$$org.jfree.chart.text.TextUtilities#251:267:0.1796
+Default$$SimpleName::measurer$$org.jfree.chart.text.TextUtilities#251:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.text.TextUtilities#251:624:0.1796
+Default$$SimpleName::end$$org.jfree.chart.text.TextUtilities#251:1040:0.1796
+Default$$SimpleName::content$$org.jfree.chart.title.TextTitle#637:1:0.1796
+Default$$SimpleName::draw$$org.jfree.chart.title.TextTitle#637:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#637:13:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#637:267:0.1796
+Default$$SimpleName::x$$org.jfree.chart.title.TextTitle#637:267:0.1796
+Default$$SimpleName::y$$org.jfree.chart.title.TextTitle#637:267:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#637:466:0.1796
+Default$$SimpleName::anchor$$org.jfree.chart.title.TextTitle#637:1040:0.1796
+Insert Before$$SimpleName::next$$org.jfree.chart.text.TextUtilities#193:1:0.1796
+Default$$SimpleName::nextLineBreak$$org.jfree.chart.text.TextUtilities#193:13:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#193:267:0.1796
+Default$$SimpleName::current$$org.jfree.chart.text.TextUtilities#193:267:0.1796
+Default$$SimpleName::maxWidth$$org.jfree.chart.text.TextUtilities#193:267:0.1796
+Default$$SimpleName::iterator$$org.jfree.chart.text.TextUtilities#193:267:0.1796
+Insert Before$$SimpleName::size$$org.jfree.chart.JFreeChart#1305:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.JFreeChart#1305:3:0.1796
+Default$$SimpleType::Size2D$$org.jfree.chart.JFreeChart#1305:11:0.1796
+Default$$SimpleName::arrange$$org.jfree.chart.JFreeChart#1305:46:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.JFreeChart#1305:267:0.1796
+Default$$SimpleName::t$$org.jfree.chart.JFreeChart#1305:466:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.JFreeChart#1305:527:0.1796
+Default$$SimpleName::constraint$$org.jfree.chart.JFreeChart#1305:1040:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1305:1116:0.1796
+Default$$SimpleName::createTextBlock$$org.jfree.chart.text.TextUtilities#165:13:0.1796
+Default$$SimpleName::maxWidth$$org.jfree.chart.text.TextUtilities#165:46:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#165:267:0.1796
+Default$$SimpleName::font$$org.jfree.chart.text.TextUtilities#165:267:0.1796
+Default$$SimpleName::paint$$org.jfree.chart.text.TextUtilities#165:267:0.1796
+Default$$QualifiedName::Integer.MAX_VALUE$$org.jfree.chart.text.TextUtilities#165:267:0.1796
+Insert Before$$SimpleName::bounds$$org.jfree.chart.text.G2TextMeasurer#76:1:0.1796
+Default$$SimpleName::getTextBounds$$org.jfree.chart.text.G2TextMeasurer#76:2:0.1796
+Default$$SimpleName::substring$$org.jfree.chart.text.G2TextMeasurer#76:46:0.1796
+Default$$SimpleName::start$$org.jfree.chart.text.G2TextMeasurer#76:267:0.1796
+Default$$SimpleName::TextUtilities$$org.jfree.chart.text.G2TextMeasurer#76:466:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.G2TextMeasurer#76:466:0.1796
+Default$$SimpleName::drawHorizontal$$org.jfree.chart.title.TextTitle#578:13:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#578:267:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#578:1040:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#578:1101:0.1796
+Default$$SimpleName::arrangeRR$$org.jfree.chart.title.TextTitle#459:13:0.1796
+Default$$SimpleName::getWidthRange$$org.jfree.chart.title.TextTitle#459:62:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#459:68:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#459:68:0.1796
+Default$$SimpleName::cc$$org.jfree.chart.title.TextTitle#459:466:0.1796
+Default$$SimpleName::drawBorder$$org.jfree.chart.title.TextTitle#559:13:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#559:267:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#559:1040:0.1796
+Default$$SimpleName::setText$$org.jfree.chart.text.TextUtilities#188:46:0.1796
+Default$$SimpleName::iterator$$org.jfree.chart.text.TextUtilities#188:466:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#188:1040:0.1796
+Default$$SimpleName::calculateTotalWidth$$org.jfree.chart.title.TextTitle#477:4:0.1796
+Default$$SimpleName::getWidth$$org.jfree.chart.title.TextTitle#477:62:0.1796
+Default$$SimpleName::contentSize$$org.jfree.chart.title.TextTitle#477:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#477:1040:0.1796
+Insert Before$$SimpleName::cc$$org.jfree.chart.title.TextTitle#439:1:0.1796
+Default$$SimpleName::toContentConstraint$$org.jfree.chart.title.TextTitle#439:13:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#439:29:0.1796
+Default$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#439:48:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#439:48:0.1796
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.title.TextTitle#439:68:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#439:527:0.1796
+Default$$SimpleName::constraint$$org.jfree.chart.title.TextTitle#439:1040:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#439:1116:0.1796
+Insert Before$$SimpleName::contentSize$$org.jfree.chart.title.TextTitle#501:1:0.1796
+Default$$SimpleName::content$$org.jfree.chart.title.TextTitle#501:1:0.1796
+Default$$SimpleName::calculateDimensions$$org.jfree.chart.title.TextTitle#501:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#501:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#501:466:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#501:1040:0.1796
+Insert Before$$SimpleName::newline$$org.jfree.chart.text.TextUtilities#243:1:0.1796
+Default$$SimpleName::indexOf$$org.jfree.chart.text.TextUtilities#243:1:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#243:466:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#558:12:0.1796
+Default$$SimpleName::trimMargin$$org.jfree.chart.title.TextTitle#558:13:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#558:624:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#558:1040:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#570:12:0.1796
+Default$$SimpleName::trimBorder$$org.jfree.chart.title.TextTitle#570:13:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#570:624:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#570:1040:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#575:12:0.1796
+Default$$SimpleName::trimPadding$$org.jfree.chart.title.TextTitle#575:13:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#575:624:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#575:1040:0.1796
+Default$$SimpleName::createAlignedRectangle2D$$org.jfree.chart.JFreeChart#1306:13:0.1796
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1306:68:0.1796
+Default$$SimpleName::size$$org.jfree.chart.JFreeChart#1306:267:0.1796
+Insert Before$$SimpleName::result$$org.jfree.chart.text.G2TextMeasurer#78:1:0.1796
+Default$$SimpleName::getWidth$$org.jfree.chart.text.G2TextMeasurer#78:62:0.1796
+Default$$SimpleName::bounds$$org.jfree.chart.text.G2TextMeasurer#78:466:0.1796
+Insert Before$$SimpleName::maxWidth$$org.jfree.chart.title.TextTitle#496:1:0.1796
+Default$$SimpleName::getUpperBound$$org.jfree.chart.title.TextTitle#496:62:0.1796
+Default$$SimpleName::widthRange$$org.jfree.chart.title.TextTitle#496:466:0.1796
+Insert Before$$SimpleName::length$$org.jfree.chart.text.TextUtilities#191:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#191:4:0.1796
+Default$$SimpleName::length$$org.jfree.chart.text.TextUtilities#191:62:0.1796
+Default$$PrimitiveType::int$$org.jfree.chart.text.TextUtilities#191:68:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#191:253:0.1796
+Default$$SimpleName::text$$org.jfree.chart.text.TextUtilities#191:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.text.TextUtilities#191:1116:0.1796
+Insert Before$$SimpleName::w$$org.jfree.chart.title.TextTitle#440:1:0.1796
+Default$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#440:29:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#440:29:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#440:29:0.1796
+Default$$SimpleName::getWidthConstraintType$$org.jfree.chart.title.TextTitle#440:62:0.1796
+Default$$SimpleType::LengthConstraintType$$org.jfree.chart.title.TextTitle#440:68:0.1796
+Default$$SimpleName::cc$$org.jfree.chart.title.TextTitle#440:466:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#440:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#440:1116:0.1796
+Insert Before$$SimpleName::h$$org.jfree.chart.title.TextTitle#441:1:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#441:5:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#441:29:0.1796
+Default$$SimpleName::getHeightConstraintType$$org.jfree.chart.title.TextTitle#441:62:0.1796
+Default$$SimpleType::LengthConstraintType$$org.jfree.chart.title.TextTitle#441:68:0.1796
+Default$$SimpleName::cc$$org.jfree.chart.title.TextTitle#441:466:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#441:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#441:1116:0.1796
+Insert Before$$SimpleName::iterator$$org.jfree.chart.text.TextUtilities#187:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#187:5:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#187:10:0.1796
+Default$$SimpleName::getLineInstance$$org.jfree.chart.text.TextUtilities#187:62:0.1796
+Default$$SimpleType::BreakIterator$$org.jfree.chart.text.TextUtilities#187:68:0.1796
+Default$$SimpleName::BreakIterator$$org.jfree.chart.text.TextUtilities#187:466:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#187:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.text.TextUtilities#187:1116:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#602:1:0.1796
+Insert Before$$SimpleName::titleArea$$org.jfree.chart.title.TextTitle#602:1:0.1796
+Default$$SimpleType::Rectangle2D$$org.jfree.chart.title.TextTitle#602:5:0.1796
+Default$$SimpleType::Rectangle2D$$org.jfree.chart.title.TextTitle#602:8:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#602:31:0.1796
+Default$$SimpleName::clone$$org.jfree.chart.title.TextTitle#602:62:0.1796
+Default$$SimpleName::area$$org.jfree.chart.title.TextTitle#602:466:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#602:527:0.1796
+Default$$CastExpression::null$$org.jfree.chart.title.TextTitle#602:1116:0.1796
+Default$$SimpleName::font$$org.jfree.chart.title.TextTitle#603:1:0.1796
+Default$$SimpleName::setFont$$org.jfree.chart.title.TextTitle#603:4:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#603:13:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#603:466:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#603:1040:0.1796
+Default$$SimpleName::paint$$org.jfree.chart.title.TextTitle#604:1:0.1796
+Default$$SimpleName::setPaint$$org.jfree.chart.title.TextTitle#604:4:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#604:13:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#604:466:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#604:1040:0.1796
+Default$$SimpleName::font$$org.jfree.chart.title.TextTitle#497:1:0.1796
+Default$$SimpleName::setFont$$org.jfree.chart.title.TextTitle#497:4:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#497:13:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.title.TextTitle#497:466:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#497:1040:0.1796
+Default$$SimpleName::y$$org.jfree.chart.JFreeChart#1252:12:0.1796
+Default$$SimpleName::getY$$org.jfree.chart.JFreeChart#1252:62:0.1796
+Default$$SimpleName::frame$$org.jfree.chart.JFreeChart#1252:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1252:624:0.1796
+Default$$Assignment::=$$org.jfree.chart.JFreeChart#1252:1101:0.1796
+Default$$SimpleName::getY$$org.jfree.chart.title.TextTitle#623:62:0.1796
+Default$$SimpleName::titleArea$$org.jfree.chart.title.TextTitle#623:466:0.1796
+Default$$QualifiedName::BreakIterator.DONE$$org.jfree.chart.text.TextUtilities#247:1:0.1796
+Insert After$$QualifiedName::BreakIterator.DONE$$org.jfree.chart.text.TextUtilities#247:3:0.1796
+Default$$SimpleName::end$$org.jfree.chart.text.TextUtilities#247:12:0.1796
+Default$$SimpleName::next$$org.jfree.chart.text.TextUtilities#247:62:0.1796
+Default$$SimpleName::iterator$$org.jfree.chart.text.TextUtilities#247:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.text.TextUtilities#247:624:0.1796
+Insert Before$$SimpleName::e$$org.jfree.chart.JFreeChart#1195:1:0.1796
+Default$$SimpleName::title$$org.jfree.chart.JFreeChart#1195:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.JFreeChart#1195:13:0.1796
+Default$$SimpleName::result$$org.jfree.chart.JFreeChart#1344:12:0.1796
+Default$$SimpleName::getEntityCollection$$org.jfree.chart.JFreeChart#1344:62:0.1796
+Default$$SimpleName::ebr$$org.jfree.chart.JFreeChart#1344:466:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1344:624:0.1796
+Default$$SimpleName::getCenterX$$org.jfree.chart.title.TextTitle#617:62:0.1796
+Default$$SimpleName::titleArea$$org.jfree.chart.title.TextTitle#617:466:0.1796
+Default$$SimpleName::getGenerateEntities$$org.jfree.chart.title.TextTitle#566:62:0.1796
+Default$$SimpleName::p$$org.jfree.chart.title.TextTitle#566:466:0.1796
+Default$$SimpleName::content$$org.jfree.chart.title.TextTitle#498:1:0.1796
+Default$$SimpleName::text$$org.jfree.chart.title.TextTitle#498:1:0.1796
+Default$$SimpleName::font$$org.jfree.chart.title.TextTitle#498:1:0.1796
+Default$$SimpleName::createTextBlock$$org.jfree.chart.title.TextTitle#498:4:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#498:13:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#498:13:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#498:13:0.1796
+Default$$SimpleName::TextUtilities$$org.jfree.chart.title.TextTitle#498:466:0.1796
+Default$$SimpleName::text$$org.jfree.chart.title.TextTitle#560:1:0.1796
+Insert After$$Block::null$$org.jfree.chart.title.TextTitle#560:4:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#560:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#560:466:0.1796
+Default$$StringLiteral::""$$org.jfree.chart.title.TextTitle#560:1040:0.1796
+Default$$SimpleName::content$$org.jfree.chart.title.TextTitle#500:1:0.1796
+Default$$SimpleName::textAlignment$$org.jfree.chart.title.TextTitle#500:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#500:13:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#500:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#500:466:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#500:1040:0.1796
+Insert Before$$SimpleName::fm$$org.jfree.chart.text.G2TextMeasurer#75:1:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.text.G2TextMeasurer#75:1:0.1796
+Default$$SimpleName::getFontMetrics$$org.jfree.chart.text.G2TextMeasurer#75:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.text.G2TextMeasurer#75:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.text.G2TextMeasurer#75:466:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#494:1:0.1796
+Default$$SimpleType::RectangleEdge$$org.jfree.chart.title.TextTitle#494:13:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#494:22:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#494:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#494:1116:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#576:1:0.1796
+Default$$SimpleType::RectangleEdge$$org.jfree.chart.title.TextTitle#576:13:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#576:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#576:1116:0.1796
+Insert Before$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#607:1:0.1796
+Default$$SimpleType::HorizontalAlignment$$org.jfree.chart.title.TextTitle#607:13:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#607:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#607:1116:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#621:1:0.1796
+Default$$SimpleType::RectangleEdge$$org.jfree.chart.title.TextTitle#621:13:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#621:527:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.title.TextTitle#621:1116:0.1796
+Insert Before$$SimpleName::current$$org.jfree.chart.text.TextUtilities#239:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#239:4:0.1796
+Default$$PrimitiveType::int$$org.jfree.chart.text.TextUtilities#239:10:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#239:253:0.1796
+Default$$SimpleName::start$$org.jfree.chart.text.TextUtilities#239:1116:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.text.G2TextMeasurer#62:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.text.G2TextMeasurer#62:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.text.G2TextMeasurer#62:25:0.1796
+Default$$SimpleName::g2$$org.jfree.chart.text.G2TextMeasurer#62:187:0.1796
+Default$$Assignment::=$$org.jfree.chart.text.G2TextMeasurer#62:1531:0.1796
+Insert Before$$ReturnStatement::null$$org.jfree.chart.block.BlockResult#67:1:0.1796
+Default$$SimpleName::entities$$org.jfree.chart.block.BlockResult#67:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.block.BlockResult#67:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.block.BlockResult#67:590:0.1796
+Insert Before$$SimpleName::lines$$org.jfree.chart.text.TextUtilities#190:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#190:3:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#190:4:0.1796
+Default$$PrimitiveType::int$$org.jfree.chart.text.TextUtilities#190:9:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#190:253:0.1796
+Default$$NumberLiteral::0$$org.jfree.chart.text.TextUtilities#190:1116:0.1796
+Insert Before$$SimpleName::current$$org.jfree.chart.text.TextUtilities#189:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#189:2:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#189:3:0.1796
+Default$$PrimitiveType::int$$org.jfree.chart.text.TextUtilities#189:9:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#189:253:0.1796
+Default$$NumberLiteral::0$$org.jfree.chart.text.TextUtilities#189:1116:0.1796
+Insert Before$$SimpleName::x$$org.jfree.chart.title.TextTitle#606:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#606:3:0.1796
+Default$$PrimitiveType::float$$org.jfree.chart.title.TextTitle#606:9:0.1796
+Default$$NumberLiteral::0.0f$$org.jfree.chart.title.TextTitle#606:1116:0.1796
+Insert Before$$SimpleName::x$$org.jfree.chart.text.TextUtilities#241:1:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#241:2:0.1796
+Default$$PrimitiveType::float$$org.jfree.chart.text.TextUtilities#241:9:0.1796
+Default$$NumberLiteral::0.0f$$org.jfree.chart.text.TextUtilities#241:1116:0.1796
+Insert Before$$SimpleName::y$$org.jfree.chart.title.TextTitle#620:1:0.1796
+Default$$PrimitiveType::float$$org.jfree.chart.title.TextTitle#620:9:0.1796
+Default$$NumberLiteral::0.0f$$org.jfree.chart.title.TextTitle#620:1116:0.1796
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#242:1:0.1796
+Insert Before$$SimpleName::firstWord$$org.jfree.chart.text.TextUtilities#242:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#242:2:0.1796
+Default$$PrimitiveType::boolean$$org.jfree.chart.text.TextUtilities#242:2:0.1796
+Default$$BooleanLiteral::true$$org.jfree.chart.text.TextUtilities#242:1116:0.1796
+Insert After$$Modifier::public$$org.jfree.chart.text.G2TextMeasurer#61:4:0.1796
+Insert After$$SingleVariableDeclaration::null$$org.jfree.chart.text.G2TextMeasurer#61:7:0.1796
+Default$$Modifier::public$$org.jfree.chart.text.G2TextMeasurer#61:10:0.1796
+Default$$SingleVariableDeclaration::null$$org.jfree.chart.text.G2TextMeasurer#61:14:0.1796
+Insert Before$$Modifier::public$$org.jfree.chart.text.G2TextMeasurer#61:15:0.1796
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.chart.text.G2TextMeasurer#61:139:0.1796
+Default$$Block::null$$org.jfree.chart.text.G2TextMeasurer#61:223:0.1796
+Default$$SimpleType::Graphics2D$$org.jfree.chart.text.G2TextMeasurer#61:232:0.1796
+Insert Before$$SimpleName::result$$org.jfree.chart.text.TextUtilities#186:1:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#186:5:0.1796
+Default$$SimpleType::TextBlock$$org.jfree.chart.text.TextUtilities#186:16:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.text.TextUtilities#186:21:0.1796
+Default$$SimpleType::TextBlock$$org.jfree.chart.text.TextUtilities#186:44:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.text.TextUtilities#186:527:0.1796
+Default$$ClassInstanceCreation::null$$org.jfree.chart.text.TextUtilities#186:1116:0.1796
+Insert After$$NumberLiteral::2.0f$$org.jfree.chart.text.TextBlock#274:4:0.1796
+Default$$SimpleName::width$$org.jfree.chart.text.TextBlock#274:51:0.1796
+Insert Before$$SimpleName::result$$org.jfree.chart.title.TextTitle#584:1:0.1796
+Default$$SimpleType::BlockResult$$org.jfree.chart.title.TextTitle#584:16:0.1796
+Default$$SimpleType::BlockResult$$org.jfree.chart.title.TextTitle#584:44:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#584:527:0.1796
+Default$$ClassInstanceCreation::null$$org.jfree.chart.title.TextTitle#584:1116:0.1796
+Insert Before$$SimpleName::contentSize$$org.jfree.chart.title.TextTitle#442:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#442:5:0.1796
+Default$$SimpleType::Size2D$$org.jfree.chart.title.TextTitle#442:45:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#442:527:0.1796
+Default$$NullLiteral::null$$org.jfree.chart.title.TextTitle#442:1116:0.1796
+Insert Before$$SimpleName::anchor$$org.jfree.chart.title.TextTitle#605:1:0.1796
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#605:3:0.1796
+Default$$SimpleType::TextBlockAnchor$$org.jfree.chart.title.TextTitle#605:45:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#605:527:0.1796
+Default$$NullLiteral::null$$org.jfree.chart.title.TextTitle#605:1116:0.1796
+Insert Before$$SimpleName::ebr$$org.jfree.chart.JFreeChart#1343:1:0.1796
+Default$$SimpleType::EntityBlockResult$$org.jfree.chart.JFreeChart#1343:4:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.JFreeChart#1343:6:0.1796
+Default$$SimpleType::EntityBlockResult$$org.jfree.chart.JFreeChart#1343:8:0.1796
+Default$$SimpleName::retValue$$org.jfree.chart.JFreeChart#1343:31:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.JFreeChart#1343:527:0.1796
+Default$$CastExpression::null$$org.jfree.chart.JFreeChart#1343:1116:0.1796
+Insert Before$$SimpleName::entity$$org.jfree.chart.title.TextTitle#563:1:0.1796
+Default$$SimpleType::ChartEntity$$org.jfree.chart.title.TextTitle#563:45:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#563:527:0.1796
+Default$$NullLiteral::null$$org.jfree.chart.title.TextTitle#563:1116:0.1796
+Insert Before$$SimpleName::p$$org.jfree.chart.title.TextTitle#565:1:0.1796
+Default$$SimpleType::EntityBlockParams$$org.jfree.chart.title.TextTitle#565:4:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.title.TextTitle#565:6:0.1796
+Default$$SimpleType::EntityBlockParams$$org.jfree.chart.title.TextTitle#565:8:0.1796
+Default$$SimpleName::params$$org.jfree.chart.title.TextTitle#565:31:0.1796
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.title.TextTitle#565:527:0.1796
+Default$$CastExpression::null$$org.jfree.chart.title.TextTitle#565:1116:0.1796
+Insert After$$SimpleName::current$$org.jfree.chart.text.TextUtilities#192:4:0.1796
+Insert After$$SimpleName::lines$$org.jfree.chart.text.TextUtilities#192:4:0.1796
+Insert After$$SimpleName::length$$org.jfree.chart.text.TextUtilities#192:17:0.1796
+Insert After$$SimpleName::maxLines$$org.jfree.chart.text.TextUtilities#192:17:0.1796
+Default$$SimpleName::current$$org.jfree.chart.text.TextUtilities#192:123:0.1796
+Insert Before$$SimpleName::current$$org.jfree.chart.text.TextUtilities#192:123:0.1796
+Default$$SimpleName::lines$$org.jfree.chart.text.TextUtilities#192:123:0.1796
+Insert Before$$SimpleName::lines$$org.jfree.chart.text.TextUtilities#192:123:0.1796
+Default$$SimpleName::length$$org.jfree.chart.text.TextUtilities#192:235:0.1796
+Default$$SimpleName::maxLines$$org.jfree.chart.text.TextUtilities#192:235:0.1796
+Default$$SimpleName::newline$$org.jfree.chart.text.TextUtilities#245:7:0.1796
+Default$$QualifiedName::Integer.MAX_VALUE$$org.jfree.chart.text.TextUtilities#245:624:0.1796
+Default$$Assignment::=$$org.jfree.chart.text.TextUtilities#245:1101:0.1796
+Insert After$$QualifiedName::LengthConstraintType.NONE$$org.jfree.chart.title.TextTitle#455:3:0.1796
+Default$$SimpleName::h$$org.jfree.chart.title.TextTitle#455:55:0.1796
+Insert Before$$SimpleName::h$$org.jfree.chart.title.TextTitle#455:123:0.1796
+Default$$QualifiedName::LengthConstraintType.NONE$$org.jfree.chart.title.TextTitle#455:235:0.1796
+Insert After$$QualifiedName::RectangleEdge.TOP$$org.jfree.chart.title.TextTitle#577:3:0.1796
+Insert After$$QualifiedName::RectangleEdge.BOTTOM$$org.jfree.chart.title.TextTitle#577:3:0.1796
+Default$$SimpleName::position$$org.jfree.chart.title.TextTitle#577:55:0.1796
+Default$$SimpleName::position$$org.jfree.chart.title.TextTitle#577:55:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#577:123:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#577:123:0.1796
+Default$$QualifiedName::RectangleEdge.TOP$$org.jfree.chart.title.TextTitle#577:235:0.1796
+Default$$QualifiedName::RectangleEdge.BOTTOM$$org.jfree.chart.title.TextTitle#577:235:0.1796
+Insert After$$QualifiedName::RectangleEdge.TOP$$org.jfree.chart.title.TextTitle#495:3:0.1796
+Insert After$$QualifiedName::RectangleEdge.BOTTOM$$org.jfree.chart.title.TextTitle#495:3:0.1796
+Default$$SimpleName::position$$org.jfree.chart.title.TextTitle#495:55:0.1796
+Default$$SimpleName::position$$org.jfree.chart.title.TextTitle#495:55:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#495:123:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#495:123:0.1796
+Default$$QualifiedName::RectangleEdge.TOP$$org.jfree.chart.title.TextTitle#495:235:0.1796
+Default$$QualifiedName::RectangleEdge.BOTTOM$$org.jfree.chart.title.TextTitle#495:235:0.1796
+Default$$SimpleName::current$$org.jfree.chart.text.TextUtilities#269:25:0.1796
+Default$$SimpleName::end$$org.jfree.chart.text.TextUtilities#269:624:0.1796
+Default$$SimpleName::lineAlignment$$org.jfree.chart.text.TextBlock#108:1:0.1796
+Default$$Assignment::=$$org.jfree.chart.text.TextBlock#108:6:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.text.TextBlock#108:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.text.TextBlock#108:25:0.1796
+Default$$SimpleName::alignment$$org.jfree.chart.text.TextBlock#108:187:0.1796
+Insert Before$$ReturnStatement::null$$org.jfree.chart.title.TextTitle#506:18:0.1796
+Default$$SimpleName::contentSize$$org.jfree.chart.title.TextTitle#506:590:0.1796
+Default$$ReturnStatement::null$$org.jfree.chart.title.TextTitle#506:1101:0.1796
+Insert After$$IfStatement::null$$org.jfree.chart.text.TextBlock#105:3:0.1796
+Insert Before$$IfStatement::null$$org.jfree.chart.text.TextBlock#105:5:0.1796
+Insert After$$Block::null$$org.jfree.chart.text.TextBlock#105:9:0.1796
+Default$$InfixExpression::==$$org.jfree.chart.text.TextBlock#105:37:0.1796
+Default$$SimpleName::alignment$$org.jfree.chart.text.TextBlock#105:44:0.1796
+Default$$Block::null$$org.jfree.chart.text.TextBlock#105:99:0.1796
+Insert Before$$SimpleName::alignment$$org.jfree.chart.text.TextBlock#105:123:0.1796
+Insert After$$IfStatement::null$$org.jfree.chart.JFreeChart#1197:2:0.1796
+Insert After$$Block::null$$org.jfree.chart.JFreeChart#1197:9:0.1796
+Default$$SimpleName::e$$org.jfree.chart.JFreeChart#1197:44:0.1796
+Default$$InfixExpression::!=$$org.jfree.chart.JFreeChart#1197:65:0.1796
+Insert Before$$SimpleName::e$$org.jfree.chart.JFreeChart#1197:123:0.1796
+Default$$SimpleName::entity$$org.jfree.chart.title.TextTitle#585:44:0.1796
+Insert Before$$SimpleName::entity$$org.jfree.chart.title.TextTitle#585:123:0.1796
+Insert After$$SimpleName::end$$org.jfree.chart.text.TextUtilities#248:4:0.1796
+Insert After$$Block::null$$org.jfree.chart.text.TextUtilities#248:9:0.1796
+Insert After$$SimpleName::newline$$org.jfree.chart.text.TextUtilities#248:17:0.1796
+Default$$SimpleName::end$$org.jfree.chart.text.TextUtilities#248:123:0.1796
+Insert Before$$SimpleName::end$$org.jfree.chart.text.TextUtilities#248:123:0.1796
+Default$$SimpleName::newline$$org.jfree.chart.text.TextUtilities#248:235:0.1796
+Insert After$$SimpleName::x$$org.jfree.chart.text.TextUtilities#252:4:0.1796
+Insert After$$SimpleName::width$$org.jfree.chart.text.TextUtilities#252:17:0.1796
+Default$$SimpleName::x$$org.jfree.chart.text.TextUtilities#252:123:0.1796
+Insert Before$$SimpleName::x$$org.jfree.chart.text.TextUtilities#252:123:0.1796
+Default$$SimpleName::width$$org.jfree.chart.text.TextUtilities#252:235:0.1796
+Insert After$$Block::null$$org.jfree.chart.text.TextUtilities#244:3:0.1796
+Insert After$$NumberLiteral::0$$org.jfree.chart.text.TextUtilities#244:4:0.1796
+Default$$InfixExpression::<$$org.jfree.chart.text.TextUtilities#244:12:0.1796
+Default$$SimpleName::newline$$org.jfree.chart.text.TextUtilities#244:115:0.1796
+Insert Before$$SimpleName::newline$$org.jfree.chart.text.TextUtilities#244:123:0.1796
+Default$$NumberLiteral::0$$org.jfree.chart.text.TextUtilities#244:235:0.1796
+Default$$SimpleName::anchor$$org.jfree.chart.title.TextTitle#618:7:0.1796
+Default$$QualifiedName::TextBlockAnchor.TOP_CENTER$$org.jfree.chart.title.TextTitle#618:624:0.1796
+Insert After$$QualifiedName::BreakIterator.DONE$$org.jfree.chart.text.TextUtilities#195:3:0.1796
+Default$$SimpleName::next$$org.jfree.chart.text.TextUtilities#195:55:0.1796
+Insert Before$$SimpleName::next$$org.jfree.chart.text.TextUtilities#195:123:0.1796
+Default$$QualifiedName::BreakIterator.DONE$$org.jfree.chart.text.TextUtilities#195:235:0.1796
+Default$$SimpleName::firstWord$$org.jfree.chart.text.TextUtilities#268:6:0.1796
+Default$$BooleanLiteral::false$$org.jfree.chart.text.TextUtilities#268:624:0.1796
+Insert After$$QualifiedName::HorizontalAlignment.CENTER$$org.jfree.chart.title.TextTitle#616:3:0.1796
+Default$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#616:55:0.1796
+Insert Before$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#616:123:0.1796
+Default$$QualifiedName::HorizontalAlignment.CENTER$$org.jfree.chart.title.TextTitle#616:235:0.1796
+Insert After$$QualifiedName::LengthConstraintType.RANGE$$org.jfree.chart.title.TextTitle#458:3:0.1796
+Default$$SimpleName::h$$org.jfree.chart.title.TextTitle#458:55:0.1796
+Insert Before$$SimpleName::h$$org.jfree.chart.title.TextTitle#458:123:0.1796
+Default$$QualifiedName::LengthConstraintType.RANGE$$org.jfree.chart.title.TextTitle#458:235:0.1796
+Insert After$$QualifiedName::HorizontalAlignment.LEFT$$org.jfree.chart.title.TextTitle#608:3:0.1796
+Default$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#608:55:0.1796
+Insert Before$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#608:123:0.1796
+Default$$QualifiedName::HorizontalAlignment.LEFT$$org.jfree.chart.title.TextTitle#608:235:0.1796
+Insert After$$QualifiedName::RectangleEdge.TOP$$org.jfree.chart.title.TextTitle#622:3:0.1796
+Default$$SimpleName::position$$org.jfree.chart.title.TextTitle#622:55:0.1796
+Insert Before$$SimpleName::position$$org.jfree.chart.title.TextTitle#622:123:0.1796
+Default$$QualifiedName::RectangleEdge.TOP$$org.jfree.chart.title.TextTitle#622:235:0.1796
+Insert After$$QualifiedName::LengthConstraintType.NONE$$org.jfree.chart.title.TextTitle#443:3:0.1796
+Default$$SimpleName::w$$org.jfree.chart.title.TextTitle#443:55:0.1796
+Insert Before$$SimpleName::w$$org.jfree.chart.title.TextTitle#443:123:0.1796
+Default$$QualifiedName::LengthConstraintType.NONE$$org.jfree.chart.title.TextTitle#443:235:0.1796
+Insert After$$QualifiedName::LengthConstraintType.RANGE$$org.jfree.chart.title.TextTitle#454:3:0.1796
+Default$$SimpleName::w$$org.jfree.chart.title.TextTitle#454:55:0.1796
+Insert Before$$SimpleName::w$$org.jfree.chart.title.TextTitle#454:123:0.1796
+Default$$QualifiedName::LengthConstraintType.RANGE$$org.jfree.chart.title.TextTitle#454:235:0.1796
+Insert After$$QualifiedName::HorizontalAlignment.RIGHT$$org.jfree.chart.title.TextTitle#612:3:0.1796
+Default$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#612:55:0.1796
+Insert Before$$SimpleName::horizontalAlignment$$org.jfree.chart.title.TextTitle#612:123:0.1796
+Default$$QualifiedName::HorizontalAlignment.RIGHT$$org.jfree.chart.title.TextTitle#612:235:0.1796
+Default$$SimpleName::content$$org.jfree.chart.title.TextTitle#555:1:0.1796
+Insert After$$Block::null$$org.jfree.chart.title.TextTitle#555:4:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#555:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#555:44:0.1796
+Default$$SimpleName::backgroundPaint$$org.jfree.chart.title.TextTitle#571:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#571:13:0.1796
+Default$$FieldAccess::null$$org.jfree.chart.title.TextTitle#571:44:0.1796
+Default$$SimpleName::result$$org.jfree.chart.text.G2TextMeasurer#79:590:0.1796
+Default$$SimpleName::result$$org.jfree.chart.text.TextUtilities#197:590:0.1796
+Default$$QualifiedName::BreakIterator.DONE$$org.jfree.chart.text.TextUtilities#271:590:0.1796
+Default$$SimpleName::result$$org.jfree.chart.title.TextTitle#590:590:0.1796
+Default$$SimpleName::expandToFitSpace$$org.jfree.chart.title.TextTitle#502:1:0.1796
+Default$$ThisExpression::null$$org.jfree.chart.title.TextTitle#502:13:0.1796
+Default$$SimpleType::EntityBlockParams$$org.jfree.chart.title.TextTitle#564:6:0.1796
+Default$$SimpleName::params$$org.jfree.chart.title.TextTitle#564:8:0.1796
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1318:10:0.1768
+Default$$SimpleName::setRect$$org.jfree.chart.JFreeChart#1318:29:0.1768
+Default$$SimpleName::getX$$org.jfree.chart.JFreeChart#1318:62:0.1768
+Default$$SimpleName::getY$$org.jfree.chart.JFreeChart#1318:62:0.1768
+Default$$SimpleName::getWidth$$org.jfree.chart.JFreeChart#1318:62:0.1768
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1318:68:0.1768
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1318:466:0.1768
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1318:466:0.1768
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1318:466:0.1768
+Default$$SimpleName::area$$org.jfree.chart.JFreeChart#1318:466:0.1768
+Default$$SimpleName::retValue$$org.jfree.chart.JFreeChart#1317:2:0.1768
+Default$$SimpleName::draw$$org.jfree.chart.JFreeChart#1317:46:0.1768
+Default$$SimpleName::g2$$org.jfree.chart.JFreeChart#1317:267:0.1768
+Default$$SimpleName::titleArea$$org.jfree.chart.JFreeChart#1317:267:0.1768
+Default$$SimpleName::t$$org.jfree.chart.JFreeChart#1317:466:0.1768
+Default$$MethodInvocation::null$$org.jfree.chart.JFreeChart#1317:624:0.1768
+Default$$SimpleName::p$$org.jfree.chart.JFreeChart#1317:1040:0.1768
+Default$$SimpleName::draw$$org.jfree.chart.title.LegendTitle#521:46:0.1768
+Default$$SimpleName::g2$$org.jfree.chart.title.LegendTitle#521:267:0.1768
+Default$$SimpleName::target$$org.jfree.chart.title.LegendTitle#521:267:0.1768

@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.linear.EigenDecompositionImpl
+update
+k
+to
+j
+at line 1137
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+143
+P:InfixExpression{leftOperand},L:,R:{34}

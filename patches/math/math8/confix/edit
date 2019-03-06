@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.distribution.DiscreteDistribution
+replace
+0
+with
+sampleSize
+at line 187
+Applied Change
+replace
+0
+with
+var0
+from
+lucene-a7a28ec:lucene/sandbox/src/java/org/apache/lucene/document/LatLonBoundingBox.java::
+12
+P:MethodInvocation{arguments},L:{42},R:

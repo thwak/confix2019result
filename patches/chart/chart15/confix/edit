@@ -1,0 +1,19 @@
+Class:org.jfree.chart.plot.PiePlot3D
+insert
+if (info == null) {
+  return;
+}
+
+at Insert After
+IfStatement::null
+org.jfree.chart.plot.PiePlot3D:234
+Context:P:MethodDeclaration{statements},L:IfStatement{statements},R:MethodInvocation{statements}
+Applied Change
+insert
+if (var0 == null) {
+        return;
+      }
+from
+lucene-db2faf0:lucene/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTermExtractor.java:
+4
+P:MethodDeclaration{statements},L:IfStatement{statements},R:MethodInvocation{statements}

@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.util.MathUtils
+replace
+dp
+with
+((double)dp)
+at line 1627
+Applied Change
+replace
+var0
+with
+((double) var0)
+from
+hadoop-bdeee31:hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java::
+1
+P:InfixExpression{leftOperand},L:,R:{42}

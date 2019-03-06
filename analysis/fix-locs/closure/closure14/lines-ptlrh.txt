@@ -1,0 +1,11 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::computeFallThrough$$com.google.javascript.jscomp.ControlFlowAnalysis#579:4:0.5774
+Default$$SimpleName::put$$com.google.javascript.jscomp.ControlFlowAnalysis#579:46:0.5774
+Default$$SimpleName::getLastChild$$com.google.javascript.jscomp.ControlFlowAnalysis#579:62:0.5774
+Default$$SimpleName::finallyMap$$com.google.javascript.jscomp.ControlFlowAnalysis#579:466:0.5774
+Default$$SimpleName::cur$$com.google.javascript.jscomp.ControlFlowAnalysis#579:466:0.5774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ControlFlowAnalysis#579:1040:0.5774
+Default$$SimpleName::createEdge$$com.google.javascript.jscomp.ControlFlowAnalysis#767:46:0.4629
+Default$$SimpleName::fromNode$$com.google.javascript.jscomp.ControlFlowAnalysis#767:46:0.4629
+Default$$SimpleName::finallyNode$$com.google.javascript.jscomp.ControlFlowAnalysis#767:96:0.4629
+Default$$QualifiedName::Branch.UNCOND$$com.google.javascript.jscomp.ControlFlowAnalysis#767:267:0.4629

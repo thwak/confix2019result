@@ -1,0 +1,14 @@
+Class:com.google.javascript.jscomp.CodeGenerator
+insert
+c < 0x7F
+at Insert Before
+InfixExpression::>
+com.google.javascript.jscomp.CodeGenerator:1045
+Context:P:InfixExpression{leftOperand},L:,R:{27>{42}{34}}
+Applied Change
+insert
+var0 == 0L
+from
+lucene-2351663:solr/core/src/java/org/apache/solr/servlet/SolrRequestParsers.java::
+1
+P:InfixExpression{leftOperand},L:,R:{27>{42}{34}}

@@ -1,0 +1,14 @@
+Class:org.apache.commons.math3.optimization.direct.CMAESOptimizer
+insert
+this.maxIterations
+at Insert Before
+NumberLiteral::4
+org.apache.commons.math3.optimization.direct.CMAESOptimizer:562
+Context:P:InfixExpression{leftOperand},L:,R:{34}
+Applied Change
+insert
+this.var0
+from
+collections-b2b8f4a:src/main/java/org/apache/commons/collections4/multimap/AbstractListValuedMap.java::
+3
+P:InfixExpression{leftOperand},L:,R:{34}

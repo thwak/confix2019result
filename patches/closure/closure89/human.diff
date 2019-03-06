@@ -1,0 +1,12 @@
+--- ../result-tf-hash/closure/closure89/buggy/com/google/javascript/jscomp/CollapseProperties.java	2019-02-22 09:03:18.313221661 +0000
++++ ../result-tf-hash/closure/closure89/human/com/google/javascript/jscomp/CollapseProperties.java	2019-02-22 09:03:18.325221710 +0000
+@@ -481,6 +481,9 @@
+     Node greatGramps = gramps.getParent();
+     Node greatGreatGramps = greatGramps.getParent();
+ 
++    if (rvalue != null && rvalue.getType() == Token.FUNCTION) {
++      checkForHosedThisReferences(rvalue, refName.docInfo, refName);
++    }
+ 
+     // Create the new alias node.
+     Node nameNode = NodeUtil.newName(

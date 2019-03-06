@@ -1,0 +1,15 @@
+Class:org.jfree.chart.renderer.category.StatisticalBarRenderer
+replace
+orientation = plot.getOrientation()
+with
+orientation=null
+at line 206
+Applied Change
+replace
+var0 = var1.method0()
+with
+var0 = null
+from
+lucene-673b1f8:lucene/highlighter/src/java/org/apache/lucene/search/vectorhighlight/FieldPhraseList.java::
+11
+P:VariableDeclarationStatement{fragments},L:{43},R:

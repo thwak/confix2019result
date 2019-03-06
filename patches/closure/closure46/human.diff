@@ -1,0 +1,25 @@
+--- ../result-tf-hash/closure/closure46/buggy/com/google/javascript/rhino/jstype/RecordType.java	2019-02-21 22:35:19.474083084 +0000
++++ ../result-tf-hash/closure/closure46/human/com/google/javascript/rhino/jstype/RecordType.java	2019-02-21 22:35:19.478083057 +0000
+@@ -137,22 +137,6 @@
+         propertyNode);
+   }
+ 
+-  @Override
+-  public JSType getLeastSupertype(JSType that) {
+-    if (!that.isRecordType()) {
+-      return super.getLeastSupertype(that);
+-    }
+-    RecordTypeBuilder builder = new RecordTypeBuilder(registry);
+-    for (String property : properties.keySet()) {
+-      if (that.toMaybeRecordType().hasProperty(property) &&
+-          that.toMaybeRecordType().getPropertyType(property).isEquivalentTo(
+-              getPropertyType(property))) {
+-        builder.addProperty(property, getPropertyType(property),
+-            getPropertyNode(property));
+-      }
+-    }
+-    return builder.build();
+-  }
+   JSType getGreatestSubtypeHelper(JSType that) {
+     if (that.isRecordType()) {
+       RecordType thatRecord = that.toMaybeRecordType();

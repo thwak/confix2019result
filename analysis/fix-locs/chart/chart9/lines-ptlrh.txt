@@ -1,0 +1,829 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.TimeSeries#953:4:0.7071
+Default$$SimpleName::createCopy$$org.jfree.data.time.TimeSeries#953:13:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#953:267:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#953:590:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#953:1040:0.7071
+Default$$ReturnStatement::null$$org.jfree.data.time.TimeSeries#953:1101:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#927:4:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#927:9:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#927:17:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#927:18:0.7071
+Default$$SimpleName::compareTo$$org.jfree.data.time.TimeSeries#927:46:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#927:115:0.7071
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#927:466:0.7071
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#927:1040:0.7071
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#932:1:0.7071
+Default$$SimpleName::getIndex$$org.jfree.data.time.TimeSeries#932:13:0.7071
+Default$$PrimitiveType::int$$org.jfree.data.time.TimeSeries#932:68:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#932:253:0.7071
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#932:1040:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#932:1116:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#939:1:0.7071
+Default$$SimpleName::getIndex$$org.jfree.data.time.TimeSeries#939:13:0.7071
+Default$$PrimitiveType::int$$org.jfree.data.time.TimeSeries#939:68:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#939:253:0.7071
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#939:1040:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#939:1116:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#935:1:0.7071
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#935:1:0.7071
+Default$$SimpleName::size$$org.jfree.data.time.TimeSeries#935:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#935:2:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#935:7:0.7071
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#935:13:0.7071
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#935:123:0.7071
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#935:466:0.7071
+Insert Before$$ThrowStatement::null$$org.jfree.data.time.TimeSeries#883:5:0.7071
+Default$$SimpleType::IllegalArgumentException$$org.jfree.data.time.TimeSeries#883:8:0.7071
+Insert After$$StringLiteral::"Requires start <= end."$$org.jfree.data.time.TimeSeries#883:16:0.7071
+Default$$ClassInstanceCreation::null$$org.jfree.data.time.TimeSeries#883:52:0.7071
+Default$$StringLiteral::"Requires start <= end."$$org.jfree.data.time.TimeSeries#883:141:0.7071
+Default$$ThrowStatement::null$$org.jfree.data.time.TimeSeries#883:1101:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#931:1:0.7071
+Insert Before$$SimpleName::emptyRange$$org.jfree.data.time.TimeSeries#931:1:0.7071
+Default$$PrimitiveType::boolean$$org.jfree.data.time.TimeSeries#931:2:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#931:253:0.7071
+Default$$BooleanLiteral::false$$org.jfree.data.time.TimeSeries#931:1116:0.7071
+Insert After$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#934:4:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#934:115:0.7071
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#934:123:0.7071
+Default$$InfixExpression::+$$org.jfree.data.time.TimeSeries#934:167:0.7071
+Default$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#934:235:0.7071
+Insert After$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#941:4:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#941:115:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#941:123:0.7071
+Default$$InfixExpression::+$$org.jfree.data.time.TimeSeries#941:167:0.7071
+Default$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#941:235:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#942:1:0.7071
+Insert After$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#942:4:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#942:115:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#942:123:0.7071
+Default$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#942:235:0.7071
+Default$$InfixExpression::-$$org.jfree.data.time.TimeSeries#942:624:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#921:2:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#921:5:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#921:9:0.7071
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeries#921:37:0.7071
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#921:44:0.7071
+Default$$Block::null$$org.jfree.data.time.TimeSeries#921:99:0.7071
+Insert Before$$SimpleName::start$$org.jfree.data.time.TimeSeries#921:123:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#924:2:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#924:9:0.7071
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeries#924:37:0.7071
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#924:44:0.7071
+Default$$Block::null$$org.jfree.data.time.TimeSeries#924:99:0.7071
+Insert Before$$SimpleName::end$$org.jfree.data.time.TimeSeries#924:123:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#933:4:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#933:115:0.7071
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#933:123:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#933:235:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#944:4:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#944:7:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#944:115:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#944:123:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#944:235:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#940:4:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#940:115:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#940:123:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#940:235:0.7071
+Insert After$$SimpleName::end$$org.jfree.data.time.TimeSeries#882:4:0.5774
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#882:9:0.5774
+Insert After$$SimpleName::start$$org.jfree.data.time.TimeSeries#882:17:0.5774
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#882:123:0.5774
+Insert Before$$SimpleName::end$$org.jfree.data.time.TimeSeries#882:123:0.5774
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#882:235:0.5774
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#879:2:0.5774
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#879:4:0.5774
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#879:9:0.5774
+Default$$InfixExpression::<$$org.jfree.data.time.TimeSeries#879:37:0.5774
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#879:115:0.5774
+Insert Before$$SimpleName::start$$org.jfree.data.time.TimeSeries#879:123:0.5774
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#879:235:0.5774
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#435:1:0.3333
+Default$$SimpleName::binarySearch$$org.jfree.data.time.TimeSeries#435:4:0.3333
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#435:13:0.3333
+Default$$SimpleName::Collections$$org.jfree.data.time.TimeSeries#435:466:0.3333
+Insert Before$$SimpleName::dummy$$org.jfree.data.time.TimeSeries#433:1:0.3333
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#433:34:0.3333
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#433:527:0.3333
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#430:5:0.3333
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#430:9:0.3333
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeries#430:37:0.3333
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeries#430:44:0.3333
+Default$$Block::null$$org.jfree.data.time.TimeSeries#430:99:0.3333
+Insert Before$$SimpleName::period$$org.jfree.data.time.TimeSeries#430:123:0.3333
+Default$$SimpleName::name$$org.jfree.data.time.TimeSeries#142:4:0.2887
+Default$$SimpleName::DEFAULT_DOMAIN_DESCRIPTION$$org.jfree.data.time.TimeSeries#142:11:0.2887
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#575:13:0.2182
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#575:267:0.2182
+Default$$SimpleName::notify$$org.jfree.data.time.TimeSeries#575:1040:0.2182
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#561:13:0.2182
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeries#561:29:0.2182
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeries#561:267:0.2182
+Default$$BooleanLiteral::true$$org.jfree.data.time.TimeSeries#561:1040:0.2182
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#574:1:0.2182
+Insert Before$$SimpleName::item$$org.jfree.data.time.TimeSeries#574:1:0.2182
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#574:2:0.2182
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#574:5:0.2182
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#574:34:0.2182
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeries#574:70:0.2182
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeries#574:118:0.2182
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#574:527:0.2182
+Default$$ClassInstanceCreation::null$$org.jfree.data.time.TimeSeries#574:1116:0.2182
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#603:13:0.2085
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#603:267:0.2085
+Default$$SimpleName::notify$$org.jfree.data.time.TimeSeries#603:1040:0.2085
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#588:13:0.2085
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeries#588:29:0.2085
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeries#588:267:0.2085
+Default$$BooleanLiteral::true$$org.jfree.data.time.TimeSeries#588:1040:0.2085
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#602:1:0.2085
+Insert Before$$SimpleName::item$$org.jfree.data.time.TimeSeries#602:1:0.2085
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#602:2:0.2085
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#602:5:0.2085
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeries#602:34:0.2085
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeries#602:70:0.2085
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeries#602:118:0.2085
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#602:527:0.2085
+Default$$ClassInstanceCreation::null$$org.jfree.data.time.TimeSeries#602:1116:0.2085
+Default$$SimpleName::name$$org.jfree.data.time.TimeSeries#155:4:0.1961
+Default$$SimpleName::DEFAULT_DOMAIN_DESCRIPTION$$org.jfree.data.time.TimeSeries#155:11:0.1961
+Default$$SimpleName::DEFAULT_RANGE_DESCRIPTION$$org.jfree.data.time.TimeSeries#155:11:0.1961
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#514:4:0.1890
+Default$$SimpleName::compareTo$$org.jfree.data.time.TimeSeries#514:5:0.1890
+Default$$SimpleName::getPeriod$$org.jfree.data.time.TimeSeries#514:62:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#514:466:0.1890
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#514:466:0.1890
+Default$$SimpleName::last$$org.jfree.data.time.TimeSeries#514:1040:0.1890
+Default$$SimpleName::timePeriodClass$$org.jfree.data.time.TimeSeries#494:1:0.1890
+Default$$SimpleName::getClass$$org.jfree.data.time.TimeSeries#494:11:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#494:13:0.1890
+Default$$SimpleName::getPeriod$$org.jfree.data.time.TimeSeries#494:62:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#494:466:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#494:466:0.1890
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#494:466:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#494:1040:0.1890
+Default$$SimpleName::getPeriod$$org.jfree.data.time.TimeSeries#372:11:0.1890
+Default$$SimpleName::getDataItem$$org.jfree.data.time.TimeSeries#372:13:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#372:466:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#372:590:0.1890
+Default$$SimpleName::index$$org.jfree.data.time.TimeSeries#372:1040:0.1890
+Insert Before$$SimpleName::latest$$org.jfree.data.time.TimeSeries#741:1:0.1890
+Insert After$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#741:4:0.1890
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#741:9:0.1890
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#341:1:0.1890
+Default$$SimpleName::get$$org.jfree.data.time.TimeSeries#341:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#341:13:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#341:466:0.1890
+Default$$SimpleName::index$$org.jfree.data.time.TimeSeries#341:1040:0.1890
+Insert Before$$SimpleName::last$$org.jfree.data.time.TimeSeries#513:1:0.1890
+Insert After$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#513:4:0.1890
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#513:9:0.1890
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#509:1:0.1890
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#509:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#509:13:0.1890
+Insert Before$$SimpleName::item$$org.jfree.data.time.TimeSeries#509:267:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#509:466:0.1890
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#509:1040:0.1890
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#515:1:0.1890
+Default$$SimpleName::add$$org.jfree.data.time.TimeSeries#515:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#515:13:0.1890
+Insert Before$$SimpleName::item$$org.jfree.data.time.TimeSeries#515:267:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#515:466:0.1890
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#515:1040:0.1890
+Default$$SimpleName::removeAgedItems$$org.jfree.data.time.TimeSeries#542:1:0.1890
+Insert Before$$BooleanLiteral::false$$org.jfree.data.time.TimeSeries#542:29:0.1890
+Default$$BooleanLiteral::false$$org.jfree.data.time.TimeSeries#542:1040:0.1890
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#507:1:0.1890
+Insert Before$$SimpleName::count$$org.jfree.data.time.TimeSeries#507:1:0.1890
+Default$$PrimitiveType::int$$org.jfree.data.time.TimeSeries#507:13:0.1890
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#507:253:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#507:1116:0.1890
+Insert After$$NumberLiteral::1$$org.jfree.data.time.TimeSeries#740:4:0.1890
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#740:9:0.1890
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#546:1101:0.1890
+Default$$SimpleName::maximumItemCount$$org.jfree.data.time.TimeSeries#538:1:0.1890
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#538:9:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#538:13:0.1890
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#506:1:0.1890
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#506:1:0.1890
+Insert Before$$SimpleName::added$$org.jfree.data.time.TimeSeries#506:1:0.1890
+Default$$PrimitiveType::boolean$$org.jfree.data.time.TimeSeries#506:2:0.1890
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#506:253:0.1890
+Default$$BooleanLiteral::false$$org.jfree.data.time.TimeSeries#506:1116:0.1890
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#742:1:0.1890
+Insert Before$$SimpleName::removed$$org.jfree.data.time.TimeSeries#742:1:0.1890
+Default$$PrimitiveType::boolean$$org.jfree.data.time.TimeSeries#742:2:0.1890
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#742:253:0.1890
+Default$$BooleanLiteral::false$$org.jfree.data.time.TimeSeries#742:1116:0.1890
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#491:5:0.1890
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#491:9:0.1890
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeries#491:37:0.1890
+Default$$SimpleName::item$$org.jfree.data.time.TimeSeries#491:44:0.1890
+Default$$Block::null$$org.jfree.data.time.TimeSeries#491:99:0.1890
+Insert Before$$SimpleName::item$$org.jfree.data.time.TimeSeries#491:123:0.1890
+Insert After$$SimpleName::removed$$org.jfree.data.time.TimeSeries#748:4:0.1890
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#748:6:0.1890
+Insert After$$SimpleName::notify$$org.jfree.data.time.TimeSeries#748:17:0.1890
+Default$$SimpleName::removed$$org.jfree.data.time.TimeSeries#748:123:0.1890
+Insert Before$$SimpleName::removed$$org.jfree.data.time.TimeSeries#748:123:0.1890
+Default$$SimpleName::notify$$org.jfree.data.time.TimeSeries#748:235:0.1890
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#508:4:0.1890
+Default$$SimpleName::count$$org.jfree.data.time.TimeSeries#508:115:0.1890
+Insert Before$$SimpleName::count$$org.jfree.data.time.TimeSeries#508:123:0.1890
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#508:235:0.1890
+Default$$SimpleName::added$$org.jfree.data.time.TimeSeries#510:6:0.1890
+Default$$BooleanLiteral::true$$org.jfree.data.time.TimeSeries#510:624:0.1890
+Default$$SimpleName::added$$org.jfree.data.time.TimeSeries#516:6:0.1890
+Default$$BooleanLiteral::true$$org.jfree.data.time.TimeSeries#516:624:0.1890
+Default$$SimpleName::maximumItemAge$$org.jfree.data.time.TimeSeries#744:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#744:13:0.1890
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#545:6:0.1890
+Default$$SimpleName::notify$$org.jfree.data.time.TimeSeries#545:15:0.1890
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.TimeSeries#240:1:0.1857
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#240:1:0.1857
+Default$$SimpleName::size$$org.jfree.data.time.TimeSeries#240:1:0.1857
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#240:13:0.1857
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#240:466:0.1857
+Default$$ReturnStatement::null$$org.jfree.data.time.TimeSeries#240:1531:0.1857
+Default$$SimpleName::range$$org.jfree.data.time.TimeSeries#176:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#176:13:0.1768
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#176:25:0.1768
+Default$$Assignment::=$$org.jfree.data.time.TimeSeries#176:38:0.1768
+Default$$SimpleName::range$$org.jfree.data.time.TimeSeries#176:187:0.1768
+Default$$SimpleName::domain$$org.jfree.data.time.TimeSeries#175:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#175:13:0.1768
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#175:25:0.1768
+Default$$SimpleName::domain$$org.jfree.data.time.TimeSeries#175:187:0.1768
+Default$$SimpleName::timePeriodClass$$org.jfree.data.time.TimeSeries#177:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#177:13:0.1768
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#177:25:0.1768
+Default$$SimpleName::timePeriodClass$$org.jfree.data.time.TimeSeries#177:187:0.1768
+Default$$SimpleName::maximumItemAge$$org.jfree.data.time.TimeSeries#180:1:0.1768
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#180:7:0.1768
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#180:13:0.1768
+Default$$QualifiedName::Long.MAX_VALUE$$org.jfree.data.time.TimeSeries#180:187:0.1768
+Default$$SimpleName::maximumItemCount$$org.jfree.data.time.TimeSeries#179:1:0.1768
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#179:7:0.1768
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#179:13:0.1768
+Default$$QualifiedName::Integer.MAX_VALUE$$org.jfree.data.time.TimeSeries#179:187:0.1768
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#178:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#178:13:0.1768
+Default$$SimpleType::java.util.ArrayList$$org.jfree.data.time.TimeSeries#178:44:0.1768
+Default$$ClassInstanceCreation::null$$org.jfree.data.time.TimeSeries#178:187:0.1768
+Insert After$$SuperConstructorInvocation::null$$org.jfree.data.time.TimeSeries#174:4:0.1768
+Default$$SimpleName::name$$org.jfree.data.time.TimeSeries#174:8:0.1768
+Insert After$$SimpleName::name$$org.jfree.data.time.TimeSeries#174:22:0.1768
+Default$$SuperConstructorInvocation::null$$org.jfree.data.time.TimeSeries#174:98:0.1768
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#123:1:0.3780
+Default$$FieldAccess::null$$org.jfree.data.time.Day#123:2:0.3780
+Default$$ThisExpression::null$$org.jfree.data.time.Day#123:13:0.3780
+Default$$SimpleName::createInstance$$org.jfree.data.time.Day#123:46:0.3780
+Default$$SimpleName::day$$org.jfree.data.time.Day#123:267:0.3780
+Default$$SimpleName::month$$org.jfree.data.time.Day#123:267:0.3780
+Default$$SimpleName::SerialDate$$org.jfree.data.time.Day#123:466:0.3780
+Default$$SimpleName::year$$org.jfree.data.time.Day#123:1040:0.3780
+Default$$SimpleName::peg$$org.jfree.data.time.Day#124:4:0.3780
+Default$$SimpleName::getInstance$$org.jfree.data.time.Day#124:62:0.3780
+Default$$SimpleName::Calendar$$org.jfree.data.time.Day#124:466:0.3780
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#124:1040:0.3780
+Insert After$$Modifier::public$$org.jfree.data.time.Day#122:4:0.3780
+Default$$Modifier::public$$org.jfree.data.time.Day#122:10:0.3780
+Insert Before$$Modifier::public$$org.jfree.data.time.Day#122:15:0.3780
+Insert After$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:39:0.3780
+Default$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:39:0.3780
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:39:0.3780
+Insert After$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:39:0.3780
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:39:0.3780
+Default$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:96:0.3780
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.Day#122:96:0.3780
+Default$$PrimitiveType::int$$org.jfree.data.time.Day#122:232:0.3780
+Default$$PrimitiveType::int$$org.jfree.data.time.Day#122:232:0.3780
+Default$$PrimitiveType::int$$org.jfree.data.time.Day#122:232:0.3780
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SerialDate#500:17:0.3780
+Default$$ReturnStatement::null$$org.jfree.data.time.SerialDate#500:1101:0.3780
+Default$$SimpleName::isLeapYear$$org.jfree.data.time.SpreadsheetDate#452:46:0.3536
+Default$$SimpleName::SerialDate$$org.jfree.data.time.SpreadsheetDate#452:466:0.3536
+Default$$SimpleName::y$$org.jfree.data.time.SpreadsheetDate#452:1040:0.3536
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.Day#302:1:0.3333
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#302:1:0.3333
+Default$$SimpleName::toSerial$$org.jfree.data.time.Day#302:1:0.3333
+Default$$ThisExpression::null$$org.jfree.data.time.Day#302:13:0.3333
+Default$$FieldAccess::null$$org.jfree.data.time.Day#302:466:0.3333
+Default$$ReturnStatement::null$$org.jfree.data.time.Day#302:1531:0.3333
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#406:1:0.3162
+Default$$ThisExpression::null$$org.jfree.data.time.Day#406:13:0.3162
+Default$$SimpleName::getSerialDate$$org.jfree.data.time.Day#406:62:0.3162
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#406:466:0.3162
+Default$$SimpleName::d$$org.jfree.data.time.Day#406:466:0.3162
+Default$$FieldAccess::null$$org.jfree.data.time.Day#406:1040:0.3162
+Default$$SimpleName::serial$$org.jfree.data.time.SpreadsheetDate#308:1:0.3162
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#308:13:0.3162
+Insert After$$MethodInvocation::null$$org.jfree.data.time.SpreadsheetDate#308:14:0.3162
+Default$$SimpleName::toSerial$$org.jfree.data.time.SpreadsheetDate#308:62:0.3162
+Default$$SimpleName::other$$org.jfree.data.time.SpreadsheetDate#308:466:0.3162
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.Day#183:1:0.3162
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#183:1:0.3162
+Default$$ThisExpression::null$$org.jfree.data.time.Day#183:13:0.3162
+Default$$FieldAccess::null$$org.jfree.data.time.Day#183:590:0.3162
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SpreadsheetDate#211:1:0.3162
+Default$$SimpleName::serial$$org.jfree.data.time.SpreadsheetDate#211:1:0.3162
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#211:13:0.3162
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#211:590:0.3162
+Insert Before$$SimpleName::d$$org.jfree.data.time.Day#405:1:0.3162
+Default$$SimpleType::Day$$org.jfree.data.time.Day#405:4:0.3162
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.Day#405:6:0.3162
+Default$$SimpleType::Day$$org.jfree.data.time.Day#405:8:0.3162
+Default$$SimpleName::o1$$org.jfree.data.time.Day#405:31:0.3162
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.Day#405:527:0.3162
+Default$$CastExpression::null$$org.jfree.data.time.Day#405:1116:0.3162
+Default$$SimpleName::result$$org.jfree.data.time.Day#423:590:0.3162
+Default$$SimpleType::Day$$org.jfree.data.time.Day#404:6:0.3162
+Default$$SimpleName::o1$$org.jfree.data.time.Day#404:8:0.3162
+Insert After$$NumberLiteral::1$$org.jfree.data.time.SpreadsheetDate#128:4:0.3015
+Default$$SimpleName::lastDayOfMonth$$org.jfree.data.time.SpreadsheetDate#128:46:0.3015
+Default$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#128:115:0.3015
+Insert Before$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#128:123:0.3015
+Insert Before$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#128:123:0.3015
+Default$$NumberLiteral::1$$org.jfree.data.time.SpreadsheetDate#128:235:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#128:267:0.3015
+Default$$SimpleName::SerialDate$$org.jfree.data.time.SpreadsheetDate#128:466:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#128:1040:0.3015
+Default$$SimpleName::serial$$org.jfree.data.time.SpreadsheetDate#136:1:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#136:5:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#136:13:0.3015
+Default$$SimpleName::calcSerial$$org.jfree.data.time.SpreadsheetDate#136:13:0.3015
+Default$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#136:267:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#136:267:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#136:1040:0.3015
+Insert Before$$SimpleName::yy$$org.jfree.data.time.SpreadsheetDate#449:1:0.3015
+Insert Before$$Modifier::final$$org.jfree.data.time.SpreadsheetDate#449:2:0.3015
+Insert After$$NumberLiteral::1900$$org.jfree.data.time.SpreadsheetDate#449:4:0.3015
+Insert After$$NumberLiteral::365$$org.jfree.data.time.SpreadsheetDate#449:4:0.3015
+Insert After$$NumberLiteral::1$$org.jfree.data.time.SpreadsheetDate#449:4:0.3015
+Default$$SimpleName::y$$org.jfree.data.time.SpreadsheetDate#449:115:0.3015
+Default$$SimpleName::y$$org.jfree.data.time.SpreadsheetDate#449:115:0.3015
+Insert Before$$SimpleName::y$$org.jfree.data.time.SpreadsheetDate#449:123:0.3015
+Insert Before$$SimpleName::y$$org.jfree.data.time.SpreadsheetDate#449:123:0.3015
+Default$$NumberLiteral::1$$org.jfree.data.time.SpreadsheetDate#449:235:0.3015
+Default$$SimpleName::SerialDate$$org.jfree.data.time.SpreadsheetDate#449:466:0.3015
+Default$$InfixExpression::-$$org.jfree.data.time.SpreadsheetDate#449:1040:0.3015
+Default$$SimpleName::getTime$$org.jfree.data.time.Day#324:11:0.3015
+Default$$SimpleName::getTime$$org.jfree.data.time.Day#324:62:0.3015
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#324:466:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#324:466:0.3015
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#324:590:0.3015
+Default$$SimpleName::getTime$$org.jfree.data.time.Day#346:11:0.3015
+Default$$SimpleName::getTime$$org.jfree.data.time.Day#346:62:0.3015
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#346:466:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#346:466:0.3015
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#346:590:0.3015
+Default$$SimpleName::lastMillisecond$$org.jfree.data.time.Day#251:1:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#251:12:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#251:13:0.3015
+Default$$SimpleName::getLastMillisecond$$org.jfree.data.time.Day#251:13:0.3015
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#251:187:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#251:1040:0.3015
+Default$$SimpleName::firstMillisecond$$org.jfree.data.time.Day#250:1:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#250:12:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#250:13:0.3015
+Default$$SimpleName::getFirstMillisecond$$org.jfree.data.time.Day#250:13:0.3015
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#250:187:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#250:1040:0.3015
+Insert After$$NumberLiteral::1$$org.jfree.data.time.Day#321:4:0.3015
+Default$$SimpleName::set$$org.jfree.data.time.Day#321:46:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.Day#321:115:0.3015
+Insert Before$$SimpleName::month$$org.jfree.data.time.Day#321:123:0.3015
+Default$$NumberLiteral::1$$org.jfree.data.time.Day#321:235:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#321:466:0.3015
+Insert After$$NumberLiteral::1$$org.jfree.data.time.Day#343:4:0.3015
+Default$$SimpleName::set$$org.jfree.data.time.Day#343:46:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.Day#343:115:0.3015
+Insert Before$$SimpleName::month$$org.jfree.data.time.Day#343:123:0.3015
+Default$$NumberLiteral::1$$org.jfree.data.time.Day#343:235:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#343:466:0.3015
+Default$$SimpleName::clear$$org.jfree.data.time.Day#320:62:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#320:466:0.3015
+Default$$SimpleName::clear$$org.jfree.data.time.Day#342:62:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#342:466:0.3015
+Insert After$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Day#322:4:0.3015
+Insert Before$$NumberLiteral::0$$org.jfree.data.time.Day#322:4:0.3015
+Default$$SimpleName::set$$org.jfree.data.time.Day#322:10:0.3015
+Insert Before$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Day#322:46:0.3015
+Default$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Day#322:48:0.3015
+Insert After$$NumberLiteral::0$$org.jfree.data.time.Day#322:52:0.3015
+Default$$NumberLiteral::0$$org.jfree.data.time.Day#322:96:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#322:466:0.3015
+Insert After$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Day#344:4:0.3015
+Insert Before$$NumberLiteral::999$$org.jfree.data.time.Day#344:4:0.3015
+Default$$SimpleName::set$$org.jfree.data.time.Day#344:10:0.3015
+Insert Before$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Day#344:46:0.3015
+Default$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Day#344:48:0.3015
+Insert After$$NumberLiteral::999$$org.jfree.data.time.Day#344:52:0.3015
+Default$$SimpleName::calendar$$org.jfree.data.time.Day#344:466:0.3015
+Insert Before$$SimpleName::year$$org.jfree.data.time.Day#317:1:0.3015
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#317:1:0.3015
+Default$$SimpleName::getYYYY$$org.jfree.data.time.Day#317:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#317:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#317:466:0.3015
+Insert Before$$SimpleName::month$$org.jfree.data.time.Day#318:1:0.3015
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#318:1:0.3015
+Default$$SimpleName::getMonth$$org.jfree.data.time.Day#318:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#318:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#318:466:0.3015
+Insert Before$$SimpleName::day$$org.jfree.data.time.Day#319:1:0.3015
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#319:1:0.3015
+Default$$SimpleName::getDayOfMonth$$org.jfree.data.time.Day#319:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#319:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#319:466:0.3015
+Insert Before$$SimpleName::year$$org.jfree.data.time.Day#339:1:0.3015
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#339:1:0.3015
+Default$$SimpleName::getYYYY$$org.jfree.data.time.Day#339:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#339:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#339:466:0.3015
+Insert Before$$SimpleName::month$$org.jfree.data.time.Day#340:1:0.3015
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#340:1:0.3015
+Default$$SimpleName::getMonth$$org.jfree.data.time.Day#340:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#340:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#340:466:0.3015
+Insert Before$$SimpleName::day$$org.jfree.data.time.Day#341:1:0.3015
+Default$$SimpleName::serialDate$$org.jfree.data.time.Day#341:1:0.3015
+Default$$SimpleName::getDayOfMonth$$org.jfree.data.time.Day#341:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.Day#341:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.Day#341:466:0.3015
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SerialDate#792:1:0.3015
+Default$$SimpleType::SpreadsheetDate$$org.jfree.data.time.SerialDate#792:34:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SerialDate#792:64:0.3015
+Default$$SimpleName::day$$org.jfree.data.time.SerialDate#792:70:0.3015
+Default$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#792:118:0.3015
+Default$$ClassInstanceCreation::null$$org.jfree.data.time.SerialDate#792:590:0.3015
+Default$$ReturnStatement::null$$org.jfree.data.time.SerialDate#792:1531:0.3015
+Insert Before$$SimpleName::dd$$org.jfree.data.time.SpreadsheetDate#456:1:0.3015
+Insert Before$$Modifier::final$$org.jfree.data.time.SpreadsheetDate#456:2:0.3015
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.SpreadsheetDate#456:253:0.3015
+Default$$SimpleName::d$$org.jfree.data.time.SpreadsheetDate#456:1116:0.3015
+Insert Before$$SimpleName::leap4$$org.jfree.data.time.SerialDate#526:1:0.3015
+Insert Before$$Modifier::final$$org.jfree.data.time.SerialDate#526:2:0.3015
+Insert After$$NumberLiteral::1896$$org.jfree.data.time.SerialDate#526:4:0.3015
+Insert After$$NumberLiteral::4$$org.jfree.data.time.SerialDate#526:4:0.3015
+Default$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#526:115:0.3015
+Insert Before$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#526:123:0.3015
+Insert Before$$SimpleName::leap100$$org.jfree.data.time.SerialDate#527:1:0.3015
+Insert Before$$Modifier::final$$org.jfree.data.time.SerialDate#527:2:0.3015
+Insert After$$NumberLiteral::1800$$org.jfree.data.time.SerialDate#527:4:0.3015
+Insert After$$NumberLiteral::100$$org.jfree.data.time.SerialDate#527:4:0.3015
+Default$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#527:115:0.3015
+Insert Before$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#527:123:0.3015
+Insert Before$$SimpleName::leap400$$org.jfree.data.time.SerialDate#528:1:0.3015
+Insert Before$$Modifier::final$$org.jfree.data.time.SerialDate#528:2:0.3015
+Insert After$$NumberLiteral::1600$$org.jfree.data.time.SerialDate#528:4:0.3015
+Insert After$$NumberLiteral::400$$org.jfree.data.time.SerialDate#528:4:0.3015
+Default$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#528:115:0.3015
+Insert Before$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#528:123:0.3015
+Insert After$$NumberLiteral::4$$org.jfree.data.time.SerialDate#499:4:0.3015
+Insert After$$NumberLiteral::0$$org.jfree.data.time.SerialDate#499:4:0.3015
+Default$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#499:115:0.3015
+Insert Before$$SimpleName::yyyy$$org.jfree.data.time.SerialDate#499:123:0.3015
+Default$$NumberLiteral::4$$org.jfree.data.time.SerialDate#499:235:0.3015
+Insert Before$$SimpleName::mm$$org.jfree.data.time.SpreadsheetDate#450:1:0.3015
+Default$$QualifiedName::SerialDate.AGGREGATE_DAYS_TO_END_OF_PRECEDING_MONTH$$org.jfree.data.time.SpreadsheetDate#450:11:0.3015
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.SpreadsheetDate#450:253:0.3015
+Default$$ArrayAccess::null$$org.jfree.data.time.SpreadsheetDate#450:1116:0.3015
+Insert After$$NumberLiteral::1900$$org.jfree.data.time.SpreadsheetDate#109:4:0.3015
+Insert After$$NumberLiteral::9999$$org.jfree.data.time.SpreadsheetDate#109:4:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#109:115:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#109:115:0.3015
+Insert Before$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#109:123:0.3015
+Insert Before$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#109:123:0.3015
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SpreadsheetDate#231:1:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#231:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#231:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#231:590:0.3015
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SpreadsheetDate#240:1:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#240:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#240:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#240:590:0.3015
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SpreadsheetDate#249:1:0.3015
+Default$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#249:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#249:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#249:590:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#110:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#110:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#110:25:0.3015
+Default$$SimpleName::year$$org.jfree.data.time.SpreadsheetDate#110:187:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#120:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#120:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#120:25:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#120:187:0.3015
+Default$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#129:1:0.3015
+Default$$ThisExpression::null$$org.jfree.data.time.SpreadsheetDate#129:13:0.3015
+Default$$FieldAccess::null$$org.jfree.data.time.SpreadsheetDate#129:25:0.3015
+Default$$SimpleName::day$$org.jfree.data.time.SpreadsheetDate#129:187:0.3015
+Default$$SimpleName::leap400$$org.jfree.data.time.SerialDate#529:1:0.3015
+Insert After$$SimpleName::leap4$$org.jfree.data.time.SerialDate#529:4:0.3015
+Insert After$$SimpleName::leap100$$org.jfree.data.time.SerialDate#529:17:0.3015
+Insert After$$SimpleName::leap400$$org.jfree.data.time.SerialDate#529:17:0.3015
+Default$$SimpleName::leap4$$org.jfree.data.time.SerialDate#529:123:0.3015
+Insert Before$$SimpleName::leap4$$org.jfree.data.time.SerialDate#529:123:0.3015
+Default$$SimpleName::leap100$$org.jfree.data.time.SerialDate#529:235:0.3015
+Insert After$$QualifiedName::MonthConstants.JANUARY$$org.jfree.data.time.SpreadsheetDate#118:3:0.3015
+Default$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#118:55:0.3015
+Insert Before$$SimpleName::month$$org.jfree.data.time.SpreadsheetDate#118:123:0.3015
+Default$$QualifiedName::MonthConstants.JANUARY$$org.jfree.data.time.SpreadsheetDate#118:235:0.3015
+Insert After$$SimpleName::yy$$org.jfree.data.time.SpreadsheetDate#457:4:0.3015
+Default$$SimpleName::mm$$org.jfree.data.time.SpreadsheetDate#457:4:0.3015
+Insert After$$NumberLiteral::1$$org.jfree.data.time.SpreadsheetDate#457:4:0.3015
+Insert After$$SimpleName::mm$$org.jfree.data.time.SpreadsheetDate#457:5:0.3015
+Insert Before$$SimpleName::dd$$org.jfree.data.time.SpreadsheetDate#457:5:0.3015
+Default$$SimpleName::yy$$org.jfree.data.time.SpreadsheetDate#457:123:0.3015
+Insert Before$$SimpleName::yy$$org.jfree.data.time.SpreadsheetDate#457:123:0.3015
+Insert After$$QualifiedName::MonthConstants.FEBRUARY$$org.jfree.data.time.SpreadsheetDate#451:3:0.3015
+Default$$SimpleName::m$$org.jfree.data.time.SpreadsheetDate#451:55:0.3015
+Insert Before$$SimpleName::m$$org.jfree.data.time.SpreadsheetDate#451:123:0.3015
+Default$$QualifiedName::MonthConstants.FEBRUARY$$org.jfree.data.time.SpreadsheetDate#451:235:0.3015
+Insert After$$Modifier::public$$org.jfree.data.time.SpreadsheetDate#107:4:0.3015
+Insert After$$SingleVariableDeclaration::null$$org.jfree.data.time.SpreadsheetDate#107:6:0.3015
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.SpreadsheetDate#107:6:0.3015
+Insert After$$SingleVariableDeclaration::null$$org.jfree.data.time.SpreadsheetDate#107:6:0.3015
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.SpreadsheetDate#107:6:0.3015
+Default$$Modifier::public$$org.jfree.data.time.SpreadsheetDate#107:10:0.3015
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.SpreadsheetDate#107:14:0.3015
+Insert Before$$Modifier::public$$org.jfree.data.time.SpreadsheetDate#107:15:0.3015
+Insert After$$Modifier::protected$$org.jfree.data.time.SerialDate#210:3:0.3015
+Insert Before$$Modifier::protected$$org.jfree.data.time.SerialDate#210:5:0.3015
+Default$$Modifier::protected$$org.jfree.data.time.SerialDate#210:10:0.3015
+Default$$Block::null$$org.jfree.data.time.SerialDate#210:163:0.3015
+Default$$SimpleName::getPeriod$$org.jfree.data.time.TimeSeriesDataItem#205:62:0.2673
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeriesDataItem#205:466:0.2673
+Default$$SimpleName::datapair$$org.jfree.data.time.TimeSeriesDataItem#205:466:0.2673
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeriesDataItem#205:1040:0.2673
+Insert Before$$SimpleName::DATE_FORMAT_SYMBOLS$$org.jfree.data.time.SerialDate#92:1:0.2673
+Default$$SimpleType::SimpleDateFormat$$org.jfree.data.time.SerialDate#92:44:0.2673
+Default$$ClassInstanceCreation::null$$org.jfree.data.time.SerialDate#92:466:0.2673
+Insert After$$VariableDeclarationFragment::null$$org.jfree.data.time.SerialDate#544:1:0.2673
+Insert Before$$SimpleName::result$$org.jfree.data.time.SerialDate#544:1:0.2673
+Insert Before$$Modifier::final$$org.jfree.data.time.SerialDate#544:2:0.2673
+Default$$SimpleName::LAST_DAY_OF_MONTH$$org.jfree.data.time.SerialDate#544:11:0.2673
+Default$$SimpleName::month$$org.jfree.data.time.SerialDate#544:38:0.2673
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.SerialDate#544:253:0.2673
+Default$$ArrayAccess::null$$org.jfree.data.time.SerialDate#544:1116:0.2673
+Insert Before$$SimpleName::datapair$$org.jfree.data.time.TimeSeriesDataItem#204:1:0.2673
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeriesDataItem#204:4:0.2673
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeriesDataItem#204:6:0.2673
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeriesDataItem#204:8:0.2673
+Default$$SimpleName::o1$$org.jfree.data.time.TimeSeriesDataItem#204:31:0.2673
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeriesDataItem#204:527:0.2673
+Default$$CastExpression::null$$org.jfree.data.time.TimeSeriesDataItem#204:1116:0.2673
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.SerialDate#546:18:0.2673
+Default$$SimpleName::result$$org.jfree.data.time.SerialDate#546:590:0.2673
+Default$$ReturnStatement::null$$org.jfree.data.time.SerialDate#546:1101:0.2673
+Insert After$$SimpleName::month$$org.jfree.data.time.SerialDate#545:4:0.2673
+Insert After$$SimpleName::FEBRUARY$$org.jfree.data.time.SerialDate#545:17:0.2673
+Default$$SimpleName::month$$org.jfree.data.time.SerialDate#545:123:0.2673
+Insert Before$$SimpleName::month$$org.jfree.data.time.SerialDate#545:123:0.2673
+Default$$SimpleName::FEBRUARY$$org.jfree.data.time.SerialDate#545:235:0.2673
+Default$$SimpleName::result$$org.jfree.data.time.TimeSeriesDataItem#215:590:0.2673
+Insert After$$Dimension::null$$org.jfree.data.time.SerialDate#137:1:0.2673
+Insert Before$$SimpleName::LAST_DAY_OF_MONTH$$org.jfree.data.time.SerialDate#137:1:0.2673
+Insert Before$$Modifier::static$$org.jfree.data.time.SerialDate#137:6:0.2673
+Default$$PrimitiveType::int$$org.jfree.data.time.SerialDate#137:35:0.2673
+Insert After$$Dimension::null$$org.jfree.data.time.SerialDate#141:1:0.2673
+Insert Before$$SimpleName::AGGREGATE_DAYS_TO_END_OF_MONTH$$org.jfree.data.time.SerialDate#141:1:0.2673
+Insert Before$$Modifier::static$$org.jfree.data.time.SerialDate#141:6:0.2673
+Default$$PrimitiveType::int$$org.jfree.data.time.SerialDate#141:35:0.2673
+Insert After$$Dimension::null$$org.jfree.data.time.SerialDate#145:1:0.2673
+Insert Before$$SimpleName::AGGREGATE_DAYS_TO_END_OF_PRECEDING_MONTH$$org.jfree.data.time.SerialDate#145:1:0.2673
+Insert Before$$Modifier::static$$org.jfree.data.time.SerialDate#145:6:0.2673
+Default$$PrimitiveType::int$$org.jfree.data.time.SerialDate#145:35:0.2673
+Insert After$$Dimension::null$$org.jfree.data.time.SerialDate#149:1:0.2673
+Insert Before$$SimpleName::LEAP_YEAR_AGGREGATE_DAYS_TO_END_OF_MONTH$$org.jfree.data.time.SerialDate#149:1:0.2673
+Insert Before$$Modifier::static$$org.jfree.data.time.SerialDate#149:6:0.2673
+Default$$PrimitiveType::int$$org.jfree.data.time.SerialDate#149:35:0.2673
+Default$$SimpleType::TimeSeriesDataItem$$org.jfree.data.time.TimeSeriesDataItem#203:6:0.2673
+Default$$SimpleName::o1$$org.jfree.data.time.TimeSeriesDataItem#203:8:0.2673
+Insert Before$$SimpleName::LEAP_YEAR_AGGREGATE_DAYS_TO_END_OF_PRECEDING_MONTH$$org.jfree.data.time.SerialDate#156:1:0.2673
+Insert Before$$SimpleName::DATE_FORMAT_SHORT$$org.jfree.data.time.Day#88:1:0.2425
+Default$$SimpleName::getDateInstance$$org.jfree.data.time.Day#88:10:0.2425
+Insert After$$QualifiedName::DateFormat.SHORT$$org.jfree.data.time.Day#88:96:0.2425
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.Day#88:155:0.2425
+Default$$SimpleName::DateFormat$$org.jfree.data.time.Day#88:466:0.2425
+Default$$QualifiedName::DateFormat.SHORT$$org.jfree.data.time.Day#88:1040:0.2425
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#88:1116:0.2425
+Insert Before$$SimpleName::DATE_FORMAT_MEDIUM$$org.jfree.data.time.Day#92:1:0.2425
+Default$$SimpleName::getDateInstance$$org.jfree.data.time.Day#92:10:0.2425
+Insert After$$QualifiedName::DateFormat.MEDIUM$$org.jfree.data.time.Day#92:96:0.2425
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.Day#92:155:0.2425
+Default$$SimpleName::DateFormat$$org.jfree.data.time.Day#92:466:0.2425
+Default$$QualifiedName::DateFormat.MEDIUM$$org.jfree.data.time.Day#92:1040:0.2425
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#92:1116:0.2425
+Insert Before$$SimpleName::DATE_FORMAT_LONG$$org.jfree.data.time.Day#96:1:0.2425
+Default$$SimpleName::getDateInstance$$org.jfree.data.time.Day#96:10:0.2425
+Insert After$$QualifiedName::DateFormat.LONG$$org.jfree.data.time.Day#96:96:0.2425
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.Day#96:155:0.2425
+Default$$SimpleName::DateFormat$$org.jfree.data.time.Day#96:466:0.2425
+Default$$QualifiedName::DateFormat.LONG$$org.jfree.data.time.Day#96:1040:0.2425
+Default$$MethodInvocation::null$$org.jfree.data.time.Day#96:1116:0.2425
+Insert Before$$SimpleName::DATE_FORMAT$$org.jfree.data.time.Day#83:1:0.2425
+Insert After$$Modifier::final$$org.jfree.data.time.Day#83:3:0.2425
+Default$$Modifier::protected$$org.jfree.data.time.Day#83:6:0.2425
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.Day#83:155:0.2425
+Default$$SimpleName::peg$$org.jfree.data.time.Year#104:4:0.2132
+Default$$SimpleName::getInstance$$org.jfree.data.time.Year#104:62:0.2132
+Default$$SimpleName::Calendar$$org.jfree.data.time.Year#104:466:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#104:1040:0.2132
+Default$$SimpleName::getTime$$org.jfree.data.time.Year#237:11:0.2132
+Default$$SimpleName::getTime$$org.jfree.data.time.Year#237:62:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#237:466:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#237:466:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#237:590:0.2132
+Default$$SimpleName::getTime$$org.jfree.data.time.Year#256:11:0.2132
+Default$$SimpleName::getTime$$org.jfree.data.time.Year#256:62:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#256:466:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#256:466:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#256:590:0.2132
+Default$$SimpleName::lastMillisecond$$org.jfree.data.time.Year#177:1:0.2132
+Default$$FieldAccess::null$$org.jfree.data.time.Year#177:12:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#177:13:0.2132
+Default$$SimpleName::getLastMillisecond$$org.jfree.data.time.Year#177:13:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#177:187:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#177:1040:0.2132
+Default$$SimpleName::firstMillisecond$$org.jfree.data.time.Year#176:1:0.2132
+Default$$FieldAccess::null$$org.jfree.data.time.Year#176:12:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#176:13:0.2132
+Default$$SimpleName::getFirstMillisecond$$org.jfree.data.time.Year#176:13:0.2132
+Default$$MethodInvocation::null$$org.jfree.data.time.Year#176:187:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#176:1040:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#319:1:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#319:13:0.2132
+Insert After$$MethodInvocation::null$$org.jfree.data.time.Year#319:14:0.2132
+Default$$SimpleName::getYear$$org.jfree.data.time.Year#319:62:0.2132
+Default$$SimpleName::y$$org.jfree.data.time.Year#319:466:0.2132
+Insert After$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Year#234:4:0.2132
+Insert Before$$NumberLiteral::0$$org.jfree.data.time.Year#234:4:0.2132
+Default$$SimpleName::set$$org.jfree.data.time.Year#234:10:0.2132
+Insert Before$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Year#234:46:0.2132
+Default$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Year#234:48:0.2132
+Insert After$$NumberLiteral::0$$org.jfree.data.time.Year#234:52:0.2132
+Default$$NumberLiteral::0$$org.jfree.data.time.Year#234:96:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#234:466:0.2132
+Insert After$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Year#253:4:0.2132
+Insert Before$$NumberLiteral::999$$org.jfree.data.time.Year#253:4:0.2132
+Default$$SimpleName::set$$org.jfree.data.time.Year#253:10:0.2132
+Insert Before$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Year#253:46:0.2132
+Default$$QualifiedName::Calendar.MILLISECOND$$org.jfree.data.time.Year#253:48:0.2132
+Insert After$$NumberLiteral::999$$org.jfree.data.time.Year#253:52:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#253:466:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#233:1:0.2132
+Default$$SimpleName::set$$org.jfree.data.time.Year#233:4:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#233:13:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#233:466:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#252:1:0.2132
+Default$$SimpleName::set$$org.jfree.data.time.Year#252:4:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#252:13:0.2132
+Default$$SimpleName::calendar$$org.jfree.data.time.Year#252:466:0.2132
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.Year#136:1:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#136:1:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#136:13:0.2132
+Default$$FieldAccess::null$$org.jfree.data.time.Year#136:590:0.2132
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.Year#218:1:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#218:1:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#218:13:0.2132
+Default$$FieldAccess::null$$org.jfree.data.time.Year#218:590:0.2132
+Insert Before$$SimpleName::y$$org.jfree.data.time.Year#318:1:0.2132
+Default$$SimpleType::Year$$org.jfree.data.time.Year#318:4:0.2132
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.Year#318:6:0.2132
+Default$$SimpleType::Year$$org.jfree.data.time.Year#318:8:0.2132
+Default$$SimpleName::o1$$org.jfree.data.time.Year#318:31:0.2132
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.Year#318:527:0.2132
+Default$$CastExpression::null$$org.jfree.data.time.Year#318:1116:0.2132
+Insert After$$Modifier::public$$org.jfree.data.time.Year#96:4:0.2132
+Default$$Modifier::public$$org.jfree.data.time.Year#96:10:0.2132
+Insert Before$$Modifier::public$$org.jfree.data.time.Year#96:15:0.2132
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.Year#96:96:0.2132
+Default$$PrimitiveType::int$$org.jfree.data.time.Year#96:232:0.2132
+Insert After$$QualifiedName::SerialDate.MINIMUM_YEAR_SUPPORTED$$org.jfree.data.time.Year#97:3:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#97:55:0.2132
+Insert Before$$SimpleName::year$$org.jfree.data.time.Year#97:123:0.2132
+Default$$QualifiedName::SerialDate.MINIMUM_YEAR_SUPPORTED$$org.jfree.data.time.Year#97:235:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#103:1:0.2132
+Default$$ThisExpression::null$$org.jfree.data.time.Year#103:13:0.2132
+Default$$SimpleName::year$$org.jfree.data.time.Year#103:30:0.2132
+Default$$SimpleName::result$$org.jfree.data.time.Year#336:590:0.2132
+Default$$SimpleType::Year$$org.jfree.data.time.Year#317:6:0.2132
+Default$$SimpleName::o1$$org.jfree.data.time.Year#317:8:0.2132
+Default$$SimpleType::Double$$org.jfree.data.time.TimeSeriesDataItem#107:34:0.2000
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeriesDataItem#107:141:0.2000
+Default$$SimpleType::SeriesChangeEvent$$org.jfree.data.general.Series#314:3:0.1890
+Default$$ThisExpression::null$$org.jfree.data.general.Series#314:141:0.1890
+Insert After$$Dimension::null$$org.jfree.data.general.Series#326:1:0.1890
+Insert Before$$SimpleName::listenerList$$org.jfree.data.general.Series#326:1:0.1890
+Default$$SimpleName::listeners$$org.jfree.data.general.Series#326:1:0.1890
+Default$$SimpleName::getListenerList$$org.jfree.data.general.Series#326:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.general.Series#326:13:0.1890
+Default$$SimpleType::Object$$org.jfree.data.general.Series#326:35:0.1890
+Default$$FieldAccess::null$$org.jfree.data.general.Series#326:466:0.1890
+Insert After$$Modifier::public$$org.jfree.data.time.TimeSeriesDataItem#92:4:0.1890
+Default$$Modifier::public$$org.jfree.data.time.TimeSeriesDataItem#92:10:0.1890
+Insert Before$$Modifier::public$$org.jfree.data.time.TimeSeriesDataItem#92:15:0.1890
+Insert After$$SingleVariableDeclaration::null$$org.jfree.data.time.TimeSeriesDataItem#92:76:0.1890
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.TimeSeriesDataItem#92:76:0.1890
+Default$$SingleVariableDeclaration::null$$org.jfree.data.time.TimeSeriesDataItem#92:139:0.1890
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.time.TimeSeriesDataItem#92:139:0.1890
+Default$$SimpleType::RegularTimePeriod$$org.jfree.data.time.TimeSeriesDataItem#92:232:0.1890
+Default$$SimpleType::Number$$org.jfree.data.time.TimeSeriesDataItem#92:232:0.1890
+Insert Before$$SimpleName::i$$org.jfree.data.general.Series#327:1:0.1890
+Insert After$$NumberLiteral::2$$org.jfree.data.general.Series#327:4:0.1890
+Insert After$$NumberLiteral::0$$org.jfree.data.general.Series#327:4:0.1890
+Default$$SimpleName::i$$org.jfree.data.general.Series#327:8:0.1890
+Default$$NumberLiteral::2$$org.jfree.data.general.Series#327:35:0.1890
+Insert Before$$QualifiedName::listenerList.length$$org.jfree.data.general.Series#327:55:0.1890
+Default$$QualifiedName::listenerList.length$$org.jfree.data.general.Series#327:115:0.1890
+Default$$SimpleName::i$$org.jfree.data.general.Series#327:115:0.1890
+Insert Before$$SimpleName::i$$org.jfree.data.general.Series#327:123:0.1890
+Default$$NumberLiteral::0$$org.jfree.data.general.Series#327:235:0.1890
+Default$$NumberLiteral::2$$org.jfree.data.general.Series#327:624:0.1890
+Default$$InfixExpression::-$$org.jfree.data.general.Series#327:1116:0.1890
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.TimeSeriesDataItem#116:1:0.1890
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeriesDataItem#116:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeriesDataItem#116:13:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeriesDataItem#116:590:0.1890
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeriesDataItem#97:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeriesDataItem#97:13:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeriesDataItem#97:25:0.1890
+Default$$Assignment::=$$org.jfree.data.time.TimeSeriesDataItem#97:129:0.1890
+Default$$SimpleName::value$$org.jfree.data.time.TimeSeriesDataItem#97:187:0.1890
+Default$$SimpleName::notify$$org.jfree.data.general.Series#313:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.general.Series#313:13:0.1890
+Default$$SimpleName::source$$org.jfree.data.general.SeriesChangeEvent#61:8:0.1890
+Insert After$$SuperConstructorInvocation::null$$org.jfree.data.general.SeriesChangeEvent#61:16:0.1890
+Default$$SuperConstructorInvocation::null$$org.jfree.data.general.SeriesChangeEvent#61:1531:0.1890
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeriesDataItem#96:1:0.1890
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeriesDataItem#96:13:0.1890
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeriesDataItem#96:25:0.1890
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeriesDataItem#96:187:0.1890
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeriesDataItem#93:3:0.1890
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeriesDataItem#93:5:0.1890
+Insert After$$Block::null$$org.jfree.data.time.TimeSeriesDataItem#93:9:0.1890
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeriesDataItem#93:37:0.1890
+Default$$SimpleName::period$$org.jfree.data.time.TimeSeriesDataItem#93:44:0.1890
+Default$$Block::null$$org.jfree.data.time.TimeSeriesDataItem#93:99:0.1890
+Insert Before$$SimpleName::period$$org.jfree.data.time.TimeSeriesDataItem#93:123:0.1890
+Insert After$$Modifier::abstract$$org.jfree.data.time.RegularTimePeriod#70:1:0.1890
+Default$$Modifier::public$$org.jfree.data.time.RegularTimePeriod#70:2:0.1890
+Insert After$$SimpleType::TimePeriod$$org.jfree.data.time.RegularTimePeriod#70:2:0.1890
+Default$$SimpleType::Comparable$$org.jfree.data.time.RegularTimePeriod#70:2:0.1890
+Insert Before$$SimpleType::Comparable$$org.jfree.data.time.RegularTimePeriod#70:2:0.1890
+Insert After$$SimpleType::Comparable$$org.jfree.data.time.RegularTimePeriod#70:2:0.1890
+Default$$SimpleType::TimePeriod$$org.jfree.data.time.RegularTimePeriod#70:3:0.1890
+Insert Before$$SimpleType::TimePeriod$$org.jfree.data.time.RegularTimePeriod#70:3:0.1890
+Default$$Modifier::abstract$$org.jfree.data.time.RegularTimePeriod#70:5:0.1890
+Insert Before$$Modifier::public$$org.jfree.data.time.RegularTimePeriod#70:10:0.1890
+Insert After$$Modifier::public$$org.jfree.data.time.RegularTimePeriod#161:1:0.1768
+Insert Before$$Modifier::static$$org.jfree.data.time.RegularTimePeriod#161:1:0.1768
+Insert Before$$SimpleName::DEFAULT_TIME_ZONE$$org.jfree.data.time.RegularTimePeriod#161:1:0.1768
+Insert Before$$Modifier::public$$org.jfree.data.time.RegularTimePeriod#161:2:0.1768
+Insert After$$Modifier::final$$org.jfree.data.time.RegularTimePeriod#161:3:0.1768
+Default$$SimpleType::TimeZone$$org.jfree.data.time.RegularTimePeriod#161:4:0.1768
+Default$$Modifier::public$$org.jfree.data.time.RegularTimePeriod#161:6:0.1768
+Default$$SimpleName::getDefault$$org.jfree.data.time.RegularTimePeriod#161:62:0.1768
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.RegularTimePeriod#161:155:0.1768
+Default$$SimpleName::TimeZone$$org.jfree.data.time.RegularTimePeriod#161:466:0.1768
+Default$$MethodInvocation::null$$org.jfree.data.time.RegularTimePeriod#161:1116:0.1768
+Insert After$$Modifier::protected$$org.jfree.data.general.Series#111:3:0.1768
+Insert Before$$Modifier::protected$$org.jfree.data.general.Series#111:5:0.1768
+Default$$Modifier::protected$$org.jfree.data.general.Series#111:10:0.1768
+Insert After$$SingleVariableDeclaration::null$$org.jfree.data.general.Series#111:76:0.1768
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.general.Series#111:76:0.1768
+Default$$SingleVariableDeclaration::null$$org.jfree.data.general.Series#111:139:0.1768
+Insert Before$$SingleVariableDeclaration::null$$org.jfree.data.general.Series#111:139:0.1768
+Default$$SimpleType::Comparable$$org.jfree.data.general.Series#111:232:0.1768
+Default$$SimpleType::String$$org.jfree.data.general.Series#111:232:0.1768
+Default$$SimpleName::key$$org.jfree.data.general.Series#102:2:0.1768
+Default$$SimpleName::key$$org.jfree.data.general.Series#115:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.general.Series#115:13:0.1768
+Default$$FieldAccess::null$$org.jfree.data.general.Series#115:25:0.1768
+Default$$SimpleName::key$$org.jfree.data.general.Series#115:187:0.1768
+Default$$SimpleName::description$$org.jfree.data.general.Series#116:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.general.Series#116:13:0.1768
+Default$$FieldAccess::null$$org.jfree.data.general.Series#116:25:0.1768
+Default$$SimpleName::description$$org.jfree.data.general.Series#116:187:0.1768
+Insert After$$IfStatement::null$$org.jfree.data.general.Series#112:3:0.1768
+Insert Before$$IfStatement::null$$org.jfree.data.general.Series#112:5:0.1768
+Insert After$$Block::null$$org.jfree.data.general.Series#112:9:0.1768
+Default$$InfixExpression::==$$org.jfree.data.general.Series#112:37:0.1768
+Default$$SimpleName::key$$org.jfree.data.general.Series#112:44:0.1768
+Default$$Block::null$$org.jfree.data.general.Series#112:99:0.1768
+Insert Before$$SimpleName::key$$org.jfree.data.general.Series#112:123:0.1768
+Default$$SimpleName::propertyChangeSupport$$org.jfree.data.general.Series#118:1:0.1768
+Default$$SimpleType::PropertyChangeSupport$$org.jfree.data.general.Series#118:3:0.1768
+Default$$ThisExpression::null$$org.jfree.data.general.Series#118:13:0.1768
+Default$$ThisExpression::null$$org.jfree.data.general.Series#118:141:0.1768
+Default$$ClassInstanceCreation::null$$org.jfree.data.general.Series#118:187:0.1768
+Default$$SimpleName::notify$$org.jfree.data.general.Series#119:1:0.1768
+Default$$FieldAccess::null$$org.jfree.data.general.Series#119:6:0.1768
+Default$$ThisExpression::null$$org.jfree.data.general.Series#119:13:0.1768
+Default$$BooleanLiteral::true$$org.jfree.data.general.Series#119:187:0.1768
+Default$$SimpleName::listeners$$org.jfree.data.general.Series#117:1:0.1768
+Default$$ThisExpression::null$$org.jfree.data.general.Series#117:13:0.1768
+Default$$SimpleType::EventListenerList$$org.jfree.data.general.Series#117:44:0.1768
+Default$$ClassInstanceCreation::null$$org.jfree.data.general.Series#117:187:0.1768

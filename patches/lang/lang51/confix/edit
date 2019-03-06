@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang.BooleanUtils
+insert
+break;
+
+at Insert After
+IfStatement::null
+org.apache.commons.lang.BooleanUtils:677
+Context:P:SwitchCase{statements},L:IfStatement{statements},R:
+Applied Change
+insert
+break;
+from
+collections-f8aa3e0:src/java/org/apache/commons/collections/map/Flat3Map.java:
+7
+P:SwitchCase{statements},L:IfStatement{statements},R:

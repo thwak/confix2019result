@@ -1,0 +1,6 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::orientation$$org.jfree.chart.renderer.category.StatisticalBarRenderer#206:1:0.8944
+Default$$SimpleName::getOrientation$$org.jfree.chart.renderer.category.StatisticalBarRenderer#206:62:0.8944
+Default$$SimpleType::PlotOrientation$$org.jfree.chart.renderer.category.StatisticalBarRenderer#206:68:0.8944
+Default$$SimpleName::plot$$org.jfree.chart.renderer.category.StatisticalBarRenderer#206:466:0.8944
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.renderer.category.StatisticalBarRenderer#206:527:0.8944

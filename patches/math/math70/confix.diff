@@ -1,0 +1,19 @@
+--- ../result-tf-hash/math/math70/buggy/org/apache/commons/math/analysis/solvers/BisectionSolver.java	2019-02-21 11:38:18.541404193 +0000
++++ ../result-tf-hash/math/math70/confix/org/apache/commons/math/analysis/solvers/BisectionSolver.java	2019-02-21 11:38:18.537404176 +0000
+@@ -19,6 +19,7 @@
+ import org.apache.commons.math.FunctionEvaluationException;
+ import org.apache.commons.math.MaxIterationsExceededException;
+ import org.apache.commons.math.analysis.UnivariateRealFunction;
++import java.util.List;
+ 
+ /**
+  * Implements the <a href="http://mathworld.wolfram.com/Bisection.html">
+@@ -69,7 +70,7 @@
+     /** {@inheritDoc} */
+     public double solve(final UnivariateRealFunction f, double min, double max, double initial)
+         throws MaxIterationsExceededException, FunctionEvaluationException {
+-        return solve(min, max);
++        return solve(f, min, max);
+     }
+ 
+     /** {@inheritDoc} */

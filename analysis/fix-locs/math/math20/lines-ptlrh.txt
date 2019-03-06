@@ -1,0 +1,5 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.optimization.direct.CMAESOptimizer#562:7:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math3.optimization.direct.CMAESOptimizer#562:12:1.0000
+Default$$SimpleName::log$$org.apache.commons.math3.optimization.direct.CMAESOptimizer#562:46:1.0000
+Insert Before$$NumberLiteral::4$$org.apache.commons.math3.optimization.direct.CMAESOptimizer#562:115:1.0000

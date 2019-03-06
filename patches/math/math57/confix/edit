@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer
+replace
+sum = 0
+with
+sum=-1
+at line 175
+Applied Change
+replace
+var0 = 0
+with
+var0 = -1
+from
+lucene-e95097a:solr/src/java/org/apache/solr/search/SolrIndexSearcher.java::
+3
+P:VariableDeclarationStatement{fragments},L:{39},R:

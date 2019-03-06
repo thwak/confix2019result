@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.util.MathArrays
+replace
+len
+with
+64
+at line 823
+Applied Change
+replace
+var0
+with
+64
+from
+lucene-aa28aff:lucene/facet/src/java/org/apache/lucene/facet/search/ScoredDocIdCollector.java::
+1
+P:ArrayCreation{dimensions},L:{5{39}{85}},R:

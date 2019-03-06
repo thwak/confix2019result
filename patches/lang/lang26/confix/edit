@@ -1,0 +1,14 @@
+Class:org.apache.commons.lang3.time.FastDateFormat
+insert
+mLocale
+at Insert After
+SimpleName::mTimeZone
+org.apache.commons.lang3.time.FastDateFormat:820
+Context:P:ClassInstanceCreation{arguments},L:{42},R:
+Applied Change
+insert
+var0
+from
+collections-a3b3b74:src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java:::
+258
+P:ClassInstanceCreation{arguments},L:{42},R:

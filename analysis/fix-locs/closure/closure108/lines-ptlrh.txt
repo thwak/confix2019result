@@ -1,0 +1,97 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::detachFromParent$$com.google.javascript.jscomp.ScopedAliases#410:62:0.4472
+Default$$SimpleName::value$$com.google.javascript.jscomp.ScopedAliases#410:466:0.4472
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#410:1101:0.4472
+Default$$SimpleName::addChildBefore$$com.google.javascript.jscomp.ScopedAliases#430:46:0.3780
+Default$$SimpleName::newDecl$$com.google.javascript.jscomp.ScopedAliases#430:267:0.3780
+Default$$SimpleName::grandparent$$com.google.javascript.jscomp.ScopedAliases#430:466:0.3780
+Default$$SimpleName::varNode$$com.google.javascript.jscomp.ScopedAliases#430:1040:0.3780
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#430:1101:0.3780
+Default$$SimpleName::varNode$$com.google.javascript.jscomp.ScopedAliases#412:25:0.3780
+Default$$SimpleName::parent$$com.google.javascript.jscomp.ScopedAliases#412:624:0.3780
+Insert After$$Block::null$$com.google.javascript.jscomp.ScopedAliases#407:12:0.3780
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.ScopedAliases#407:36:0.3780
+Default$$SimpleName::value$$com.google.javascript.jscomp.ScopedAliases#407:44:0.3780
+Insert Before$$SimpleName::value$$com.google.javascript.jscomp.ScopedAliases#407:123:0.3780
+Default$$Block::null$$com.google.javascript.jscomp.ScopedAliases#407:166:0.3780
+Insert Before$$SimpleName::newDecl$$com.google.javascript.jscomp.ScopedAliases#418:1:0.3536
+Default$$SimpleName::newQualifiedNameNodeDeclaration$$com.google.javascript.jscomp.ScopedAliases#418:29:0.3536
+Default$$SimpleName::NodeUtil$$com.google.javascript.jscomp.ScopedAliases#418:466:0.3536
+Default$$SimpleName::setDebugInformation$$com.google.javascript.jscomp.ScopedAliases#424:3:0.3536
+Default$$SimpleName::NodeUtil$$com.google.javascript.jscomp.ScopedAliases#424:466:0.3536
+Default$$SimpleName::isHoisted$$com.google.javascript.jscomp.ScopedAliases#427:65:0.3536
+Insert Before$$SimpleName::isHoisted$$com.google.javascript.jscomp.ScopedAliases#373:1:0.3333
+Default$$SimpleName::isHoistedFunctionDeclaration$$com.google.javascript.jscomp.ScopedAliases#373:46:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.ScopedAliases#373:253:0.3333
+Default$$SimpleName::NodeUtil$$com.google.javascript.jscomp.ScopedAliases#373:466:0.3333
+Default$$SimpleName::parent$$com.google.javascript.jscomp.ScopedAliases#373:1040:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#373:1116:0.3333
+Insert Before$$SimpleName::nameCount$$com.google.javascript.jscomp.ScopedAliases#381:1:0.3333
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.ScopedAliases#381:41:0.3333
+Default$$SimpleName::count$$com.google.javascript.jscomp.ScopedAliases#381:46:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.ScopedAliases#381:253:0.3333
+Default$$SimpleName::scopedAliasNames$$com.google.javascript.jscomp.ScopedAliases#381:466:0.3333
+Default$$SimpleName::name$$com.google.javascript.jscomp.ScopedAliases#381:1040:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#381:1116:0.3333
+Default$$SimpleName::add$$com.google.javascript.jscomp.ScopedAliases#382:46:0.3333
+Default$$SimpleName::scopedAliasNames$$com.google.javascript.jscomp.ScopedAliases#382:466:0.3333
+Default$$SimpleName::name$$com.google.javascript.jscomp.ScopedAliases#382:1040:0.3333
+Insert After$$SimpleName::name$$com.google.javascript.jscomp.ScopedAliases#382:1040:0.3333
+Default$$SimpleName::recordAlias$$com.google.javascript.jscomp.ScopedAliases#439:13:0.3333
+Default$$SimpleName::v$$com.google.javascript.jscomp.ScopedAliases#439:1040:0.3333
+Default$$SimpleName::getNameNode$$com.google.javascript.jscomp.ScopedAliases#435:62:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#435:466:0.3333
+Default$$SimpleName::v$$com.google.javascript.jscomp.ScopedAliases#435:466:0.3333
+Insert Before$$SimpleName::value$$com.google.javascript.jscomp.ScopedAliases#375:1:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#375:44:0.3333
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#375:61:0.3333
+Default$$SimpleName::getInitialValue$$com.google.javascript.jscomp.ScopedAliases#375:62:0.3333
+Default$$SimpleName::v$$com.google.javascript.jscomp.ScopedAliases#375:466:0.3333
+Insert Before$$SimpleName::grandparent$$com.google.javascript.jscomp.ScopedAliases#374:1:0.3333
+Default$$SimpleName::getParent$$com.google.javascript.jscomp.ScopedAliases#374:62:0.3333
+Default$$SimpleType::Node$$com.google.javascript.jscomp.ScopedAliases#374:68:0.3333
+Default$$SimpleName::parent$$com.google.javascript.jscomp.ScopedAliases#374:466:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.ScopedAliases#374:527:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#374:1116:0.3333
+Insert Before$$SimpleName::name$$com.google.javascript.jscomp.ScopedAliases#380:1:0.3333
+Default$$SimpleName::getString$$com.google.javascript.jscomp.ScopedAliases#380:62:0.3333
+Default$$SimpleType::String$$com.google.javascript.jscomp.ScopedAliases#380:68:0.3333
+Default$$SimpleName::n$$com.google.javascript.jscomp.ScopedAliases#380:466:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.ScopedAliases#380:527:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#380:1116:0.3333
+Default$$SimpleName::ensureLibraryInjected$$com.google.javascript.jscomp.ScopedAliases#386:12:0.3333
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.ScopedAliases#386:466:0.3333
+Default$$StringLiteral::"base"$$com.google.javascript.jscomp.ScopedAliases#386:1040:0.3333
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.ScopedAliases#417:11:0.3333
+Default$$SimpleName::value$$com.google.javascript.jscomp.ScopedAliases#417:44:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#417:44:0.3333
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#417:61:0.3333
+Default$$SimpleName::getJSDocInfo$$com.google.javascript.jscomp.ScopedAliases#417:62:0.3333
+Insert Before$$SimpleName::value$$com.google.javascript.jscomp.ScopedAliases#417:123:0.3333
+Default$$SimpleName::v$$com.google.javascript.jscomp.ScopedAliases#417:466:0.3333
+Insert Before$$SimpleName::varNode$$com.google.javascript.jscomp.ScopedAliases#378:1:0.3333
+Default$$SimpleType::Node$$com.google.javascript.jscomp.ScopedAliases#378:45:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.ScopedAliases#378:527:0.3333
+Default$$NullLiteral::null$$com.google.javascript.jscomp.ScopedAliases#378:1116:0.3333
+Insert Before$$SimpleName::globalName$$com.google.javascript.jscomp.ScopedAliases#383:1:0.3333
+Insert After$$SimpleName::isVar$$com.google.javascript.jscomp.ScopedAliases#372:4:0.3162
+Insert After$$SimpleName::isFunctionDecl$$com.google.javascript.jscomp.ScopedAliases#372:17:0.3162
+Default$$SimpleName::isVar$$com.google.javascript.jscomp.ScopedAliases#372:123:0.3162
+Insert Before$$SimpleName::isVar$$com.google.javascript.jscomp.ScopedAliases#372:123:0.3162
+Default$$SimpleName::isFunctionDecl$$com.google.javascript.jscomp.ScopedAliases#372:235:0.3162
+Insert After$$QualifiedName::Token.LP$$com.google.javascript.jscomp.ScopedAliases#369:3:0.3015
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#369:55:0.3015
+Default$$QualifiedName::Token.LP$$com.google.javascript.jscomp.ScopedAliases#369:60:0.3015
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#369:61:0.3015
+Default$$SimpleName::getType$$com.google.javascript.jscomp.ScopedAliases#369:62:0.3015
+Default$$SimpleName::parent$$com.google.javascript.jscomp.ScopedAliases#369:466:0.3015
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#366:15:0.3015
+Default$$SimpleName::isBleedingFunction$$com.google.javascript.jscomp.ScopedAliases#366:62:0.3015
+Default$$SimpleName::v$$com.google.javascript.jscomp.ScopedAliases#366:466:0.3015
+Default$$SimpleName::checkState$$com.google.javascript.jscomp.ScopedAliases#236:5:0.2236
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#236:18:0.2236
+Default$$SimpleName::startsWith$$com.google.javascript.jscomp.ScopedAliases#236:46:0.2236
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.ScopedAliases#236:466:0.2236
+Default$$SimpleName::typeName$$com.google.javascript.jscomp.ScopedAliases#236:466:0.2236
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ScopedAliases#236:1040:0.2236
+Default$$SimpleName::aliasName$$com.google.javascript.jscomp.ScopedAliases#236:1040:0.2236

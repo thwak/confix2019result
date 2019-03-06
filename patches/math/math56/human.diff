@@ -1,0 +1,17 @@
+--- ../result-tf-hash/math/math56/buggy/org/apache/commons/math/util/MultidimensionalCounter.java	2019-02-21 11:23:33.309664812 +0000
++++ ../result-tf-hash/math/math56/human/org/apache/commons/math/util/MultidimensionalCounter.java	2019-02-21 11:23:33.317664846 +0000
+@@ -234,13 +234,7 @@
+             indices[i] = idx;
+         }
+ 
+-        int idx = 1;
+-        while (count < index) {
+-            count += idx;
+-            ++idx;
+-        }
+-        --idx;
+-        indices[last] = idx;
++        indices[last] = index - count;
+ 
+         return indices;
+     }

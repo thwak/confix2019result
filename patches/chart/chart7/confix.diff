@@ -1,0 +1,19 @@
+--- ../result-tf-hash/chart/chart7/buggy/org/jfree/data/time/TimePeriodValues.java	2019-02-21 11:23:58.585769742 +0000
++++ ../result-tf-hash/chart/chart7/confix/org/jfree/data/time/TimePeriodValues.java	2019-02-21 11:23:58.565769659 +0000
+@@ -58,6 +58,7 @@
+ import org.jfree.data.general.Series;
+ import org.jfree.data.general.SeriesChangeEvent;
+ import org.jfree.data.general.SeriesException;
++import java.util.Map;
+ 
+ /**
+  * A structure containing zero, one or many {@link TimePeriodValue} instances.  
+@@ -549,7 +550,7 @@
+      * @return The index.
+      */
+     public int getMaxMiddleIndex() {
+-        return this.maxMiddleIndex;
++        return this.maxEndIndex;
+     }
+ 
+     /**

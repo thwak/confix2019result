@@ -1,0 +1,15 @@
+Class:org.jfree.data.time.TimePeriodValues
+update
+maxMiddleIndex
+to
+maxEndIndex
+at line 552
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+500
+P:FieldAccess{name},L:{52},R:

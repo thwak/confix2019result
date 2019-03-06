@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.optimization.linear.SimplexSolver
+replace
+rhs
+with
+rhs / entry
+at line 83
+Applied Change
+replace
+var0
+with
+var0 + var1
+from
+lucene-65bfa48:solr/core/src/java/org/apache/solr/cloud/CreateCollectionCmd.java::
+2
+P:InfixExpression{leftOperand},L:,R:{42}

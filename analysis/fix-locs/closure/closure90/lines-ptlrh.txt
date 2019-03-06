@@ -1,0 +1,4 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::n$$com.google.javascript.jscomp.TypeCheck#477:10:0.1057
+Default$$SimpleName::getTypeOfThis$$com.google.javascript.jscomp.TypeCheck#477:11:0.1057
+Default$$SimpleName::ensureTyped$$com.google.javascript.jscomp.TypeCheck#477:13:0.1057

@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.distribution.PoissonDistributionImpl
+insert
+randomData.nextPoisson(mean);
+
+at Insert Before
+ThrowStatement::null
+org.apache.commons.math.distribution.PoissonDistributionImpl:94
+Context:P:IfStatement{statements},L:,R:ThrowStatement{statements}
+Applied Change
+insert
+Type0.method0(var0)
+from
+lucene-65bfa48:solr/core/src/java/org/apache/solr/api/V2HttpCall.java:call:8487
+1
+P:IfStatement{statements},L:,R:ThrowStatement{statements}

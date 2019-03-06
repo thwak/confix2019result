@@ -1,0 +1,247 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::min$$org.apache.commons.math3.distribution.HypergeometricDistribution#321:4:0.3780
+Default$$SimpleName::FastMath$$org.apache.commons.math3.distribution.HypergeometricDistribution#321:466:0.3780
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#268:3:0.3780
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#268:9:0.3780
+Default$$SimpleName::max$$org.apache.commons.math3.distribution.HypergeometricDistribution#308:6:0.3780
+Default$$SimpleName::FastMath$$org.apache.commons.math3.distribution.HypergeometricDistribution#308:466:0.3780
+Insert Before$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#292:1:0.3780
+Insert Before$$Modifier::final$$org.apache.commons.math3.distribution.HypergeometricDistribution#292:2:0.3780
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#292:253:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#292:1116:0.3780
+Insert Before$$SimpleName::m$$org.apache.commons.math3.distribution.HypergeometricDistribution#293:1:0.3780
+Insert Before$$Modifier::final$$org.apache.commons.math3.distribution.HypergeometricDistribution#293:2:0.3780
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#293:253:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#293:1116:0.3780
+Insert Before$$SimpleName::n$$org.apache.commons.math3.distribution.HypergeometricDistribution#294:1:0.3780
+Insert Before$$Modifier::final$$org.apache.commons.math3.distribution.HypergeometricDistribution#294:2:0.3780
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#294:253:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#294:1116:0.3780
+Insert After$$SimpleName::n$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:4:0.3780
+Insert After$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:4:0.3780
+Insert After$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:4:0.3780
+Insert After$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:4:0.3780
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:4:0.3780
+Insert After$$SimpleName::n$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:17:0.3780
+Insert After$$SimpleName::m$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:17:0.3780
+Default$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:115:0.3780
+Default$$SimpleName::n$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Insert Before$$SimpleName::n$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Default$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Insert Before$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Default$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Insert Before$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Default$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Insert Before$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Insert Before$$SimpleName::N$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:123:0.3780
+Default$$SimpleName::n$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:235:0.3780
+Default$$SimpleName::m$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:235:0.3780
+Default$$NumberLiteral::1$$org.apache.commons.math3.distribution.HypergeometricDistribution#295:235:0.3780
+Default$$SimpleName::numericalVariance$$org.apache.commons.math3.distribution.HypergeometricDistribution#280:3:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#280:624:0.3780
+Default$$SimpleName::numericalVarianceIsCalculated$$org.apache.commons.math3.distribution.HypergeometricDistribution#281:6:0.3780
+Default$$BooleanLiteral::true$$org.apache.commons.math3.distribution.HypergeometricDistribution#281:624:0.3780
+Default$$SimpleName::numericalVariance$$org.apache.commons.math3.distribution.HypergeometricDistribution#283:590:0.3780
+Default$$SimpleName::numericalVarianceIsCalculated$$org.apache.commons.math3.distribution.HypergeometricDistribution#279:51:0.3780
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#161:35:0.3333
+Default$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#161:590:0.3333
+Default$$ReturnStatement::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#161:1531:0.3333
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#170:35:0.3333
+Default$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#170:590:0.3333
+Default$$ReturnStatement::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#170:1531:0.3333
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#179:35:0.3333
+Default$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#179:590:0.3333
+Default$$ReturnStatement::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#179:1531:0.3333
+Default$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#110:1:0.2500
+Default$$ThisExpression::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#110:13:0.2500
+Default$$FieldAccess::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#110:25:0.2500
+Default$$Assignment::=$$org.apache.commons.math3.distribution.HypergeometricDistribution#110:129:0.2500
+Default$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#110:187:0.2500
+Default$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#63:11:0.2500
+Default$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#63:15:0.2500
+Default$$SimpleType::Well19937c$$org.apache.commons.math3.distribution.HypergeometricDistribution#63:44:0.2500
+Insert Before$$Modifier::private$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:1:0.2500
+Default$$PrimitiveType::boolean$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:1:0.2500
+Insert Before$$SimpleName::numericalVarianceIsCalculated$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:1:0.2500
+Default$$Modifier::private$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:3:0.2500
+Insert After$$Modifier::private$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:5:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:55:0.2500
+Default$$BooleanLiteral::false$$org.apache.commons.math3.distribution.HypergeometricDistribution#47:1116:0.2500
+Insert Before$$Modifier::private$$org.apache.commons.math3.distribution.HypergeometricDistribution#45:1:0.2500
+Insert Before$$SimpleName::numericalVariance$$org.apache.commons.math3.distribution.HypergeometricDistribution#45:1:0.2500
+Default$$Modifier::private$$org.apache.commons.math3.distribution.HypergeometricDistribution#45:3:0.2500
+Insert After$$Modifier::private$$org.apache.commons.math3.distribution.HypergeometricDistribution#45:5:0.2500
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#45:55:0.2500
+Default$$QualifiedName::Double.NaN$$org.apache.commons.math3.distribution.HypergeometricDistribution#45:1116:0.2500
+Default$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#109:1:0.2500
+Default$$ThisExpression::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#109:13:0.2500
+Default$$FieldAccess::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#109:25:0.2500
+Default$$Assignment::=$$org.apache.commons.math3.distribution.HypergeometricDistribution#109:38:0.2500
+Default$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#109:187:0.2500
+Default$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#108:1:0.2500
+Default$$ThisExpression::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#108:13:0.2500
+Default$$FieldAccess::null$$org.apache.commons.math3.distribution.HypergeometricDistribution#108:25:0.2500
+Default$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#108:187:0.2500
+Insert After$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#99:4:0.2500
+Insert After$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#99:17:0.2500
+Default$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#99:123:0.2500
+Insert Before$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#99:123:0.2500
+Default$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#99:235:0.2500
+Insert After$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#103:4:0.2500
+Insert After$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#103:17:0.2500
+Default$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#103:123:0.2500
+Insert Before$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#103:123:0.2500
+Default$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#103:235:0.2500
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.distribution.HypergeometricDistribution#90:4:0.2500
+Default$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#90:115:0.2500
+Insert Before$$SimpleName::numberOfSuccesses$$org.apache.commons.math3.distribution.HypergeometricDistribution#90:123:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math3.distribution.HypergeometricDistribution#90:235:0.2500
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.distribution.HypergeometricDistribution#94:4:0.2500
+Default$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#94:115:0.2500
+Insert Before$$SimpleName::sampleSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#94:123:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math3.distribution.HypergeometricDistribution#94:235:0.2500
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.distribution.HypergeometricDistribution#86:4:0.2500
+Default$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#86:115:0.2500
+Insert Before$$SimpleName::populationSize$$org.apache.commons.math3.distribution.HypergeometricDistribution#86:123:0.2500
+Default$$NumberLiteral::0$$org.apache.commons.math3.distribution.HypergeometricDistribution#86:235:0.2500
+Default$$SimpleName::rng$$org.apache.commons.math3.distribution.HypergeometricDistribution#84:8:0.2500
+Default$$SimpleName::inverseCumulativeProbability$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#193:4:0.7071
+Default$$SimpleName::nextDouble$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#193:62:0.7071
+Default$$SimpleName::random$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#193:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#193:590:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#193:1040:0.7071
+Default$$ReturnStatement::null$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#193:1531:0.7071
+Insert Before$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#98:1:0.7071
+Insert After$$NumberLiteral::9$$org.apache.commons.math3.random.Well19937c#98:4:0.7071
+Insert After$$NumberLiteral::21$$org.apache.commons.math3.random.Well19937c#98:4:0.7071
+Insert After$$NumberLiteral::21$$org.apache.commons.math3.random.Well19937c#98:4:0.7071
+Default$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#98:115:0.7071
+Default$$SimpleName::z2$$org.apache.commons.math3.random.Well19937c#98:115:0.7071
+Default$$SimpleName::z3$$org.apache.commons.math3.random.Well19937c#98:115:0.7071
+Insert Before$$SimpleName::z0$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::z2$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::z2$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::z3$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::z3$$org.apache.commons.math3.random.Well19937c#98:123:0.7071
+Insert Before$$SimpleName::high$$org.apache.commons.math3.random.BitsStreamGenerator#90:1:0.7071
+Default$$SimpleName::next$$org.apache.commons.math3.random.BitsStreamGenerator#90:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.BitsStreamGenerator#90:2:0.7071
+Insert After$$NumberLiteral::26$$org.apache.commons.math3.random.BitsStreamGenerator#90:4:0.7071
+Default$$NumberLiteral::26$$org.apache.commons.math3.random.BitsStreamGenerator#90:1040:0.7071
+Insert Before$$SimpleName::low$$org.apache.commons.math3.random.BitsStreamGenerator#91:1:0.7071
+Default$$SimpleName::next$$org.apache.commons.math3.random.BitsStreamGenerator#91:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.BitsStreamGenerator#91:2:0.7071
+Default$$NumberLiteral::26$$org.apache.commons.math3.random.BitsStreamGenerator#91:1040:0.7071
+Insert Before$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#95:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#95:2:0.7071
+Insert After$$NumberLiteral::25$$org.apache.commons.math3.random.Well19937c#95:4:0.7071
+Insert After$$NumberLiteral::27$$org.apache.commons.math3.random.Well19937c#95:4:0.7071
+Default$$SimpleName::v0$$org.apache.commons.math3.random.Well19937c#95:115:0.7071
+Default$$SimpleName::vM1$$org.apache.commons.math3.random.Well19937c#95:115:0.7071
+Insert Before$$SimpleName::v0$$org.apache.commons.math3.random.Well19937c#95:123:0.7071
+Insert Before$$SimpleName::v0$$org.apache.commons.math3.random.Well19937c#95:123:0.7071
+Insert Before$$SimpleName::vM1$$org.apache.commons.math3.random.Well19937c#95:123:0.7071
+Insert Before$$SimpleName::vM1$$org.apache.commons.math3.random.Well19937c#95:123:0.7071
+Insert Before$$SimpleName::z2$$org.apache.commons.math3.random.Well19937c#96:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#96:2:0.7071
+Insert Before$$ParenthesizedExpression::null$$org.apache.commons.math3.random.Well19937c#96:4:0.7071
+Insert After$$NumberLiteral::9$$org.apache.commons.math3.random.Well19937c#96:4:0.7071
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.random.Well19937c#96:4:0.7071
+Default$$SimpleName::vM2$$org.apache.commons.math3.random.Well19937c#96:115:0.7071
+Default$$SimpleName::vM3$$org.apache.commons.math3.random.Well19937c#96:115:0.7071
+Insert Before$$SimpleName::vM2$$org.apache.commons.math3.random.Well19937c#96:123:0.7071
+Insert Before$$SimpleName::vM3$$org.apache.commons.math3.random.Well19937c#96:123:0.7071
+Insert Before$$SimpleName::vM3$$org.apache.commons.math3.random.Well19937c#96:123:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math3.random.Well19937c#96:235:0.7071
+Insert Before$$SimpleName::z0$$org.apache.commons.math3.random.Well19937c#94:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#94:2:0.7071
+Default$$SimpleName::v$$org.apache.commons.math3.random.Well19937c#94:11:0.7071
+Default$$SimpleName::v$$org.apache.commons.math3.random.Well19937c#94:11:0.7071
+Default$$SimpleName::indexRm1$$org.apache.commons.math3.random.Well19937c#94:38:0.7071
+Default$$SimpleName::indexRm2$$org.apache.commons.math3.random.Well19937c#94:38:0.7071
+Insert Before$$NumberLiteral::0x80000000$$org.apache.commons.math3.random.Well19937c#94:115:0.7071
+Insert Before$$NumberLiteral::0x7FFFFFFF$$org.apache.commons.math3.random.Well19937c#94:115:0.7071
+Insert Before$$SimpleName::vM1$$org.apache.commons.math3.random.Well19937c#90:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#90:2:0.7071
+Default$$SimpleName::i1$$org.apache.commons.math3.random.Well19937c#90:11:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#90:38:0.7071
+Insert Before$$SimpleName::vM2$$org.apache.commons.math3.random.Well19937c#91:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#91:2:0.7071
+Default$$SimpleName::i2$$org.apache.commons.math3.random.Well19937c#91:11:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#91:38:0.7071
+Insert Before$$SimpleName::vM3$$org.apache.commons.math3.random.Well19937c#92:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#92:2:0.7071
+Default$$SimpleName::i3$$org.apache.commons.math3.random.Well19937c#92:11:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#92:38:0.7071
+Insert After$$NumberLiteral::7$$org.apache.commons.math3.random.Well19937c#108:4:0.7071
+Insert After$$NumberLiteral::0xe46e1700$$org.apache.commons.math3.random.Well19937c#108:4:0.7071
+Default$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#108:115:0.7071
+Insert Before$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#108:123:0.7071
+Insert Before$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#108:123:0.7071
+Insert After$$NumberLiteral::15$$org.apache.commons.math3.random.Well19937c#109:4:0.7071
+Insert After$$NumberLiteral::0x9b868000$$org.apache.commons.math3.random.Well19937c#109:4:0.7071
+Default$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#109:115:0.7071
+Insert Before$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#109:123:0.7071
+Insert Before$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#109:123:0.7071
+Default$$NumberLiteral::15$$org.apache.commons.math3.random.Well19937c#109:235:0.7071
+Insert Before$$SimpleName::z3$$org.apache.commons.math3.random.Well19937c#97:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#97:2:0.7071
+Insert After$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#97:4:0.7071
+Insert After$$SimpleName::z2$$org.apache.commons.math3.random.Well19937c#97:17:0.7071
+Default$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#97:123:0.7071
+Insert Before$$SimpleName::z1$$org.apache.commons.math3.random.Well19937c#97:123:0.7071
+Default$$SimpleName::z2$$org.apache.commons.math3.random.Well19937c#97:235:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.random.Well19937c#86:1:0.7071
+Insert Before$$SimpleName::indexRm1$$org.apache.commons.math3.random.Well19937c#86:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#86:2:0.7071
+Default$$SimpleName::iRm1$$org.apache.commons.math3.random.Well19937c#86:11:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#86:38:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.random.Well19937c#86:253:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math3.random.Well19937c#86:1116:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.random.Well19937c#87:1:0.7071
+Insert Before$$SimpleName::indexRm2$$org.apache.commons.math3.random.Well19937c#87:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#87:2:0.7071
+Default$$SimpleName::iRm2$$org.apache.commons.math3.random.Well19937c#87:11:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#87:38:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.random.Well19937c#87:253:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math3.random.Well19937c#87:1116:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.random.Well19937c#89:1:0.7071
+Insert Before$$SimpleName::v0$$org.apache.commons.math3.random.Well19937c#89:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.random.Well19937c#89:2:0.7071
+Default$$SimpleName::v$$org.apache.commons.math3.random.Well19937c#89:11:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#89:38:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.random.Well19937c#89:253:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math3.random.Well19937c#89:1116:0.7071
+Default$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#111:2:0.7071
+Default$$SimpleName::bits$$org.apache.commons.math3.random.Well19937c#111:12:0.7071
+Insert After$$SimpleName::bits$$org.apache.commons.math3.random.Well19937c#111:17:0.7071
+Insert Before$$NumberLiteral::32$$org.apache.commons.math3.random.Well19937c#111:115:0.7071
+Insert Before$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#111:123:0.7071
+Insert After$$SimpleName::high$$org.apache.commons.math3.random.BitsStreamGenerator#92:4:0.7071
+Insert After$$NumberLiteral::0x1.0p-52d$$org.apache.commons.math3.random.BitsStreamGenerator#92:4:0.7071
+Insert After$$SimpleName::low$$org.apache.commons.math3.random.BitsStreamGenerator#92:17:0.7071
+Default$$SimpleName::high$$org.apache.commons.math3.random.BitsStreamGenerator#92:123:0.7071
+Insert Before$$SimpleName::high$$org.apache.commons.math3.random.BitsStreamGenerator#92:123:0.7071
+Default$$SimpleName::low$$org.apache.commons.math3.random.BitsStreamGenerator#92:235:0.7071
+Default$$SimpleName::v$$org.apache.commons.math3.random.Well19937c#100:11:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math3.random.Well19937c#100:25:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#100:38:0.7071
+Default$$SimpleName::z3$$org.apache.commons.math3.random.Well19937c#100:50:0.7071
+Default$$SimpleName::v$$org.apache.commons.math3.random.Well19937c#101:11:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math3.random.Well19937c#101:25:0.7071
+Default$$SimpleName::indexRm1$$org.apache.commons.math3.random.Well19937c#101:38:0.7071
+Default$$SimpleName::z4$$org.apache.commons.math3.random.Well19937c#101:50:0.7071
+Default$$SimpleName::index$$org.apache.commons.math3.random.Well19937c#103:25:0.7071
+Default$$SimpleName::indexRm1$$org.apache.commons.math3.random.Well19937c#103:624:0.7071
+Default$$SimpleName::v$$org.apache.commons.math3.random.Well19937c#102:11:0.7071
+Default$$SimpleName::indexRm2$$org.apache.commons.math3.random.Well19937c#102:38:0.7071
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#138:4:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#138:30:0.5774
+Default$$SimpleName::ceil$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#138:46:0.5774
+Default$$SimpleName::Math$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#138:466:0.5774
+Default$$SimpleName::tmp$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#138:1040:0.5774
+Insert Before$$SimpleName::k$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#130:1:0.5774
+Default$$SimpleName::p$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#130:12:0.5774
+Insert After$$SimpleName::p$$org.apache.commons.math3.distribution.AbstractIntegerDistribution#130:17:0.5774

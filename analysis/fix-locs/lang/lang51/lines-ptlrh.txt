@@ -1,0 +1,47 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::ch0$$org.apache.commons.lang.BooleanUtils#664:1:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#664:6:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#664:466:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.BooleanUtils#664:1040:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#664:1116:1.0000
+Insert Before$$SimpleName::ch1$$org.apache.commons.lang.BooleanUtils#665:1:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#665:6:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#665:253:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#665:466:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.lang.BooleanUtils#665:1040:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#665:1116:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#671:1:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#671:6:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#671:466:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.BooleanUtils#671:1040:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#671:1116:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#684:1:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#684:6:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#684:466:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.BooleanUtils#684:1040:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#684:1116:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang.BooleanUtils#662:62:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#662:466:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang.BooleanUtils#657:17:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.lang.BooleanUtils#657:1101:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang.BooleanUtils#660:17:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.lang.BooleanUtils#660:1101:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.BooleanUtils#659:7:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#659:44:1.0000
+Default$$InfixExpression::==$$org.apache.commons.lang.BooleanUtils#659:64:1.0000
+Default$$Block::null$$org.apache.commons.lang.BooleanUtils#659:99:1.0000
+Insert Before$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#659:123:1.0000
+Insert After$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#656:4:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.BooleanUtils#656:7:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#656:33:1.0000
+Insert After$$StringLiteral::"true"$$org.apache.commons.lang.BooleanUtils#656:64:1.0000
+Insert Before$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#656:123:1.0000
+Default$$StringLiteral::"true"$$org.apache.commons.lang.BooleanUtils#656:235:1.0000
+Default$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#672:5:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#672:123:1.0000
+Default$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#677:5:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#677:123:1.0000
+Default$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#685:5:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#685:123:1.0000
+Default$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#691:5:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#691:123:1.0000

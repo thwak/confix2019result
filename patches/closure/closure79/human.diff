@@ -1,0 +1,11 @@
+--- ../result-tf-hash/closure/closure79/buggy/com/google/javascript/jscomp/Normalize.java	2019-02-22 09:03:18.293221580 +0000
++++ ../result-tf-hash/closure/closure79/human/com/google/javascript/jscomp/Normalize.java	2019-02-22 09:03:18.297221597 +0000
+@@ -119,7 +119,7 @@
+   public void process(Node externs, Node root) {
+     new NodeTraversal(
+         compiler, new NormalizeStatements(compiler, assertOnChange))
+-        .traverse(root);
++        .traverseRoots(externs, root);
+     if (MAKE_LOCAL_NAMES_UNIQUE) {
+       MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique();
+       NodeTraversal t = new NodeTraversal(compiler, renamer);

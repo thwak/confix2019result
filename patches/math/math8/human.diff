@@ -1,0 +1,18 @@
+--- ../result-tf-hash/math/math8/buggy/org/apache/commons/math3/distribution/DiscreteDistribution.java	2019-02-21 11:23:33.965667536 +0000
++++ ../result-tf-hash/math/math8/human/org/apache/commons/math3/distribution/DiscreteDistribution.java	2019-02-21 11:23:33.969667552 +0000
+@@ -178,13 +178,13 @@
+      * @throws NotStrictlyPositiveException if {@code sampleSize} is not
+      * positive.
+      */
+-    public T[] sample(int sampleSize) throws NotStrictlyPositiveException {
++    public Object[] sample(int sampleSize) throws NotStrictlyPositiveException {
+         if (sampleSize <= 0) {
+             throw new NotStrictlyPositiveException(LocalizedFormats.NUMBER_OF_SAMPLES,
+                     sampleSize);
+         }
+ 
+-        final T[]out = (T[]) java.lang.reflect.Array.newInstance(singletons.get(0).getClass(), sampleSize);
++        final Object[] out = new Object[sampleSize];
+ 
+         for (int i = 0; i < sampleSize; i++) {
+             out[i] = sample();

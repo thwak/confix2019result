@@ -1,0 +1,14 @@
+Class:com.google.javascript.jscomp.CheckGlobalNames
+insert
+256
+at Insert Before
+QualifiedName::name.globalSets
+com.google.javascript.jscomp.CheckGlobalNames:101
+Context:P:InfixExpression{leftOperand},L:,R:{40}
+Applied Change
+insert
+256
+from
+groovy-cc0b80c:src/main/org/codehaus/groovy/transform/stc/StaticTypeCheckingSupport.java:::
+16
+P:InfixExpression{leftOperand},L:,R:{40}

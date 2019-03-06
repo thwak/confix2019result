@@ -1,0 +1,261 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::arrangeFN$$org.jfree.chart.block.BorderArrangement#149:13:1.0000
+Default$$SimpleName::getWidth$$org.jfree.chart.block.BorderArrangement#149:62:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#149:68:1.0000
+Default$$SimpleName::container$$org.jfree.chart.block.BorderArrangement#149:267:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#149:466:1.0000
+Default$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#149:624:1.0000
+Default$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#149:1040:1.0000
+Default$$Assignment::=$$org.jfree.chart.block.BorderArrangement#149:1101:1.0000
+Default$$SimpleName::contentSize$$org.jfree.chart.block.BorderArrangement#152:5:1.0000
+Default$$SimpleName::arrangeFF$$org.jfree.chart.block.BorderArrangement#152:13:1.0000
+Default$$SimpleName::container$$org.jfree.chart.block.BorderArrangement#152:267:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#152:267:1.0000
+Default$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#152:624:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#152:1040:1.0000
+Default$$Assignment::=$$org.jfree.chart.block.BorderArrangement#152:1101:1.0000
+Insert Before$$SimpleName::size$$org.jfree.chart.block.BorderArrangement#296:1:1.0000
+Default$$SimpleName::leftBlock$$org.jfree.chart.block.BorderArrangement#296:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#296:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#296:13:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#296:267:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#296:466:1.0000
+Default$$SimpleName::c2$$org.jfree.chart.block.BorderArrangement#296:1040:1.0000
+Insert Before$$SimpleName::size$$org.jfree.chart.block.BorderArrangement#306:1:1.0000
+Default$$SimpleName::rightBlock$$org.jfree.chart.block.BorderArrangement#306:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#306:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#306:13:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#306:267:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#306:466:1.0000
+Default$$SimpleName::c3$$org.jfree.chart.block.BorderArrangement#306:1040:1.0000
+Insert Before$$SimpleName::size$$org.jfree.chart.block.BorderArrangement#318:1:1.0000
+Default$$SimpleName::centerBlock$$org.jfree.chart.block.BorderArrangement#318:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#318:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#318:13:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#318:267:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#318:466:1.0000
+Default$$SimpleName::c4$$org.jfree.chart.block.BorderArrangement#318:1040:1.0000
+Insert Before$$SimpleName::size$$org.jfree.chart.block.BorderArrangement#449:1:1.0000
+Default$$SimpleName::leftBlock$$org.jfree.chart.block.BorderArrangement#449:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#449:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#449:13:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#449:267:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#449:466:1.0000
+Default$$SimpleName::c3$$org.jfree.chart.block.BorderArrangement#449:1040:1.0000
+Insert Before$$SimpleName::size$$org.jfree.chart.block.BorderArrangement#458:1:1.0000
+Default$$SimpleName::rightBlock$$org.jfree.chart.block.BorderArrangement#458:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#458:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#458:13:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#458:267:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#458:466:1.0000
+Default$$SimpleName::c4$$org.jfree.chart.block.BorderArrangement#458:1040:1.0000
+Insert Before$$SimpleName::height$$org.jfree.chart.block.BorderArrangement#322:1:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#322:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#322:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#322:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#322:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#322:7:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#322:38:1.0000
+Default$$NumberLiteral::1$$org.jfree.chart.block.BorderArrangement#322:38:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#322:38:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#322:38:1.0000
+Default$$SimpleName::Math$$org.jfree.chart.block.BorderArrangement#322:466:1.0000
+Default$$SimpleName::Math$$org.jfree.chart.block.BorderArrangement#322:466:1.0000
+Default$$SimpleType::Size2D$$org.jfree.chart.block.BorderArrangement#488:17:1.0000
+Default$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#488:24:1.0000
+Default$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#488:39:1.0000
+Default$$SimpleName::getWidth$$org.jfree.chart.block.BorderArrangement#488:62:1.0000
+Default$$SimpleName::getHeight$$org.jfree.chart.block.BorderArrangement#488:62:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#488:466:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#488:466:1.0000
+Default$$SimpleName::centerBlock$$org.jfree.chart.block.BorderArrangement#465:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#465:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#465:13:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#465:267:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#465:466:1.0000
+Default$$SimpleName::c5$$org.jfree.chart.block.BorderArrangement#465:1040:1.0000
+Default$$SimpleName::g2$$org.jfree.chart.block.BorderArrangement#323:1:1.0000
+Default$$SimpleName::arrange$$org.jfree.chart.block.BorderArrangement#323:13:1.0000
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.block.BorderArrangement#323:34:1.0000
+Default$$SimpleName::width$$org.jfree.chart.block.BorderArrangement#323:70:1.0000
+Default$$SimpleName::height$$org.jfree.chart.block.BorderArrangement#323:118:1.0000
+Default$$SimpleName::container$$org.jfree.chart.block.BorderArrangement#323:267:1.0000
+Default$$ClassInstanceCreation::null$$org.jfree.chart.block.BorderArrangement#323:1040:1.0000
+Insert Before$$SimpleName::maxW$$org.jfree.chart.block.BorderArrangement#301:1:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#301:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#301:38:1.0000
+Insert Before$$SimpleName::width$$org.jfree.chart.block.BorderArrangement#301:123:1.0000
+Default$$SimpleName::Math$$org.jfree.chart.block.BorderArrangement#301:466:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#443:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#443:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#443:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#443:38:1.0000
+Default$$NumberLiteral::1$$org.jfree.chart.block.BorderArrangement#443:38:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#443:38:1.0000
+Insert Before$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#443:61:1.0000
+Default$$SimpleName::getHeight$$org.jfree.chart.block.BorderArrangement#443:62:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#443:466:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#462:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#462:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#462:7:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#462:38:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#462:38:1.0000
+Insert Before$$MethodInvocation::null$$org.jfree.chart.block.BorderArrangement#462:61:1.0000
+Default$$SimpleName::getWidth$$org.jfree.chart.block.BorderArrangement#462:62:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#462:466:1.0000
+Default$$SimpleName::rightBlock$$org.jfree.chart.block.BorderArrangement#481:1:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#481:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#481:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#481:7:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#481:13:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#481:38:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#481:38:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#481:466:1.0000
+Default$$SimpleName::centerBlock$$org.jfree.chart.block.BorderArrangement#485:1:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#485:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#485:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#485:7:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#485:13:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#485:38:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#485:38:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#485:466:1.0000
+Default$$SimpleName::leftBlock$$org.jfree.chart.block.BorderArrangement#477:1:1.0000
+Default$$SimpleType::Rectangle2D.Double$$org.jfree.chart.block.BorderArrangement#477:6:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#477:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#477:7:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#477:13:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#477:38:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#477:38:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#477:466:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#426:7:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#426:38:1.0000
+Default$$SimpleName::getWidth$$org.jfree.chart.block.BorderArrangement#426:62:1.0000
+Default$$SimpleName::constraint$$org.jfree.chart.block.BorderArrangement#426:466:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#311:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#311:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#311:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#311:38:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#311:38:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#311:38:1.0000
+Default$$SimpleName::Math$$org.jfree.chart.block.BorderArrangement#311:466:1.0000
+Insert Before$$SimpleName::c5$$org.jfree.chart.block.BorderArrangement#463:1:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#463:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#463:7:1.0000
+Insert Before$$SimpleName::c4$$org.jfree.chart.block.BorderArrangement#315:1:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#315:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#315:38:1.0000
+Insert Before$$SimpleName::width$$org.jfree.chart.block.BorderArrangement#315:123:1.0000
+Insert Before$$SimpleName::c1$$org.jfree.chart.block.BorderArrangement#279:1:1.0000
+Default$$SimpleName::width$$org.jfree.chart.block.BorderArrangement#279:3:1.0000
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.block.BorderArrangement#279:34:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#277:1:1.0000
+Insert Before$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#277:1:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#277:1:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#277:35:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#277:35:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#278:1:1.0000
+Insert Before$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#278:1:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#278:1:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#278:35:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#278:35:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#424:1:1.0000
+Insert Before$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#424:1:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#424:1:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#424:35:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#424:35:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#425:1:1.0000
+Insert Before$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#425:1:1.0000
+Insert After$$Dimension::null$$org.jfree.chart.block.BorderArrangement#425:1:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#425:35:1.0000
+Default$$PrimitiveType::double$$org.jfree.chart.block.BorderArrangement#425:35:1.0000
+Insert Before$$SimpleName::c2$$org.jfree.chart.block.BorderArrangement#292:1:1.0000
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.block.BorderArrangement#292:6:1.0000
+Insert Before$$SimpleName::c3$$org.jfree.chart.block.BorderArrangement#302:1:1.0000
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.block.BorderArrangement#302:6:1.0000
+Insert Before$$SimpleName::c3$$org.jfree.chart.block.BorderArrangement#445:1:1.0000
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.block.BorderArrangement#445:6:1.0000
+Insert Before$$SimpleName::c4$$org.jfree.chart.block.BorderArrangement#454:1:1.0000
+Default$$SimpleType::RectangleConstraint$$org.jfree.chart.block.BorderArrangement#454:6:1.0000
+Insert After$$QualifiedName::LengthConstraintType.NONE$$org.jfree.chart.block.BorderArrangement#148:3:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#148:55:1.0000
+Insert Before$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#148:123:1.0000
+Default$$QualifiedName::LengthConstraintType.NONE$$org.jfree.chart.block.BorderArrangement#148:235:1.0000
+Insert After$$QualifiedName::LengthConstraintType.FIXED$$org.jfree.chart.block.BorderArrangement#151:3:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#151:55:1.0000
+Insert Before$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#151:123:1.0000
+Default$$QualifiedName::LengthConstraintType.FIXED$$org.jfree.chart.block.BorderArrangement#151:235:1.0000
+Insert After$$QualifiedName::LengthConstraintType.FIXED$$org.jfree.chart.block.BorderArrangement#147:3:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#147:55:1.0000
+Insert Before$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#147:123:1.0000
+Default$$QualifiedName::LengthConstraintType.FIXED$$org.jfree.chart.block.BorderArrangement#147:235:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#312:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#312:7:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#312:38:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#312:38:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#435:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#435:7:1.0000
+Default$$NumberLiteral::1$$org.jfree.chart.block.BorderArrangement#435:38:1.0000
+Default$$NumberLiteral::0$$org.jfree.chart.block.BorderArrangement#435:38:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#452:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#452:7:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#452:38:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#452:38:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#461:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#461:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#461:38:1.0000
+Default$$SimpleName::topBlock$$org.jfree.chart.block.BorderArrangement#282:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#282:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#282:44:1.0000
+Default$$SimpleName::bottomBlock$$org.jfree.chart.block.BorderArrangement#287:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#287:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#287:44:1.0000
+Default$$SimpleName::leftBlock$$org.jfree.chart.block.BorderArrangement#295:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#295:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#295:44:1.0000
+Default$$SimpleName::rightBlock$$org.jfree.chart.block.BorderArrangement#300:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#300:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#300:44:1.0000
+Default$$SimpleName::centerBlock$$org.jfree.chart.block.BorderArrangement#314:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#314:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#314:44:1.0000
+Default$$SimpleName::topBlock$$org.jfree.chart.block.BorderArrangement#427:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#427:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#427:44:1.0000
+Default$$SimpleName::bottomBlock$$org.jfree.chart.block.BorderArrangement#436:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#436:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#436:44:1.0000
+Default$$SimpleName::leftBlock$$org.jfree.chart.block.BorderArrangement#444:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#444:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#444:44:1.0000
+Default$$SimpleName::rightBlock$$org.jfree.chart.block.BorderArrangement#453:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#453:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#453:44:1.0000
+Default$$SimpleName::centerBlock$$org.jfree.chart.block.BorderArrangement#464:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#464:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#464:44:1.0000
+Default$$SimpleName::topBlock$$org.jfree.chart.block.BorderArrangement#468:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#468:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#468:44:1.0000
+Default$$SimpleName::bottomBlock$$org.jfree.chart.block.BorderArrangement#472:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#472:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#472:44:1.0000
+Default$$SimpleName::leftBlock$$org.jfree.chart.block.BorderArrangement#476:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#476:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#476:44:1.0000
+Default$$SimpleName::rightBlock$$org.jfree.chart.block.BorderArrangement#480:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#480:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#480:44:1.0000
+Default$$SimpleName::centerBlock$$org.jfree.chart.block.BorderArrangement#484:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.block.BorderArrangement#484:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.block.BorderArrangement#484:44:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#297:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#297:38:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#298:7:1.0000
+Default$$NumberLiteral::2$$org.jfree.chart.block.BorderArrangement#298:38:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#307:7:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#307:38:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#308:7:1.0000
+Default$$NumberLiteral::3$$org.jfree.chart.block.BorderArrangement#308:38:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#319:7:1.0000
+Default$$SimpleName::h$$org.jfree.chart.block.BorderArrangement#320:7:1.0000
+Default$$SimpleName::w$$org.jfree.chart.block.BorderArrangement#450:7:1.0000

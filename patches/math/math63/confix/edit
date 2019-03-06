@@ -1,0 +1,14 @@
+Class:org.apache.commons.math.util.MathUtils
+insert
+x < y
+at Insert After
+MethodInvocation::null
+org.apache.commons.math.util.MathUtils:417
+Context:P:InfixExpression{extendedOperands},L:{32{42}{42}{42}},R:
+Applied Change
+insert
+var0 == var1
+from
+lucene-d35d569:lucene/misc/src/java/org/apache/lucene/uninverting/FieldCacheImpl.java::
+1
+P:InfixExpression{extendedOperands},L:{32{42}{42}{42}},R:

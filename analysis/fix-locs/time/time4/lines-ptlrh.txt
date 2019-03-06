@@ -1,0 +1,2 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::getMaximumValue$$org.joda.time.field.ZeroIsMaxDateTimeField#178:4:1.0000

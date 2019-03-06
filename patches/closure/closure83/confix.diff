@@ -1,0 +1,11 @@
+--- ../result-tf-hash/closure/closure83/buggy/com/google/javascript/jscomp/CommandLineRunner.java	2019-02-22 09:03:18.301221612 +0000
++++ ../result-tf-hash/closure/closure83/confix/com/google/javascript/jscomp/CommandLineRunner.java	2019-02-22 09:03:18.301221612 +0000
+@@ -430,7 +430,7 @@
+     try {
+       parser.parseArgument(processedArgs.toArray(new String[] {}));
+     } catch (CmdLineException e) {
+-      err.println(e.getMessage());
++      System.err.println(e.getMessage());
+       isConfigValid = false;
+     }
+ 

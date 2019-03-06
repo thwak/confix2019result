@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang.WordUtils
+replace
+lower
+with
+3
+at line 622
+Applied Change
+replace
+var0
+with
+3
+from
+pdfbox-cba45ab:pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceN.java:::
+1
+P:InfixExpression{rightOperand},L:{42},R:

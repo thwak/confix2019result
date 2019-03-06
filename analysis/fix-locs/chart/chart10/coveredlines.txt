@@ -1,0 +1,2 @@
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#65:1.0000:7059
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#54:1.0000:4257

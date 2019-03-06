@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.stat.inference.MannWhitneyUTest
+replace
+n1
+with
+((double)n1)
+at line 177
+Applied Change
+replace
+var0
+with
+((double) var0)
+from
+hadoop-bdeee31:hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java::
+1
+P:InfixExpression{leftOperand},L:,R:{42}

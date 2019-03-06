@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.util.MultidimensionalCounter
+replace
+idx
+with
+Math.PI / 2.0
+at line 239
+Applied Change
+replace
+var0
+with
+var0-1
+from
+lucene-c1a3e1b:lucene/core/src/java/org/apache/lucene/geo/Polygon.java::
+1
+P:Assignment{rightHandSide},L:{42},R:

@@ -1,0 +1,15 @@
+Class:org.jfree.data.general.AbstractDataset
+replace
+this.listenerList.getListenerList()
+with
+listener
+at line 160
+Applied Change
+replace
+this.var0.method0()
+with
+var0
+from
+lucene-44f4f8b:lucene/facet/src/java/org/apache/lucene/facet/search/TopKInEachNodeHandler.java::
+1
+P:MethodInvocation{arguments},L:{42},R:

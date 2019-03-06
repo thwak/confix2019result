@@ -1,0 +1,4 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::println$$com.google.javascript.jscomp.CommandLineRunner#433:29:1.0000
+Default$$SimpleName::getMessage$$com.google.javascript.jscomp.CommandLineRunner#433:62:1.0000
+Default$$SimpleName::err$$com.google.javascript.jscomp.CommandLineRunner#433:466:1.0000

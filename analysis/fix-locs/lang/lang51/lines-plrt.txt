@@ -1,0 +1,66 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::ch1$$org.apache.commons.lang.BooleanUtils#665:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#665:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#665:6:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#665:6:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#665:7:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#665:13:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#665:253:1.0000
+Default$$PrimitiveType::char$$org.apache.commons.lang.BooleanUtils#665:269:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#665:461:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.lang.BooleanUtils#665:821:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#665:1116:1.0000
+Insert Before$$SimpleName::ch0$$org.apache.commons.lang.BooleanUtils#664:1:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#664:2:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#664:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#664:6:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#664:6:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#664:13:1.0000
+Default$$PrimitiveType::char$$org.apache.commons.lang.BooleanUtils#664:269:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#664:461:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.BooleanUtils#664:821:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#664:1116:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#671:1:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#671:2:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#671:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#671:6:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#671:6:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#671:8:1.0000
+Default$$PrimitiveType::char$$org.apache.commons.lang.BooleanUtils#671:269:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#671:461:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.BooleanUtils#671:821:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#671:1116:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#684:1:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#684:2:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#684:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang.BooleanUtils#684:6:1.0000
+Default$$SimpleName::charAt$$org.apache.commons.lang.BooleanUtils#684:6:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang.BooleanUtils#684:8:1.0000
+Default$$PrimitiveType::char$$org.apache.commons.lang.BooleanUtils#684:269:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#684:461:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.BooleanUtils#684:821:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#684:1116:1.0000
+Insert After$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#656:1:1.0000
+Insert Before$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#656:6:1.0000
+Insert After$$StringLiteral::"true"$$org.apache.commons.lang.BooleanUtils#656:14:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#656:22:1.0000
+Default$$StringLiteral::"true"$$org.apache.commons.lang.BooleanUtils#656:229:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang.BooleanUtils#656:411:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang.BooleanUtils#656:428:1.0000
+Default$$Block::null$$org.apache.commons.lang.BooleanUtils#656:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.BooleanUtils#656:675:1.0000
+Insert Before$$SwitchStatement::null$$org.apache.commons.lang.BooleanUtils#662:2:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.BooleanUtils#662:7:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang.BooleanUtils#662:58:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#662:461:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang.BooleanUtils#659:2:1.0000
+Insert Before$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#659:6:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.BooleanUtils#659:44:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang.BooleanUtils#659:411:1.0000
+Default$$Block::null$$org.apache.commons.lang.BooleanUtils#659:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.BooleanUtils#659:675:1.0000
+Default$$InfixExpression::==$$org.apache.commons.lang.BooleanUtils#659:1647:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang.BooleanUtils#677:5:1.0000
+Default$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#677:5:1.0000
+Insert Before$$SimpleName::ch$$org.apache.commons.lang.BooleanUtils#677:6:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang.BooleanUtils#677:7:1.0000

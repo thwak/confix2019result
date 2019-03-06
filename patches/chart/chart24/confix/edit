@@ -1,0 +1,15 @@
+Class:org.jfree.chart.renderer.GrayPaintScale
+update
+value
+to
+v
+at line 126
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+1
+P:InfixExpression{leftOperand},L:,R:{22{52}{42}}

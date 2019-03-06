@@ -1,0 +1,50 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::pingPong$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:12:1.0000
+Default$$SimpleName::pingPong$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:12:1.0000
+Insert After$$SimpleName::pingPong$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:17:1.0000
+Insert After$$SimpleName::pingPong$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:17:1.0000
+Default$$SimpleName::max$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:46:1.0000
+Insert Before$$NumberLiteral::3$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:115:1.0000
+Insert Before$$NumberLiteral::7$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:115:1.0000
+Default$$SimpleName::Math$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:466:1.0000
+Default$$SimpleName::Math$$org.apache.commons.math.linear.EigenDecompositionImpl#1062:466:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:1:1.0000
+Insert After$$NumberLiteral::1$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:4:1.0000
+Default$$InfixExpression::-$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:38:1.0000
+Default$$SimpleName::min$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:46:1.0000
+Default$$SimpleName::l$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:115:1.0000
+Insert Before$$SimpleName::l$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:123:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:235:1.0000
+Default$$SimpleName::Math$$org.apache.commons.math.linear.EigenDecompositionImpl#1055:466:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:1:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:2:1.0000
+Insert After$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:4:1.0000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:4:1.0000
+Insert After$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:4:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:11:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:11:1.0000
+Default$$SimpleName::j4$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:38:1.0000
+Default$$SimpleName::j4p2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:38:1.0000
+Default$$SimpleName::j4p2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:115:1.0000
+Default$$SimpleName::j4$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:115:1.0000
+Insert Before$$SimpleName::j4p2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:123:1.0000
+Insert Before$$SimpleName::j4$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:123:1.0000
+Default$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:235:1.0000
+Default$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1414:235:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:1:1.0000
+Default$$SimpleName::work$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:2:1.0000
+Insert After$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:4:1.0000
+Insert After$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:4:1.0000
+Default$$SimpleName::j4p2$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:115:1.0000
+Default$$SimpleName::j4$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:115:1.0000
+Insert Before$$SimpleName::j4p2$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:123:1.0000
+Insert Before$$SimpleName::dN1$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:123:1.0000
+Insert Before$$SimpleName::j4$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:123:1.0000
+Default$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:235:1.0000
+Default$$NumberLiteral::2$$org.apache.commons.math.linear.EigenDecompositionImpl#1415:235:1.0000
+Insert Before$$SimpleName::k$$org.apache.commons.math.linear.EigenDecompositionImpl#1137:1:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.linear.EigenDecompositionImpl#1137:2:1.0000
+Insert After$$NumberLiteral::4$$org.apache.commons.math.linear.EigenDecompositionImpl#1137:4:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.linear.EigenDecompositionImpl#1137:17:1.0000
+Default$$SimpleName::k$$org.apache.commons.math.linear.EigenDecompositionImpl#1137:25:1.0000
+Default$$SimpleName::k$$org.apache.commons.math.linear.EigenDecompositionImpl#1137:115:1.0000

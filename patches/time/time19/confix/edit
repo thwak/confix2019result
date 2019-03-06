@@ -1,0 +1,15 @@
+Class:org.joda.time.DateTimeZone
+replace
+0
+with
+-1
+at line 900
+Applied Change
+replace
+0
+with
+-1
+from
+lucene-474d846:lucene/core/src/java/org/apache/lucene/util/mutable/MutableValueBool.java::
+14
+P:InfixExpression{rightOperand},L:{42},R:

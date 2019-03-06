@@ -1,0 +1,68 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$ReturnStatement::null$$org.jfree.chart.plot.MultiplePiePlot#166:1:1.0000
+Default$$SimpleName::dataset$$org.jfree.chart.plot.MultiplePiePlot#166:1:1.0000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#166:13:1.0000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#166:590:1.0000
+Default$$SimpleName::pieChart$$org.jfree.chart.plot.MultiplePiePlot#154:1:0.5000
+Default$$SimpleName::setTitle$$org.jfree.chart.plot.MultiplePiePlot#154:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#154:13:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#154:466:0.5000
+Default$$SimpleName::seriesTitle$$org.jfree.chart.plot.MultiplePiePlot#154:1040:0.5000
+Default$$SimpleName::setPosition$$org.jfree.chart.plot.MultiplePiePlot#153:10:0.5000
+Default$$SimpleName::seriesTitle$$org.jfree.chart.plot.MultiplePiePlot#153:466:0.5000
+Default$$QualifiedName::RectangleEdge.BOTTOM$$org.jfree.chart.plot.MultiplePiePlot#153:1040:0.5000
+Default$$SimpleName::pieChart$$org.jfree.chart.plot.MultiplePiePlot#150:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#150:13:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#150:466:0.5000
+Default$$NullLiteral::null$$org.jfree.chart.plot.MultiplePiePlot#150:1040:0.5000
+Default$$SimpleName::pieChart$$org.jfree.chart.plot.MultiplePiePlot#148:1:0.5000
+Default$$SimpleName::removeLegend$$org.jfree.chart.plot.MultiplePiePlot#148:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#148:13:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#148:466:0.5000
+Insert Before$$SimpleName::piePlot$$org.jfree.chart.plot.MultiplePiePlot#146:1:0.5000
+Default$$SimpleType::PiePlot$$org.jfree.chart.plot.MultiplePiePlot#146:1:0.5000
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.MultiplePiePlot#146:527:0.5000
+Insert Before$$SimpleName::seriesTitle$$org.jfree.chart.plot.MultiplePiePlot#151:1:0.5000
+Default$$SimpleType::TextTitle$$org.jfree.chart.plot.MultiplePiePlot#151:8:0.5000
+Insert Before$$Modifier::private$$org.jfree.chart.plot.MultiplePiePlot#111:1:0.5000
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.MultiplePiePlot#111:1:0.5000
+Insert Before$$SimpleName::limit$$org.jfree.chart.plot.MultiplePiePlot#111:1:0.5000
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.MultiplePiePlot#111:2:0.5000
+Default$$Modifier::private$$org.jfree.chart.plot.MultiplePiePlot#111:3:0.5000
+Insert After$$Modifier::private$$org.jfree.chart.plot.MultiplePiePlot#111:5:0.5000
+Default$$SimpleName::pieChart$$org.jfree.chart.plot.MultiplePiePlot#147:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#147:13:0.5000
+Default$$SimpleType::JFreeChart$$org.jfree.chart.plot.MultiplePiePlot#147:34:0.5000
+Insert Before$$SimpleName::piePlot$$org.jfree.chart.plot.MultiplePiePlot#147:70:0.5000
+Default$$SimpleName::piePlot$$org.jfree.chart.plot.MultiplePiePlot#147:141:0.5000
+Default$$ClassInstanceCreation::null$$org.jfree.chart.plot.MultiplePiePlot#147:187:0.5000
+Default$$SimpleName::dataset$$org.jfree.chart.plot.MultiplePiePlot#145:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#145:13:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#145:25:0.5000
+Default$$SimpleName::dataset$$org.jfree.chart.plot.MultiplePiePlot#145:187:0.5000
+Default$$SimpleName::dataExtractOrder$$org.jfree.chart.plot.MultiplePiePlot#149:1:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#149:7:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#149:13:0.5000
+Default$$QualifiedName::TableOrder.BY_COLUMN$$org.jfree.chart.plot.MultiplePiePlot#149:187:0.5000
+Default$$SimpleName::aggregatedItemsPaint$$org.jfree.chart.plot.MultiplePiePlot#156:1:0.5000
+Default$$FieldAccess::null$$org.jfree.chart.plot.MultiplePiePlot#156:7:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#156:13:0.5000
+Default$$QualifiedName::Color.lightGray$$org.jfree.chart.plot.MultiplePiePlot#156:187:0.5000
+Default$$SimpleName::sectionPaints$$org.jfree.chart.plot.MultiplePiePlot#157:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#157:13:0.5000
+Default$$SimpleType::HashMap$$org.jfree.chart.plot.MultiplePiePlot#157:44:0.5000
+Default$$ClassInstanceCreation::null$$org.jfree.chart.plot.MultiplePiePlot#157:187:0.5000
+Default$$SimpleName::aggregatedItemsKey$$org.jfree.chart.plot.MultiplePiePlot#155:1:0.5000
+Default$$ThisExpression::null$$org.jfree.chart.plot.MultiplePiePlot#155:13:0.5000
+Insert After$$SuperConstructorInvocation::null$$org.jfree.chart.plot.MultiplePiePlot#144:2:0.5000
+Default$$SimpleName::contains$$org.jfree.data.general.AbstractDataset#161:46:0.5774
+Default$$SimpleName::list$$org.jfree.data.general.AbstractDataset#161:466:0.5774
+Default$$MethodInvocation::null$$org.jfree.data.general.AbstractDataset#161:590:0.5774
+Default$$SimpleName::listener$$org.jfree.data.general.AbstractDataset#161:1040:0.5774
+Insert Before$$SimpleName::list$$org.jfree.data.general.AbstractDataset#160:1:0.5774
+Default$$SimpleName::listenerList$$org.jfree.data.general.AbstractDataset#160:1:0.5774
+Default$$SimpleName::getListenerList$$org.jfree.data.general.AbstractDataset#160:1:0.5774
+Default$$ThisExpression::null$$org.jfree.data.general.AbstractDataset#160:13:0.5774
+Default$$SimpleName::Arrays$$org.jfree.data.general.AbstractDataset#160:466:0.5774
+Default$$FieldAccess::null$$org.jfree.data.general.AbstractDataset#160:466:0.5774
+Default$$MethodInvocation::null$$org.jfree.data.general.AbstractDataset#160:1040:0.5774

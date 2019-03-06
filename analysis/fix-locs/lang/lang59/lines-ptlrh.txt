@@ -1,0 +1,20 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::getChars$$org.apache.commons.lang.text.StrBuilder#884:6:0.5774
+Default$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#884:7:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.lang.text.StrBuilder#884:267:0.5774
+Default$$SimpleName::buffer$$org.apache.commons.lang.text.StrBuilder#884:267:0.5774
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#884:466:0.5774
+Default$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#884:1040:0.5774
+Insert Before$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#881:1:0.5774
+Default$$SimpleName::obj$$org.apache.commons.lang.text.StrBuilder#881:44:0.5774
+Default$$SimpleName::toString$$org.apache.commons.lang.text.StrBuilder#881:62:0.5774
+Insert Before$$SimpleName::obj$$org.apache.commons.lang.text.StrBuilder#881:123:0.5774
+Default$$SimpleName::obj$$org.apache.commons.lang.text.StrBuilder#881:466:0.5774
+Insert Before$$SimpleName::strLen$$org.apache.commons.lang.text.StrBuilder#882:1:0.5774
+Default$$SimpleName::length$$org.apache.commons.lang.text.StrBuilder#882:62:0.5774
+Default$$PrimitiveType::int$$org.apache.commons.lang.text.StrBuilder#882:68:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.text.StrBuilder#882:253:0.5774
+Default$$SimpleName::str$$org.apache.commons.lang.text.StrBuilder#882:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.lang.text.StrBuilder#882:1116:0.5774
+Insert After$$SimpleName::size$$org.apache.commons.lang.text.StrBuilder#880:4:0.5774
+Insert After$$SimpleName::width$$org.apache.commons.lang.text.StrBuilder#880:17:0.5774

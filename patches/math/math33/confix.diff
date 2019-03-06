@@ -1,0 +1,19 @@
+--- ../result-tf-hash/math/math33/buggy/org/apache/commons/math3/optimization/linear/SimplexTableau.java	2019-02-21 11:38:18.441403771 +0000
++++ ../result-tf-hash/math/math33/confix/org/apache/commons/math3/optimization/linear/SimplexTableau.java	2019-02-21 11:38:18.437403754 +0000
+@@ -34,6 +34,7 @@
+ import org.apache.commons.math3.optimization.GoalType;
+ import org.apache.commons.math3.optimization.PointValuePair;
+ import org.apache.commons.math3.util.Precision;
++import java.util.Map;
+ 
+ /**
+  * A tableau for use in the Simplex method.
+@@ -335,7 +336,7 @@
+         // positive cost non-artificial variables
+         for (int i = getNumObjectiveFunctions(); i < getArtificialVariableOffset(); i++) {
+             final double entry = tableau.getEntry(0, i);
+-            if (Precision.compareTo(entry, 0d, maxUlps) > 0) {
++            if (Precision.compareTo(entry, 0d, epsilon) > 0) {
+                 columnsToDrop.add(i);
+             }
+         }

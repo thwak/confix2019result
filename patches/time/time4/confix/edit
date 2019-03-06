@@ -1,0 +1,15 @@
+Class:org.joda.time.field.ZeroIsMaxDateTimeField
+update
+getMaximumValue
+to
+getMinimumValue
+at line 178
+Applied Change
+update
+method0
+to
+method0
+from
+collections-46f3c54:src/java/org/apache/commons/collections/map/AbstractHashedMap.java::
+5
+P:MethodInvocation{name},L:{32{42}},R:{42}

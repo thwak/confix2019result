@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.ode.events.EventState
+insert
+t0=interpolator.getPreviousTime();
+
+at Insert Before
+VariableDeclarationStatement::null
+org.apache.commons.math.ode.events.EventState:191
+Context:P:MethodDeclaration{statements},L:Assignment{statements},R:VariableDeclarationStatement{statements}
+Applied Change
+insert
+var0 = var1.readLong()
+from
+hadoop-4990c0f:hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSImageFormat.java:loadINode:13261
+4
+P:MethodDeclaration{statements},L:Assignment{statements},R:VariableDeclarationStatement{statements}

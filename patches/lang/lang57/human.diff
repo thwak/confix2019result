@@ -1,0 +1,11 @@
+--- ../result-tf-hash/lang/lang57/buggy/org/apache/commons/lang/LocaleUtils.java	2019-02-22 10:24:47.645521201 +0000
++++ ../result-tf-hash/lang/lang57/human/org/apache/commons/lang/LocaleUtils.java	2019-02-22 10:24:47.649521745 +0000
+@@ -220,7 +220,7 @@
+      * @return true if the locale is a known locale
+      */
+     public static boolean isAvailableLocale(Locale locale) {
+-        return cAvailableLocaleSet.contains(locale);
++        return availableLocaleList().contains(locale);
+     }
+ 
+     //-----------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.ode.events.EventState
+update
+t1
+to
+convergence
+at line 174
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+73
+P:InfixExpression{leftOperand},L:,R:{42}

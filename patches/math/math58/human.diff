@@ -1,0 +1,11 @@
+--- ../result-tf-hash/math/math58/buggy/org/apache/commons/math/optimization/fitting/GaussianFitter.java	2019-02-21 11:23:33.413665245 +0000
++++ ../result-tf-hash/math/math58/human/org/apache/commons/math/optimization/fitting/GaussianFitter.java	2019-02-21 11:23:33.425665294 +0000
+@@ -118,7 +118,7 @@
+      */
+     public double[] fit() {
+         final double[] guess = (new ParameterGuesser(getObservations())).guess();
+-        return fit(new Gaussian.Parametric(), guess);
++        return fit(guess);
+     }
+ 
+     /**

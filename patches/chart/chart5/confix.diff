@@ -1,0 +1,19 @@
+--- ../result-tf-hash/chart/chart5/buggy/org/jfree/data/xy/XYSeries.java	2019-02-21 11:23:58.493769360 +0000
++++ ../result-tf-hash/chart/chart5/confix/org/jfree/data/xy/XYSeries.java	2019-02-21 11:23:58.481769311 +0000
+@@ -85,6 +85,7 @@
+ import org.jfree.data.general.Series;
+ import org.jfree.data.general.SeriesChangeEvent;
+ import org.jfree.data.general.SeriesException;
++import java.util.Map;
+ 
+ /**
+  * Represents a sequence of zero or more data items in the form (x, y).  By
+@@ -524,7 +525,7 @@
+      * @since 1.0.10
+      */
+     public XYDataItem addOrUpdate(double x, double y) {
+-        return addOrUpdate(new Double(x), new Double(y));
++        return addOrUpdate(new Double(y), new Double(y));
+     }
+ 
+     /**

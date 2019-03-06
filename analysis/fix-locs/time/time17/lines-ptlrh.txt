@@ -1,0 +1,16 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::local$$org.joda.time.DateTimeZone#1174:1:0.5774
+Default$$SimpleName::convertUTCToLocal$$org.joda.time.DateTimeZone#1174:13:0.5774
+Default$$VariableDeclarationFragment::null$$org.joda.time.DateTimeZone#1174:253:0.5774
+Default$$SimpleName::instant$$org.joda.time.DateTimeZone#1174:1040:0.5774
+Default$$MethodInvocation::null$$org.joda.time.DateTimeZone#1174:1116:0.5774
+Insert Before$$SimpleName::instantBefore$$org.joda.time.DateTimeZone#1167:1:0.5774
+Insert After$$QualifiedName::DateTimeConstants.MILLIS_PER_HOUR$$org.joda.time.DateTimeZone#1167:3:0.5774
+Default$$QualifiedName::DateTimeConstants.MILLIS_PER_HOUR$$org.joda.time.DateTimeZone#1167:12:0.5774
+Default$$NumberLiteral::3$$org.joda.time.DateTimeZone#1167:55:0.5774
+Insert Before$$NumberLiteral::3$$org.joda.time.DateTimeZone#1167:115:0.5774
+Insert Before$$SimpleName::instant$$org.joda.time.DateTimeZone#1167:123:0.5774
+Insert Before$$SimpleName::instantAfter$$org.joda.time.DateTimeZone#1168:1:0.5774
+Insert After$$QualifiedName::DateTimeConstants.MILLIS_PER_HOUR$$org.joda.time.DateTimeZone#1168:3:0.5774
+Default$$QualifiedName::DateTimeConstants.MILLIS_PER_HOUR$$org.joda.time.DateTimeZone#1168:12:0.5774
+Default$$NumberLiteral::3$$org.joda.time.DateTimeZone#1168:55:0.5774

@@ -1,0 +1,662 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$Modifier::abstract$$org.apache.commons.math3.linear.SparseRealVector#25:1:0.1987
+Default$$SimpleType::RealVector$$org.apache.commons.math3.linear.SparseRealVector#25:1:0.1987
+Default$$Modifier::public$$org.apache.commons.math3.linear.SparseRealVector#25:2:0.1987
+Default$$Modifier::abstract$$org.apache.commons.math3.linear.SparseRealVector#25:5:0.1987
+Insert Before$$Modifier::public$$org.apache.commons.math3.linear.SparseRealVector#25:10:0.1987
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#365:2:0.6667
+Default$$SimpleName::setEntry$$org.apache.commons.math3.linear.OpenMapRealVector#365:29:0.6667
+Default$$SimpleName::getEntry$$org.apache.commons.math3.linear.OpenMapRealVector#365:29:0.6667
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#365:61:0.6667
+Default$$SimpleName::key$$org.apache.commons.math3.linear.OpenMapRealVector#365:62:0.6667
+Default$$SimpleName::value$$org.apache.commons.math3.linear.OpenMapRealVector#365:62:0.6667
+Default$$SimpleName::key$$org.apache.commons.math3.linear.OpenMapRealVector#365:62:0.6667
+Default$$SimpleName::res$$org.apache.commons.math3.linear.OpenMapRealVector#365:466:0.6667
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#365:466:0.6667
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#365:466:0.6667
+Default$$SimpleName::v$$org.apache.commons.math3.linear.OpenMapRealVector#365:466:0.6667
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#365:466:0.6667
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#365:1040:0.6667
+Insert Before$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#362:1:0.6667
+Default$$SimpleName::iterator$$org.apache.commons.math3.linear.OpenMapRealVector#362:62:0.6667
+Default$$SimpleType::Iterator$$org.apache.commons.math3.linear.OpenMapRealVector#362:68:0.6667
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#362:466:0.6667
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.linear.OpenMapRealVector#362:527:0.6667
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#362:1116:0.6667
+Default$$SimpleName::hasNext$$org.apache.commons.math3.linear.OpenMapRealVector#363:62:0.6667
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#363:466:0.6667
+Default$$SimpleName::advance$$org.apache.commons.math3.linear.OpenMapRealVector#364:62:0.6667
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#364:466:0.6667
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math3.linear.OpenMapRealVector#361:1:0.6667
+Insert Before$$SimpleName::res$$org.apache.commons.math3.linear.OpenMapRealVector#361:1:0.6667
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math3.linear.OpenMapRealVector#361:3:0.6667
+Insert After$$ThisExpression::null$$org.apache.commons.math3.linear.OpenMapRealVector#361:5:0.6667
+Default$$ThisExpression::null$$org.apache.commons.math3.linear.OpenMapRealVector#361:141:0.6667
+Default$$SimpleName::res$$org.apache.commons.math3.linear.OpenMapRealVector#374:590:0.6667
+Default$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#281:8:0.6124
+Default$$SimpleName::probe$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#281:13:0.6124
+Default$$SimpleName::perturb$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#281:267:0.6124
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#281:624:0.6124
+Default$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#281:1040:0.6124
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:2:0.6124
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:4:0.6124
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:4:0.6124
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:11:0.6124
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:11:0.6124
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:12:0.6124
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:12:0.6124
+Insert After$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:17:0.6124
+Insert After$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:17:0.6124
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:38:0.6124
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:38:0.6124
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#285:123:0.6124
+Insert After$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#282:4:0.6124
+Insert After$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#282:17:0.6124
+Default$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#282:123:0.6124
+Insert Before$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#282:123:0.6124
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#282:235:0.6124
+Default$$SimpleName::perturb$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#283:25:0.6124
+Default$$SimpleName::PERTURB_SHIFT$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#283:624:0.6124
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#292:18:0.6124
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#292:590:0.6124
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#292:1101:0.6124
+Default$$SimpleName::checkVectorDimensions$$org.apache.commons.math3.linear.OpenMapRealVector#360:4:0.5774
+Default$$SimpleName::getDimension$$org.apache.commons.math3.linear.OpenMapRealVector#360:62:0.5774
+Default$$SimpleName::v$$org.apache.commons.math3.linear.OpenMapRealVector#360:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#360:1040:0.5774
+Insert Before$$SimpleName::perturb$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#277:1:0.5477
+Default$$SimpleName::perturb$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#277:13:0.5477
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#277:68:0.5477
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#277:253:0.5477
+Default$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#277:1040:0.5477
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#277:1116:0.5477
+Insert Before$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#278:1:0.5477
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#278:10:0.5477
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#278:253:0.5477
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#278:1116:0.5477
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#291:4:0.5477
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#291:11:0.5477
+Default$$SimpleName::FREE$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#291:12:0.5477
+Insert After$$SimpleName::FREE$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#291:17:0.5477
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#291:38:0.5477
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#279:4:0.5477
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#279:11:0.5477
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#279:12:0.5477
+Insert After$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#279:17:0.5477
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#279:38:0.5477
+Default$$SimpleName::remove$$org.apache.commons.math3.linear.OpenMapRealVector#592:46:0.5000
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#592:466:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#592:1040:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#592:1101:0.5000
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#353:6:0.5000
+Default$$SimpleName::containsKey$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#353:13:0.5000
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#353:267:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#353:1040:0.5000
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:2:0.5000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:13:0.5000
+Default$$SimpleName::hashOf$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:13:0.5000
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:26:0.5000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:253:0.5000
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:1040:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#351:1116:0.5000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#354:1:0.5000
+Default$$SimpleName::doRemove$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#354:13:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#354:590:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#354:1040:0.5000
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#354:1101:0.5000
+Insert After$$NumberLiteral::2$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:4:0.5000
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:4:0.5000
+Insert After$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:5:0.5000
+Insert Before$$SimpleName::perturb$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:5:0.5000
+Default$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:115:0.5000
+Insert Before$$SimpleName::j$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:123:0.5000
+Default$$NumberLiteral::2$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#323:235:0.5000
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:1:0.5000
+Insert After$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:4:0.5000
+Insert After$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:17:0.5000
+Default$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:123:0.5000
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:123:0.5000
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:235:0.5000
+Default$$InfixExpression::&$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#352:1116:0.5000
+Insert After$$NumberLiteral::0x7fffffff$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#247:4:0.5000
+Default$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#247:115:0.5000
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#247:123:0.5000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:1:0.5000
+Insert Before$$SimpleName::previous$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:2:0.5000
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:11:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:38:0.5000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:253:0.5000
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#393:1116:0.5000
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#392:11:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#392:38:0.5000
+Default$$SimpleName::REMOVED$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#392:50:0.5000
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#394:11:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#394:38:0.5000
+Default$$SimpleName::missingEntries$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#394:50:0.5000
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#391:11:0.5000
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#391:38:0.5000
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#391:50:0.5000
+Default$$SimpleName::previous$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#397:590:0.5000
+Default$$SimpleName::size$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#395:51:0.5000
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#396:51:0.5000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#210:17:0.4804
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#210:1101:0.4804
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:2:0.4629
+Default$$SimpleName::findInsertionIndex$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:13:0.4629
+Default$$SimpleName::newKeys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:267:0.4629
+Default$$SimpleName::newStates$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:267:0.4629
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:267:0.4629
+Default$$SimpleName::newMask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#447:1040:0.4629
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#421:1101:0.4629
+Insert Before$$SimpleName::newLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:2:0.4629
+Insert After$$SimpleName::RESIZE_MULTIPLIER$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:4:0.4629
+Insert After$$SimpleName::oldLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:17:0.4629
+Default$$SimpleName::RESIZE_MULTIPLIER$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:123:0.4629
+Insert Before$$SimpleName::RESIZE_MULTIPLIER$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:123:0.4629
+Default$$SimpleName::oldLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:235:0.4629
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#439:253:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#435:1:0.4629
+Insert Before$$SimpleName::oldKeys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#435:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#435:2:0.4629
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#435:35:0.4629
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#435:1116:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#436:1:0.4629
+Insert Before$$SimpleName::oldValues$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#436:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#436:2:0.4629
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#436:35:0.4629
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#436:1116:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#437:1:0.4629
+Insert Before$$SimpleName::oldStates$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#437:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#437:2:0.4629
+Default$$PrimitiveType::byte$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#437:35:0.4629
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#437:1116:0.4629
+Insert Before$$SimpleName::newMask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:2:0.4629
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:4:0.4629
+Default$$SimpleName::newLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:115:0.4629
+Insert Before$$SimpleName::newLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:123:0.4629
+Default$$NumberLiteral::1$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:235:0.4629
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#443:253:0.4629
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:1:0.4629
+Insert Before$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:2:0.4629
+Default$$SimpleName::oldKeys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:11:0.4629
+Default$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:38:0.4629
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:253:0.4629
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#446:1116:0.4629
+Insert Before$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:1:0.4629
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:2:0.4629
+Insert After$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:4:0.4629
+Default$$InfixExpression::<$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:8:0.4629
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:12:0.4629
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:17:0.4629
+Insert After$$SimpleName::oldLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:17:0.4629
+Default$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:51:0.4629
+Default$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:123:0.4629
+Insert Before$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:123:0.4629
+Default$$SimpleName::oldLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:235:0.4629
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#444:1116:0.4629
+Insert Before$$SimpleName::oldLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:1:0.4629
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:2:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:2:0.4629
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:2:0.4629
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:2:0.4629
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:253:0.4629
+Default$$QualifiedName::states.length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#434:1116:0.4629
+Default$$ArrayType::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:1:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:1:0.4629
+Insert Before$$SimpleName::newKeys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:1:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:2:0.4629
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:20:0.4629
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:35:0.4629
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:35:0.4629
+Default$$SimpleName::newLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#440:71:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:1:0.4629
+Insert Before$$SimpleName::newValues$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:1:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:2:0.4629
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:35:0.4629
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:35:0.4629
+Default$$SimpleName::newLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#441:71:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:1:0.4629
+Insert Before$$SimpleName::newStates$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:1:0.4629
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:1:0.4629
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:2:0.4629
+Default$$ArrayType::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:4:0.4629
+Default$$PrimitiveType::byte$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:35:0.4629
+Default$$PrimitiveType::byte$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:35:0.4629
+Default$$SimpleName::newLength$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:71:0.4629
+Default$$ArrayCreation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#442:1116:0.4629
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#457:25:0.4629
+Default$$Assignment::=$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#457:47:0.4629
+Default$$SimpleName::newStates$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#457:624:0.4629
+Default$$SimpleName::newValues$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#449:11:0.4629
+Default$$SimpleName::oldValues$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#449:11:0.4629
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#449:38:0.4629
+Default$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#449:38:0.4629
+Default$$Assignment::=$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#455:11:0.4629
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#455:25:0.4629
+Default$$SimpleName::newKeys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#455:624:0.4629
+Default$$Assignment::=$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#456:11:0.4629
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#456:25:0.4629
+Default$$SimpleName::newValues$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#456:624:0.4629
+Default$$SimpleName::newStates$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#450:11:0.4629
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#450:38:0.4629
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#450:50:0.4629
+Default$$SimpleName::newKeys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#448:11:0.4629
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#448:25:0.4629
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#448:38:0.4629
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#448:50:0.4629
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#454:25:0.4629
+Default$$SimpleName::newMask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#454:624:0.4629
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#445:4:0.4629
+Default$$SimpleName::oldStates$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#445:11:0.4629
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#445:12:0.4629
+Insert After$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#445:17:0.4629
+Default$$SimpleName::i$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#445:38:0.4629
+Insert After$$Block::null$$org.apache.commons.math3.linear.OpenMapRealVector#591:9:0.4201
+Default$$SimpleName::containsKey$$org.apache.commons.math3.linear.OpenMapRealVector#591:46:0.4201
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#591:65:0.4201
+Insert Before$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#591:267:0.4201
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#591:466:0.4201
+Default$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#591:1040:0.4201
+Insert After$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#591:1040:0.4201
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#181:3:0.4201
+Default$$SimpleType::OpenIntToDoubleHashMap$$org.apache.commons.math3.linear.OpenMapRealVector#181:17:0.4201
+Default$$SimpleName::getEntries$$org.apache.commons.math3.linear.OpenMapRealVector#181:62:0.4201
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#181:141:0.4201
+Default$$SimpleName::v$$org.apache.commons.math3.linear.OpenMapRealVector#181:466:0.4201
+Default$$SimpleName::virtualSize$$org.apache.commons.math3.linear.OpenMapRealVector#180:12:0.4201
+Default$$SimpleName::getDimension$$org.apache.commons.math3.linear.OpenMapRealVector#180:62:0.4201
+Default$$SimpleName::v$$org.apache.commons.math3.linear.OpenMapRealVector#180:466:0.4201
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#180:624:0.4201
+Insert After$$Modifier::public$$org.apache.commons.math3.linear.OpenMapRealVector#179:4:0.4201
+Default$$Modifier::public$$org.apache.commons.math3.linear.OpenMapRealVector#179:10:0.4201
+Insert Before$$Modifier::public$$org.apache.commons.math3.linear.OpenMapRealVector#179:15:0.4201
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math3.linear.OpenMapRealVector#179:139:0.4201
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math3.linear.OpenMapRealVector#179:232:0.4201
+Default$$SimpleName::epsilon$$org.apache.commons.math3.linear.OpenMapRealVector#182:7:0.4201
+Default$$QualifiedName::v.epsilon$$org.apache.commons.math3.linear.OpenMapRealVector#182:624:0.4201
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#352:2:0.4082
+Default$$SimpleName::setEntry$$org.apache.commons.math3.linear.OpenMapRealVector#352:29:0.4082
+Default$$SimpleName::getEntry$$org.apache.commons.math3.linear.OpenMapRealVector#352:29:0.4082
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#352:61:0.4082
+Default$$SimpleName::key$$org.apache.commons.math3.linear.OpenMapRealVector#352:62:0.4082
+Default$$SimpleName::value$$org.apache.commons.math3.linear.OpenMapRealVector#352:62:0.4082
+Default$$SimpleName::key$$org.apache.commons.math3.linear.OpenMapRealVector#352:62:0.4082
+Default$$SimpleName::res$$org.apache.commons.math3.linear.OpenMapRealVector#352:466:0.4082
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#352:466:0.4082
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#352:466:0.4082
+Default$$SimpleName::v$$org.apache.commons.math3.linear.OpenMapRealVector#352:466:0.4082
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#352:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#352:1040:0.4082
+Insert Before$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#349:1:0.4082
+Default$$SimpleName::iterator$$org.apache.commons.math3.linear.OpenMapRealVector#349:62:0.4082
+Default$$SimpleType::Iterator$$org.apache.commons.math3.linear.OpenMapRealVector#349:68:0.4082
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#349:466:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.linear.OpenMapRealVector#349:527:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#349:1116:0.4082
+Default$$SimpleName::hasNext$$org.apache.commons.math3.linear.OpenMapRealVector#350:62:0.4082
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#350:466:0.4082
+Default$$SimpleName::advance$$org.apache.commons.math3.linear.OpenMapRealVector#351:62:0.4082
+Default$$SimpleName::iter$$org.apache.commons.math3.linear.OpenMapRealVector#351:466:0.4082
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math3.linear.OpenMapRealVector#343:1:0.4082
+Insert Before$$SimpleName::res$$org.apache.commons.math3.linear.OpenMapRealVector#343:1:0.4082
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math3.linear.OpenMapRealVector#343:3:0.4082
+Insert After$$ThisExpression::null$$org.apache.commons.math3.linear.OpenMapRealVector#343:5:0.4082
+Default$$ThisExpression::null$$org.apache.commons.math3.linear.OpenMapRealVector#343:141:0.4082
+Default$$SimpleName::res$$org.apache.commons.math3.linear.OpenMapRealVector#354:590:0.4082
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#209:7:0.4082
+Default$$SimpleName::containsKey$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#209:13:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#209:64:0.4082
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#209:267:0.4082
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#209:1040:0.4082
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:1:0.4082
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:2:0.4082
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:13:0.4082
+Default$$SimpleName::hashOf$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:13:0.4082
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:26:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:253:0.4082
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:1040:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#207:1116:0.4082
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:1:0.4082
+Insert After$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:4:0.4082
+Insert After$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:17:0.4082
+Default$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:123:0.4082
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:123:0.4082
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:235:0.4082
+Default$$InfixExpression::&$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#208:1116:0.4082
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.linear.OpenMapRealVector#208:35:0.4082
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#208:590:0.4082
+Default$$ReturnStatement::null$$org.apache.commons.math3.linear.OpenMapRealVector#208:1531:0.4082
+Default$$SimpleName::arraycopy$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#133:10:0.3974
+Default$$QualifiedName::source.keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#133:48:0.3974
+Default$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#133:52:0.3974
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#133:267:0.3974
+Default$$SimpleName::System$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#133:466:0.3974
+Default$$SimpleName::arraycopy$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#135:10:0.3974
+Default$$QualifiedName::source.values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#135:48:0.3974
+Default$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#135:52:0.3974
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#135:267:0.3974
+Default$$SimpleName::System$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#135:466:0.3974
+Default$$SimpleName::arraycopy$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#137:10:0.3974
+Default$$QualifiedName::source.states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#137:48:0.3974
+Default$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#137:52:0.3974
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#137:267:0.3974
+Default$$SimpleName::System$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#137:466:0.3974
+Insert Before$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:1:0.3974
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:2:0.3974
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:2:0.3974
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:2:0.3974
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:2:0.3974
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:253:0.3974
+Default$$QualifiedName::source.keys.length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#131:1116:0.3974
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#132:1:0.3974
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#132:2:0.3974
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#132:35:0.3974
+Default$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#132:71:0.3974
+Default$$ArrayCreation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#132:624:0.3974
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#134:1:0.3974
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#134:2:0.3974
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#134:35:0.3974
+Default$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#134:71:0.3974
+Insert After$$Dimension::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#136:1:0.3974
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#136:2:0.3974
+Default$$ArrayType::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#136:4:0.3974
+Default$$PrimitiveType::byte$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#136:35:0.3974
+Default$$SimpleName::length$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#136:71:0.3974
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#141:7:0.3974
+Default$$QualifiedName::source.count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#141:624:0.3974
+Default$$SimpleName::size$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#139:7:0.3974
+Default$$QualifiedName::source.size$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#139:624:0.3974
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#140:7:0.3974
+Default$$QualifiedName::source.mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#140:624:0.3974
+Default$$SimpleName::missingEntries$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#138:7:0.3974
+Default$$QualifiedName::source.missingEntries$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#138:624:0.3974
+Insert After$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#130:4:0.3974
+Default$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#130:10:0.3974
+Insert Before$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#130:15:0.3974
+Default$$SimpleType::OpenIntToDoubleHashMap$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#130:19:0.3974
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#130:28:0.3974
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#532:11:0.3612
+Default$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#532:38:0.3612
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#532:590:0.3612
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#526:3:0.3612
+Insert After$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#526:4:0.3612
+Insert After$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#526:17:0.3612
+Default$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#526:123:0.3612
+Insert Before$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#526:123:0.3612
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#526:235:0.3612
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#529:3:0.3612
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#529:4:0.3612
+Default$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#529:115:0.3612
+Insert Before$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#529:123:0.3612
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#529:235:0.3612
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#274:1:0.3536
+Default$$SimpleName::changeIndexSign$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#274:13:0.3536
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#274:590:0.3536
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#274:1040:0.3536
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#274:1101:0.3536
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#411:12:0.3536
+Default$$SimpleName::changeIndexSign$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#411:13:0.3536
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#411:624:0.3536
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#411:1040:0.3536
+Insert Before$$SimpleName::d$$org.apache.commons.math3.linear.RealVector#176:1:0.3536
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.linear.RealVector#176:4:0.3536
+Default$$PrimitiveType::int$$org.apache.commons.math3.linear.RealVector#176:13:0.3536
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.linear.RealVector#176:253:0.3536
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.RealVector#176:1116:0.3536
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#332:4:0.3536
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#332:51:0.3536
+Default$$SimpleName::previous$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#412:2:0.3536
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#412:11:0.3536
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#412:38:0.3536
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#412:624:0.3536
+Insert After$$SimpleName::d$$org.apache.commons.math3.linear.RealVector#177:4:0.3536
+Insert After$$SimpleName::n$$org.apache.commons.math3.linear.RealVector#177:17:0.3536
+Default$$SimpleName::d$$org.apache.commons.math3.linear.RealVector#177:123:0.3536
+Insert Before$$SimpleName::d$$org.apache.commons.math3.linear.RealVector#177:123:0.3536
+Default$$SimpleName::n$$org.apache.commons.math3.linear.RealVector#177:235:0.3536
+Default$$SimpleName::newMapping$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#413:6:0.3536
+Default$$BooleanLiteral::false$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#413:624:0.3536
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:4:0.3397
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:4:0.3397
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:6:0.3397
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:11:0.3397
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:11:0.3397
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:12:0.3397
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:12:0.3397
+Insert After$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:17:0.3397
+Insert After$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:17:0.3397
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:38:0.3397
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:38:0.3397
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#273:123:0.3397
+Default$$SimpleName::checkVectorDimensions$$org.apache.commons.math3.linear.OpenMapRealVector#342:4:0.3333
+Default$$SimpleName::getDimension$$org.apache.commons.math3.linear.OpenMapRealVector#342:62:0.3333
+Default$$SimpleName::v$$org.apache.commons.math3.linear.OpenMapRealVector#342:466:0.3333
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#342:1040:0.3333
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#503:210:0.3216
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#515:4:0.3216
+Default$$SimpleName::next$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#515:115:0.3216
+Insert Before$$SimpleName::next$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#515:123:0.3216
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#515:235:0.3216
+Default$$InfixExpression::>=$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#515:590:0.3216
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#238:1:0.3216
+Default$$SimpleType::Iterator$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#238:44:0.3216
+Default$$ClassInstanceCreation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#238:590:0.3216
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#238:1531:0.3216
+Default$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#498:25:0.3216
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#498:624:0.3216
+Default$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#565:25:0.3216
+Default$$SimpleName::next$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#565:624:0.3216
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#549:11:0.3216
+Default$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#549:38:0.3216
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#549:590:0.3216
+Default$$SimpleType::ArrayIndexOutOfBoundsException$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#572:232:0.3216
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#560:3:0.3216
+Insert After$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#560:4:0.3216
+Insert After$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#560:17:0.3216
+Default$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#560:123:0.3216
+Insert Before$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#560:123:0.3216
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#560:235:0.3216
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#543:3:0.3216
+Insert After$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#543:4:0.3216
+Insert After$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#543:17:0.3216
+Default$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#543:123:0.3216
+Insert Before$$SimpleName::referenceCount$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#543:123:0.3216
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#543:235:0.3216
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#546:3:0.3216
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#546:4:0.3216
+Default$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#546:115:0.3216
+Insert Before$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#546:123:0.3216
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#546:235:0.3216
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#574:3:0.3216
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#574:4:0.3216
+Default$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#574:115:0.3216
+Insert Before$$SimpleName::current$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#574:123:0.3216
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#574:235:0.3216
+Default$$SimpleName::next$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#501:4:0.3216
+Default$$PrefixExpression::-$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#501:624:0.3216
+Default$$SimpleName::next$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#573:4:0.3216
+Insert After$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#569:17:0.3216
+Default$$SimpleName::next$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#569:51:0.3216
+Insert Before$$Modifier::private$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#495:3:0.3216
+Insert After$$Modifier::private$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#495:3:0.3216
+Default$$Modifier::private$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#495:10:0.3216
+Insert Before$$SimpleType::Serializable$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#37:3:0.3216
+Insert After$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#37:5:0.3216
+Insert Before$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#37:10:0.3216
+Default$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#37:16:0.3216
+Insert After$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#481:5:0.3216
+Insert Before$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#481:10:0.3216
+Default$$Modifier::public$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#481:16:0.3216
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#184:18:0.3162
+Default$$SimpleName::missingEntries$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#184:590:0.3162
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#184:1101:0.3162
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#183:4:0.3162
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#183:9:0.3162
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#183:11:0.3162
+Default$$SimpleName::FREE$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#183:12:0.3162
+Insert After$$SimpleName::FREE$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#183:17:0.3162
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#183:38:0.3162
+Insert After$$Modifier::public$$org.apache.commons.math3.linear.OpenMapRealVector#34:5:0.3111
+Default$$SimpleType::SparseRealVector$$org.apache.commons.math3.linear.OpenMapRealVector#34:6:0.3111
+Insert Before$$Modifier::public$$org.apache.commons.math3.linear.OpenMapRealVector#34:10:0.3111
+Default$$Modifier::public$$org.apache.commons.math3.linear.OpenMapRealVector#34:16:0.3111
+Default$$SimpleName::put$$org.apache.commons.math3.linear.OpenMapRealVector#590:46:0.2928
+Default$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#590:267:0.2928
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#590:466:0.2928
+Default$$SimpleName::value$$org.apache.commons.math3.linear.OpenMapRealVector#590:1040:0.2928
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#590:1101:0.2928
+Default$$SimpleName::isDefaultValue$$org.apache.commons.math3.linear.OpenMapRealVector#589:13:0.2928
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#589:51:0.2928
+Default$$SimpleName::value$$org.apache.commons.math3.linear.OpenMapRealVector#589:1040:0.2928
+Default$$SimpleName::checkIndex$$org.apache.commons.math3.linear.OpenMapRealVector#588:13:0.2847
+Default$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#588:1040:0.2847
+Default$$SimpleName::get$$org.apache.commons.math3.linear.OpenMapRealVector#449:46:0.2810
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#449:466:0.2810
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#449:590:0.2810
+Default$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#449:1040:0.2810
+Default$$SimpleName::containsKey$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#179:13:0.2739
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#179:267:0.2739
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#179:1040:0.2739
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:1:0.2739
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:2:0.2739
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:13:0.2739
+Default$$SimpleName::hashOf$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:13:0.2739
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:26:0.2739
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:253:0.2739
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:1040:0.2739
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#177:1116:0.2739
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:4:0.2739
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:4:0.2739
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:4:0.2739
+Insert Before$$InfixExpression::!=$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:5:0.2739
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:11:0.2739
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:11:0.2739
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:12:0.2739
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:12:0.2739
+Insert After$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:17:0.2739
+Insert After$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:17:0.2739
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:38:0.2739
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:38:0.2739
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:115:0.2739
+Insert Before$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:123:0.2739
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:123:0.2739
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#382:235:0.2739
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:1:0.2739
+Insert After$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:4:0.2739
+Insert After$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:17:0.2739
+Default$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:123:0.2739
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:123:0.2739
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:235:0.2739
+Default$$InfixExpression::&$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#178:1116:0.2739
+Default$$SimpleName::checkIndex$$org.apache.commons.math3.linear.OpenMapRealVector#448:13:0.2673
+Default$$SimpleName::index$$org.apache.commons.math3.linear.OpenMapRealVector#448:1040:0.2673
+Default$$SimpleName::put$$org.apache.commons.math3.linear.OpenMapRealVector#140:46:0.2379
+Default$$SimpleName::key$$org.apache.commons.math3.linear.OpenMapRealVector#140:267:0.2379
+Default$$SimpleName::entries$$org.apache.commons.math3.linear.OpenMapRealVector#140:466:0.2379
+Default$$SimpleName::value$$org.apache.commons.math3.linear.OpenMapRealVector#140:1040:0.2379
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#140:1101:0.2379
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.linear.RealVector#189:4:0.2315
+Default$$SimpleName::index$$org.apache.commons.math3.linear.RealVector#189:115:0.2315
+Insert Before$$SimpleName::index$$org.apache.commons.math3.linear.RealVector#189:123:0.2315
+Default$$NumberLiteral::0$$org.apache.commons.math3.linear.RealVector#189:235:0.2315
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:5:0.2218
+Default$$SimpleName::findInsertionIndex$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:13:0.2218
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:267:0.2218
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:267:0.2218
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:267:0.2218
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:590:0.2218
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:1040:0.2218
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#256:1531:0.2218
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:1:0.2218
+Default$$SimpleName::findInsertionIndex$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:13:0.2218
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:27:0.2218
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:68:0.2218
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:253:0.2218
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:1040:0.2218
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#407:1116:0.2218
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:1:0.2218
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:2:0.2218
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:13:0.2218
+Default$$SimpleName::hashOf$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:13:0.2218
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:26:0.2218
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:253:0.2218
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:1040:0.2218
+Default$$MethodInvocation::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#269:1116:0.2218
+Insert Before$$SimpleName::h$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:1:0.2218
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:2:0.2218
+Insert Before$$ParenthesizedExpression::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:4:0.2218
+Insert After$$NumberLiteral::20$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:4:0.2218
+Insert After$$NumberLiteral::12$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:4:0.2218
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:115:0.2218
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:115:0.2218
+Insert Before$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:123:0.2218
+Insert Before$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:123:0.2218
+Insert Before$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:123:0.2218
+Default$$NumberLiteral::20$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#475:235:0.2218
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:4:0.2218
+Insert After$$SimpleName::LOAD_FACTOR$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:17:0.2218
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:115:0.2218
+Insert Before$$SimpleName::size$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:123:0.2218
+Insert Before$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:123:0.2218
+Default$$InfixExpression::+$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:167:0.2218
+Default$$NumberLiteral::1$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#466:235:0.2218
+Insert After$$Block::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#420:6:0.2218
+Insert Before$$SimpleName::previous$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#408:1:0.2218
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#408:253:0.2218
+Default$$SimpleName::missingEntries$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#408:1116:0.2218
+Insert After$$NumberLiteral::7$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:4:0.2218
+Insert After$$NumberLiteral::4$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:4:0.2218
+Default$$SimpleName::h$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:115:0.2218
+Default$$SimpleName::h$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:115:0.2218
+Insert Before$$SimpleName::h$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:123:0.2218
+Insert Before$$SimpleName::h$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:123:0.2218
+Insert Before$$SimpleName::h$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:123:0.2218
+Default$$NumberLiteral::4$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#476:235:0.2218
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:1:0.2218
+Insert After$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:4:0.2218
+Insert After$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:17:0.2218
+Default$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:123:0.2218
+Insert Before$$SimpleName::hash$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:123:0.2218
+Default$$SimpleName::mask$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:235:0.2218
+Default$$InfixExpression::&$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#270:1116:0.2218
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#409:1:0.2218
+Insert Before$$SimpleName::newMapping$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#409:1:0.2218
+Default$$PrimitiveType::boolean$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#409:2:0.2218
+Default$$BooleanLiteral::true$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#409:1116:0.2218
+Default$$SimpleName::keys$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#415:11:0.2218
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#415:25:0.2218
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#415:38:0.2218
+Default$$SimpleName::key$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#415:50:0.2218
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#416:11:0.2218
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#416:38:0.2218
+Default$$SimpleName::FULL$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#416:50:0.2218
+Default$$SimpleName::values$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#417:11:0.2218
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#417:38:0.2218
+Default$$SimpleName::value$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#417:50:0.2218
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#272:18:0.2218
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#272:590:0.2218
+Default$$ReturnStatement::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#272:1101:0.2218
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#271:4:0.2218
+Default$$SimpleName::states$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#271:11:0.2218
+Default$$SimpleName::FREE$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#271:12:0.2218
+Insert After$$SimpleName::FREE$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#271:17:0.2218
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#271:38:0.2218
+Insert After$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#410:4:0.2218
+Default$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#410:115:0.2218
+Insert Before$$SimpleName::index$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#410:123:0.2218
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#410:235:0.2218
+Default$$SimpleName::previous$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#425:590:0.2218
+Default$$SimpleName::count$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#423:51:0.2218
+Default$$SimpleName::size$$org.apache.commons.math3.util.OpenIntToDoubleHashMap#419:51:0.2218
+Insert After$$Block::null$$org.apache.commons.math3.linear.OpenMapRealVector#139:7:0.2100
+Default$$SimpleName::isDefaultValue$$org.apache.commons.math3.linear.OpenMapRealVector#139:13:0.2100
+Default$$MethodInvocation::null$$org.apache.commons.math3.linear.OpenMapRealVector#139:51:0.2100
+Default$$SimpleName::value$$org.apache.commons.math3.linear.OpenMapRealVector#139:1040:0.2100

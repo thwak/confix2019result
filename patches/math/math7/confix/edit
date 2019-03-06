@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.ode.AbstractIntegrator
+replace
+maxCheckInterval
+with
+maxIterationCount + 1
+at line 127
+Applied Change
+replace
+var0
+with
+var0 + 1
+from
+lucene-ced8087:lucene/core/src/java/org/apache/lucene/codecs/lucene54/Lucene54DocValuesProducer.java:
+1
+P:MethodInvocation{arguments},L:SimpleName{arguments},R:SimpleName{arguments}

@@ -1,0 +1,114 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::prodLow$$org.apache.commons.math3.util.MathArrays#837:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#837:2:0.2887
+Insert After$$SimpleName::aLow$$org.apache.commons.math3.util.MathArrays#837:4:0.2887
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.MathArrays#837:4:0.2887
+Default$$SimpleName::prodHigh$$org.apache.commons.math3.util.MathArrays#837:11:0.2887
+Insert After$$SimpleName::bLow$$org.apache.commons.math3.util.MathArrays#837:17:0.2887
+Default$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#837:38:0.2887
+Default$$SimpleName::aLow$$org.apache.commons.math3.util.MathArrays#837:123:0.2887
+Insert Before$$SimpleName::aLow$$org.apache.commons.math3.util.MathArrays#837:123:0.2887
+Default$$SimpleName::bLow$$org.apache.commons.math3.util.MathArrays#837:235:0.2887
+Insert Before$$SimpleName::aHigh$$org.apache.commons.math3.util.MathArrays#829:1:0.2887
+Default$$SimpleName::ca$$org.apache.commons.math3.util.MathArrays#829:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#829:2:0.2887
+Insert After$$SimpleName::ca$$org.apache.commons.math3.util.MathArrays#829:4:0.2887
+Insert After$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#829:17:0.2887
+Insert Before$$SimpleName::ca$$org.apache.commons.math3.util.MathArrays#829:123:0.2887
+Default$$SimpleName::ca$$org.apache.commons.math3.util.MathArrays#829:123:0.2887
+Insert Before$$SimpleName::ca$$org.apache.commons.math3.util.MathArrays#829:123:0.2887
+Default$$ParenthesizedExpression::null$$org.apache.commons.math3.util.MathArrays#829:235:0.2887
+Default$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#829:235:0.2887
+Insert Before$$SimpleName::bHigh$$org.apache.commons.math3.util.MathArrays#834:1:0.2887
+Default$$SimpleName::cb$$org.apache.commons.math3.util.MathArrays#834:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#834:2:0.2887
+Insert After$$SimpleName::cb$$org.apache.commons.math3.util.MathArrays#834:4:0.2887
+Insert After$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#834:17:0.2887
+Insert Before$$SimpleName::cb$$org.apache.commons.math3.util.MathArrays#834:123:0.2887
+Default$$SimpleName::cb$$org.apache.commons.math3.util.MathArrays#834:123:0.2887
+Insert Before$$SimpleName::cb$$org.apache.commons.math3.util.MathArrays#834:123:0.2887
+Default$$ParenthesizedExpression::null$$org.apache.commons.math3.util.MathArrays#834:235:0.2887
+Default$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#834:235:0.2887
+Insert Before$$SimpleName::ca$$org.apache.commons.math3.util.MathArrays#828:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#828:2:0.2887
+Insert After$$SimpleName::SPLIT_FACTOR$$org.apache.commons.math3.util.MathArrays#828:4:0.2887
+Insert After$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#828:17:0.2887
+Default$$SimpleName::SPLIT_FACTOR$$org.apache.commons.math3.util.MathArrays#828:123:0.2887
+Insert Before$$SimpleName::SPLIT_FACTOR$$org.apache.commons.math3.util.MathArrays#828:123:0.2887
+Default$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#828:235:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#828:253:0.2887
+Insert Before$$SimpleName::aLow$$org.apache.commons.math3.util.MathArrays#830:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#830:2:0.2887
+Insert After$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#830:4:0.2887
+Insert After$$SimpleName::aHigh$$org.apache.commons.math3.util.MathArrays#830:17:0.2887
+Default$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#830:123:0.2887
+Insert Before$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#830:123:0.2887
+Default$$SimpleName::aHigh$$org.apache.commons.math3.util.MathArrays#830:235:0.2887
+Default$$InfixExpression::-$$org.apache.commons.math3.util.MathArrays#830:1116:0.2887
+Insert Before$$SimpleName::cb$$org.apache.commons.math3.util.MathArrays#833:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#833:2:0.2887
+Insert After$$SimpleName::SPLIT_FACTOR$$org.apache.commons.math3.util.MathArrays#833:4:0.2887
+Insert After$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#833:17:0.2887
+Default$$SimpleName::SPLIT_FACTOR$$org.apache.commons.math3.util.MathArrays#833:123:0.2887
+Insert Before$$SimpleName::SPLIT_FACTOR$$org.apache.commons.math3.util.MathArrays#833:123:0.2887
+Default$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#833:235:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#833:253:0.2887
+Insert Before$$SimpleName::bLow$$org.apache.commons.math3.util.MathArrays#835:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#835:2:0.2887
+Insert After$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#835:4:0.2887
+Insert After$$SimpleName::bHigh$$org.apache.commons.math3.util.MathArrays#835:17:0.2887
+Default$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#835:123:0.2887
+Insert Before$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#835:123:0.2887
+Default$$SimpleName::bHigh$$org.apache.commons.math3.util.MathArrays#835:235:0.2887
+Default$$InfixExpression::-$$org.apache.commons.math3.util.MathArrays#835:1116:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#827:1:0.2887
+Insert Before$$SimpleName::ai$$org.apache.commons.math3.util.MathArrays#827:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#827:2:0.2887
+Default$$SimpleName::a$$org.apache.commons.math3.util.MathArrays#827:11:0.2887
+Default$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#827:38:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#827:253:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.MathArrays#827:1116:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#832:1:0.2887
+Insert Before$$SimpleName::bi$$org.apache.commons.math3.util.MathArrays#832:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#832:2:0.2887
+Default$$SimpleName::b$$org.apache.commons.math3.util.MathArrays#832:11:0.2887
+Default$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#832:38:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#832:253:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.MathArrays#832:1116:0.2887
+Insert Before$$SimpleName::prodHighCur$$org.apache.commons.math3.util.MathArrays#845:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#845:2:0.2887
+Default$$SimpleName::prodHigh$$org.apache.commons.math3.util.MathArrays#845:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.MathArrays#845:38:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#826:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#826:2:0.2887
+Insert After$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#826:4:0.2887
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math3.util.MathArrays#826:12:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#826:17:0.2887
+Insert After$$SimpleName::len$$org.apache.commons.math3.util.MathArrays#826:17:0.2887
+Default$$InfixExpression::<$$org.apache.commons.math3.util.MathArrays#826:39:0.2887
+Default$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#826:123:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math3.util.MathArrays#826:123:0.2887
+Default$$SimpleName::len$$org.apache.commons.math3.util.MathArrays#826:235:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.MathArrays#826:1116:0.2887
+Insert Before$$SimpleName::prodHighNext$$org.apache.commons.math3.util.MathArrays#846:1:0.2887
+Default$$SimpleName::prodHigh$$org.apache.commons.math3.util.MathArrays#846:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math3.util.MathArrays#846:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math3.util.MathArrays#846:1116:0.2887
+Insert Before$$SimpleName::len$$org.apache.commons.math3.util.MathArrays#816:1:0.2887
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math3.util.MathArrays#816:2:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#816:2:0.2887
+Default$$PrimitiveType::int$$org.apache.commons.math3.util.MathArrays#816:2:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#816:2:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#816:253:0.2887
+Default$$QualifiedName::a.length$$org.apache.commons.math3.util.MathArrays#816:1116:0.2887
+Insert Before$$SimpleName::prodLowSum$$org.apache.commons.math3.util.MathArrays#824:1:0.2887
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.MathArrays#824:9:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.util.MathArrays#824:253:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math3.util.MathArrays#824:1116:0.2887
+Insert After$$Dimension::null$$org.apache.commons.math3.util.MathArrays#823:1:0.2887
+Insert Before$$SimpleName::prodHigh$$org.apache.commons.math3.util.MathArrays#823:1:0.2887
+Insert After$$Dimension::null$$org.apache.commons.math3.util.MathArrays#823:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.MathArrays#823:2:0.2887
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.MathArrays#823:35:0.2887
+Default$$PrimitiveType::double$$org.apache.commons.math3.util.MathArrays#823:35:0.2887
+Default$$SimpleName::len$$org.apache.commons.math3.util.MathArrays#823:71:0.2887

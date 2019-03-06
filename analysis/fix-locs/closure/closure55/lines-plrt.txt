@@ -1,0 +1,363 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$QualifiedName::Token.STRING$$com.google.javascript.jscomp.FunctionRewriter#427:2:0.7071
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#427:14:0.7071
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#427:39:0.7071
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#427:54:0.7071
+Default$$SimpleName::getType$$com.google.javascript.jscomp.FunctionRewriter#427:58:0.7071
+Default$$QualifiedName::Token.STRING$$com.google.javascript.jscomp.FunctionRewriter#427:110:0.7071
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#427:179:0.7071
+Default$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#427:461:0.7071
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#427:675:0.7071
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#427:1647:0.7071
+Default$$SimpleName::buildCallNode$$com.google.javascript.jscomp.FunctionRewriter#432:13:0.7071
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#432:39:0.7071
+Default$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#432:45:0.7071
+Default$$SimpleName::FACTORY_METHOD_NAME$$com.google.javascript.jscomp.FunctionRewriter#432:205:0.7071
+Default$$SimpleName::getLastChild$$com.google.javascript.jscomp.FunctionRewriter#451:58:0.7071
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#451:111:0.7071
+Default$$SimpleName::value$$com.google.javascript.jscomp.FunctionRewriter#451:461:0.7071
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#451:590:0.7071
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#451:1101:0.7071
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#416:227:0.7071
+Default$$SimpleName::HELPER_SOURCE$$com.google.javascript.jscomp.FunctionRewriter#416:590:0.7071
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#416:1531:0.7071
+Default$$SimpleName::FACTORY_METHOD_NAME$$com.google.javascript.jscomp.FunctionRewriter#251:7:0.4472
+Default$$SimpleName::buildCallNode$$com.google.javascript.jscomp.FunctionRewriter#251:13:0.4472
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#251:111:0.4472
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#245:227:0.4472
+Default$$SimpleName::HELPER_SOURCE$$com.google.javascript.jscomp.FunctionRewriter#245:590:0.4472
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#245:1531:0.4472
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#272:111:0.4472
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#272:1101:0.4472
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#511:111:0.4472
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#511:1101:0.4472
+Default$$SimpleName::addChildToBack$$com.google.javascript.jscomp.FunctionRewriter#221:31:0.4082
+Default$$SimpleName::cloneTree$$com.google.javascript.jscomp.FunctionRewriter#221:58:0.4082
+Default$$SimpleName::call$$com.google.javascript.jscomp.FunctionRewriter#221:461:0.4082
+Default$$SimpleName::argumentNode$$com.google.javascript.jscomp.FunctionRewriter#221:461:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#221:821:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#221:1101:0.4082
+Default$$SimpleName::getFirstChild$$com.google.javascript.jscomp.FunctionRewriter#277:58:0.3536
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#277:111:0.3536
+Default$$SimpleName::statement$$com.google.javascript.jscomp.FunctionRewriter#277:461:0.3536
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#277:590:0.3536
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#277:1101:0.3536
+Default$$SimpleName::replaceChild$$com.google.javascript.jscomp.FunctionRewriter#138:44:0.3333
+Default$$SimpleName::oldChild$$com.google.javascript.jscomp.FunctionRewriter#138:205:0.3333
+Default$$SimpleName::newChild$$com.google.javascript.jscomp.FunctionRewriter#138:312:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#138:317:0.3333
+Default$$SimpleName::parent$$com.google.javascript.jscomp.FunctionRewriter#138:461:0.3333
+Default$$SimpleName::addChildrenToFront$$com.google.javascript.jscomp.FunctionRewriter#99:44:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#99:251:0.3333
+Default$$SimpleName::addingRoot$$com.google.javascript.jscomp.FunctionRewriter#99:461:0.3333
+Default$$SimpleName::helperCode$$com.google.javascript.jscomp.FunctionRewriter#99:821:0.3333
+Insert Before$$SimpleName::addingRoot$$com.google.javascript.jscomp.FunctionRewriter#98:1:0.3333
+Default$$SimpleName::getNodeForCodeInsertion$$com.google.javascript.jscomp.FunctionRewriter#98:2:0.3333
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#98:4:0.3333
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#98:6:0.3333
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#98:251:0.3333
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#98:269:0.3333
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.FunctionRewriter#98:461:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#98:527:0.3333
+Default$$NullLiteral::null$$com.google.javascript.jscomp.FunctionRewriter#98:821:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#98:1116:0.3333
+Default$$SimpleName::reportCodeChange$$com.google.javascript.jscomp.FunctionRewriter#139:58:0.3333
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.FunctionRewriter#139:461:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#139:727:0.3333
+Default$$SimpleName::reportCodeChange$$com.google.javascript.jscomp.FunctionRewriter#100:58:0.3333
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.FunctionRewriter#100:461:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#100:489:0.3333
+Default$$SimpleName::apply$$com.google.javascript.jscomp.FunctionRewriter#95:58:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#95:96:0.3333
+Default$$SimpleName::reduction$$com.google.javascript.jscomp.FunctionRewriter#95:461:0.3333
+Insert After$$EnhancedForStatement::null$$com.google.javascript.jscomp.FunctionRewriter#94:4:0.3333
+Insert Before$$EnhancedForStatement::null$$com.google.javascript.jscomp.FunctionRewriter#94:15:0.3333
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#94:26:0.3333
+Default$$SimpleName::reductions$$com.google.javascript.jscomp.FunctionRewriter#94:56:0.3333
+Default$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#94:73:0.3333
+Default$$SimpleType::Reduction$$com.google.javascript.jscomp.FunctionRewriter#94:232:0.3333
+Insert After$$MethodDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:127:0.3015
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:207:0.3015
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:207:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#128:232:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#128:232:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#128:232:0.3015
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:235:0.3015
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:235:0.3015
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:235:0.3015
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:235:0.3015
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:235:0.3015
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:254:0.3015
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:254:0.3015
+Default$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#128:385:0.3015
+Insert Before$$MethodDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#128:602:0.3015
+Default$$SimpleName::newString$$com.google.javascript.jscomp.FunctionRewriter#219:9:0.3015
+Default$$SimpleName::addChildToBack$$com.google.javascript.jscomp.FunctionRewriter#219:31:0.3015
+Default$$SimpleName::methodName$$com.google.javascript.jscomp.FunctionRewriter#219:96:0.3015
+Default$$QualifiedName::Token.NAME$$com.google.javascript.jscomp.FunctionRewriter#219:205:0.3015
+Default$$SimpleName::call$$com.google.javascript.jscomp.FunctionRewriter#219:461:0.3015
+Default$$SimpleName::Node$$com.google.javascript.jscomp.FunctionRewriter#219:461:0.3015
+Insert Before$$SimpleName::helperCodeCost$$com.google.javascript.jscomp.FunctionRewriter#83:1:0.3015
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#83:3:0.3015
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#83:6:0.3015
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#83:25:0.3015
+Default$$SimpleName::getCost$$com.google.javascript.jscomp.FunctionRewriter#83:44:0.3015
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#83:69:0.3015
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#83:253:0.3015
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.FunctionRewriter#83:269:0.3015
+Insert After$$SimpleName::helperCode$$com.google.javascript.jscomp.FunctionRewriter#83:312:0.3015
+Default$$SimpleName::InlineCostEstimator$$com.google.javascript.jscomp.FunctionRewriter#83:461:0.3015
+Default$$SimpleName::helperCode$$com.google.javascript.jscomp.FunctionRewriter#83:821:0.3015
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#83:1116:0.3015
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#146:3:0.3015
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#146:14:0.3015
+Default$$SimpleName::getCost$$com.google.javascript.jscomp.FunctionRewriter#146:44:0.3015
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#146:103:0.3015
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#146:227:0.3015
+Insert After$$SimpleName::oldChild$$com.google.javascript.jscomp.FunctionRewriter#146:312:0.3015
+Default$$SimpleName::InlineCostEstimator$$com.google.javascript.jscomp.FunctionRewriter#146:461:0.3015
+Default$$SimpleName::oldChild$$com.google.javascript.jscomp.FunctionRewriter#146:821:0.3015
+Insert Before$$SimpleName::helperCode$$com.google.javascript.jscomp.FunctionRewriter#78:1:0.3015
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#78:6:0.3015
+Default$$SimpleName::parseHelperCode$$com.google.javascript.jscomp.FunctionRewriter#78:13:0.3015
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#78:25:0.3015
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#78:47:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#78:269:0.3015
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#78:527:0.3015
+Default$$SimpleName::reducer$$com.google.javascript.jscomp.FunctionRewriter#78:821:0.3015
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#78:1116:0.3015
+Default$$SimpleName::reducer$$com.google.javascript.jscomp.FunctionRewriter#178:26:0.3015
+Default$$SimpleType::Reduction$$com.google.javascript.jscomp.FunctionRewriter#178:34:0.3015
+Default$$SimpleName::put$$com.google.javascript.jscomp.FunctionRewriter#178:44:0.3015
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#178:64:0.3015
+Default$$SimpleName::parent$$com.google.javascript.jscomp.FunctionRewriter#178:70:0.3015
+Default$$SimpleName::replacement$$com.google.javascript.jscomp.FunctionRewriter#178:118:0.3015
+Default$$SimpleName::reductions$$com.google.javascript.jscomp.FunctionRewriter#178:461:0.3015
+Insert Before$$SimpleName::root$$com.google.javascript.jscomp.FunctionRewriter#111:1:0.3015
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#111:6:0.3015
+Default$$SimpleName::parseSyntheticCode$$com.google.javascript.jscomp.FunctionRewriter#111:10:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#111:269:0.3015
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#111:421:0.3015
+Default$$SimpleName::compiler$$com.google.javascript.jscomp.FunctionRewriter#111:461:0.3015
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#111:601:0.3015
+Insert Before$$SimpleName::root$$com.google.javascript.jscomp.FunctionRewriter#113:6:0.3015
+Default$$NullLiteral::null$$com.google.javascript.jscomp.FunctionRewriter#113:12:0.3015
+Default$$SimpleName::root$$com.google.javascript.jscomp.FunctionRewriter#113:44:0.3015
+Default$$SimpleName::removeFirstChild$$com.google.javascript.jscomp.FunctionRewriter#113:58:0.3015
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#113:167:0.3015
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#113:421:0.3015
+Default$$SimpleName::root$$com.google.javascript.jscomp.FunctionRewriter#113:461:0.3015
+Insert Before$$SimpleName::call$$com.google.javascript.jscomp.FunctionRewriter#217:1:0.3015
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#217:6:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#217:8:0.3015
+Insert After$$QualifiedName::Token.CALL$$com.google.javascript.jscomp.FunctionRewriter#217:9:0.3015
+Default$$SimpleName::lineno$$com.google.javascript.jscomp.FunctionRewriter#217:9:0.3015
+Insert Before$$SimpleName::lineno$$com.google.javascript.jscomp.FunctionRewriter#217:9:0.3015
+Default$$QualifiedName::Token.CALL$$com.google.javascript.jscomp.FunctionRewriter#217:70:0.3015
+Default$$SimpleName::charno$$com.google.javascript.jscomp.FunctionRewriter#217:118:0.3015
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#217:269:0.3015
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#217:598:0.3015
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#217:601:0.3015
+Default$$SimpleName::putBooleanProp$$com.google.javascript.jscomp.FunctionRewriter#218:9:0.3015
+Default$$QualifiedName::Node.FREE_CALL$$com.google.javascript.jscomp.FunctionRewriter#218:17:0.3015
+Default$$BooleanLiteral::true$$com.google.javascript.jscomp.FunctionRewriter#218:96:0.3015
+Default$$SimpleName::call$$com.google.javascript.jscomp.FunctionRewriter#218:461:0.3015
+Default$$SimpleName::savings$$com.google.javascript.jscomp.FunctionRewriter#88:19:0.3015
+Default$$SimpleName::estimateSavings$$com.google.javascript.jscomp.FunctionRewriter#88:58:0.3015
+Default$$SimpleName::reduction$$com.google.javascript.jscomp.FunctionRewriter#88:461:0.3015
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#88:623:0.3015
+Insert After$$SimpleName::savings$$com.google.javascript.jscomp.FunctionRewriter#93:1:0.3015
+Insert After$$SimpleName::helperCodeCost$$com.google.javascript.jscomp.FunctionRewriter#93:1:0.3015
+Insert Before$$SimpleName::savings$$com.google.javascript.jscomp.FunctionRewriter#93:6:0.3015
+Insert Before$$SimpleName::helperCodeCost$$com.google.javascript.jscomp.FunctionRewriter#93:6:0.3015
+Insert After$$ParenthesizedExpression::null$$com.google.javascript.jscomp.FunctionRewriter#93:10:0.3015
+Insert After$$SimpleName::SAVINGS_THRESHOLD$$com.google.javascript.jscomp.FunctionRewriter#93:14:0.3015
+Default$$SimpleName::savings$$com.google.javascript.jscomp.FunctionRewriter#93:68:0.3015
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#93:71:0.3015
+Default$$SimpleName::helperCodeCost$$com.google.javascript.jscomp.FunctionRewriter#93:119:0.3015
+Default$$InfixExpression::+$$com.google.javascript.jscomp.FunctionRewriter#93:167:0.3015
+Default$$SimpleName::SAVINGS_THRESHOLD$$com.google.javascript.jscomp.FunctionRewriter#93:229:0.3015
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#93:675:0.3015
+Insert Before$$SimpleName::argumentNode$$com.google.javascript.jscomp.FunctionRewriter#220:6:0.3015
+Default$$SimpleName::argumentNode$$com.google.javascript.jscomp.FunctionRewriter#220:44:0.3015
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#220:208:0.3015
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#220:240:0.3015
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#220:675:0.3015
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#220:1647:0.3015
+Insert Before$$SimpleName::helperCode$$com.google.javascript.jscomp.FunctionRewriter#79:6:0.3015
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#79:25:0.3015
+Default$$SimpleName::helperCode$$com.google.javascript.jscomp.FunctionRewriter#79:44:0.3015
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#79:47:0.3015
+Default$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#79:638:0.3015
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#79:675:0.3015
+Default$$InfixExpression::==$$com.google.javascript.jscomp.FunctionRewriter#79:1647:0.3015
+Insert Before$$SimpleName::savings$$com.google.javascript.jscomp.FunctionRewriter#86:1:0.3015
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#86:3:0.3015
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#86:6:0.3015
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#86:9:0.3015
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#86:9:0.3015
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#86:69:0.3015
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#86:253:0.3015
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.FunctionRewriter#86:269:0.3015
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.FunctionRewriter#86:1116:0.3015
+Default$$SimpleName::newChild$$com.google.javascript.jscomp.FunctionRewriter#131:1:0.3015
+Default$$ThisExpression::null$$com.google.javascript.jscomp.FunctionRewriter#131:13:0.3015
+Default$$FieldAccess::null$$com.google.javascript.jscomp.FunctionRewriter#131:24:0.3015
+Default$$SimpleName::newChild$$com.google.javascript.jscomp.FunctionRewriter#131:191:0.3015
+Default$$Assignment::=$$com.google.javascript.jscomp.FunctionRewriter#131:545:0.3015
+Default$$SimpleName::oldChild$$com.google.javascript.jscomp.FunctionRewriter#130:1:0.3015
+Default$$ThisExpression::null$$com.google.javascript.jscomp.FunctionRewriter#130:13:0.3015
+Default$$FieldAccess::null$$com.google.javascript.jscomp.FunctionRewriter#130:24:0.3015
+Default$$SimpleName::oldChild$$com.google.javascript.jscomp.FunctionRewriter#130:191:0.3015
+Default$$Assignment::=$$com.google.javascript.jscomp.FunctionRewriter#130:349:0.3015
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#223:240:0.3015
+Default$$SimpleName::call$$com.google.javascript.jscomp.FunctionRewriter#223:590:0.3015
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#223:899:0.3015
+Default$$SimpleName::parent$$com.google.javascript.jscomp.FunctionRewriter#129:1:0.3015
+Default$$ThisExpression::null$$com.google.javascript.jscomp.FunctionRewriter#129:13:0.3015
+Default$$FieldAccess::null$$com.google.javascript.jscomp.FunctionRewriter#129:24:0.3015
+Default$$SimpleName::parent$$com.google.javascript.jscomp.FunctionRewriter#129:191:0.3015
+Default$$Assignment::=$$com.google.javascript.jscomp.FunctionRewriter#129:265:0.3015
+Insert Before$$EnhancedForStatement::null$$com.google.javascript.jscomp.FunctionRewriter#87:9:0.3015
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.FunctionRewriter#87:26:0.3015
+Default$$SimpleName::reductions$$com.google.javascript.jscomp.FunctionRewriter#87:56:0.3015
+Default$$SimpleType::Reduction$$com.google.javascript.jscomp.FunctionRewriter#87:232:0.3015
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#179:64:0.3015
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#179:489:0.3015
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#497:111:0.2887
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#497:590:0.2887
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#497:1101:0.2887
+Insert Before$$SimpleName::statement$$com.google.javascript.jscomp.FunctionRewriter#275:1:0.2774
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#275:6:0.2774
+Default$$SimpleName::getFirstChild$$com.google.javascript.jscomp.FunctionRewriter#275:58:0.2774
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#275:269:0.2774
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#275:411:0.2774
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#275:455:0.2774
+Default$$SimpleName::body$$com.google.javascript.jscomp.FunctionRewriter#275:461:0.2774
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#275:527:0.2774
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#275:720:0.2774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#275:1116:0.2774
+Insert After$$QualifiedName::Token.RETURN$$com.google.javascript.jscomp.FunctionRewriter#276:2:0.2774
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#276:14:0.2774
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#276:54:0.2774
+Default$$SimpleName::getType$$com.google.javascript.jscomp.FunctionRewriter#276:58:0.2774
+Default$$QualifiedName::Token.RETURN$$com.google.javascript.jscomp.FunctionRewriter#276:110:0.2774
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#276:240:0.2774
+Default$$SimpleName::statement$$com.google.javascript.jscomp.FunctionRewriter#276:461:0.2774
+Default$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#276:638:0.2774
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#276:675:0.2774
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#276:720:0.2774
+Default$$InfixExpression::==$$com.google.javascript.jscomp.FunctionRewriter#276:1647:0.2774
+Insert Before$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#487:1:0.2673
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#487:6:0.2673
+Default$$SimpleName::getSetPropertyName$$com.google.javascript.jscomp.FunctionRewriter#487:13:0.2673
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#487:269:0.2673
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#487:411:0.2673
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#487:455:0.2673
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#487:527:0.2673
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#487:720:0.2673
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#487:821:0.2673
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#487:1116:0.2673
+Insert Before$$SimpleName::body$$com.google.javascript.jscomp.FunctionRewriter#509:1:0.2673
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#509:6:0.2673
+Default$$SimpleName::getLastChild$$com.google.javascript.jscomp.FunctionRewriter#509:58:0.2673
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#509:269:0.2673
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#509:428:0.2673
+Default$$SimpleName::functionNode$$com.google.javascript.jscomp.FunctionRewriter#509:461:0.2673
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#509:527:0.2673
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#509:601:0.2673
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#509:720:0.2673
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#509:1116:0.2673
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#510:51:0.2673
+Default$$SimpleName::hasOneChild$$com.google.javascript.jscomp.FunctionRewriter#510:58:0.2673
+Default$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#510:91:0.2673
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#510:455:0.2673
+Default$$SimpleName::body$$com.google.javascript.jscomp.FunctionRewriter#510:461:0.2673
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#510:675:0.2673
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#510:720:0.2673
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.FunctionRewriter#510:1647:0.2673
+Insert Before$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#488:6:0.2673
+Default$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#488:44:0.2673
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#488:720:0.2673
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#488:899:0.2673
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#488:1647:0.2673
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#453:240:0.2673
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#453:899:0.2673
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#435:111:0.2673
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#435:590:0.2673
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#435:1101:0.2673
+Insert Before$$SimpleName::value$$com.google.javascript.jscomp.FunctionRewriter#447:1:0.2582
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#447:6:0.2582
+Default$$SimpleName::maybeGetSingleReturnRValue$$com.google.javascript.jscomp.FunctionRewriter#447:13:0.2582
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#447:269:0.2582
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#447:428:0.2582
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#447:527:0.2582
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#447:601:0.2582
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#447:720:0.2582
+Default$$SimpleName::functionNode$$com.google.javascript.jscomp.FunctionRewriter#447:821:0.2582
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#447:1116:0.2582
+Insert Before$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#425:1:0.2582
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#425:6:0.2582
+Default$$SimpleName::getGetPropertyName$$com.google.javascript.jscomp.FunctionRewriter#425:13:0.2582
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#425:269:0.2582
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#425:411:0.2582
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#425:455:0.2582
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#425:527:0.2582
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#425:720:0.2582
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#425:821:0.2582
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#425:1116:0.2582
+Insert Before$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#426:6:0.2582
+Default$$SimpleName::propName$$com.google.javascript.jscomp.FunctionRewriter#426:44:0.2582
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#426:720:0.2582
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#426:899:0.2582
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#426:1647:0.2582
+Insert Before$$SimpleName::value$$com.google.javascript.jscomp.FunctionRewriter#448:6:0.2582
+Insert Before$$InfixExpression::&&$$com.google.javascript.jscomp.FunctionRewriter#448:10:0.2582
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#448:10:0.2582
+Default$$SimpleName::value$$com.google.javascript.jscomp.FunctionRewriter#448:44:0.2582
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.FunctionRewriter#448:103:0.2582
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#448:240:0.2582
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#448:720:0.2582
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#393:240:0.2582
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#393:899:0.2582
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#376:111:0.2582
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#376:590:0.2582
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.FunctionRewriter#376:1101:0.2582
+Insert Before$$SimpleName::value$$com.google.javascript.jscomp.FunctionRewriter#388:1:0.2425
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#388:6:0.2425
+Default$$SimpleName::maybeGetSingleReturnRValue$$com.google.javascript.jscomp.FunctionRewriter#388:13:0.2425
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#388:269:0.2425
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#388:428:0.2425
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#388:527:0.2425
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#388:601:0.2425
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#388:720:0.2425
+Default$$SimpleName::functionNode$$com.google.javascript.jscomp.FunctionRewriter#388:821:0.2425
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#388:1116:0.2425
+Insert Before$$SimpleName::valueNode$$com.google.javascript.jscomp.FunctionRewriter#371:1:0.2425
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#371:6:0.2425
+Default$$SimpleName::getValueNode$$com.google.javascript.jscomp.FunctionRewriter#371:13:0.2425
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#371:269:0.2425
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#371:411:0.2425
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#371:455:0.2425
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#371:527:0.2425
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#371:720:0.2425
+Default$$SimpleName::node$$com.google.javascript.jscomp.FunctionRewriter#371:821:0.2425
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#371:1116:0.2425
+Insert Before$$SimpleName::body$$com.google.javascript.jscomp.FunctionRewriter#270:1:0.2425
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#270:6:0.2425
+Default$$SimpleName::getLastChild$$com.google.javascript.jscomp.FunctionRewriter#270:58:0.2425
+Default$$SimpleType::Node$$com.google.javascript.jscomp.FunctionRewriter#270:269:0.2425
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#270:428:0.2425
+Default$$SimpleName::functionNode$$com.google.javascript.jscomp.FunctionRewriter#270:461:0.2425
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.FunctionRewriter#270:527:0.2425
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#270:601:0.2425
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.FunctionRewriter#270:720:0.2425
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#270:1116:0.2425
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.FunctionRewriter#271:51:0.2425
+Default$$SimpleName::hasOneChild$$com.google.javascript.jscomp.FunctionRewriter#271:58:0.2425
+Default$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#271:91:0.2425
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#271:455:0.2425
+Default$$SimpleName::body$$com.google.javascript.jscomp.FunctionRewriter#271:461:0.2425
+Insert After$$Block::null$$com.google.javascript.jscomp.FunctionRewriter#271:675:0.2425
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.FunctionRewriter#271:720:0.2425
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.FunctionRewriter#271:1647:0.2425

@@ -1,0 +1,14 @@
+--- ../result-tf-hash/chart/chart7/buggy/org/jfree/data/time/TimePeriodValues.java	2019-02-21 11:23:58.585769742 +0000
++++ ../result-tf-hash/chart/chart7/human/org/jfree/data/time/TimePeriodValues.java	2019-02-21 11:23:58.589769759 +0000
+@@ -297,9 +297,9 @@
+         }
+         
+         if (this.maxMiddleIndex >= 0) {
+-            long s = getDataItem(this.minMiddleIndex).getPeriod().getStart()
++            long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart()
+                 .getTime();
+-            long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd()
++            long e = getDataItem(this.maxMiddleIndex).getPeriod().getEnd()
+                 .getTime();
+             long maxMiddle = s + (e - s) / 2;
+             if (middle > maxMiddle) {

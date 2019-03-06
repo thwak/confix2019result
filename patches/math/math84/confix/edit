@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.optimization.direct.MultiDirectional
+update
+0
+to
+127
+at line 90
+Applied Change
+update
+0
+to
+127
+from
+hadoop-f8c33ad:hadoop-maven-plugins/src/main/java/org/apache/hadoop/maven/plugin/protoc/ProtocMojo.java::
+1
+P:InfixExpression{rightOperand},L:{32{42}{42}{42}{42}},R:

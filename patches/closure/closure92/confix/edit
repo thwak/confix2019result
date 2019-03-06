@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.ProcessClosurePrimitives
+update
+indexOf
+to
+lastIndexOf
+at line 789
+Applied Change
+update
+indexOf
+to
+lastIndexOf
+from
+lucene-afc66e4:contrib/wordnet/src/java/org/apache/lucene/wordnet/Syns2Index.java::
+1
+P:MethodInvocation{name},L:{42},R:{13}

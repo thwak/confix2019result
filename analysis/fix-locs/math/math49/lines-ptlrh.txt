@@ -1,0 +1,46 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::createConcurrentModificationException$$org.apache.commons.math.util.OpenIntToDoubleHashMap#564:10:1.0000
+Default$$SimpleName::MathRuntimeException$$org.apache.commons.math.util.OpenIntToDoubleHashMap#564:466:1.0000
+Default$$QualifiedName::LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING$$org.apache.commons.math.util.OpenIntToDoubleHashMap#564:1040:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.util.OpenIntToDoubleHashMap#217:17:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math.util.OpenIntToDoubleHashMap#217:1101:1.0000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.util.OpenIntToDoubleHashMap#216:4:1.0000
+Insert After$$Block::null$$org.apache.commons.math.util.OpenIntToDoubleHashMap#216:7:1.0000
+Default$$SimpleName::states$$org.apache.commons.math.util.OpenIntToDoubleHashMap#216:11:1.0000
+Default$$SimpleName::FREE$$org.apache.commons.math.util.OpenIntToDoubleHashMap#216:12:1.0000
+Insert After$$SimpleName::FREE$$org.apache.commons.math.util.OpenIntToDoubleHashMap#216:17:1.0000
+Default$$SimpleName::index$$org.apache.commons.math.util.OpenIntToDoubleHashMap#216:38:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.math.linear.OpenMapRealVector#373:2:0.7071
+Default$$SimpleName::setEntry$$org.apache.commons.math.linear.OpenMapRealVector#373:29:0.7071
+Default$$SimpleName::getEntry$$org.apache.commons.math.linear.OpenMapRealVector#373:29:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.linear.OpenMapRealVector#373:61:0.7071
+Default$$SimpleName::key$$org.apache.commons.math.linear.OpenMapRealVector#373:62:0.7071
+Default$$SimpleName::value$$org.apache.commons.math.linear.OpenMapRealVector#373:62:0.7071
+Default$$SimpleName::key$$org.apache.commons.math.linear.OpenMapRealVector#373:62:0.7071
+Default$$SimpleName::res$$org.apache.commons.math.linear.OpenMapRealVector#373:466:0.7071
+Default$$SimpleName::iter$$org.apache.commons.math.linear.OpenMapRealVector#373:466:0.7071
+Default$$SimpleName::iter$$org.apache.commons.math.linear.OpenMapRealVector#373:466:0.7071
+Default$$SimpleName::v$$org.apache.commons.math.linear.OpenMapRealVector#373:466:0.7071
+Default$$SimpleName::iter$$org.apache.commons.math.linear.OpenMapRealVector#373:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.linear.OpenMapRealVector#373:1040:0.7071
+Default$$SimpleName::checkVectorDimensions$$org.apache.commons.math.linear.OpenMapRealVector#368:4:0.7071
+Default$$SimpleName::getDimension$$org.apache.commons.math.linear.OpenMapRealVector#368:62:0.7071
+Default$$SimpleName::v$$org.apache.commons.math.linear.OpenMapRealVector#368:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.linear.OpenMapRealVector#368:1040:0.7071
+Default$$SimpleName::hasNext$$org.apache.commons.math.linear.OpenMapRealVector#371:62:0.7071
+Default$$SimpleName::iter$$org.apache.commons.math.linear.OpenMapRealVector#371:466:0.7071
+Default$$SimpleName::advance$$org.apache.commons.math.linear.OpenMapRealVector#372:62:0.7071
+Default$$SimpleName::iter$$org.apache.commons.math.linear.OpenMapRealVector#372:466:0.7071
+Insert Before$$SimpleName::iter$$org.apache.commons.math.linear.OpenMapRealVector#370:1:0.7071
+Default$$SimpleName::iterator$$org.apache.commons.math.linear.OpenMapRealVector#370:2:0.7071
+Default$$QualifiedName::res.entries$$org.apache.commons.math.linear.OpenMapRealVector#370:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.linear.OpenMapRealVector#370:527:0.7071
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math.linear.OpenMapRealVector#369:1:0.7071
+Insert Before$$SimpleName::res$$org.apache.commons.math.linear.OpenMapRealVector#369:1:0.7071
+Default$$SimpleType::OpenMapRealVector$$org.apache.commons.math.linear.OpenMapRealVector#369:3:0.7071
+Insert After$$ThisExpression::null$$org.apache.commons.math.linear.OpenMapRealVector#369:5:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math.linear.OpenMapRealVector#369:141:0.7071
+Default$$SimpleName::remove$$org.apache.commons.math.linear.OpenMapRealVector#667:46:0.5774
+Default$$SimpleName::entries$$org.apache.commons.math.linear.OpenMapRealVector#667:466:0.5774
+Default$$SimpleName::index$$org.apache.commons.math.linear.OpenMapRealVector#667:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.linear.OpenMapRealVector#667:1101:0.5774

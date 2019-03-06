@@ -1,0 +1,16 @@
+Class:com.google.javascript.jscomp.FunctionRewriter
+replace
+!body.hasOneChild()
+with
+body.getLineno() != 1 || !body.hasOneChild()
+at line 271
+Applied Change
+replace
+!var0.method0()
+with
+var0.method0() != 1 ||
+                !var1.method1()
+from
+derby-35d6658:java/engine/org/apache/derby/iapi/types/WorkHorseForCollatorDatatypes.java:
+1
+P:IfStatement{expression},L:,R:Block{thenStatement}

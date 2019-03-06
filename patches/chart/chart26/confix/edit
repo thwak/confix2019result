@@ -1,0 +1,15 @@
+Class:org.jfree.chart.plot.CategoryPlot
+replace
+state
+with
+null
+at line 2571
+Applied Change
+replace
+var0
+with
+null
+from
+lucene-1040fcb:lucene/spatial3d/src/java/org/apache/lucene/spatial3d/Geo3DPoint.java::
+9
+P:MethodInvocation{arguments},L:{42},R:

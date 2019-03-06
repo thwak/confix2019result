@@ -1,0 +1,63 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$Block::null$$org.jfree.chart.util.ShapeUtilities#288:7:0.2500
+Default$$SimpleName::equals$$org.jfree.chart.util.ShapeUtilities#288:46:0.2500
+Default$$SimpleName::d1$$org.jfree.chart.util.ShapeUtilities#288:267:0.2500
+Default$$SimpleName::Arrays$$org.jfree.chart.util.ShapeUtilities#288:466:0.2500
+Default$$SimpleName::d2$$org.jfree.chart.util.ShapeUtilities#288:1040:0.2500
+Insert Before$$SimpleName::done$$org.jfree.chart.util.ShapeUtilities#278:1:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#278:2:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#278:14:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#278:60:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#278:61:0.2500
+Insert Before$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#278:61:0.2500
+Default$$SimpleName::isDone$$org.jfree.chart.util.ShapeUtilities#278:62:0.2500
+Default$$SimpleName::isDone$$org.jfree.chart.util.ShapeUtilities#278:62:0.2500
+Default$$SimpleName::iterator1$$org.jfree.chart.util.ShapeUtilities#278:466:0.2500
+Default$$SimpleName::iterator2$$org.jfree.chart.util.ShapeUtilities#278:466:0.2500
+Insert Before$$SimpleName::seg1$$org.jfree.chart.util.ShapeUtilities#283:1:0.2500
+Default$$PrimitiveType::int$$org.jfree.chart.util.ShapeUtilities#283:41:0.2500
+Default$$SimpleName::currentSegment$$org.jfree.chart.util.ShapeUtilities#283:46:0.2500
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.util.ShapeUtilities#283:253:0.2500
+Default$$SimpleName::iterator1$$org.jfree.chart.util.ShapeUtilities#283:466:0.2500
+Default$$SimpleName::d1$$org.jfree.chart.util.ShapeUtilities#283:1040:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#283:1116:0.2500
+Insert Before$$SimpleName::seg2$$org.jfree.chart.util.ShapeUtilities#284:1:0.2500
+Default$$PrimitiveType::int$$org.jfree.chart.util.ShapeUtilities#284:41:0.2500
+Default$$SimpleName::currentSegment$$org.jfree.chart.util.ShapeUtilities#284:46:0.2500
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.util.ShapeUtilities#284:253:0.2500
+Default$$SimpleName::iterator2$$org.jfree.chart.util.ShapeUtilities#284:466:0.2500
+Default$$SimpleName::d2$$org.jfree.chart.util.ShapeUtilities#284:1040:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#284:1116:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#293:2:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#293:14:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#293:60:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#293:61:0.2500
+Insert Before$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#293:61:0.2500
+Default$$SimpleName::isDone$$org.jfree.chart.util.ShapeUtilities#293:62:0.2500
+Default$$SimpleName::isDone$$org.jfree.chart.util.ShapeUtilities#293:62:0.2500
+Default$$SimpleName::iterator1$$org.jfree.chart.util.ShapeUtilities#293:466:0.2500
+Default$$SimpleName::iterator2$$org.jfree.chart.util.ShapeUtilities#293:466:0.2500
+Insert Before$$IfStatement::null$$org.jfree.chart.util.ShapeUtilities#271:1:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#271:2:0.2500
+Insert After$$Block::null$$org.jfree.chart.util.ShapeUtilities#271:7:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#271:14:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#271:60:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#271:61:0.2500
+Insert Before$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#271:61:0.2500
+Default$$SimpleName::getWindingRule$$org.jfree.chart.util.ShapeUtilities#271:62:0.2500
+Default$$SimpleName::getWindingRule$$org.jfree.chart.util.ShapeUtilities#271:62:0.2500
+Default$$SimpleName::p1$$org.jfree.chart.util.ShapeUtilities#271:466:0.2500
+Default$$SimpleName::p2$$org.jfree.chart.util.ShapeUtilities#271:466:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#280:2:0.2500
+Insert After$$Block::null$$org.jfree.chart.util.ShapeUtilities#280:7:0.2500
+Insert After$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#280:14:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#280:60:0.2500
+Default$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#280:61:0.2500
+Insert Before$$MethodInvocation::null$$org.jfree.chart.util.ShapeUtilities#280:61:0.2500
+Default$$SimpleName::isDone$$org.jfree.chart.util.ShapeUtilities#280:62:0.2500
+Default$$SimpleName::isDone$$org.jfree.chart.util.ShapeUtilities#280:62:0.2500
+Default$$SimpleName::iterator1$$org.jfree.chart.util.ShapeUtilities#280:466:0.2500
+Default$$SimpleName::iterator2$$org.jfree.chart.util.ShapeUtilities#280:466:0.2500
+Insert Before$$SimpleName::iterator1$$org.jfree.chart.util.ShapeUtilities#274:1:0.2500
+Default$$SimpleName::getPathIterator$$org.jfree.chart.util.ShapeUtilities#274:2:0.2500
+Default$$SimpleName::p1$$org.jfree.chart.util.ShapeUtilities#274:466:0.2500

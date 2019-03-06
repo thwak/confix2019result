@@ -1,0 +1,3 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.TimePeriodValues#552:1:0.7071
+Default$$SimpleName::maxMiddleIndex$$org.jfree.data.time.TimePeriodValues#552:1:0.7071

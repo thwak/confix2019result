@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang3.StringUtils
+replace
+i
+with
+++i
+at line 1446
+Applied Change
+replace
+var0
+with
+- var0
+from
+lucene-4c47304:lucene/spatial3d/src/java/org/apache/lucene/spatial3d/geom/GeoPolygonFactory.java::
+1
+P:InfixExpression{leftOperand},L:,R:{42}

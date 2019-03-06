@@ -1,0 +1,9 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::getPct$$org.apache.commons.math.stat.Frequency#342:5:1.0000
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#342:44:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#342:227:1.0000
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#342:461:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#342:821:1.0000
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#342:821:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#342:1531:1.0000
+Default$$SimpleName::getCumPct$$org.apache.commons.math.stat.Frequency#303:2:1.0000

@@ -1,0 +1,12 @@
+--- ../result-tf-hash/math/math20/buggy/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java	2019-02-21 11:23:32.749662487 +0000
++++ ../result-tf-hash/math/math20/human/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java	2019-02-21 11:23:32.757662521 +0000
+@@ -918,7 +918,8 @@
+          * @return the original objective variables, possibly repaired.
+          */
+         public double[] repairAndDecode(final double[] x) {
+-            return
++            return boundaries != null && isRepairMode ?
++                decode(repair(x)) :
+                 decode(x);
+         }
+ 

@@ -1,0 +1,13 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::checkNotNull$$com.google.javascript.jscomp.ProcessClosurePrimitives#798:46:0.4472
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.ProcessClosurePrimitives#798:466:0.4472
+Default$$SimpleName::parentName$$com.google.javascript.jscomp.ProcessClosurePrimitives#798:1040:0.4472
+Default$$SimpleName::checkNotNull$$com.google.javascript.jscomp.ProcessClosurePrimitives#799:10:0.4472
+Default$$SimpleName::Preconditions$$com.google.javascript.jscomp.ProcessClosurePrimitives#799:466:0.4472
+Default$$QualifiedName::parentName.replacementNode$$com.google.javascript.jscomp.ProcessClosurePrimitives#799:1040:0.4472
+Default$$SimpleName::getParent$$com.google.javascript.jscomp.ProcessClosurePrimitives#800:2:0.4472
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.ProcessClosurePrimitives#800:466:0.4472
+Default$$QualifiedName::parentName.replacementNode$$com.google.javascript.jscomp.ProcessClosurePrimitives#800:466:0.4472
+Insert Before$$SimpleName::parentName$$com.google.javascript.jscomp.ProcessClosurePrimitives#796:1:0.4472
+Insert Before$$SimpleName::indexOfDot$$com.google.javascript.jscomp.ProcessClosurePrimitives#789:1:0.4082
+Default$$SimpleName::indexOf$$com.google.javascript.jscomp.ProcessClosurePrimitives#789:1:0.4082

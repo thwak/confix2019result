@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.CodeConsumer
+update
+0
+to
+1
+at line 245
+Applied Change
+update
+0
+to
+1
+from
+lucene-bff695c:lucene/memory/src/java/org/apache/lucene/index/memory/MemoryIndex.java::
+1
+P:InfixExpression{rightOperand},L:{42},R:

@@ -1,0 +1,45 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::replaceEach$$org.apache.commons.lang3.StringUtils#3502:13:1.0000
+Default$$SimpleName::replacementList$$org.apache.commons.lang3.StringUtils#3502:29:1.0000
+Default$$BooleanLiteral::false$$org.apache.commons.lang3.StringUtils#3502:48:1.0000
+Default$$SimpleName::text$$org.apache.commons.lang3.StringUtils#3502:267:1.0000
+Default$$SimpleName::searchList$$org.apache.commons.lang3.StringUtils#3502:267:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang3.StringUtils#3727:18:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang3.StringUtils#3727:590:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.lang3.StringUtils#3727:1101:1.0000
+Insert Before$$ContinueStatement::null$$org.apache.commons.lang3.StringUtils#3648:5:1.0000
+Default$$SimpleName::append$$org.apache.commons.lang3.StringUtils#3689:5:0.7071
+Default$$SimpleName::charAt$$org.apache.commons.lang3.StringUtils#3689:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3689:148:0.7071
+Default$$SimpleName::buf$$org.apache.commons.lang3.StringUtils#3689:466:0.7071
+Default$$SimpleName::text$$org.apache.commons.lang3.StringUtils#3689:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3689:1040:0.7071
+Default$$SimpleName::i$$org.apache.commons.lang3.StringUtils#3689:1040:0.7071
+Default$$SimpleName::append$$org.apache.commons.lang3.StringUtils#3723:5:0.7071
+Default$$SimpleName::charAt$$org.apache.commons.lang3.StringUtils#3723:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3723:148:0.7071
+Default$$SimpleName::buf$$org.apache.commons.lang3.StringUtils#3723:466:0.7071
+Default$$SimpleName::text$$org.apache.commons.lang3.StringUtils#3723:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3723:1040:0.7071
+Default$$SimpleName::i$$org.apache.commons.lang3.StringUtils#3723:1040:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3682:1:0.7071
+Insert After$$NumberLiteral::5$$org.apache.commons.lang3.StringUtils#3682:4:0.7071
+Default$$SimpleName::min$$org.apache.commons.lang3.StringUtils#3682:46:0.7071
+Default$$NumberLiteral::5$$org.apache.commons.lang3.StringUtils#3682:60:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3682:61:0.7071
+Default$$SimpleName::length$$org.apache.commons.lang3.StringUtils#3682:62:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3682:115:0.7071
+Default$$SimpleName::Math$$org.apache.commons.lang3.StringUtils#3682:466:0.7071
+Default$$SimpleName::text$$org.apache.commons.lang3.StringUtils#3682:466:0.7071
+Default$$SimpleName::indexOf$$org.apache.commons.lang3.StringUtils#3706:3:0.7071
+Default$$SimpleName::searchList$$org.apache.commons.lang3.StringUtils#3706:11:0.7071
+Default$$SimpleName::start$$org.apache.commons.lang3.StringUtils#3706:15:0.7071
+Default$$SimpleName::i$$org.apache.commons.lang3.StringUtils#3706:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.lang3.StringUtils#3706:267:0.7071
+Default$$SimpleName::text$$org.apache.commons.lang3.StringUtils#3706:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3706:624:0.7071
+Insert Before$$SimpleName::greater$$org.apache.commons.lang3.StringUtils#3676:1:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.StringUtils#3676:2:0.7071
+Default$$SimpleName::length$$org.apache.commons.lang3.StringUtils#3676:7:0.7071
+Default$$SimpleName::length$$org.apache.commons.lang3.StringUtils#3676:7:0.7071
+Default$$SimpleName::replacementList$$org.apache.commons.lang3.StringUtils#3676:11:0.7071

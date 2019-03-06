@@ -1,0 +1,15 @@
+--- ../result-tf-hash/closure/closure109/buggy/com/google/javascript/jscomp/parsing/JsDocInfoParser.java	2019-02-21 22:35:19.210084900 +0000
++++ ../result-tf-hash/closure/closure109/human/com/google/javascript/jscomp/parsing/JsDocInfoParser.java	2019-02-21 22:35:19.218084846 +0000
+@@ -1905,7 +1905,11 @@
+    * For expressions on the right hand side of a this: or new:
+    */
+   private Node parseContextTypeExpression(JsDocToken token) {
+-          return parseTypeName(token);
++    if (token == JsDocToken.QMARK) {
++      return newNode(Token.QMARK);
++    } else {
++      return parseBasicTypeExpression(token);
++    }
+   }
+ 
+   /**

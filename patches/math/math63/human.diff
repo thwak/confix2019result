@@ -1,0 +1,11 @@
+--- ../result-tf-hash/math/math63/buggy/org/apache/commons/math/util/MathUtils.java	2019-02-21 11:23:33.577665925 +0000
++++ ../result-tf-hash/math/math63/human/org/apache/commons/math/util/MathUtils.java	2019-02-21 11:23:33.585665958 +0000
+@@ -414,7 +414,7 @@
+      * @return {@code true} if the values are equal.
+      */
+     public static boolean equals(double x, double y) {
+-        return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
++        return equals(x, y, 1);
+     }
+ 
+     /**

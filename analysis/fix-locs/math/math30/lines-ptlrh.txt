@@ -1,0 +1,86 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::max$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#155:46:0.7071
+Default$$SimpleName::U1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#155:267:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#155:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#155:590:0.7071
+Default$$SimpleName::U2$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#155:1040:0.7071
+Insert Before$$SimpleName::z$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:2:0.7071
+Insert After$$SimpleName::Umin$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:4:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:7:0.7071
+Insert After$$SimpleName::EU$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:17:0.7071
+Default$$SimpleName::sqrt$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:46:0.7071
+Default$$SimpleName::Umin$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:123:0.7071
+Insert Before$$SimpleName::Umin$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:123:0.7071
+Default$$SimpleName::EU$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:235:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:466:0.7071
+Default$$SimpleName::VarU$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#179:1040:0.7071
+Insert Before$$SimpleName::Umax$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:2:0.7071
+Default$$SimpleName::mannWhitneyU$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:13:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:253:0.7071
+Default$$SimpleName::x$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:267:0.7071
+Default$$SimpleName::y$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#224:1116:0.7071
+Insert After$$Dimension::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:1:0.7071
+Insert Before$$SimpleName::z$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:2:0.7071
+Default$$SimpleName::concatenateSamples$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:13:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:20:0.7071
+Default$$PrimitiveType::double$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:35:0.7071
+Default$$SimpleName::x$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:267:0.7071
+Default$$SimpleName::y$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#131:1116:0.7071
+Insert After$$Dimension::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:1:0.7071
+Insert Before$$SimpleName::ranks$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:2:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:20:0.7071
+Default$$PrimitiveType::double$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:35:0.7071
+Default$$SimpleName::rank$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:46:0.7071
+Default$$SimpleName::naturalRanking$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:466:0.7071
+Default$$SimpleName::z$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#132:1116:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:7:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:12:0.7071
+Default$$SimpleName::cumulativeProbability$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:46:0.7071
+Insert Before$$NumberLiteral::2$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:115:0.7071
+Insert Before$$SimpleName::z$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:267:0.7071
+Default$$SimpleName::standardNormal$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:466:0.7071
+Default$$SimpleName::z$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:1040:0.7071
+Insert After$$SimpleName::z$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#183:1040:0.7071
+Default$$SimpleName::ensureDataConformance$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#129:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#129:267:0.7071
+Default$$SimpleName::y$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#129:1040:0.7071
+Default$$SimpleName::arraycopy$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#93:46:0.7071
+Default$$QualifiedName::x.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#93:46:0.7071
+Default$$SimpleName::y$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#93:48:0.7071
+Default$$QualifiedName::y.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#93:96:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#93:267:0.7071
+Default$$SimpleName::System$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#93:466:0.7071
+Default$$SimpleName::arraycopy$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#92:46:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#92:46:0.7071
+Default$$SimpleName::x$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#92:48:0.7071
+Default$$QualifiedName::x.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#92:52:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#92:267:0.7071
+Default$$SimpleName::System$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#92:466:0.7071
+Default$$SimpleName::calculateAsymptoticPValue$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#231:13:0.7071
+Default$$SimpleName::Umin$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#231:46:0.7071
+Default$$QualifiedName::x.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#231:46:0.7071
+Default$$QualifiedName::y.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#231:96:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#231:590:0.7071
+Insert Before$$SimpleName::U1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:2:0.7071
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:4:0.7071
+Insert After$$NumberLiteral::2$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:4:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:35:0.7071
+Insert Before$$QualifiedName::x.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:55:0.7071
+Insert Before$$QualifiedName::x.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:55:0.7071
+Default$$QualifiedName::x.length$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:115:0.7071
+Insert Before$$SimpleName::sumRankX$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#148:123:0.7071
+Insert Before$$SimpleName::VarU$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:2:0.7071
+Insert After$$SimpleName::n1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:4:0.7071
+Insert After$$NumberLiteral::1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:4:0.7071
+Insert After$$NumberLiteral::12.0$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:4:0.7071
+Insert Before$$SimpleName::n1n2prod$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:123:0.7071
+Default$$SimpleName::n1$$org.apache.commons.math3.stat.inference.MannWhitneyUTest#177:123:0.7071

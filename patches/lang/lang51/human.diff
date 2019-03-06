@@ -1,0 +1,10 @@
+--- ../result-tf-hash/lang/lang51/buggy/org/apache/commons/lang/BooleanUtils.java	2019-02-22 10:24:47.613516848 +0000
++++ ../result-tf-hash/lang/lang51/human/org/apache/commons/lang/BooleanUtils.java	2019-02-22 10:24:47.617517392 +0000
+@@ -679,6 +679,7 @@
+                         (str.charAt(1) == 'E' || str.charAt(1) == 'e') &&
+                         (str.charAt(2) == 'S' || str.charAt(2) == 's');
+                 }
++                return false;
+             }
+             case 4: {
+                 char ch = str.charAt(0);

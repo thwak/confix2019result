@@ -1,0 +1,128 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#478:1:0.7071
+Default$$SimpleName::greatestCommonDivisor$$org.apache.commons.lang3.math.Fraction#478:1:0.7071
+Default$$SimpleName::denominator$$org.apache.commons.lang3.math.Fraction#478:18:0.7071
+Default$$SimpleName::abs$$org.apache.commons.lang3.math.Fraction#478:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.math.Fraction#478:267:0.7071
+Default$$SimpleName::Math$$org.apache.commons.lang3.math.Fraction#478:466:0.7071
+Default$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#478:1040:0.7071
+Default$$SimpleName::equals$$org.apache.commons.lang3.math.Fraction#476:13:0.7071
+Default$$SimpleName::ZERO$$org.apache.commons.lang3.math.Fraction#476:1040:0.7071
+Insert After$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#482:4:0.7071
+Insert After$$SimpleName::denominator$$org.apache.commons.lang3.math.Fraction#482:4:0.7071
+Insert After$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#482:17:0.7071
+Insert After$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#482:17:0.7071
+Default$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#482:123:0.7071
+Insert Before$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#482:123:0.7071
+Default$$SimpleName::denominator$$org.apache.commons.lang3.math.Fraction#482:123:0.7071
+Insert Before$$SimpleName::denominator$$org.apache.commons.lang3.math.Fraction#482:123:0.7071
+Default$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#482:235:0.7071
+Default$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#482:235:0.7071
+Default$$SimpleName::Fraction$$org.apache.commons.lang3.math.Fraction#482:466:0.7071
+Insert Before$$ThrowStatement::null$$org.apache.commons.lang3.math.Fraction#216:5:0.7071
+Default$$SimpleType::ArithmeticException$$org.apache.commons.lang3.math.Fraction#216:8:0.7071
+Default$$ClassInstanceCreation::null$$org.apache.commons.lang3.math.Fraction#216:52:0.7071
+Default$$StringLiteral::"The denominator must not be zero"$$org.apache.commons.lang3.math.Fraction#216:141:0.7071
+Default$$ThrowStatement::null$$org.apache.commons.lang3.math.Fraction#216:1101:0.7071
+Insert Before$$ThrowStatement::null$$org.apache.commons.lang3.math.Fraction#228:5:0.7071
+Default$$SimpleType::ArithmeticException$$org.apache.commons.lang3.math.Fraction#228:8:0.7071
+Default$$ClassInstanceCreation::null$$org.apache.commons.lang3.math.Fraction#228:52:0.7071
+Default$$StringLiteral::"overflow: can't negate"$$org.apache.commons.lang3.math.Fraction#228:141:0.7071
+Default$$ThrowStatement::null$$org.apache.commons.lang3.math.Fraction#228:1101:0.7071
+Default$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#223:8:0.7071
+Default$$SimpleName::denominator$$org.apache.commons.lang3.math.Fraction#223:8:0.7071
+Default$$NumberLiteral::2$$org.apache.commons.lang3.math.Fraction#223:624:0.7071
+Default$$NumberLiteral::2$$org.apache.commons.lang3.math.Fraction#223:624:0.7071
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang3.math.Fraction#480:1:0.7071
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#479:4:0.7071
+Default$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#479:115:0.7071
+Insert Before$$SimpleName::gcd$$org.apache.commons.lang3.math.Fraction#479:123:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#479:235:0.7071
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#475:4:0.7071
+Default$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#475:115:0.7071
+Insert Before$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#475:123:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#475:235:0.7071
+Default$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#230:51:0.7071
+Default$$SimpleName::denominator$$org.apache.commons.lang3.math.Fraction#231:51:0.7071
+Insert After$$QualifiedName::Integer.MIN_VALUE$$org.apache.commons.lang3.math.Fraction#226:3:0.7071
+Default$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#226:55:0.7071
+Insert Before$$SimpleName::numerator$$org.apache.commons.lang3.math.Fraction#226:123:0.7071
+Default$$QualifiedName::Integer.MIN_VALUE$$org.apache.commons.lang3.math.Fraction#226:235:0.7071
+Insert Before$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#603:1:0.4714
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#603:4:0.4714
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#603:4:0.4714
+Insert After$$NumberLiteral::2$$org.apache.commons.lang3.math.Fraction#603:4:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#603:115:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#603:115:0.4714
+Insert Before$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#603:123:0.4714
+Insert Before$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#603:123:0.4714
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#603:235:0.4714
+Default$$NumberLiteral::2$$org.apache.commons.lang3.math.Fraction#603:235:0.4714
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#595:4:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#595:4:0.4714
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#595:4:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#595:4:0.4714
+Insert After$$NumberLiteral::31$$org.apache.commons.lang3.math.Fraction#595:4:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#595:115:0.4714
+Default$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#595:115:0.4714
+Default$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#595:115:0.4714
+Insert Before$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#595:123:0.4714
+Insert Before$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#595:123:0.4714
+Insert Before$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#595:123:0.4714
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#595:235:0.4714
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#595:235:0.4714
+Default$$NumberLiteral::31$$org.apache.commons.lang3.math.Fraction#595:235:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#591:4:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#591:51:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#591:115:0.4714
+Insert Before$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#591:123:0.4714
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#591:235:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#592:4:0.4714
+Default$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#592:51:0.4714
+Default$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#592:115:0.4714
+Insert Before$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#592:123:0.4714
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#592:235:0.4714
+Default$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#616:25:0.4714
+Default$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#616:624:0.4714
+Default$$Assignment::=$$org.apache.commons.lang3.math.Fraction#616:1101:0.4714
+Insert After$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#619:4:0.4714
+Insert After$$NumberLiteral::2$$org.apache.commons.lang3.math.Fraction#619:4:0.4714
+Insert After$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#619:17:0.4714
+Default$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#619:123:0.4714
+Insert Before$$SimpleName::v$$org.apache.commons.lang3.math.Fraction#619:123:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#619:235:0.4714
+Insert Before$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#594:1:0.4714
+Default$$PrimitiveType::int$$org.apache.commons.lang3.math.Fraction#594:9:0.4714
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.Fraction#594:253:0.4714
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#594:1116:0.4714
+Default$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#614:51:0.4714
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#609:4:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#609:4:0.4714
+Default$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#609:115:0.4714
+Insert Before$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#609:123:0.4714
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#609:235:0.4714
+Default$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#623:12:0.4714
+Insert After$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#623:17:0.4714
+Default$$SimpleName::u$$org.apache.commons.lang3.math.Fraction#623:51:0.4714
+Insert Before$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#623:115:0.4714
+Insert After$$NumberLiteral::31$$org.apache.commons.lang3.math.Fraction#598:4:0.4714
+Insert After$$Block::null$$org.apache.commons.lang3.math.Fraction#598:9:0.4714
+Default$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#598:115:0.4714
+Insert Before$$SimpleName::k$$org.apache.commons.lang3.math.Fraction#598:123:0.4714
+Default$$NumberLiteral::31$$org.apache.commons.lang3.math.Fraction#598:235:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#613:4:0.4714
+Default$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#613:115:0.4714
+Insert Before$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#613:123:0.4714
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#613:235:0.4714
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#622:4:0.4714
+Default$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#622:115:0.4714
+Insert Before$$SimpleName::t$$org.apache.commons.lang3.math.Fraction#622:123:0.4714
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.Fraction#622:235:0.4714
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#584:4:0.4472
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.Fraction#584:4:0.4472
+Insert After$$Block::null$$org.apache.commons.lang3.math.Fraction#584:7:0.4472
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang3.math.Fraction#584:18:0.4472
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang3.math.Fraction#584:18:0.4472
+Default$$SimpleName::abs$$org.apache.commons.lang3.math.Fraction#584:46:0.4472
+Default$$SimpleName::abs$$org.apache.commons.lang3.math.Fraction#584:46:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.lang3.math.Fraction#584:115:0.4472

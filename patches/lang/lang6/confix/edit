@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang3.text.translate.CharSequenceTranslator
+update
+pos
+to
+pt
+at line 95
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+1056
+P:MethodInvocation{arguments},L:{42},R:

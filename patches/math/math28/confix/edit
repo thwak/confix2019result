@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.optimization.linear.SimplexSolver
+update
+row
+to
+minRow
+at line 143
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+6
+P:InfixExpression{leftOperand},L:,R:{32{42}{42}{42}}

@@ -1,0 +1,52 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::checkInterfaceConflictProperties$$com.google.javascript.jscomp.TypeCheck#1664:13:0.2425
+Default$$SimpleName::t$$com.google.javascript.jscomp.TypeCheck#1664:267:0.2425
+Default$$SimpleName::n$$com.google.javascript.jscomp.TypeCheck#1664:267:0.2425
+Default$$SimpleName::functionPrivateName$$com.google.javascript.jscomp.TypeCheck#1664:267:0.2425
+Insert Before$$SimpleName::implicitProto$$com.google.javascript.jscomp.TypeCheck#1570:1:0.2425
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.TypeCheck#1570:48:0.2425
+Default$$SimpleName::getImplicitPrototype$$com.google.javascript.jscomp.TypeCheck#1570:62:0.2425
+Default$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1570:68:0.2425
+Default$$SimpleName::interfaceType$$com.google.javascript.jscomp.TypeCheck#1570:466:0.2425
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.TypeCheck#1570:527:0.2425
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1570:1116:0.2425
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.TypeCheck#1662:18:0.2425
+Default$$SimpleName::getExtendedInterfaces$$com.google.javascript.jscomp.TypeCheck#1662:62:0.2425
+Default$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1662:232:0.2425
+Default$$SimpleName::functionType$$com.google.javascript.jscomp.TypeCheck#1662:466:0.2425
+Default$$SimpleName::currentPropertyNames$$com.google.javascript.jscomp.TypeCheck#1574:12:0.2425
+Default$$SimpleName::getOwnPropertyNames$$com.google.javascript.jscomp.TypeCheck#1574:62:0.2425
+Default$$SimpleName::implicitProto$$com.google.javascript.jscomp.TypeCheck#1574:466:0.2425
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1574:624:0.2425
+Default$$SimpleName::clear$$com.google.javascript.jscomp.TypeCheck#1663:62:0.2425
+Default$$SimpleName::currentProperties$$com.google.javascript.jscomp.TypeCheck#1663:466:0.2425
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.TypeCheck#1658:1:0.2425
+Insert Before$$SimpleName::properties$$com.google.javascript.jscomp.TypeCheck#1658:1:0.2425
+Default$$SimpleType::String$$com.google.javascript.jscomp.TypeCheck#1658:9:0.2425
+Default$$ParameterizedType::null$$com.google.javascript.jscomp.TypeCheck#1658:10:0.2425
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.TypeCheck#1658:17:0.2425
+Default$$SimpleType::HashMap$$com.google.javascript.jscomp.TypeCheck#1658:66:0.2425
+Default$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1658:86:0.2425
+Insert After$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1658:86:0.2425
+Insert Before$$SimpleName::currentProperties$$com.google.javascript.jscomp.TypeCheck#1660:1:0.2425
+Default$$SimpleType::String$$com.google.javascript.jscomp.TypeCheck#1660:9:0.2425
+Default$$ParameterizedType::null$$com.google.javascript.jscomp.TypeCheck#1660:10:0.2425
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.TypeCheck#1660:17:0.2425
+Default$$SimpleType::HashMap$$com.google.javascript.jscomp.TypeCheck#1660:66:0.2425
+Default$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1660:86:0.2425
+Insert After$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1660:86:0.2425
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.TypeCheck#1647:3:0.1562
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1647:44:0.1562
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1647:61:0.1562
+Default$$SimpleName::getConstructor$$com.google.javascript.jscomp.TypeCheck#1647:62:0.1562
+Default$$SimpleName::extInterface$$com.google.javascript.jscomp.TypeCheck#1647:466:0.1562
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.TypeCheck#1646:18:0.0769
+Default$$SimpleName::getExtendedInterfaces$$com.google.javascript.jscomp.TypeCheck#1646:62:0.0769
+Default$$SimpleType::ObjectType$$com.google.javascript.jscomp.TypeCheck#1646:232:0.0769
+Default$$SimpleName::functionType$$com.google.javascript.jscomp.TypeCheck#1646:466:0.0769
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1656:1:0.0769
+Insert After$$NumberLiteral::1$$com.google.javascript.jscomp.TypeCheck#1656:4:0.0769
+Default$$NumberLiteral::1$$com.google.javascript.jscomp.TypeCheck#1656:60:0.0769
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1656:61:0.0769
+Default$$SimpleName::getExtendedInterfacesCount$$com.google.javascript.jscomp.TypeCheck#1656:62:0.0769
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.TypeCheck#1656:115:0.0769

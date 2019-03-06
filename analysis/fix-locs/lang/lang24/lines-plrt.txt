@@ -1,0 +1,266 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::isEmpty$$org.apache.commons.lang3.math.NumberUtils#1320:44:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1320:159:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1320:428:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1320:455:1.0000
+Default$$SimpleName::StringUtils$$org.apache.commons.lang3.math.NumberUtils#1320:461:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1320:675:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang3.math.NumberUtils#1320:821:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang3.math.NumberUtils#1320:1647:1.0000
+Insert After$$Dimension::null$$org.apache.commons.lang3.math.NumberUtils#1323:1:1.0000
+Insert Before$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1323:1:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1323:6:1.0000
+Default$$SimpleName::toCharArray$$org.apache.commons.lang3.math.NumberUtils#1323:58:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1323:62:1.0000
+Default$$ArrayType::null$$org.apache.commons.lang3.math.NumberUtils#1323:269:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1323:455:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang3.math.NumberUtils#1323:461:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang3.math.NumberUtils#1323:1116:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1323:1179:1.0000
+Default$$SimpleName::createBigDecimal$$org.apache.commons.lang3.math.NumberUtils#598:13:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang3.math.NumberUtils#598:590:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang3.math.NumberUtils#598:821:1.0000
+Default$$SimpleName::substring$$org.apache.commons.lang3.math.NumberUtils#492:6:1.0000
+Default$$SimpleName::mant$$org.apache.commons.lang3.math.NumberUtils#492:19:1.0000
+Default$$SimpleName::expPos$$org.apache.commons.lang3.math.NumberUtils#492:52:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.NumberUtils#492:205:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang3.math.NumberUtils#492:461:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1332:2:1.0000
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.NumberUtils#1332:2:1.0000
+Insert Before$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1332:6:1.0000
+Insert Before$$InfixExpression::==$$org.apache.commons.lang3.math.NumberUtils#1332:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1332:11:1.0000
+Default$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1332:38:1.0000
+Default$$InfixExpression::+$$org.apache.commons.lang3.math.NumberUtils#1332:38:1.0000
+Default$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1332:114:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1332:179:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.NumberUtils#1332:229:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1332:314:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1332:675:1.0000
+Insert Before$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1330:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1330:3:1.0000
+Default$$ArrayAccess::null$$org.apache.commons.lang3.math.NumberUtils#1330:5:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1330:6:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1330:7:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.NumberUtils#1330:9:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.NumberUtils#1330:38:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.lang3.math.NumberUtils#1330:269:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1330:720:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1330:1179:1.0000
+Insert Before$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1324:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1324:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1324:6:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1324:253:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.lang3.math.NumberUtils#1324:269:1.0000
+Default$$QualifiedName::chars.length$$org.apache.commons.lang3.math.NumberUtils#1324:1116:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1324:1179:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1324:1179:1.0000
+Insert Before$$SimpleName::hasExp$$org.apache.commons.lang3.math.NumberUtils#1325:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1325:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1325:6:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1325:253:1.0000
+Default$$PrimitiveType::boolean$$org.apache.commons.lang3.math.NumberUtils#1325:269:1.0000
+Default$$BooleanLiteral::false$$org.apache.commons.lang3.math.NumberUtils#1325:1116:1.0000
+Default$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1325:1179:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1325:1179:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1325:1179:1.0000
+Insert Before$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1326:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1326:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1326:6:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1326:253:1.0000
+Default$$PrimitiveType::boolean$$org.apache.commons.lang3.math.NumberUtils#1326:269:1.0000
+Default$$BooleanLiteral::false$$org.apache.commons.lang3.math.NumberUtils#1326:1116:1.0000
+Default$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1326:1179:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1326:1179:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1326:1179:1.0000
+Insert Before$$SimpleName::allowSigns$$org.apache.commons.lang3.math.NumberUtils#1327:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1327:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1327:6:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1327:253:1.0000
+Default$$PrimitiveType::boolean$$org.apache.commons.lang3.math.NumberUtils#1327:269:1.0000
+Default$$BooleanLiteral::false$$org.apache.commons.lang3.math.NumberUtils#1327:1116:1.0000
+Default$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1327:1179:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1327:1179:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1327:1179:1.0000
+Insert Before$$SimpleName::foundDigit$$org.apache.commons.lang3.math.NumberUtils#1328:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1328:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1328:6:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1328:253:1.0000
+Default$$PrimitiveType::boolean$$org.apache.commons.lang3.math.NumberUtils#1328:269:1.0000
+Default$$BooleanLiteral::false$$org.apache.commons.lang3.math.NumberUtils#1328:1116:1.0000
+Default$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1328:1179:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1328:1179:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1328:1179:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.lang3.math.NumberUtils#621:1:1.0000
+Insert After$$NumberLiteral::0$$org.apache.commons.lang3.math.NumberUtils#621:2:1.0000
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang3.math.NumberUtils#621:14:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang3.math.NumberUtils#621:48:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang3.math.NumberUtils#621:58:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang3.math.NumberUtils#621:110:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang3.math.NumberUtils#621:114:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang3.math.NumberUtils#621:461:1.0000
+Default$$InfixExpression::>$$org.apache.commons.lang3.math.NumberUtils#621:590:1.0000
+Insert After$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1331:2:1.0000
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.NumberUtils#1331:2:1.0000
+Insert Before$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1331:6:1.0000
+Insert Before$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1331:6:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1331:7:1.0000
+Default$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1331:114:1.0000
+Default$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1331:126:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.NumberUtils#1331:229:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1331:675:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1331:720:1.0000
+Insert After$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1353:1:1.0000
+Insert After$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1353:2:1.0000
+Insert After$$NumberLiteral::1$$org.apache.commons.lang3.math.NumberUtils#1353:2:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1353:6:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1353:6:1.0000
+Insert Before$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1353:6:1.0000
+Insert After$$WhileStatement::null$$org.apache.commons.lang3.math.NumberUtils#1353:8:1.0000
+Insert Before$$InfixExpression::<$$org.apache.commons.lang3.math.NumberUtils#1353:10:1.0000
+Insert After$$ParenthesizedExpression::null$$org.apache.commons.lang3.math.NumberUtils#1353:10:1.0000
+Insert Before$$InfixExpression::&&$$org.apache.commons.lang3.math.NumberUtils#1353:10:1.0000
+Insert Before$$InfixExpression::<$$org.apache.commons.lang3.math.NumberUtils#1353:10:1.0000
+Insert After$$PrefixExpression::!$$org.apache.commons.lang3.math.NumberUtils#1353:10:1.0000
+Insert After$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1353:14:1.0000
+Insert After$$SimpleName::allowSigns$$org.apache.commons.lang3.math.NumberUtils#1353:14:1.0000
+Default$$SimpleName::foundDigit$$org.apache.commons.lang3.math.NumberUtils#1353:51:1.0000
+Default$$InfixExpression::<$$org.apache.commons.lang3.math.NumberUtils#1353:68:1.0000
+Insert Before$$WhileStatement::null$$org.apache.commons.lang3.math.NumberUtils#1353:77:1.0000
+Default$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1353:114:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1353:119:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1353:126:1.0000
+Default$$SimpleName::allowSigns$$org.apache.commons.lang3.math.NumberUtils#1353:178:1.0000
+Default$$PrefixExpression::!$$org.apache.commons.lang3.math.NumberUtils#1353:178:1.0000
+Default$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1353:229:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.lang3.math.NumberUtils#1353:229:1.0000
+Insert Before$$InfixExpression::>=$$org.apache.commons.lang3.math.NumberUtils#1387:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1387:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1387:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1387:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1387:38:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1387:87:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1387:179:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1387:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1387:675:1.0000
+Insert Before$$InfixExpression::==$$org.apache.commons.lang3.math.NumberUtils#1391:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1391:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1391:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1391:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1391:38:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1391:87:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1391:87:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1391:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1391:675:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1333:1:1.0000
+Insert After$$NumberLiteral::2$$org.apache.commons.lang3.math.NumberUtils#1333:2:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1333:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1333:6:1.0000
+Insert Before$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1333:6:1.0000
+Default$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1333:114:1.0000
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1333:187:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1333:198:1.0000
+Default$$NumberLiteral::2$$org.apache.commons.lang3.math.NumberUtils#1333:229:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.lang3.math.NumberUtils#1333:269:1.0000
+Default$$InfixExpression::+$$org.apache.commons.lang3.math.NumberUtils#1333:1116:1.0000
+Insert After$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1359:1:1.0000
+Insert Before$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1359:6:1.0000
+Insert After$$SimpleName::hasExp$$org.apache.commons.lang3.math.NumberUtils#1359:14:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1359:54:1.0000
+Default$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1359:119:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1359:179:1.0000
+Default$$SimpleName::hasExp$$org.apache.commons.lang3.math.NumberUtils#1359:229:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1359:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1359:675:1.0000
+Default$$InfixExpression::||$$org.apache.commons.lang3.math.NumberUtils#1359:1647:1.0000
+Insert After$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1396:1:1.0000
+Insert Before$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1396:6:1.0000
+Insert After$$SimpleName::hasExp$$org.apache.commons.lang3.math.NumberUtils#1396:14:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1396:39:1.0000
+Default$$SimpleName::hasDecPoint$$org.apache.commons.lang3.math.NumberUtils#1396:119:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1396:179:1.0000
+Default$$SimpleName::hasExp$$org.apache.commons.lang3.math.NumberUtils#1396:229:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1396:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1396:675:1.0000
+Default$$InfixExpression::||$$org.apache.commons.lang3.math.NumberUtils#1396:1647:1.0000
+Insert After$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1334:1:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1334:5:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1334:6:1.0000
+Insert After$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1334:14:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1334:119:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1334:198:1.0000
+Default$$SimpleName::sz$$org.apache.commons.lang3.math.NumberUtils#1334:229:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1334:638:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1334:675:1.0000
+Default$$InfixExpression::==$$org.apache.commons.lang3.math.NumberUtils#1334:1647:1.0000
+Insert After$$ParenthesizedExpression::null$$org.apache.commons.lang3.math.NumberUtils#1339:2:1.0000
+Insert Before$$InfixExpression::<$$org.apache.commons.lang3.math.NumberUtils#1339:10:1.0000
+Insert Before$$ParenthesizedExpression::null$$org.apache.commons.lang3.math.NumberUtils#1339:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1339:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1339:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1339:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1339:38:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1339:40:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1339:81:1.0000
+Insert Before$$InfixExpression::==$$org.apache.commons.lang3.math.NumberUtils#1375:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1375:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1375:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1375:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1375:38:1.0000
+Insert After$$QualifiedName::chars.length$$org.apache.commons.lang3.math.NumberUtils#1386:2:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1386:6:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1386:8:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1386:54:1.0000
+Default$$QualifiedName::chars.length$$org.apache.commons.lang3.math.NumberUtils#1386:229:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1386:240:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1386:675:1.0000
+Default$$InfixExpression::<$$org.apache.commons.lang3.math.NumberUtils#1386:1647:1.0000
+Insert Before$$InfixExpression::==$$org.apache.commons.lang3.math.NumberUtils#1364:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1364:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1364:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1364:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1364:38:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1395:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1395:38:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1395:87:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1395:87:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1395:675:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1354:4:1.0000
+Insert Before$$InfixExpression::>=$$org.apache.commons.lang3.math.NumberUtils#1354:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1354:11:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1354:11:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1354:27:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1354:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1354:38:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1350:1:1.0000
+Insert Before$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1350:3:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1350:6:1.0000
+Insert After$$VariableDeclarationStatement::null$$org.apache.commons.lang3.math.NumberUtils#1350:77:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang3.math.NumberUtils#1350:253:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.lang3.math.NumberUtils#1350:269:1.0000
+Default$$SimpleName::start$$org.apache.commons.lang3.math.NumberUtils#1350:1116:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1358:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1358:38:1.0000
+Default$$SimpleName::allowSigns$$org.apache.commons.lang3.math.NumberUtils#1376:51:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1376:54:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1376:91:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1376:179:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1376:675:1.0000
+Default$$PrefixExpression::!$$org.apache.commons.lang3.math.NumberUtils#1376:1647:1.0000
+Insert Before$$InfixExpression::==$$org.apache.commons.lang3.math.NumberUtils#1410:10:1.0000
+Default$$SimpleName::chars$$org.apache.commons.lang3.math.NumberUtils#1410:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.lang3.math.NumberUtils#1410:38:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1410:39:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1410:87:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1366:87:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1366:179:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1366:675:1.0000
+Default$$SimpleName::hasExp$$org.apache.commons.lang3.math.NumberUtils#1366:1647:1.0000
+Default$$SimpleName::foundDigit$$org.apache.commons.lang3.math.NumberUtils#1370:51:1.0000
+Insert After$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1370:54:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang3.math.NumberUtils#1370:87:1.0000
+Default$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1370:91:1.0000
+Insert After$$Block::null$$org.apache.commons.lang3.math.NumberUtils#1370:675:1.0000
+Default$$PrefixExpression::!$$org.apache.commons.lang3.math.NumberUtils#1370:1647:1.0000
+Insert Before$$SimpleName::foundDigit$$org.apache.commons.lang3.math.NumberUtils#1413:6:1.0000
+Insert After$$PrefixExpression::!$$org.apache.commons.lang3.math.NumberUtils#1413:10:1.0000

@@ -1,0 +1,15 @@
+Class:org.jfree.chart.renderer.category.AbstractCategoryItemRenderer
+replace
+dataset != null
+with
+dataset == null
+at line 1797
+Applied Change
+replace
+var0 != null
+with
+var0 != null
+from
+lucene-65bfa48:solr/solrj/src/java/org/apache/solr/client/solrj/request/CollectionAdminRequest.java::
+1
+P:IfStatement{expression},L:,R:{8{41{42}}}

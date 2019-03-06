@@ -1,0 +1,4 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$InfixExpression::==$$org.apache.commons.lang.text.ExtendedMessageFormat#422:3:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.text.ExtendedMessageFormat#422:18:1.0000
+Default$$SimpleName::appendTo$$org.apache.commons.lang.text.ExtendedMessageFormat#422:44:1.0000

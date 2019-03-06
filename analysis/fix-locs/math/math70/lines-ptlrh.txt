@@ -1,0 +1,5 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::solve$$org.apache.commons.math.analysis.solvers.BisectionSolver#72:13:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.analysis.solvers.BisectionSolver#72:15:1.0000
+Default$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BisectionSolver#72:267:1.0000
+Insert Before$$SimpleName::min$$org.apache.commons.math.analysis.solvers.BisectionSolver#72:267:1.0000

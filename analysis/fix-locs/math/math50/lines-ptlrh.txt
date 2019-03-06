@@ -1,0 +1,7 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::DEFAULT_ABSOLUTE_ACCURACY$$org.apache.commons.math.analysis.solvers.RegulaFalsiSolver#43:12:0.3333
+Default$$QualifiedName::Method.REGULA_FALSI$$org.apache.commons.math.analysis.solvers.RegulaFalsiSolver#43:22:0.3333
+Insert Before$$InfixExpression::+$$org.apache.commons.math.analysis.solvers.BaseSecantSolver#188:1:1.0000
+Insert After$$SimpleName::x0$$org.apache.commons.math.analysis.solvers.BaseSecantSolver#188:4:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.math.analysis.solvers.BaseSecantSolver#188:7:1.0000
+Insert After$$SimpleName::x1$$org.apache.commons.math.analysis.solvers.BaseSecantSolver#188:17:1.0000

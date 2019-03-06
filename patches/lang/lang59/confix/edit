@@ -1,0 +1,14 @@
+Class:org.apache.commons.lang.text.StrBuilder
+insert
+'\n'
+at Insert After
+SimpleName::width
+org.apache.commons.lang.text.StrBuilder:880
+Context:P:InfixExpression{extendedOperands},L:{42},R:
+Applied Change
+insert
+'\n'
+from
+mahout-ad8b61d:utils/src/main/java/org/apache/mahout/clustering/lda/LDAPrintTopics.java::
+1
+P:InfixExpression{extendedOperands},L:{42},R:

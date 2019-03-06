@@ -1,0 +1,15 @@
+Class:org.jfree.data.time.TimeSeries
+insert
+copy=new TimeSeries(start);
+
+at Insert Before
+IfStatement::null
+org.jfree.data.time.TimeSeries:1058
+Context:P:MethodDeclaration{statements},L:Assignment{statements},R:IfStatement{statements}
+Applied Change
+insert
+var0 = new Type0(var1)
+from
+lucene-c54608b:lucene/src/java/org/apache/lucene/search/SloppyPhraseScorer.java:
+3
+P:MethodDeclaration{statements},L:Assignment{statements},R:IfStatement{statements}

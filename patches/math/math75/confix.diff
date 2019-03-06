@@ -1,0 +1,19 @@
+--- ../result-tf-hash/math/math75/buggy/org/apache/commons/math/stat/Frequency.java	2019-02-21 11:38:18.549404226 +0000
++++ ../result-tf-hash/math/math75/confix/org/apache/commons/math/stat/Frequency.java	2019-02-21 11:38:18.549404226 +0000
+@@ -23,6 +23,7 @@
+ import java.util.TreeMap;
+ 
+ import org.apache.commons.math.MathRuntimeException;
++import java.util.Map;
+ 
+ /**
+  * Maintains a frequency distribution.
+@@ -300,7 +301,7 @@
+      */
+     @Deprecated
+     public double getPct(Object v) {
+-        return getCumPct((Comparable<?>) v);
++        return getPct((Comparable<?>) v);
+     }
+ 
+     /**

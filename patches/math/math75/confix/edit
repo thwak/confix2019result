@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.stat.Frequency
+update
+getCumPct
+to
+getPct
+at line 303
+Applied Change
+update
+method0
+to
+method0
+from
+collections-46f3c54:src/java/org/apache/commons/collections/map/AbstractHashedMap.java:
+14
+P:MethodInvocation{name},L:,R:CastExpression{arguments}

@@ -1,0 +1,15 @@
+Class:org.apache.commons.math3.optimization.linear.SimplexTableau
+update
+maxUlps
+to
+epsilon
+at line 338
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+16
+P:MethodInvocation{arguments},L:{34},R:

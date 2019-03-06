@@ -1,0 +1,393 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::restoreLookAhead$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1838:13:0.3780
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1838:240:0.3780
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1838:821:0.3780
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1839:166:0.3780
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1839:590:0.3780
+Default$$SimpleName::reportTypeSyntaxWarning$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2303:1:0.3536
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2303:227:0.3536
+Default$$StringLiteral::"msg.jsdoc.type.syntax"$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2303:821:0.3536
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2303:1531:0.3536
+Default$$SimpleName::newNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#947:1:0.1925
+Default$$SimpleName::createJSTypeExpression$$com.google.javascript.jscomp.parsing.JsDocInfoParser#947:5:0.1925
+Default$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#947:19:0.1925
+Default$$QualifiedName::Token.QMARK$$com.google.javascript.jscomp.parsing.JsDocInfoParser#947:821:0.1925
+Default$$SimpleName::unreadToken$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2341:24:0.1543
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2341:623:0.1543
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2341:1531:0.1543
+Default$$SimpleName::addTypeWarning$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:44:0.1525
+Insert After$$SimpleName::warning$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:45:0.1525
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:45:0.1525
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:45:0.1525
+Default$$SimpleName::getLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:58:0.1525
+Default$$SimpleName::getCharno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:58:0.1525
+Default$$SimpleName::warning$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:86:0.1525
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:140:0.1525
+Insert Before$$SimpleName::warning$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:205:0.1525
+Default$$SimpleName::parser$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:461:0.1525
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:461:0.1525
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2298:461:0.1525
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2299:166:0.1525
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2299:727:0.1525
+Insert Before$$SimpleName::returnDescriptionInfo$$com.google.javascript.jscomp.parsing.JsDocInfoParser#958:1:0.1204
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#958:6:0.1204
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#958:187:0.1204
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#958:229:0.1204
+Default$$SimpleType::ExtractionInfo$$com.google.javascript.jscomp.parsing.JsDocInfoParser#958:269:0.1204
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#958:527:0.1204
+Default$$SimpleName::builder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1483:461:0.1104
+Default$$CharacterLiteral::' '$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1483:821:0.1104
+Insert After$$QualifiedName::WhitespaceOption.PRESERVE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:2:0.0990
+Insert Before$$SimpleName::lineStartChar$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:6:0.0990
+Insert Before$$SimpleName::option$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:6:0.0990
+Insert Before$$InfixExpression::!=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:10:0.0990
+Insert After$$PrefixExpression::-$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:10:0.0990
+Default$$SimpleName::lineStartChar$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:50:0.0990
+Default$$SimpleName::option$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:54:0.0990
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:126:0.0990
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:179:0.0990
+Default$$PrefixExpression::-$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:229:0.0990
+Default$$QualifiedName::WhitespaceOption.PRESERVE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:229:0.0990
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1475:314:0.0990
+Default$$SimpleName::warning$$com.google.javascript.jscomp.parsing.JsDocInfoParser#82:10:0.0967
+Default$$SimpleName::errorReporter$$com.google.javascript.jscomp.parsing.JsDocInfoParser#82:461:0.0967
+Insert After$$Modifier::public$$com.google.javascript.jscomp.parsing.JsDocInfoParser#48:3:0.0801
+Insert Before$$Modifier::final$$com.google.javascript.jscomp.parsing.JsDocInfoParser#48:3:0.0801
+Default$$Modifier::final$$com.google.javascript.jscomp.parsing.JsDocInfoParser#48:7:0.0801
+Insert After$$Modifier::final$$com.google.javascript.jscomp.parsing.JsDocInfoParser#48:7:0.0801
+Default$$Modifier::public$$com.google.javascript.jscomp.parsing.JsDocInfoParser#48:18:0.0801
+Insert Before$$Modifier::public$$com.google.javascript.jscomp.parsing.JsDocInfoParser#48:18:0.0801
+Default$$SimpleName::markText$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1503:44:0.0727
+Default$$SimpleName::startLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1503:101:0.0727
+Default$$SimpleName::startCharno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1503:101:0.0727
+Default$$SimpleName::multilineText$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1503:205:0.0727
+Default$$SimpleName::jsdocBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1503:461:0.0727
+Insert Before$$SimpleName::blockInfo$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:1:0.0716
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:6:0.0716
+Default$$SimpleName::extractBlockComment$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:13:0.0716
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:103:0.0716
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:187:0.0716
+Default$$SimpleType::ExtractionInfo$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:269:0.0716
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:527:0.0716
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:821:0.0716
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#209:1116:0.0716
+Default$$SimpleName::trim$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:20:0.0716
+Default$$SimpleType::ExtractionInfo$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:23:0.0716
+Default$$SimpleName::toString$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:58:0.0716
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:64:0.0716
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:70:0.0716
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:461:0.0716
+Default$$SimpleName::builder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1546:461:0.0716
+Default$$SimpleName::isEmpty$$com.google.javascript.jscomp.parsing.JsDocInfoParser#211:2:0.0716
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#211:46:0.0716
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#211:314:0.0716
+Default$$QualifiedName::blockInfo.string$$com.google.javascript.jscomp.parsing.JsDocInfoParser#211:461:0.0716
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#211:675:0.0716
+Insert Before$$SimpleName::builder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:1:0.0716
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:6:0.0716
+Default$$SimpleType::StringBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:44:0.0716
+Default$$SimpleType::StringBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:269:0.0716
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:527:0.0716
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:601:0.0716
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:601:0.0716
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:1116:0.0716
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1537:1179:0.0716
+Insert Before$$SimpleName::ignoreStar$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:1:0.0716
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:3:0.0716
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:6:0.0716
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:9:0.0716
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:269:0.0716
+Default$$BooleanLiteral::true$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:1116:0.0716
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1539:1179:0.0716
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#210:7:0.0716
+Default$$QualifiedName::blockInfo.token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#210:623:0.0716
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1542:7:0.0716
+Default$$SimpleName::extractMultilineTextualBlock$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1379:13:0.0645
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1379:31:0.0645
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1379:227:0.0645
+Default$$QualifiedName::WhitespaceOption.SINGLE_LINE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1379:312:0.0645
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1379:590:0.0645
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1379:1531:0.0645
+Default$$SimpleName::line$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1425:19:0.0638
+Default$$SimpleName::trim$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1425:58:0.0638
+Default$$SimpleName::line$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1425:461:0.0638
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1425:623:0.0638
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1425:1101:0.0638
+Default$$SimpleName::multilineText$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1496:19:0.0638
+Default$$SimpleName::trim$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1496:58:0.0638
+Default$$SimpleName::multilineText$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1496:461:0.0638
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1496:623:0.0638
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1496:1101:0.0638
+Insert Before$$SimpleName::startCharno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:1:0.0627
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:1:0.0627
+Insert After$$NumberLiteral::1$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:2:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:6:0.0627
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:14:0.0627
+Default$$SimpleName::getCharno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:58:0.0627
+Default$$NumberLiteral::1$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:110:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:114:0.0627
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:269:0.0627
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:461:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:1179:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1420:1179:0.0627
+Default$$SimpleName::append$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1429:44:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1429:231:0.0627
+Default$$SimpleName::builder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1429:461:0.0627
+Default$$SimpleName::line$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1429:821:0.0627
+Insert Before$$SimpleName::startLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:1:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:6:0.0627
+Default$$SimpleName::getLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:58:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:253:0.0627
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:269:0.0627
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:297:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:297:0.0627
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:461:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:1116:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1419:1179:0.0627
+Insert Before$$SimpleName::line$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:1:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:6:0.0627
+Default$$SimpleType::String$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:269:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:527:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:720:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:1116:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1423:1179:0.0627
+Insert Before$$SimpleName::endCharno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:1:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:6:0.0627
+Default$$SimpleName::getCharno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:58:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:198:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:229:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:253:0.0627
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:269:0.0627
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:461:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1500:1116:0.0627
+Insert After$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:1:0.0627
+Insert After$$NumberLiteral::0$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:2:0.0627
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:14:0.0627
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:39:0.0627
+Default$$SimpleName::length$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:58:0.0627
+Default$$NumberLiteral::0$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:110:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:114:0.0627
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:198:0.0627
+Default$$SimpleName::multilineText$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:461:0.0627
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:675:0.0627
+Default$$InfixExpression::>$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1502:1647:0.0627
+Insert Before$$SimpleName::endLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:1:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:6:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:47:0.0627
+Default$$SimpleName::getLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:58:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:229:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:253:0.0627
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:269:0.0627
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:461:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1499:1116:0.0627
+Insert Before$$SimpleName::multilineText$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:1:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:6:0.0627
+Default$$SimpleName::toString$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:58:0.0627
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:179:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:187:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:198:0.0627
+Default$$SimpleType::String$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:269:0.0627
+Default$$SimpleName::builder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:461:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:527:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1493:1116:0.0627
+Insert After$$QualifiedName::WhitespaceOption.PRESERVE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:2:0.0627
+Insert Before$$SimpleName::option$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:6:0.0627
+Default$$SimpleName::option$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:54:0.0627
+Default$$QualifiedName::WhitespaceOption.PRESERVE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:229:0.0627
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:455:0.0627
+Default$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:638:0.0627
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:675:0.0627
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:720:0.0627
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1424:1647:0.0627
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1432:19:0.0627
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1432:150:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1432:623:0.0627
+Default$$SimpleName::update$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1418:58:0.0627
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1418:455:0.0627
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1418:461:0.0627
+Insert After$$QualifiedName::JsDocToken.EOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:2:0.0627
+Insert After$$QualifiedName::JsDocToken.EOL$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:2:0.0627
+Insert Before$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:6:0.0627
+Insert Before$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:6:0.0627
+Insert Before$$InfixExpression::||$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:10:0.0627
+Insert Before$$InfixExpression::==$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:10:0.0627
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:54:0.0627
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:54:0.0627
+Default$$QualifiedName::JsDocToken.EOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:229:0.0627
+Default$$QualifiedName::JsDocToken.EOL$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:229:0.0627
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:245:0.0627
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:428:0.0627
+Default$$InfixExpression::||$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1413:1647:0.0627
+Insert Before$$SimpleName::ignoreStar$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:1:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:6:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:150:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:253:0.0627
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:269:0.0627
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:1116:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1434:1179:0.0627
+Insert Before$$SimpleName::lineStartChar$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:1:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:6:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:9:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:253:0.0627
+Default$$PrimitiveType::int$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:269:0.0627
+Default$$PrefixExpression::-$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:1116:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1439:1179:0.0627
+Insert Before$$SimpleName::builder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:1:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:6:0.0627
+Default$$SimpleType::StringBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:44:0.0627
+Default$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:245:0.0627
+Default$$SimpleType::StringBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:269:0.0627
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:455:0.0627
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:527:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:598:0.0627
+Default$$ClassInstanceCreation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1428:1116:0.0627
+Insert Before$$SimpleName::isEOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:1:0.0627
+Insert After$$QualifiedName::JsDocToken.EOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:2:0.0627
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:3:0.0627
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:6:0.0627
+Insert Before$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:6:0.0627
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:8:0.0627
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:54:0.0627
+Default$$QualifiedName::JsDocToken.EOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:229:0.0627
+Default$$PrimitiveType::boolean$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1473:269:0.0627
+Insert After$$QualifiedName::WhitespaceOption.PRESERVE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:2:0.0627
+Insert Before$$SimpleName::option$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:6:0.0627
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:47:0.0627
+Default$$SimpleName::option$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:54:0.0627
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:198:0.0627
+Default$$QualifiedName::WhitespaceOption.PRESERVE$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:229:0.0627
+Default$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:638:0.0627
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:675:0.0627
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1495:1647:0.0627
+Insert After$$QualifiedName::JsDocToken.EOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:2:0.0627
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:5:0.0627
+Insert Before$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:6:0.0627
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:7:0.0627
+Insert Before$$InfixExpression::||$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:10:0.0627
+Insert Before$$InfixExpression::==$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:10:0.0627
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:54:0.0627
+Default$$QualifiedName::JsDocToken.EOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1487:229:0.0627
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1474:5:0.0627
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1474:8:0.0627
+Default$$SimpleName::isEOC$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1474:51:0.0627
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1474:675:0.0627
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1474:1647:0.0627
+Default$$SimpleName::state$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1431:7:0.0627
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1431:99:0.0627
+Default$$QualifiedName::State.SEARCHING_ANNOTATION$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1431:623:0.0627
+Default$$SimpleName::ignoreStar$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1470:6:0.0627
+Default$$BooleanLiteral::false$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1470:623:0.0627
+Default$$SimpleName::state$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1471:7:0.0627
+Default$$QualifiedName::State.SEARCHING_ANNOTATION$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1471:623:0.0627
+Insert After$$Modifier::private$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1382:1:0.0627
+Insert Before$$EnumDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1382:2:0.0627
+Insert After$$EnumDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1382:3:0.0627
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1442:7:0.0627
+Insert Before$$SimpleName::result$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:1:0.0210
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:6:0.0210
+Default$$SimpleName::getRemainingJSDocLine$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:58:0.0210
+Default$$SimpleType::String$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:269:0.0210
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:421:0.0210
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:461:0.0210
+Default$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:527:0.0210
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:601:0.0210
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2400:1116:0.0210
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2401:421:0.0210
+Default$$SimpleName::result$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2401:590:0.0210
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2401:1185:0.0210
+Insert After$$Modifier::public$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:5:0.0208
+Default$$Modifier::public$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:13:0.0208
+Insert Before$$Modifier::public$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:32:0.0208
+Insert After$$MethodDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:128:0.0208
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:207:0.0208
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:207:0.0208
+Default$$SimpleType::String$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:232:0.0208
+Default$$SimpleType::JsDocToken$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:232:0.0208
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:235:0.0208
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:235:0.0208
+Default$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:254:0.0208
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:254:0.0208
+Default$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:385:0.0208
+Insert Before$$MethodDeclaration::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1332:602:0.0208
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1334:1:0.0208
+Default$$ThisExpression::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1334:13:0.0208
+Default$$FieldAccess::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1334:24:0.0208
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1334:191:0.0208
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1334:545:0.0208
+Default$$SimpleName::string$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1333:1:0.0208
+Default$$ThisExpression::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1333:13:0.0208
+Default$$FieldAccess::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1333:24:0.0208
+Default$$SimpleName::string$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1333:191:0.0208
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1333:265:0.0208
+Insert After$$Modifier::private$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1328:3:0.0208
+Insert Before$$Modifier::static$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1328:3:0.0208
+Insert After$$Modifier::static$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1328:7:0.0208
+Default$$Modifier::private$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1328:18:0.0208
+Insert Before$$Modifier::private$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1328:18:0.0208
+Insert After$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:27:0.0203
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:27:0.0203
+Insert Before$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:27:0.0203
+Default$$SimpleType::Node$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:34:0.0203
+Default$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:37:0.0203
+Default$$SimpleName::getLineno$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:58:0.0203
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:227:0.0203
+Default$$SimpleName::stream$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2271:461:0.0203
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#957:5:0.0200
+Default$$SimpleName::shouldParseDocumentation$$com.google.javascript.jscomp.parsing.JsDocInfoParser#957:58:0.0200
+Default$$SimpleName::jsdocBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#957:461:0.0200
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#957:1647:0.0200
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:5:0.0200
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:5:0.0200
+Default$$SimpleName::recordReturnType$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:44:0.0200
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:51:0.0200
+Default$$SimpleName::jsdocBuilder$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:461:0.0200
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:675:0.0200
+Default$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:821:0.0200
+Default$$PrefixExpression::!$$com.google.javascript.jscomp.parsing.JsDocInfoParser#950:1647:0.0200
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#946:5:0.0200
+Insert Before$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#946:6:0.0200
+Default$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#946:44:0.0200
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#946:675:0.0200
+Default$$InfixExpression::==$$com.google.javascript.jscomp.parsing.JsDocInfoParser#946:1647:0.0200
+Default$$SimpleName::matchedLc$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2443:6:0.0189
+Default$$BooleanLiteral::true$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2443:623:0.0189
+Insert Before$$BreakStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#2444:2:0.0189
+Insert Before$$SimpleName::typeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:1:0.0188
+Default$$SimpleName::parseTopLevelTypeExpression$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:5:0.0188
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:6:0.0188
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:69:0.0188
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:198:0.0188
+Default$$SimpleType::Node$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:269:0.0188
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:821:0.0188
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1626:1116:0.0188
+Insert Before$$SimpleName::typeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1627:6:0.0188
+Insert After$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1627:39:0.0188
+Default$$SimpleName::typeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1627:44:0.0188
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1627:198:0.0188
+Insert After$$Block::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1627:675:0.0188
+Default$$InfixExpression::!=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1627:1647:0.0188
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1625:187:0.0188
+Insert Before$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1636:39:0.0188
+Default$$ReturnStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1636:314:0.0188
+Default$$SimpleName::typeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#1636:590:0.0188
+Default$$SimpleName::createJSTypeExpression$$com.google.javascript.jscomp.parsing.JsDocInfoParser#884:13:0.0187
+Default$$SimpleName::type$$com.google.javascript.jscomp.parsing.JsDocInfoParser#884:19:0.0187
+Default$$Assignment::=$$com.google.javascript.jscomp.parsing.JsDocInfoParser#884:314:0.0187
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#884:623:0.0187
+Default$$SimpleName::typeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#884:821:0.0187
+Default$$SimpleName::parseAndRecordTypeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#879:13:0.0187
+Default$$SimpleName::typeNode$$com.google.javascript.jscomp.parsing.JsDocInfoParser#879:19:0.0187
+Insert After$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#879:312:0.0187
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#879:623:0.0187
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#879:821:0.0187
+Default$$SimpleName::token$$com.google.javascript.jscomp.parsing.JsDocInfoParser#878:19:0.0187
+Default$$MethodInvocation::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#878:623:0.0187
+Insert After$$QualifiedName::Annotation.THIS$$com.google.javascript.jscomp.parsing.JsDocInfoParser#881:2:0.0187
+Insert Before$$SimpleName::annotation$$com.google.javascript.jscomp.parsing.JsDocInfoParser#881:6:0.0187
+Insert Before$$IfStatement::null$$com.google.javascript.jscomp.parsing.JsDocInfoParser#881:46:0.0187

@@ -1,0 +1,14 @@
+Class:org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver
+insert
+1
+at Insert After
+SimpleName::signChangeIndex
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver:260
+Context:P:InfixExpression{extendedOperands},L:{42},R:
+Applied Change
+insert
+1
+from
+lucene-884aa16:solr/core/src/java/org/apache/solr/search/facet/FacetField.java::
+1
+P:InfixExpression{extendedOperands},L:{42},R:

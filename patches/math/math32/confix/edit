@@ -1,0 +1,14 @@
+Class:org.apache.commons.math3.geometry.partitioning.AbstractRegion
+insert
+0
+at Insert Before
+MethodInvocation::null
+org.apache.commons.math3.geometry.partitioning.AbstractRegion:205
+Context:P:MethodInvocation{arguments},L:{42},R:{32{42}{42}}
+Applied Change
+insert
+0
+from
+lucene-65bfa48:lucene/core/src/java/org/apache/lucene/util/bkd/BKDWriter.java::
+3
+P:MethodInvocation{arguments},L:{42},R:{32{42}{42}}

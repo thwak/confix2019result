@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.Normalize
+update
+next
+to
+n
+at line 499
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+68
+P:Assignment{rightHandSide},L:{42},R:

@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.optimization.fitting.GaussianFitter
+replace
+p1.getX()
+with
+p2.getY()
+at line 313
+Applied Change
+replace
+var0.method0()
+with
+var0.method0()
+from
+lucene-a7a28ec:solr/core/src/java/org/apache/solr/cloud/autoscaling/ScheduledTriggers.java::
+1
+P:InfixExpression{leftOperand},L:,R:{32{42}{42}}

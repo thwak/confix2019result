@@ -1,0 +1,164 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::state$$org.jfree.chart.plot.PiePlot3D#280:1:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#280:6:0.7071
+Default$$SimpleName::initialise$$org.jfree.chart.plot.PiePlot3D#280:13:0.7071
+Default$$SimpleName::info$$org.jfree.chart.plot.PiePlot3D#280:13:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#280:205:0.7071
+Default$$SimpleType::PiePlotState$$org.jfree.chart.plot.PiePlot3D#280:269:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#280:455:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#280:1179:0.7071
+Insert Before$$SimpleName::linkY$$org.jfree.chart.plot.PiePlot3D#267:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#267:1:0.7071
+Insert After$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#267:2:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#267:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#267:6:0.7071
+Insert Before$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#267:6:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#267:14:0.7071
+Default$$SimpleName::getY$$org.jfree.chart.plot.PiePlot3D#267:58:0.7071
+Default$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#267:114:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#267:126:0.7071
+Default$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#267:229:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#267:269:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#267:461:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#267:1179:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#267:1179:0.7071
+Insert Before$$SimpleName::linkW$$org.jfree.chart.plot.PiePlot3D#268:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#268:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#268:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#268:6:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#268:14:0.7071
+Insert After$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#268:14:0.7071
+Default$$SimpleName::getWidth$$org.jfree.chart.plot.PiePlot3D#268:58:0.7071
+Default$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#268:110:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#268:119:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#268:269:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#268:461:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#268:1179:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#268:1179:0.7071
+Insert Before$$SimpleName::linkX$$org.jfree.chart.plot.PiePlot3D#266:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#266:1:0.7071
+Insert After$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#266:2:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#266:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#266:6:0.7071
+Insert Before$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#266:6:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#266:14:0.7071
+Default$$SimpleName::getX$$org.jfree.chart.plot.PiePlot3D#266:58:0.7071
+Default$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#266:114:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#266:126:0.7071
+Default$$NumberLiteral::2$$org.jfree.chart.plot.PiePlot3D#266:229:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#266:269:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#266:455:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#266:461:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#266:1179:0.7071
+Insert Before$$SimpleName::linkH$$org.jfree.chart.plot.PiePlot3D#269:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#269:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#269:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#269:6:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#269:14:0.7071
+Insert After$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#269:14:0.7071
+Default$$SimpleName::getHeight$$org.jfree.chart.plot.PiePlot3D#269:58:0.7071
+Default$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#269:110:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#269:119:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#269:269:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#269:461:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#269:720:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#269:1179:0.7071
+Default$$SimpleName::trim$$org.jfree.chart.plot.PiePlot3D#231:44:0.7071
+Default$$SimpleName::insets$$org.jfree.chart.plot.PiePlot3D#231:461:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#231:821:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#231:1179:0.7071
+Default$$SimpleName::clip$$org.jfree.chart.plot.PiePlot3D#242:44:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#242:461:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#242:821:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#242:1179:0.7071
+Insert Before$$SimpleName::gapVertical$$org.jfree.chart.plot.PiePlot3D#252:1:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#252:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#252:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#252:6:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#252:14:0.7071
+Default$$SimpleName::getHeight$$org.jfree.chart.plot.PiePlot3D#252:58:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#252:119:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#252:269:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#252:461:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#252:720:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#252:1179:0.7071
+Insert Before$$SimpleName::gapHorizontal$$org.jfree.chart.plot.PiePlot3D#250:1:0.7071
+Insert After$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#250:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#250:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#250:6:0.7071
+Insert Before$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#250:6:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#250:14:0.7071
+Default$$SimpleName::getWidth$$org.jfree.chart.plot.PiePlot3D#250:58:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#250:68:0.7071
+Default$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#250:119:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#250:269:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#250:455:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#250:461:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#250:1179:0.7071
+Default$$SimpleName::drawBackground$$org.jfree.chart.plot.PiePlot3D#239:13:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#239:205:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#239:312:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#239:455:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#248:3:0.7071
+Default$$SimpleName::labelPercent$$org.jfree.chart.plot.PiePlot3D#248:9:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#248:14:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#248:29:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#248:110:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#247:14:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#247:44:0.7071
+Insert After$$IfStatement::null$$org.jfree.chart.plot.PiePlot3D#247:455:0.7071
+Insert After$$Block::null$$org.jfree.chart.plot.PiePlot3D#247:675:0.7071
+Insert Before$$IfStatement::null$$org.jfree.chart.plot.PiePlot3D#247:720:0.7071
+Default$$InfixExpression::!=$$org.jfree.chart.plot.PiePlot3D#247:1647:0.7071
+Insert Before$$SimpleName::savedClip$$org.jfree.chart.plot.PiePlot3D#241:1:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#241:6:0.7071
+Default$$SimpleName::getClip$$org.jfree.chart.plot.PiePlot3D#241:58:0.7071
+Default$$SimpleType::Shape$$org.jfree.chart.plot.PiePlot3D#241:269:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#241:297:0.7071
+Default$$SimpleName::g2$$org.jfree.chart.plot.PiePlot3D#241:461:0.7071
+Default$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#241:504:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#241:527:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#241:598:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#241:1116:0.7071
+Insert Before$$SimpleName::originalPlotArea$$org.jfree.chart.plot.PiePlot3D#233:1:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#233:6:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#233:31:0.7071
+Default$$SimpleType::Rectangle2D$$org.jfree.chart.plot.PiePlot3D#233:40:0.7071
+Default$$SimpleName::clone$$org.jfree.chart.plot.PiePlot3D#233:58:0.7071
+Default$$SimpleType::Rectangle2D$$org.jfree.chart.plot.PiePlot3D#233:269:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#233:297:0.7071
+Default$$SimpleName::plotArea$$org.jfree.chart.plot.PiePlot3D#233:461:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#233:527:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#233:720:0.7071
+Default$$CastExpression::null$$org.jfree.chart.plot.PiePlot3D#233:1116:0.7071
+Insert Before$$SimpleName::gapPercent$$org.jfree.chart.plot.PiePlot3D#245:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#245:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#245:6:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#245:253:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#245:269:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#245:297:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#245:1116:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#245:1179:0.7071
+Insert After$$IfStatement::null$$org.jfree.chart.plot.PiePlot3D#272:455:0.7071
+Insert After$$Block::null$$org.jfree.chart.plot.PiePlot3D#272:675:0.7071
+Insert Before$$IfStatement::null$$org.jfree.chart.plot.PiePlot3D#272:720:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#272:1647:0.7071
+Insert Before$$SimpleName::insets$$org.jfree.chart.plot.PiePlot3D#230:1:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#230:6:0.7071
+Default$$SimpleType::RectangleInsets$$org.jfree.chart.plot.PiePlot3D#230:269:0.7071
+Default$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#230:317:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#230:527:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#230:598:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#230:601:0.7071
+Default$$MethodInvocation::null$$org.jfree.chart.plot.PiePlot3D#230:1116:0.7071
+Insert Before$$SimpleName::labelPercent$$org.jfree.chart.plot.PiePlot3D#246:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#246:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#246:6:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.PiePlot3D#246:253:0.7071
+Default$$PrimitiveType::double$$org.jfree.chart.plot.PiePlot3D#246:269:0.7071
+Default$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#246:720:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#246:720:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.plot.PiePlot3D#246:1179:0.7071
+Insert Before$$SimpleName::info$$org.jfree.chart.plot.PiePlot3D#234:6:0.7071
+Default$$SimpleName::info$$org.jfree.chart.plot.PiePlot3D#234:44:0.7071
+Insert After$$IfStatement::null$$org.jfree.chart.plot.PiePlot3D#234:245:0.7071

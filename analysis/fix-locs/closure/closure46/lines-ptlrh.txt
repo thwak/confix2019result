@@ -1,0 +1,746 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::getGreatestSubtypeHelper$$com.google.javascript.rhino.jstype.JSType#747:5:0.1925
+Default$$SimpleName::toMaybeRecordType$$com.google.javascript.rhino.jstype.JSType#747:62:0.1925
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#747:466:0.1925
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#747:466:0.1925
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#747:1040:0.1925
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#93:1:0.1284
+Default$$SimpleName::compareTo$$com.google.javascript.rhino.jstype.JSType#93:1:0.1284
+Default$$SimpleName::toString$$com.google.javascript.rhino.jstype.JSType#93:62:0.1284
+Default$$SimpleName::toString$$com.google.javascript.rhino.jstype.JSType#93:62:0.1284
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#93:466:0.1284
+Default$$SimpleName::t1$$com.google.javascript.rhino.jstype.JSType#93:466:0.1284
+Default$$SimpleName::t2$$com.google.javascript.rhino.jstype.JSType#93:466:0.1284
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#93:1040:0.1284
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#1105:35:0.0797
+Default$$SimpleName::resolved$$com.google.javascript.rhino.jstype.JSType#1105:590:0.0797
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#1105:1531:0.0797
+Default$$SimpleName::isRecordType$$com.google.javascript.rhino.jstype.JSType#746:62:0.0465
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#746:466:0.0465
+Default$$SimpleName::isUnionType$$com.google.javascript.rhino.jstype.JSType#744:62:0.0462
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#744:466:0.0462
+Default$$SimpleName::isUnionType$$com.google.javascript.rhino.jstype.JSType#742:62:0.0452
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#742:466:0.0452
+Default$$SimpleName::isSubtype$$com.google.javascript.rhino.jstype.JSType#740:46:0.0417
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#740:466:0.0417
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#740:1040:0.0417
+Default$$SimpleName::isSubtype$$com.google.javascript.rhino.jstype.JSType#738:46:0.0399
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#738:466:0.0399
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#738:1040:0.0399
+Insert After$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#733:2:0.0394
+Insert After$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#733:14:0.0394
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#733:60:0.0394
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#733:61:0.0394
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#733:61:0.0394
+Default$$SimpleName::isUnknownType$$com.google.javascript.rhino.jstype.JSType#733:62:0.0394
+Default$$SimpleName::isUnknownType$$com.google.javascript.rhino.jstype.JSType#733:62:0.0394
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#733:466:0.0394
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#733:466:0.0394
+Default$$SimpleName::isEquivalentTo$$com.google.javascript.rhino.jstype.JSType#731:46:0.0373
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#731:466:0.0373
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#731:1040:0.0373
+Insert After$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#723:2:0.0370
+Insert After$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#723:14:0.0370
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#723:60:0.0370
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#723:61:0.0370
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#723:61:0.0370
+Default$$SimpleName::isFunctionType$$com.google.javascript.rhino.jstype.JSType#723:62:0.0370
+Default$$SimpleName::isFunctionType$$com.google.javascript.rhino.jstype.JSType#723:62:0.0370
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#723:466:0.0370
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#723:466:0.0370
+Default$$SimpleName::getGreatestSubtype$$com.google.javascript.rhino.jstype.JSType#715:1:0.0370
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.JSType#715:9:0.0370
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.JSType#715:267:0.0370
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#715:1531:0.0370
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#354:10:0.0306
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#354:1531:0.0306
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#111:15:0.0305
+Default$$SimpleName::getNativeType$$com.google.javascript.rhino.jstype.JSType#111:46:0.0305
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.JSType#111:466:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#111:590:0.0305
+Default$$SimpleName::typeId$$com.google.javascript.rhino.jstype.JSType#111:1040:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#111:1531:0.0305
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.JSType#1020:7:0.0305
+Default$$SimpleName::isEquivalentTo$$com.google.javascript.rhino.jstype.JSType#1020:46:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#1020:64:0.0305
+Default$$SimpleName::thisType$$com.google.javascript.rhino.jstype.JSType#1020:466:0.0305
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#1020:1040:0.0305
+Insert After$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#157:6:0.0305
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#157:6:0.0305
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#157:9:0.0305
+Default$$SimpleName::identityHashCode$$com.google.javascript.rhino.jstype.JSType#432:3:0.0305
+Default$$SimpleName::System$$com.google.javascript.rhino.jstype.JSType#432:466:0.0305
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.JSType#432:1040:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#432:1531:0.0305
+Default$$SimpleName::isSubtypeHelper$$com.google.javascript.rhino.jstype.JSType#990:1:0.0305
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.JSType#990:9:0.0305
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.JSType#990:267:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#990:1531:0.0305
+Insert Before$$IfStatement::null$$com.google.javascript.rhino.jstype.JSType#1016:1:0.0305
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.JSType#1016:7:0.0305
+Default$$SimpleName::isUnknownType$$com.google.javascript.rhino.jstype.JSType#1016:62:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#1016:64:0.0305
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#1016:466:0.0305
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.JSType#1024:7:0.0305
+Default$$SimpleName::isAllType$$com.google.javascript.rhino.jstype.JSType#1024:62:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#1024:64:0.0305
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#1024:466:0.0305
+Default$$SimpleName::isUnionType$$com.google.javascript.rhino.jstype.JSType#1028:62:0.0305
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#1028:466:0.0305
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#246:9:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#246:44:0.0305
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#265:9:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#265:44:0.0305
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#318:9:0.0305
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#318:44:0.0305
+Insert Before$$SimpleName::ALPHA$$com.google.javascript.rhino.jstype.JSType#90:1:0.0305
+Insert Before$$Modifier::static$$com.google.javascript.rhino.jstype.JSType#90:6:0.0305
+Default$$SimpleType::Comparator$$com.google.javascript.rhino.jstype.JSType#90:66:0.0305
+Default$$SimpleType::Comparator$$com.google.javascript.rhino.jstype.JSType#90:66:0.0305
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.JSType#90:86:0.0305
+Insert After$$SimpleType::JSType$$com.google.javascript.rhino.jstype.JSType#90:86:0.0305
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.JSType#90:86:0.0305
+Insert After$$SimpleType::JSType$$com.google.javascript.rhino.jstype.JSType#90:86:0.0305
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.JSType#104:1:0.0305
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.JSType#104:13:0.0305
+Default$$FieldAccess::null$$com.google.javascript.rhino.jstype.JSType#104:25:0.0305
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.JSType#104:187:0.0305
+Default$$Assignment::=$$com.google.javascript.rhino.jstype.JSType#104:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#145:10:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#145:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#149:10:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#149:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#153:10:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#153:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#234:10:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#234:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#238:10:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#238:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#255:9:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#255:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#281:9:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#281:1531:0.0305
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#326:9:0.0305
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#326:1531:0.0305
+Insert Before$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#71:1:0.0305
+Insert Before$$FieldDeclaration::null$$com.google.javascript.rhino.jstype.JSType#71:2:0.0305
+Insert After$$Modifier::private$$com.google.javascript.rhino.jstype.JSType#71:3:0.0305
+Insert Before$$Modifier::private$$com.google.javascript.rhino.jstype.JSType#71:6:0.0305
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.JSType#71:6:0.0305
+Default$$Modifier::private$$com.google.javascript.rhino.jstype.JSType#71:14:0.0305
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.JSType#71:155:0.0305
+Default$$NullLiteral::null$$com.google.javascript.rhino.jstype.JSType#71:1116:0.0305
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.JSType#103:7:0.0305
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.JSType#103:14:0.0305
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.JSType#103:139:0.0305
+Default$$Block::null$$com.google.javascript.rhino.jstype.JSType#103:223:0.0305
+Default$$SimpleType::JSTypeRegistry$$com.google.javascript.rhino.jstype.JSType#103:232:0.0305
+Default$$PrimitiveType::boolean$$com.google.javascript.rhino.jstype.JSType#70:1:0.0305
+Insert Before$$SimpleName::resolved$$com.google.javascript.rhino.jstype.JSType#70:1:0.0305
+Insert After$$FieldDeclaration::null$$com.google.javascript.rhino.jstype.JSType#70:2:0.0305
+Insert After$$Modifier::private$$com.google.javascript.rhino.jstype.JSType#70:5:0.0305
+Insert Before$$Modifier::private$$com.google.javascript.rhino.jstype.JSType#70:6:0.0305
+Default$$Modifier::private$$com.google.javascript.rhino.jstype.JSType#70:13:0.0305
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.JSType#70:55:0.0305
+Default$$BooleanLiteral::false$$com.google.javascript.rhino.jstype.JSType#70:1116:0.0305
+Insert After$$SimpleName::jsType$$com.google.javascript.rhino.jstype.JSType#416:17:0.0305
+Default$$SimpleType::ProxyObjectType$$com.google.javascript.rhino.jstype.JSType#409:6:0.0305
+Default$$SimpleName::jsType$$com.google.javascript.rhino.jstype.JSType#409:8:0.0305
+Default$$SimpleType::ProxyObjectType$$com.google.javascript.rhino.jstype.JSType#1037:6:0.0305
+Default$$SimpleName::thatType$$com.google.javascript.rhino.jstype.JSType#1037:8:0.0305
+Default$$InfixExpression::==$$com.google.javascript.rhino.jstype.JSType#1120:3:0.0252
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.JSType#1120:44:0.0252
+Default$$SimpleName::resolve$$com.google.javascript.rhino.jstype.JSType#1120:46:0.0252
+Insert Before$$SimpleName::type$$com.google.javascript.rhino.jstype.JSType#1120:123:0.0252
+Default$$SimpleName::t$$com.google.javascript.rhino.jstype.JSType#1120:267:0.0252
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.JSType#1120:466:0.0252
+Default$$SimpleName::scope$$com.google.javascript.rhino.jstype.JSType#1120:1040:0.0252
+Default$$InfixExpression::==$$com.google.javascript.rhino.jstype.JSType#1082:1:0.0252
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1082:44:0.0252
+Insert Before$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1082:123:0.0252
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1085:590:0.0252
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1088:8:0.0251
+Default$$SimpleName::resolveInternal$$com.google.javascript.rhino.jstype.JSType#1088:13:0.0251
+Default$$SimpleName::t$$com.google.javascript.rhino.jstype.JSType#1088:267:0.0251
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.JSType#1088:624:0.0251
+Default$$SimpleName::scope$$com.google.javascript.rhino.jstype.JSType#1088:1040:0.0251
+Default$$SimpleName::setResolvedTypeInternal$$com.google.javascript.rhino.jstype.JSType#1089:46:0.0251
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1089:466:0.0251
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1089:1040:0.0251
+Default$$Assignment::=$$com.google.javascript.rhino.jstype.JSType#1099:10:0.0251
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1099:25:0.0251
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.JSType#1099:624:0.0251
+Default$$SimpleName::resolved$$com.google.javascript.rhino.jstype.JSType#1100:6:0.0251
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.JSType#1100:624:0.0251
+Default$$SimpleName::resolved$$com.google.javascript.rhino.jstype.JSType#1087:6:0.0251
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.JSType#1087:624:0.0251
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#1090:14:0.0251
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#1090:118:0.0251
+Default$$SimpleName::resolveResult$$com.google.javascript.rhino.jstype.JSType#1090:590:0.0251
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#960:1:0.0248
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#960:1531:0.0248
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#1021:17:0.0131
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.JSType#1021:1101:0.0131
+Default$$SimpleName::hasProperty$$com.google.javascript.rhino.jstype.RecordType#147:5:0.5477
+Default$$SimpleName::toMaybeRecordType$$com.google.javascript.rhino.jstype.RecordType#147:62:0.5477
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#147:466:0.5477
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#147:466:0.5477
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#147:1040:0.5477
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordType#146:18:0.5477
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#146:62:0.5477
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#146:232:0.5477
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#146:466:0.5477
+Default$$SimpleName::build$$com.google.javascript.rhino.jstype.RecordType#154:62:0.5477
+Default$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#154:466:0.5477
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#154:590:0.5477
+Insert Before$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#145:1:0.5477
+Default$$SimpleType::RecordTypeBuilder$$com.google.javascript.rhino.jstype.RecordType#145:8:0.5477
+Default$$SimpleType::RecordTypeBuilder$$com.google.javascript.rhino.jstype.RecordType#145:34:0.5477
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordType#145:141:0.5477
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#145:527:0.5477
+Default$$ClassInstanceCreation::null$$com.google.javascript.rhino.jstype.RecordType#145:1116:0.5477
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#142:51:0.4804
+Default$$SimpleName::isRecordType$$com.google.javascript.rhino.jstype.RecordType#142:62:0.4804
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#142:466:0.4804
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#110:17:0.4330
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#110:1101:0.4330
+Default$$SimpleName::isSubtype$$com.google.javascript.rhino.jstype.RecordType#241:3:0.4201
+Default$$SimpleName::toMaybeRecordType$$com.google.javascript.rhino.jstype.RecordType#241:62:0.4201
+Default$$SimpleName::RecordType$$com.google.javascript.rhino.jstype.RecordType#241:466:0.4201
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#241:466:0.4201
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#177:26:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#177:26:0.4082
+Default$$SimpleName::addProperty$$com.google.javascript.rhino.jstype.RecordType#177:46:0.4082
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.RecordType#177:46:0.4082
+Default$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#177:466:0.4082
+Default$$SimpleName::thatRecord$$com.google.javascript.rhino.jstype.RecordType#177:466:0.4082
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#177:1040:0.4082
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.RecordType#171:13:0.4082
+Default$$SimpleName::addProperty$$com.google.javascript.rhino.jstype.RecordType#171:46:0.4082
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#171:68:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#171:68:0.4082
+Default$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#171:466:0.4082
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#171:1040:0.4082
+Default$$SimpleName::hasProperty$$com.google.javascript.rhino.jstype.RecordType#176:13:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#176:51:0.4082
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#176:1040:0.4082
+Default$$SimpleName::build$$com.google.javascript.rhino.jstype.RecordType#182:62:0.4082
+Default$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#182:466:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#182:590:0.4082
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordType#175:2:0.4082
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#175:2:0.4082
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#175:232:0.4082
+Default$$QualifiedName::thatRecord.properties$$com.google.javascript.rhino.jstype.RecordType#175:466:0.4082
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.RecordType#150:13:0.3849
+Default$$SimpleName::addProperty$$com.google.javascript.rhino.jstype.RecordType#150:46:0.3849
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#150:68:0.3849
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#150:68:0.3849
+Default$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#150:466:0.3849
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#150:1040:0.3849
+Default$$SimpleName::equals$$com.google.javascript.rhino.jstype.RecordType#109:5:0.3464
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#109:7:0.3464
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#109:62:0.3464
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#109:466:0.3464
+Default$$SimpleName::otherProps$$com.google.javascript.rhino.jstype.RecordType#109:466:0.3464
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#109:1040:0.3464
+Insert Before$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#107:1:0.3464
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#107:37:0.3464
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#107:62:0.3464
+Default$$SimpleType::Set$$com.google.javascript.rhino.jstype.RecordType#107:66:0.3464
+Default$$ParameterizedType::null$$com.google.javascript.rhino.jstype.RecordType#107:68:0.3464
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#107:86:0.3464
+Insert After$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#107:86:0.3464
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#107:466:0.3464
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#107:1116:0.3464
+Insert Before$$SimpleName::otherProps$$com.google.javascript.rhino.jstype.RecordType#108:1:0.3464
+Insert After$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#108:2:0.3464
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#108:9:0.3464
+Default$$SimpleType::Map$$com.google.javascript.rhino.jstype.RecordType#108:66:0.3464
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordType#108:86:0.3464
+Insert After$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordType#108:86:0.3464
+Default$$QualifiedName::otherRecord.properties$$com.google.javascript.rhino.jstype.RecordType#108:1116:0.3464
+Insert Before$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#165:18:0.3333
+Default$$SimpleName::hasProperty$$com.google.javascript.rhino.jstype.RecordType#165:46:0.3333
+Default$$SimpleName::thatRecord$$com.google.javascript.rhino.jstype.RecordType#165:466:0.3333
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#165:1040:0.3333
+Insert Before$$SimpleName::thatRecord$$com.google.javascript.rhino.jstype.RecordType#158:1:0.3333
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.RecordType#158:27:0.3333
+Default$$SimpleName::toMaybeRecordType$$com.google.javascript.rhino.jstype.RecordType#158:62:0.3333
+Default$$SimpleType::RecordType$$com.google.javascript.rhino.jstype.RecordType#158:68:0.3333
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#158:466:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#158:527:0.3333
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#158:1116:0.3333
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordType#164:18:0.3333
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#164:62:0.3333
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#164:232:0.3333
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#164:466:0.3333
+Insert Before$$SimpleName::builder$$com.google.javascript.rhino.jstype.RecordType#159:1:0.3333
+Default$$SimpleType::RecordTypeBuilder$$com.google.javascript.rhino.jstype.RecordType#159:8:0.3333
+Default$$SimpleType::RecordTypeBuilder$$com.google.javascript.rhino.jstype.RecordType#159:34:0.3333
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordType#159:141:0.3333
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#159:527:0.3333
+Default$$ClassInstanceCreation::null$$com.google.javascript.rhino.jstype.RecordType#159:1116:0.3333
+Insert Before$$SimpleName::otherRecord$$com.google.javascript.rhino.jstype.RecordType#102:1:0.3162
+Default$$SimpleName::toMaybeRecordType$$com.google.javascript.rhino.jstype.RecordType#102:62:0.3162
+Default$$SimpleType::RecordType$$com.google.javascript.rhino.jstype.RecordType#102:68:0.3162
+Default$$SimpleName::other$$com.google.javascript.rhino.jstype.RecordType#102:466:0.3162
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#102:527:0.3162
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#102:1116:0.3162
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#103:7:0.3162
+Insert Before$$SimpleName::otherRecord$$com.google.javascript.rhino.jstype.RecordType#103:123:0.3162
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#265:17:0.3111
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#265:1101:0.3111
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#237:7:0.2810
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordType#237:29:0.2810
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#237:51:0.2810
+Default$$SimpleName::isRecordType$$com.google.javascript.rhino.jstype.RecordType#237:62:0.2810
+Default$$PrefixExpression::!$$com.google.javascript.rhino.jstype.RecordType#237:64:0.2810
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#237:466:0.2810
+Default$$SimpleName::getNativeObjectType$$com.google.javascript.rhino.jstype.RecordType#229:10:0.2705
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordType#229:466:0.2705
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordType#264:6:0.2554
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#264:7:0.2554
+Default$$SimpleName::hasProperty$$com.google.javascript.rhino.jstype.RecordType#264:46:0.2554
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#264:51:0.2554
+Default$$SimpleName::typeA$$com.google.javascript.rhino.jstype.RecordType#264:466:0.2554
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#264:1040:0.2554
+Default$$SimpleName::isSubtypeHelper$$com.google.javascript.rhino.jstype.RecordType#224:3:0.2554
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#224:7:0.2554
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#224:9:0.2554
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.RecordType#224:267:0.2554
+Default$$SimpleName::JSType$$com.google.javascript.rhino.jstype.RecordType#224:466:0.2554
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordType#263:2:0.2554
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#263:2:0.2554
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#263:232:0.2554
+Default$$QualifiedName::typeB.properties$$com.google.javascript.rhino.jstype.RecordType#263:466:0.2554
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#97:7:0.2500
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordType#97:29:0.2500
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#97:51:0.2500
+Default$$SimpleName::isRecordType$$com.google.javascript.rhino.jstype.RecordType#97:62:0.2500
+Default$$PrefixExpression::!$$com.google.javascript.rhino.jstype.RecordType#97:64:0.2500
+Default$$SimpleName::other$$com.google.javascript.rhino.jstype.RecordType#97:466:0.2500
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#219:1:0.2425
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#219:1531:0.2425
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordType#272:6:0.2357
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#272:7:0.2357
+Default$$SimpleName::isEquivalentTo$$com.google.javascript.rhino.jstype.RecordType#272:46:0.2357
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#272:51:0.2357
+Default$$SimpleName::propA$$com.google.javascript.rhino.jstype.RecordType#272:466:0.2357
+Default$$SimpleName::propB$$com.google.javascript.rhino.jstype.RecordType#272:1040:0.2357
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#122:1:0.2274
+Default$$SimpleName::getNativeObjectType$$com.google.javascript.rhino.jstype.RecordType#122:10:0.2274
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordType#122:466:0.2274
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#122:590:0.2274
+Default$$QualifiedName::JSTypeNative.OBJECT_TYPE$$com.google.javascript.rhino.jstype.RecordType#122:1040:0.2274
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#122:1531:0.2274
+Default$$SimpleName::isPropertyTypeDeclared$$com.google.javascript.rhino.jstype.RecordType#271:46:0.1952
+Default$$SimpleName::typeA$$com.google.javascript.rhino.jstype.RecordType#271:466:0.1952
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#271:1040:0.1952
+Insert Before$$SimpleName::propA$$com.google.javascript.rhino.jstype.RecordType#268:1:0.1925
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.RecordType#268:2:0.1925
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordType#268:41:0.1925
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.RecordType#268:46:0.1925
+Default$$SimpleName::typeA$$com.google.javascript.rhino.jstype.RecordType#268:466:0.1925
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#268:527:0.1925
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#268:1040:0.1925
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#268:1116:0.1925
+Insert Before$$SimpleName::propB$$com.google.javascript.rhino.jstype.RecordType#269:1:0.1925
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.RecordType#269:2:0.1925
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordType#269:41:0.1925
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.RecordType#269:46:0.1925
+Default$$SimpleName::typeB$$com.google.javascript.rhino.jstype.RecordType#269:466:0.1925
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#269:527:0.1925
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#269:1040:0.1925
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#269:1116:0.1925
+Default$$PrefixExpression::!$$com.google.javascript.rhino.jstype.RecordType#270:4:0.1925
+Insert After$$PrefixExpression::!$$com.google.javascript.rhino.jstype.RecordType#270:6:0.1925
+Default$$PrefixExpression::!$$com.google.javascript.rhino.jstype.RecordType#270:13:0.1925
+Insert Before$$PrefixExpression::!$$com.google.javascript.rhino.jstype.RecordType#270:13:0.1925
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#270:51:0.1925
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#270:51:0.1925
+Default$$SimpleName::isUnknownType$$com.google.javascript.rhino.jstype.RecordType#270:62:0.1925
+Default$$SimpleName::isUnknownType$$com.google.javascript.rhino.jstype.RecordType#270:62:0.1925
+Default$$SimpleName::propA$$com.google.javascript.rhino.jstype.RecordType#270:466:0.1925
+Default$$SimpleName::propB$$com.google.javascript.rhino.jstype.RecordType#270:466:0.1925
+Default$$SimpleName::isRecordType$$com.google.javascript.rhino.jstype.RecordType#157:62:0.1826
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.RecordType#157:466:0.1826
+Default$$SimpleName::defineDeclaredProperty$$com.google.javascript.rhino.jstype.RecordType#88:13:0.1387
+Default$$SimpleName::getType$$com.google.javascript.rhino.jstype.RecordType#88:62:0.1387
+Default$$SimpleName::getPropertyNode$$com.google.javascript.rhino.jstype.RecordType#88:62:0.1387
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#88:68:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#88:68:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#88:87:0.1387
+Default$$SimpleName::prop$$com.google.javascript.rhino.jstype.RecordType#88:466:0.1387
+Default$$SimpleName::prop$$com.google.javascript.rhino.jstype.RecordType#88:466:0.1387
+Default$$SimpleName::put$$com.google.javascript.rhino.jstype.RecordType#133:46:0.1387
+Default$$SimpleName::propertyName$$com.google.javascript.rhino.jstype.RecordType#133:267:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#133:466:0.1387
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.RecordType#133:1040:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#133:1101:0.1387
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.RecordType#83:1:0.1387
+Insert Before$$SimpleName::prop$$com.google.javascript.rhino.jstype.RecordType#83:1:0.1387
+Default$$SimpleType::RecordProperty$$com.google.javascript.rhino.jstype.RecordType#83:41:0.1387
+Default$$SimpleName::get$$com.google.javascript.rhino.jstype.RecordType#83:46:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#83:466:0.1387
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#83:527:0.1387
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.RecordType#83:1040:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#83:1116:0.1387
+Insert After$$Modifier::private$$com.google.javascript.rhino.jstype.RecordType#67:1:0.1387
+Insert Before$$Modifier::final$$com.google.javascript.rhino.jstype.RecordType#67:1:0.1387
+Insert Before$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#67:1:0.1387
+Insert Before$$Modifier::private$$com.google.javascript.rhino.jstype.RecordType#67:6:0.1387
+Default$$Modifier::private$$com.google.javascript.rhino.jstype.RecordType#67:9:0.1387
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#67:9:0.1387
+Default$$SimpleName::newTreeMap$$com.google.javascript.rhino.jstype.RecordType#67:62:0.1387
+Default$$SimpleType::SortedMap$$com.google.javascript.rhino.jstype.RecordType#67:66:0.1387
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordType#67:86:0.1387
+Insert After$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordType#67:86:0.1387
+Default$$SimpleName::Maps$$com.google.javascript.rhino.jstype.RecordType#67:466:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#67:1116:0.1387
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordType#82:18:0.1387
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.RecordType#82:62:0.1387
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#82:232:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#82:466:0.1387
+Default$$SimpleName::setPrettyPrint$$com.google.javascript.rhino.jstype.RecordType#80:1:0.1387
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.RecordType#80:1040:0.1387
+Default$$PrimitiveType::boolean$$com.google.javascript.rhino.jstype.RecordType#68:1:0.1387
+Insert Before$$SimpleName::isFrozen$$com.google.javascript.rhino.jstype.RecordType#68:1:0.1387
+Insert After$$Modifier::private$$com.google.javascript.rhino.jstype.RecordType#68:5:0.1387
+Insert Before$$Modifier::private$$com.google.javascript.rhino.jstype.RecordType#68:6:0.1387
+Default$$Modifier::private$$com.google.javascript.rhino.jstype.RecordType#68:13:0.1387
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordType#68:55:0.1387
+Default$$BooleanLiteral::false$$com.google.javascript.rhino.jstype.RecordType#68:1116:0.1387
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#84:9:0.1387
+Default$$InfixExpression::==$$com.google.javascript.rhino.jstype.RecordType#84:37:0.1387
+Default$$SimpleName::prop$$com.google.javascript.rhino.jstype.RecordType#84:44:0.1387
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordType#84:99:0.1387
+Insert Before$$SimpleName::prop$$com.google.javascript.rhino.jstype.RecordType#84:123:0.1387
+Default$$SimpleName::isFrozen$$com.google.javascript.rhino.jstype.RecordType#92:6:0.1387
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.RecordType#92:624:0.1387
+Default$$SimpleName::defineProperty$$com.google.javascript.rhino.jstype.RecordType#136:3:0.1387
+Default$$SimpleName::propertyName$$com.google.javascript.rhino.jstype.RecordType#136:3:0.1387
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.RecordType#136:3:0.1387
+Default$$SimpleName::inferred$$com.google.javascript.rhino.jstype.RecordType#136:3:0.1387
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#132:7:0.1387
+Default$$SimpleName::inferred$$com.google.javascript.rhino.jstype.RecordType#132:51:0.1387
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#128:7:0.1387
+Default$$SimpleName::isFrozen$$com.google.javascript.rhino.jstype.RecordType#128:64:0.1387
+Default$$NullLiteral::null$$com.google.javascript.rhino.jstype.RecordType#79:2:0.1387
+Default$$NullLiteral::null$$com.google.javascript.rhino.jstype.RecordType#79:6:0.1387
+Insert After$$NullLiteral::null$$com.google.javascript.rhino.jstype.RecordType#79:6:0.1387
+Default$$SimpleName::isEquivalentTo$$com.google.javascript.rhino.jstype.RecordType#113:1:0.1291
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordType#113:7:0.1291
+Default$$SimpleName::get$$com.google.javascript.rhino.jstype.RecordType#113:46:0.1291
+Default$$SimpleName::get$$com.google.javascript.rhino.jstype.RecordType#113:46:0.1291
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#113:466:0.1291
+Default$$SimpleName::otherProps$$com.google.javascript.rhino.jstype.RecordType#113:466:0.1291
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordType#113:466:0.1291
+Default$$SimpleName::key$$com.google.javascript.rhino.jstype.RecordType#113:1040:0.1291
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordType#113:1040:0.1291
+Default$$SimpleName::key$$com.google.javascript.rhino.jstype.RecordType#113:1040:0.1291
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordType#112:26:0.1291
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordType#112:232:0.1291
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#225:17:0.1179
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordType#225:1101:0.1179
+Default$$SimpleName::getNativeObjectType$$com.google.javascript.rhino.jstype.RecordTypeBuilder#86:10:0.4082
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordTypeBuilder#86:466:0.4082
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#86:590:0.4082
+Default$$QualifiedName::JSTypeNative.OBJECT_TYPE$$com.google.javascript.rhino.jstype.RecordTypeBuilder#86:1040:0.4082
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.PrototypeObjectType#375:12:0.3873
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#375:466:0.3873
+Default$$StringLiteral::", "$$com.google.javascript.rhino.jstype.PrototypeObjectType#375:1040:0.3873
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#375:1101:0.3873
+Insert Before$$SimpleName::p$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:1:0.3651
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:33:0.3651
+Default$$SimpleType::Property$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:41:0.3651
+Default$$SimpleName::get$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:46:0.3651
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:466:0.3651
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:527:0.3651
+Default$$SimpleName::propertyName$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:1040:0.3651
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#258:1116:0.3651
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#260:1:0.3651
+Default$$SimpleName::getNode$$com.google.javascript.rhino.jstype.PrototypeObjectType#260:62:0.3651
+Default$$SimpleName::p$$com.google.javascript.rhino.jstype.PrototypeObjectType#260:466:0.3651
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#260:590:0.3651
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#260:1101:0.3651
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#259:6:0.3651
+Default$$InfixExpression::!=$$com.google.javascript.rhino.jstype.PrototypeObjectType#259:15:0.3651
+Default$$SimpleName::p$$com.google.javascript.rhino.jstype.PrototypeObjectType#259:44:0.3651
+Insert Before$$SimpleName::p$$com.google.javascript.rhino.jstype.PrototypeObjectType#259:123:0.3651
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:3:0.2673
+Default$$SimpleName::toString$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:11:0.2673
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:13:0.2673
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:466:0.2673
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:466:0.2673
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:1040:0.2673
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.PrototypeObjectType#380:1040:0.2673
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.PrototypeObjectType#378:46:0.2673
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#378:466:0.2673
+Default$$SimpleName::property$$com.google.javascript.rhino.jstype.PrototypeObjectType#378:1040:0.2673
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.PrototypeObjectType#379:12:0.2673
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#379:466:0.2673
+Default$$StringLiteral::": "$$com.google.javascript.rhino.jstype.PrototypeObjectType#379:1040:0.2673
+Insert After$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#383:4:0.2673
+Insert After$$SimpleName::MAX_PRETTY_PRINTED_PROPERTIES$$com.google.javascript.rhino.jstype.PrototypeObjectType#383:17:0.2673
+Default$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#383:123:0.2673
+Insert Before$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#383:123:0.2673
+Default$$SimpleName::MAX_PRETTY_PRINTED_PROPERTIES$$com.google.javascript.rhino.jstype.PrototypeObjectType#383:235:0.2673
+Insert After$$NumberLiteral::0$$com.google.javascript.rhino.jstype.PrototypeObjectType#374:4:0.2673
+Default$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#374:115:0.2673
+Insert Before$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#374:123:0.2673
+Default$$NumberLiteral::0$$com.google.javascript.rhino.jstype.PrototypeObjectType#374:235:0.2673
+Default$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#382:51:0.2673
+Default$$SimpleName::isSubtype$$com.google.javascript.rhino.jstype.PrototypeObjectType#458:3:0.2554
+Default$$SimpleName::toMaybeRecordType$$com.google.javascript.rhino.jstype.PrototypeObjectType#458:62:0.2554
+Default$$SimpleName::RecordType$$com.google.javascript.rhino.jstype.PrototypeObjectType#458:466:0.2554
+Default$$SimpleName::that$$com.google.javascript.rhino.jstype.PrototypeObjectType#458:466:0.2554
+Default$$SimpleName::addAll$$com.google.javascript.rhino.jstype.PrototypeObjectType#366:29:0.2294
+Default$$SimpleName::getOwnPropertyNames$$com.google.javascript.rhino.jstype.PrototypeObjectType#366:62:0.2294
+Default$$SimpleName::propertyNames$$com.google.javascript.rhino.jstype.PrototypeObjectType#366:466:0.2294
+Default$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#366:466:0.2294
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#366:1040:0.2294
+Insert Before$$SimpleName::propertyNames$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:1:0.2294
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:37:0.2294
+Default$$SimpleName::newTreeSet$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:62:0.2294
+Default$$SimpleType::Set$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:66:0.2294
+Default$$ParameterizedType::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:68:0.2294
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:86:0.2294
+Insert After$$SimpleType::String$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:86:0.2294
+Default$$SimpleName::Sets$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:466:0.2294
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#361:1116:0.2294
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.PrototypeObjectType#370:12:0.2294
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#370:466:0.2294
+Default$$StringLiteral::"{"$$com.google.javascript.rhino.jstype.PrototypeObjectType#370:1040:0.2294
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.PrototypeObjectType#389:12:0.2294
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#389:466:0.2294
+Default$$StringLiteral::"}"$$com.google.javascript.rhino.jstype.PrototypeObjectType#389:1040:0.2294
+Insert After$$PrefixExpression::!$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:6:0.2294
+Insert Before$$InfixExpression::!=$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:11:0.2294
+Default$$InfixExpression::!=$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:13:0.2294
+Default$$PrefixExpression::!$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:33:0.2294
+Default$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:44:0.2294
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:51:0.2294
+Default$$SimpleName::isNativeObjectType$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:62:0.2294
+Insert Before$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:123:0.2294
+Default$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#363:466:0.2294
+Default$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#365:12:0.2294
+Default$$SimpleName::getImplicitPrototype$$com.google.javascript.rhino.jstype.PrototypeObjectType#365:62:0.2294
+Default$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#365:466:0.2294
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#365:624:0.2294
+Default$$SimpleName::toString$$com.google.javascript.rhino.jstype.PrototypeObjectType#392:62:0.2294
+Default$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#392:466:0.2294
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#392:590:0.2294
+Insert Before$$SimpleName::i$$com.google.javascript.rhino.jstype.PrototypeObjectType#372:1:0.2294
+Default$$PrimitiveType::int$$com.google.javascript.rhino.jstype.PrototypeObjectType#372:9:0.2294
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#372:253:0.2294
+Default$$NumberLiteral::0$$com.google.javascript.rhino.jstype.PrototypeObjectType#372:1116:0.2294
+Insert Before$$SimpleName::sb$$com.google.javascript.rhino.jstype.PrototypeObjectType#369:1:0.2294
+Default$$SimpleType::StringBuilder$$com.google.javascript.rhino.jstype.PrototypeObjectType#369:16:0.2294
+Default$$SimpleType::StringBuilder$$com.google.javascript.rhino.jstype.PrototypeObjectType#369:44:0.2294
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#369:527:0.2294
+Default$$ClassInstanceCreation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#369:1116:0.2294
+Insert Before$$SimpleName::current$$com.google.javascript.rhino.jstype.PrototypeObjectType#362:1:0.2294
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#362:1116:0.2294
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#373:26:0.2294
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.PrototypeObjectType#373:232:0.2294
+Default$$SimpleName::prettyPrint$$com.google.javascript.rhino.jstype.PrototypeObjectType#358:6:0.2294
+Default$$BooleanLiteral::false$$com.google.javascript.rhino.jstype.PrototypeObjectType#358:624:0.2294
+Default$$SimpleName::prettyPrint$$com.google.javascript.rhino.jstype.PrototypeObjectType#391:6:0.2294
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.PrototypeObjectType#391:624:0.2294
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#179:20:0.1549
+Default$$SimpleName::keySet$$com.google.javascript.rhino.jstype.PrototypeObjectType#179:62:0.1549
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.PrototypeObjectType#179:466:0.1549
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#179:590:0.1549
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#179:1531:0.1549
+Default$$SimpleName::createRecordType$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:5:0.1387
+Default$$SimpleName::unmodifiableMap$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:46:0.1387
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:466:0.1387
+Default$$SimpleName::Collections$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:466:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:590:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:1040:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordTypeBuilder#89:1040:0.1387
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#72:4:0.1387
+Default$$SimpleName::containsKey$$com.google.javascript.rhino.jstype.RecordTypeBuilder#72:46:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordTypeBuilder#72:466:0.1387
+Default$$SimpleName::name$$com.google.javascript.rhino.jstype.RecordTypeBuilder#72:1040:0.1387
+Default$$SimpleName::name$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:1:0.1387
+Default$$SimpleType::RecordProperty$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:34:0.1387
+Default$$SimpleName::put$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:46:0.1387
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:70:0.1387
+Default$$SimpleName::propertyNode$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:118:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:466:0.1387
+Default$$ClassInstanceCreation::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#75:1040:0.1387
+Insert After$$Modifier::private$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:1:0.1387
+Insert Before$$Modifier::final$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:1:0.1387
+Insert Before$$SimpleName::properties$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:1:0.1387
+Insert Before$$Modifier::private$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:6:0.1387
+Default$$Modifier::private$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:9:0.1387
+Default$$SimpleType::String$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:9:0.1387
+Default$$SimpleName::newHashMap$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:62:0.1387
+Default$$SimpleType::HashMap$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:66:0.1387
+Default$$SimpleType::RecordProperty$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:86:0.1387
+Insert After$$SimpleType::RecordProperty$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:86:0.1387
+Default$$SimpleName::Maps$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:466:0.1387
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#55:1116:0.1387
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:9:0.1387
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:9:0.1387
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:76:0.1387
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:76:0.1387
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:139:0.1387
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:139:0.1387
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:223:0.1387
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:232:0.1387
+Default$$SimpleType::Node$$com.google.javascript.rhino.jstype.RecordTypeBuilder#96:232:0.1387
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordTypeBuilder#58:1:0.1387
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#58:13:0.1387
+Default$$FieldAccess::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#58:25:0.1387
+Default$$SimpleName::registry$$com.google.javascript.rhino.jstype.RecordTypeBuilder#58:187:0.1387
+Default$$Assignment::=$$com.google.javascript.rhino.jstype.RecordTypeBuilder#58:1531:0.1387
+Insert After$$Modifier::public$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:4:0.1387
+Insert After$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:7:0.1387
+Default$$Modifier::public$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:13:0.1387
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:14:0.1387
+Insert Before$$Modifier::public$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:15:0.1387
+Insert Before$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:139:0.1387
+Default$$Block::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:223:0.1387
+Default$$SimpleType::JSTypeRegistry$$com.google.javascript.rhino.jstype.RecordTypeBuilder#57:232:0.1387
+Default$$SimpleType::RecordType$$com.google.javascript.rhino.jstype.JSTypeRegistry#1314:3:0.1387
+Default$$SimpleName::properties$$com.google.javascript.rhino.jstype.JSTypeRegistry#1314:5:0.1387
+Default$$ClassInstanceCreation::null$$com.google.javascript.rhino.jstype.JSTypeRegistry#1314:590:0.1387
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#102:35:0.1387
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.RecordTypeBuilder#102:590:0.1387
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#102:1531:0.1387
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#106:35:0.1387
+Default$$SimpleName::propertyNode$$com.google.javascript.rhino.jstype.RecordTypeBuilder#106:590:0.1387
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#106:1531:0.1387
+Default$$SimpleName::propertyNode$$com.google.javascript.rhino.jstype.RecordTypeBuilder#98:1:0.1387
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#98:13:0.1387
+Default$$FieldAccess::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#98:25:0.1387
+Default$$Assignment::=$$com.google.javascript.rhino.jstype.RecordTypeBuilder#98:129:0.1387
+Default$$SimpleName::propertyNode$$com.google.javascript.rhino.jstype.RecordTypeBuilder#98:187:0.1387
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.RecordTypeBuilder#97:1:0.1387
+Default$$ThisExpression::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#97:13:0.1387
+Default$$FieldAccess::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#97:25:0.1387
+Default$$Assignment::=$$com.google.javascript.rhino.jstype.RecordTypeBuilder#97:98:0.1387
+Default$$SimpleName::type$$com.google.javascript.rhino.jstype.RecordTypeBuilder#97:187:0.1387
+Insert After$$FieldDeclaration::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:1:0.1387
+Default$$PrimitiveType::boolean$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:1:0.1387
+Insert Before$$SimpleName::isEmpty$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:1:0.1387
+Insert After$$Modifier::private$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:5:0.1387
+Insert Before$$Modifier::private$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:6:0.1387
+Default$$Modifier::private$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:13:0.1387
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:55:0.1387
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.RecordTypeBuilder#53:1116:0.1387
+Default$$SimpleName::isEmpty$$com.google.javascript.rhino.jstype.RecordTypeBuilder#71:6:0.1387
+Default$$BooleanLiteral::false$$com.google.javascript.rhino.jstype.RecordTypeBuilder#71:624:0.1387
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.UnionType#415:29:0.1284
+Default$$SimpleName::toString$$com.google.javascript.rhino.jstype.UnionType#415:62:0.1284
+Default$$SimpleName::result$$com.google.javascript.rhino.jstype.UnionType#415:466:0.1284
+Default$$SimpleName::t$$com.google.javascript.rhino.jstype.UnionType#415:466:0.1284
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.UnionType#415:1040:0.1284
+Default$$SimpleName::addAll$$com.google.javascript.rhino.jstype.UnionType#410:46:0.1284
+Default$$SimpleName::sorted$$com.google.javascript.rhino.jstype.UnionType#410:466:0.1284
+Default$$SimpleName::alternates$$com.google.javascript.rhino.jstype.UnionType#410:1040:0.1284
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.UnionType#413:12:0.1284
+Default$$SimpleName::result$$com.google.javascript.rhino.jstype.UnionType#413:466:0.1284
+Default$$StringLiteral::"|"$$com.google.javascript.rhino.jstype.UnionType#413:1040:0.1284
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.UnionType#413:1101:0.1284
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.UnionType#408:12:0.1284
+Default$$SimpleName::result$$com.google.javascript.rhino.jstype.UnionType#408:466:0.1284
+Default$$StringLiteral::"("$$com.google.javascript.rhino.jstype.UnionType#408:1040:0.1284
+Default$$SimpleName::append$$com.google.javascript.rhino.jstype.UnionType#418:12:0.1284
+Default$$SimpleName::result$$com.google.javascript.rhino.jstype.UnionType#418:466:0.1284
+Default$$StringLiteral::")"$$com.google.javascript.rhino.jstype.UnionType#418:1040:0.1284
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.UnionType#419:1:0.1284
+Default$$SimpleName::toString$$com.google.javascript.rhino.jstype.UnionType#419:62:0.1284
+Default$$SimpleName::result$$com.google.javascript.rhino.jstype.UnionType#419:466:0.1284
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.UnionType#419:590:0.1284
+Insert Before$$SimpleName::sorted$$com.google.javascript.rhino.jstype.UnionType#409:1:0.1284
+Default$$SimpleName::ALPHA$$com.google.javascript.rhino.jstype.UnionType#409:16:0.1284
+Default$$ParameterizedType::null$$com.google.javascript.rhino.jstype.UnionType#409:34:0.1284
+Default$$SimpleType::SortedSet$$com.google.javascript.rhino.jstype.UnionType#409:66:0.1284
+Default$$SimpleType::TreeSet$$com.google.javascript.rhino.jstype.UnionType#409:66:0.1284
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.UnionType#409:86:0.1284
+Insert After$$SimpleType::JSType$$com.google.javascript.rhino.jstype.UnionType#409:86:0.1284
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.UnionType#409:86:0.1284
+Insert After$$SimpleType::JSType$$com.google.javascript.rhino.jstype.UnionType#409:86:0.1284
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.UnionType#406:1:0.1284
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.UnionType#406:1:0.1284
+Insert Before$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.UnionType#406:1:0.1284
+Insert Before$$SimpleName::firstAlternate$$com.google.javascript.rhino.jstype.UnionType#406:1:0.1284
+Default$$PrimitiveType::boolean$$com.google.javascript.rhino.jstype.UnionType#406:2:0.1284
+Default$$BooleanLiteral::true$$com.google.javascript.rhino.jstype.UnionType#406:1116:0.1284
+Insert After$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.UnionType#405:1:0.1284
+Insert Before$$SimpleName::result$$com.google.javascript.rhino.jstype.UnionType#405:1:0.1284
+Default$$SimpleType::StringBuilder$$com.google.javascript.rhino.jstype.UnionType#405:16:0.1284
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.UnionType#405:21:0.1284
+Default$$SimpleType::StringBuilder$$com.google.javascript.rhino.jstype.UnionType#405:44:0.1284
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.UnionType#405:527:0.1284
+Default$$ClassInstanceCreation::null$$com.google.javascript.rhino.jstype.UnionType#405:1116:0.1284
+Default$$SingleVariableDeclaration::null$$com.google.javascript.rhino.jstype.UnionType#411:26:0.1284
+Default$$SimpleType::JSType$$com.google.javascript.rhino.jstype.UnionType#411:232:0.1284
+Default$$SimpleName::firstAlternate$$com.google.javascript.rhino.jstype.UnionType#416:6:0.1284
+Default$$BooleanLiteral::false$$com.google.javascript.rhino.jstype.UnionType#416:624:0.1284
+Default$$PrefixExpression::!$$com.google.javascript.rhino.jstype.UnionType#412:5:0.1284
+Default$$SimpleName::firstAlternate$$com.google.javascript.rhino.jstype.UnionType#412:51:0.1284
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.UnionType#330:17:0.1267
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.UnionType#330:1101:0.1267
+Insert Before$$SimpleName::functionType$$com.google.javascript.rhino.jstype.NamedType#263:1:0.0998
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.NamedType#263:27:0.0998
+Default$$SimpleName::toMaybeFunctionType$$com.google.javascript.rhino.jstype.NamedType#263:62:0.0998
+Default$$SimpleType::FunctionType$$com.google.javascript.rhino.jstype.NamedType#263:68:0.0998
+Default$$SimpleName::value$$com.google.javascript.rhino.jstype.NamedType#263:466:0.0998
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.NamedType#263:527:0.0998
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.NamedType#263:1116:0.0998
+Insert Before$$InfixExpression::!=$$com.google.javascript.rhino.jstype.NamedType#266:11:0.0998
+Insert After$$MethodInvocation::null$$com.google.javascript.rhino.jstype.NamedType#266:14:0.0998
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.NamedType#266:33:0.0998
+Default$$SimpleName::value$$com.google.javascript.rhino.jstype.NamedType#266:44:0.0998
+Default$$InfixExpression::!=$$com.google.javascript.rhino.jstype.NamedType#266:61:0.0998
+Default$$SimpleName::isNoObjectType$$com.google.javascript.rhino.jstype.NamedType#266:62:0.0998
+Insert Before$$SimpleName::value$$com.google.javascript.rhino.jstype.NamedType#266:123:0.0998
+Default$$SimpleName::value$$com.google.javascript.rhino.jstype.NamedType#266:466:0.0998
+Default$$SimpleName::setReferencedAndResolvedType$$com.google.javascript.rhino.jstype.NamedType#264:4:0.0998
+Default$$SimpleName::isUnionType$$com.google.javascript.rhino.jstype.UnionType#318:62:0.0989
+Default$$SimpleName::object$$com.google.javascript.rhino.jstype.UnionType#318:466:0.0989
+Insert Before$$IfStatement::null$$com.google.javascript.rhino.jstype.UnionType#315:2:0.0989
+Insert After$$Block::null$$com.google.javascript.rhino.jstype.UnionType#315:7:0.0989
+Default$$SimpleName::object$$com.google.javascript.rhino.jstype.UnionType#315:44:0.0989
+Default$$InfixExpression::==$$com.google.javascript.rhino.jstype.UnionType#315:64:0.0989
+Default$$Block::null$$com.google.javascript.rhino.jstype.UnionType#315:99:0.0989
+Insert Before$$SimpleName::object$$com.google.javascript.rhino.jstype.UnionType#315:123:0.0989
+Insert Before$$SimpleName::warnings$$com.google.javascript.rhino.SimpleErrorReporter#51:1:0.0987
+Insert After$$Modifier::private$$com.google.javascript.rhino.SimpleErrorReporter#51:3:0.0987
+Default$$Modifier::private$$com.google.javascript.rhino.SimpleErrorReporter#51:5:0.0987
+Insert Before$$Modifier::private$$com.google.javascript.rhino.SimpleErrorReporter#51:6:0.0987
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.SimpleErrorReporter#51:13:0.0987
+Default$$SimpleType::List$$com.google.javascript.rhino.SimpleErrorReporter#51:66:0.0987
+Default$$SimpleType::String$$com.google.javascript.rhino.SimpleErrorReporter#51:86:0.0987
+Insert After$$SimpleType::String$$com.google.javascript.rhino.SimpleErrorReporter#51:86:0.0987
+Default$$NullLiteral::null$$com.google.javascript.rhino.SimpleErrorReporter#51:1116:0.0987
+Insert Before$$SimpleName::errors$$com.google.javascript.rhino.SimpleErrorReporter#52:1:0.0987
+Insert After$$Modifier::private$$com.google.javascript.rhino.SimpleErrorReporter#52:3:0.0987
+Default$$Modifier::private$$com.google.javascript.rhino.SimpleErrorReporter#52:5:0.0987
+Insert Before$$Modifier::private$$com.google.javascript.rhino.SimpleErrorReporter#52:6:0.0987
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.SimpleErrorReporter#52:13:0.0987
+Default$$SimpleType::List$$com.google.javascript.rhino.SimpleErrorReporter#52:66:0.0987
+Default$$SimpleType::String$$com.google.javascript.rhino.SimpleErrorReporter#52:86:0.0987
+Insert After$$SimpleType::String$$com.google.javascript.rhino.SimpleErrorReporter#52:86:0.0987
+Default$$NullLiteral::null$$com.google.javascript.rhino.SimpleErrorReporter#52:1116:0.0987
+Insert Before$$ReturnStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#434:3:0.0987
+Default$$ReturnStatement::null$$com.google.javascript.rhino.jstype.PrototypeObjectType#434:1101:0.0987
+Insert Before$$SimpleType::ErrorReporter$$com.google.javascript.rhino.SimpleErrorReporter#50:3:0.0987
+Insert After$$Modifier::public$$com.google.javascript.rhino.SimpleErrorReporter#50:5:0.0987
+Insert Before$$Modifier::public$$com.google.javascript.rhino.SimpleErrorReporter#50:10:0.0987
+Default$$Modifier::public$$com.google.javascript.rhino.SimpleErrorReporter#50:16:0.0987
+Insert Before$$SimpleName::parentClass$$com.google.javascript.rhino.jstype.NamedType#314:1:0.0976
+Insert Before$$VariableDeclarationStatement::null$$com.google.javascript.rhino.jstype.NamedType#314:3:0.0976
+Default$$SimpleType::ObjectType$$com.google.javascript.rhino.jstype.NamedType#314:41:0.0976
+Default$$SimpleName::cast$$com.google.javascript.rhino.jstype.NamedType#314:46:0.0976
+Default$$SimpleName::ObjectType$$com.google.javascript.rhino.jstype.NamedType#314:466:0.0976
+Default$$VariableDeclarationFragment::null$$com.google.javascript.rhino.jstype.NamedType#314:527:0.0976
+Default$$SimpleName::value$$com.google.javascript.rhino.jstype.NamedType#314:1040:0.0976
+Default$$MethodInvocation::null$$com.google.javascript.rhino.jstype.NamedType#314:1116:0.0976
+Default$$SimpleName::value$$com.google.javascript.rhino.jstype.NamedType#321:1:0.0976
+Default$$SimpleName::getPropertyType$$com.google.javascript.rhino.jstype.NamedType#321:3:0.0976
+Default$$SimpleName::componentNames$$com.google.javascript.rhino.jstype.NamedType#321:11:0.0976

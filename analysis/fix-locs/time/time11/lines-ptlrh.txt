@@ -1,0 +1,341 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$InfixExpression::==$$org.joda.time.PeriodType#675:10:1.0000
+Default$$SimpleName::realIndex$$org.joda.time.PeriodType#675:11:1.0000
+Default$$SimpleName::getValue$$org.joda.time.PeriodType#675:46:1.0000
+Insert Before$$SimpleName::realIndex$$org.joda.time.PeriodType#675:123:1.0000
+Default$$PrefixExpression::-$$org.joda.time.PeriodType#675:235:1.0000
+Default$$SimpleName::period$$org.joda.time.PeriodType#675:466:1.0000
+Default$$SimpleName::realIndex$$org.joda.time.PeriodType#675:1040:1.0000
+Insert After$$SimpleName::iNameKey$$org.joda.time.tz.DateTimeZoneBuilder#804:4:1.0000
+Insert After$$SimpleName::appendNameKey$$org.joda.time.tz.DateTimeZoneBuilder#804:17:1.0000
+Default$$SimpleName::iNameKey$$org.joda.time.tz.DateTimeZoneBuilder#804:123:1.0000
+Insert Before$$SimpleName::iNameKey$$org.joda.time.tz.DateTimeZoneBuilder#804:123:1.0000
+Default$$SimpleName::appendNameKey$$org.joda.time.tz.DateTimeZoneBuilder#804:235:1.0000
+Default$$MethodInvocation::null$$org.joda.time.Period#704:466:1.0000
+Default$$MethodInvocation::null$$org.joda.time.Period#713:466:1.0000
+Default$$SimpleName::verbose$$org.joda.time.tz.DateTimeZoneBuilder#1460:62:1.0000
+Default$$SimpleName::ZoneInfoCompiler$$org.joda.time.tz.DateTimeZoneBuilder#1460:466:1.0000
+Insert Before$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#1464:2:1.0000
+Default$$SimpleName::getSaveMillis$$org.joda.time.tz.DateTimeZoneBuilder#1464:2:1.0000
+Insert After$$NumberLiteral::0$$org.joda.time.tz.DateTimeZoneBuilder#1464:4:1.0000
+Default$$QualifiedName::tailZone.iStartRecurrence$$org.joda.time.tz.DateTimeZoneBuilder#1464:466:1.0000
+Insert Before$$ReturnStatement::null$$org.joda.time.tz.DateTimeZoneBuilder#800:1:1.0000
+Default$$SimpleType::Recurrence$$org.joda.time.tz.DateTimeZoneBuilder#800:34:1.0000
+Default$$SimpleName::nameKey$$org.joda.time.tz.DateTimeZoneBuilder#800:64:1.0000
+Default$$SimpleName::iOfYear$$org.joda.time.tz.DateTimeZoneBuilder#800:70:1.0000
+Default$$SimpleName::iSaveMillis$$org.joda.time.tz.DateTimeZoneBuilder#800:118:1.0000
+Default$$ClassInstanceCreation::null$$org.joda.time.tz.DateTimeZoneBuilder#800:590:1.0000
+Default$$ReturnStatement::null$$org.joda.time.tz.DateTimeZoneBuilder#800:1531:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.joda.time.PeriodType#674:1:1.0000
+Insert Before$$SimpleName::realIndex$$org.joda.time.PeriodType#674:1:1.0000
+Default$$PrimitiveType::int$$org.joda.time.PeriodType#674:3:1.0000
+Default$$SimpleName::iIndices$$org.joda.time.PeriodType#674:11:1.0000
+Default$$SimpleName::index$$org.joda.time.PeriodType#674:38:1.0000
+Default$$VariableDeclarationFragment::null$$org.joda.time.PeriodType#674:253:1.0000
+Default$$ArrayAccess::null$$org.joda.time.PeriodType#674:1116:1.0000
+Insert Before$$ReturnStatement::null$$org.joda.time.base.BasePeriod#329:1:1.0000
+Default$$SimpleName::iValues$$org.joda.time.base.BasePeriod#329:11:1.0000
+Default$$SimpleName::index$$org.joda.time.base.BasePeriod#329:38:1.0000
+Default$$ArrayAccess::null$$org.joda.time.base.BasePeriod#329:590:1.0000
+Default$$ReturnStatement::null$$org.joda.time.base.BasePeriod#329:1531:1.0000
+Default$$SimpleType::DSTZone$$org.joda.time.tz.DateTimeZoneBuilder#1465:17:1.0000
+Default$$SimpleType::PrecalculatedZone$$org.joda.time.tz.DateTimeZoneBuilder#396:1:0.7071
+Insert Before$$SimpleName::zone$$org.joda.time.tz.DateTimeZoneBuilder#396:1:0.7071
+Default$$SimpleName::create$$org.joda.time.tz.DateTimeZoneBuilder#396:46:0.7071
+Default$$SimpleName::id$$org.joda.time.tz.DateTimeZoneBuilder#396:267:0.7071
+Default$$SimpleName::outputID$$org.joda.time.tz.DateTimeZoneBuilder#396:267:0.7071
+Default$$SimpleName::transitions$$org.joda.time.tz.DateTimeZoneBuilder#396:267:0.7071
+Default$$SimpleName::PrecalculatedZone$$org.joda.time.tz.DateTimeZoneBuilder#396:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.tz.DateTimeZoneBuilder#396:527:0.7071
+Default$$SimpleName::tailZone$$org.joda.time.tz.DateTimeZoneBuilder#396:1040:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.field.BaseDurationField#141:1:0.7071
+Default$$SimpleName::safeToInt$$org.joda.time.field.BaseDurationField#141:5:0.7071
+Default$$SimpleName::getDifferenceAsLong$$org.joda.time.field.BaseDurationField#141:13:0.7071
+Default$$SimpleName::minuendInstant$$org.joda.time.field.BaseDurationField#141:267:0.7071
+Default$$SimpleName::FieldUtils$$org.joda.time.field.BaseDurationField#141:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.BaseDurationField#141:590:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.BaseDurationField#141:1040:0.7071
+Default$$SimpleName::subtrahendInstant$$org.joda.time.field.BaseDurationField#141:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.field.BaseDurationField#141:1531:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.field.ImpreciseDateTimeField#91:1:0.7071
+Default$$SimpleName::safeToInt$$org.joda.time.field.ImpreciseDateTimeField#91:5:0.7071
+Default$$SimpleName::getDifferenceAsLong$$org.joda.time.field.ImpreciseDateTimeField#91:13:0.7071
+Default$$SimpleName::minuendInstant$$org.joda.time.field.ImpreciseDateTimeField#91:267:0.7071
+Default$$SimpleName::FieldUtils$$org.joda.time.field.ImpreciseDateTimeField#91:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.ImpreciseDateTimeField#91:590:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.ImpreciseDateTimeField#91:1040:0.7071
+Default$$SimpleName::subtrahendInstant$$org.joda.time.field.ImpreciseDateTimeField#91:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.field.ImpreciseDateTimeField#91:1531:0.7071
+Insert Before$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#561:1:0.7071
+Default$$SimpleName::set$$org.joda.time.tz.DateTimeZoneBuilder#561:5:0.7071
+Default$$SimpleName::monthOfYear$$org.joda.time.tz.DateTimeZoneBuilder#561:62:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#561:267:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#561:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#561:466:0.7071
+Default$$SimpleName::iMonthOfYear$$org.joda.time.tz.DateTimeZoneBuilder#561:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#561:1116:0.7071
+Insert Before$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#863:1:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#863:46:0.7071
+Default$$SimpleName::testInstant$$org.joda.time.tz.DateTimeZoneBuilder#863:267:0.7071
+Default$$SimpleName::standardOffset$$org.joda.time.tz.DateTimeZoneBuilder#863:267:0.7071
+Default$$SimpleName::iRecurrence$$org.joda.time.tz.DateTimeZoneBuilder#863:466:0.7071
+Default$$SimpleName::saveMillis$$org.joda.time.tz.DateTimeZoneBuilder#863:1040:0.7071
+Insert Before$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#1091:1:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#1091:46:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#1091:267:0.7071
+Default$$SimpleName::iStandardOffset$$org.joda.time.tz.DateTimeZoneBuilder#1091:267:0.7071
+Default$$SimpleName::rule$$org.joda.time.tz.DateTimeZoneBuilder#1091:466:0.7071
+Default$$SimpleName::saveMillis$$org.joda.time.tz.DateTimeZoneBuilder#1091:1040:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.tz.DateTimeZoneBuilder#761:5:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#761:46:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#761:267:0.7071
+Default$$SimpleName::standardOffset$$org.joda.time.tz.DateTimeZoneBuilder#761:267:0.7071
+Default$$SimpleName::iOfYear$$org.joda.time.tz.DateTimeZoneBuilder#761:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#761:590:0.7071
+Default$$SimpleName::saveMillis$$org.joda.time.tz.DateTimeZoneBuilder#761:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.tz.DateTimeZoneBuilder#761:1531:0.7071
+Default$$SimpleName::get$$org.joda.time.tz.DateTimeZoneBuilder#949:2:0.7071
+Insert After$$NumberLiteral::100$$org.joda.time.tz.DateTimeZoneBuilder#949:4:0.7071
+Default$$SimpleName::year$$org.joda.time.tz.DateTimeZoneBuilder#949:11:0.7071
+Default$$SimpleName::getInstanceUTC$$org.joda.time.tz.DateTimeZoneBuilder#949:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#949:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#949:466:0.7071
+Default$$SimpleName::ISOChronology$$org.joda.time.tz.DateTimeZoneBuilder#949:466:0.7071
+Default$$SimpleName::now$$org.joda.time.tz.DateTimeZoneBuilder#949:1040:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#564:1:0.7071
+Default$$SimpleName::add$$org.joda.time.tz.DateTimeZoneBuilder#564:5:0.7071
+Default$$SimpleName::millisOfDay$$org.joda.time.tz.DateTimeZoneBuilder#564:62:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#564:267:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#564:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#564:466:0.7071
+Default$$SimpleName::iMillisOfDay$$org.joda.time.tz.DateTimeZoneBuilder#564:1040:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#576:1:0.7071
+Default$$SimpleName::set$$org.joda.time.tz.DateTimeZoneBuilder#576:5:0.7071
+Default$$SimpleName::monthOfYear$$org.joda.time.tz.DateTimeZoneBuilder#576:62:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#576:267:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#576:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#576:466:0.7071
+Default$$SimpleName::iMonthOfYear$$org.joda.time.tz.DateTimeZoneBuilder#576:1040:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#711:1:0.7071
+Default$$SimpleName::add$$org.joda.time.tz.DateTimeZoneBuilder#711:5:0.7071
+Default$$SimpleName::dayOfMonth$$org.joda.time.tz.DateTimeZoneBuilder#711:62:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#711:267:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#711:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#711:466:0.7071
+Default$$SimpleName::iDayOfMonth$$org.joda.time.tz.DateTimeZoneBuilder#711:1040:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#729:1:0.7071
+Default$$SimpleName::add$$org.joda.time.tz.DateTimeZoneBuilder#729:5:0.7071
+Default$$SimpleName::dayOfWeek$$org.joda.time.tz.DateTimeZoneBuilder#729:62:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#729:267:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#729:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#729:466:0.7071
+Default$$SimpleName::daysToAdd$$org.joda.time.tz.DateTimeZoneBuilder#729:1040:0.7071
+Insert Before$$SimpleName::field$$org.joda.time.chrono.BaseChronology#259:1:0.7071
+Default$$SimpleName::getField$$org.joda.time.chrono.BaseChronology#259:1:0.7071
+Default$$SimpleName::getFieldType$$org.joda.time.chrono.BaseChronology#259:46:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BaseChronology#259:466:0.7071
+Default$$SimpleName::period$$org.joda.time.chrono.BaseChronology#259:466:0.7071
+Default$$SimpleName::i$$org.joda.time.chrono.BaseChronology#259:1040:0.7071
+Default$$ThisExpression::null$$org.joda.time.chrono.BaseChronology#259:1040:0.7071
+Insert Before$$SimpleName::dayOfWeek$$org.joda.time.tz.DateTimeZoneBuilder#717:1:0.7071
+Default$$SimpleName::get$$org.joda.time.tz.DateTimeZoneBuilder#717:5:0.7071
+Default$$SimpleName::dayOfWeek$$org.joda.time.tz.DateTimeZoneBuilder#717:62:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.tz.DateTimeZoneBuilder#717:253:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#717:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#717:466:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#717:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#717:1116:0.7071
+Insert Before$$SimpleName::difference$$org.joda.time.field.PreciseDurationField#114:1:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.joda.time.field.PreciseDurationField#114:4:0.7071
+Default$$SimpleName::safeSubtract$$org.joda.time.field.PreciseDurationField#114:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.field.PreciseDurationField#114:253:0.7071
+Default$$SimpleName::minuendInstant$$org.joda.time.field.PreciseDurationField#114:267:0.7071
+Default$$SimpleName::FieldUtils$$org.joda.time.field.PreciseDurationField#114:466:0.7071
+Default$$SimpleName::subtrahendInstant$$org.joda.time.field.PreciseDurationField#114:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.PreciseDurationField#114:1116:0.7071
+Insert Before$$SimpleName::newYear$$org.joda.time.chrono.BasicYearDateTimeField#62:1:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BasicYearDateTimeField#62:11:0.7071
+Default$$SimpleName::safeAdd$$org.joda.time.chrono.BasicYearDateTimeField#62:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BasicYearDateTimeField#62:253:0.7071
+Default$$SimpleName::thisYear$$org.joda.time.chrono.BasicYearDateTimeField#62:267:0.7071
+Default$$SimpleName::FieldUtils$$org.joda.time.chrono.BasicYearDateTimeField#62:466:0.7071
+Default$$SimpleName::years$$org.joda.time.chrono.BasicYearDateTimeField#62:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicYearDateTimeField#62:1116:0.7071
+Insert Before$$SimpleName::value$$org.joda.time.chrono.BaseChronology#260:1:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BaseChronology#260:11:0.7071
+Default$$SimpleName::getDifference$$org.joda.time.chrono.BaseChronology#260:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BaseChronology#260:253:0.7071
+Default$$SimpleName::endInstant$$org.joda.time.chrono.BaseChronology#260:267:0.7071
+Default$$SimpleName::field$$org.joda.time.chrono.BaseChronology#260:466:0.7071
+Default$$SimpleName::startInstant$$org.joda.time.chrono.BaseChronology#260:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BaseChronology#260:1116:0.7071
+Insert Before$$SimpleName::minuendMonth$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:1:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:11:0.7071
+Default$$SimpleName::getMonthOfYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:253:0.7071
+Default$$SimpleName::minuendInstant$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:267:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:466:0.7071
+Default$$SimpleName::minuendYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#248:1116:0.7071
+Insert Before$$SimpleName::subtrahendMonth$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:1:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:11:0.7071
+Default$$SimpleName::getMonthOfYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:253:0.7071
+Default$$SimpleName::subtrahendInstant$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:267:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:466:0.7071
+Default$$SimpleName::subtrahendYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#250:1116:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:6:0.7071
+Default$$SimpleName::getDaysInMonthMaxForSet$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:46:0.7071
+Default$$SimpleName::instant$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:267:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:590:0.7071
+Default$$SimpleName::value$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.chrono.BasicDayOfMonthDateTimeField#96:1531:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.field.MillisDurationField#117:6:0.7071
+Default$$SimpleName::safeAdd$$org.joda.time.field.MillisDurationField#117:46:0.7071
+Default$$SimpleName::instant$$org.joda.time.field.MillisDurationField#117:267:0.7071
+Default$$SimpleName::FieldUtils$$org.joda.time.field.MillisDurationField#117:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.MillisDurationField#117:590:0.7071
+Default$$SimpleName::value$$org.joda.time.field.MillisDurationField#117:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.field.MillisDurationField#117:1531:0.7071
+Default$$SimpleName::add$$org.joda.time.field.BaseDateTimeField#253:4:0.7071
+Default$$SimpleName::instant$$org.joda.time.field.BaseDateTimeField#253:267:0.7071
+Default$$MethodInvocation::null$$org.joda.time.field.BaseDateTimeField#253:466:0.7071
+Default$$SimpleName::value$$org.joda.time.field.BaseDateTimeField#253:1040:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#362:5:0.7071
+Default$$SimpleName::nextTransition$$org.joda.time.tz.DateTimeZoneBuilder#362:46:0.7071
+Default$$SimpleName::millis$$org.joda.time.tz.DateTimeZoneBuilder#362:267:0.7071
+Default$$SimpleName::rs$$org.joda.time.tz.DateTimeZoneBuilder#362:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#362:624:0.7071
+Default$$SimpleName::saveMillis$$org.joda.time.tz.DateTimeZoneBuilder#362:1040:0.7071
+Default$$SimpleName::startInstant$$org.joda.time.chrono.BaseChronology#261:5:0.7071
+Default$$SimpleName::add$$org.joda.time.chrono.BaseChronology#261:46:0.7071
+Default$$SimpleName::startInstant$$org.joda.time.chrono.BaseChronology#261:267:0.7071
+Default$$SimpleName::field$$org.joda.time.chrono.BaseChronology#261:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BaseChronology#261:624:0.7071
+Default$$SimpleName::value$$org.joda.time.chrono.BaseChronology#261:1040:0.7071
+Default$$SimpleName::getDaysInYearMonth$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#258:46:0.7071
+Insert Before$$SimpleName::minuendDom$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#258:123:0.7071
+Default$$SimpleName::minuendYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#258:267:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#258:466:0.7071
+Default$$SimpleName::minuendMonth$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#258:1040:0.7071
+Default$$SimpleName::setYear$$org.joda.time.chrono.BasicYearDateTimeField#84:46:0.7071
+Default$$SimpleName::instant$$org.joda.time.chrono.BasicYearDateTimeField#84:267:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicYearDateTimeField#84:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicYearDateTimeField#84:590:0.7071
+Default$$SimpleName::year$$org.joda.time.chrono.BasicYearDateTimeField#84:1040:0.7071
+Default$$SimpleName::getYearDifference$$org.joda.time.chrono.BasicYearDateTimeField#91:46:0.7071
+Default$$SimpleName::minuendInstant$$org.joda.time.chrono.BasicYearDateTimeField#91:267:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicYearDateTimeField#91:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicYearDateTimeField#91:590:0.7071
+Default$$SimpleName::subtrahendInstant$$org.joda.time.chrono.BasicYearDateTimeField#91:1040:0.7071
+Insert After$$Block::null$$org.joda.time.tz.DateTimeZoneBuilder#1110:4:0.7071
+Default$$SimpleName::get$$org.joda.time.tz.DateTimeZoneBuilder#1110:5:0.7071
+Insert After$$SimpleName::YEAR_LIMIT$$org.joda.time.tz.DateTimeZoneBuilder#1110:17:0.7071
+Default$$SimpleName::year$$org.joda.time.tz.DateTimeZoneBuilder#1110:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#1110:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#1110:466:0.7071
+Default$$SimpleName::nextMillis$$org.joda.time.tz.DateTimeZoneBuilder#1110:1040:0.7071
+Default$$SimpleName::get$$org.joda.time.tz.DateTimeZoneBuilder#323:1:0.7071
+Insert After$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#323:1:0.7071
+Insert After$$NumberLiteral::1$$org.joda.time.tz.DateTimeZoneBuilder#323:4:0.7071
+Default$$NumberLiteral::1$$org.joda.time.tz.DateTimeZoneBuilder#323:60:0.7071
+Insert Before$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#323:61:0.7071
+Default$$SimpleName::size$$org.joda.time.tz.DateTimeZoneBuilder#323:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#323:115:0.7071
+Default$$SimpleName::iRuleSets$$org.joda.time.tz.DateTimeZoneBuilder#323:466:0.7071
+Default$$SimpleName::iRuleSets$$org.joda.time.tz.DateTimeZoneBuilder#323:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#323:590:0.7071
+Default$$InfixExpression::-$$org.joda.time.tz.DateTimeZoneBuilder#323:1040:0.7071
+Insert Before$$SimpleName::dayOfYear$$org.joda.time.chrono.BasicGJChronology#176:1:0.7071
+Default$$SimpleName::getDayOfYear$$org.joda.time.chrono.BasicGJChronology#176:13:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BasicGJChronology#176:41:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BasicGJChronology#176:253:0.7071
+Default$$SimpleName::instant$$org.joda.time.chrono.BasicGJChronology#176:267:0.7071
+Default$$SimpleName::thisYear$$org.joda.time.chrono.BasicGJChronology#176:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicGJChronology#176:1116:0.7071
+Insert Before$$SimpleName::minuendYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:1:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:41:0.7071
+Default$$SimpleName::getYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:253:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:466:0.7071
+Default$$SimpleName::minuendInstant$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#247:1116:0.7071
+Insert Before$$SimpleName::subtrahendYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:1:0.7071
+Default$$PrimitiveType::int$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:41:0.7071
+Default$$SimpleName::getYear$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:253:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:466:0.7071
+Default$$SimpleName::subtrahendInstant$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicMonthOfYearDateTimeField#249:1116:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.base.BasePeriod#308:15:0.7071
+Default$$SimpleName::getPeriodType$$org.joda.time.base.BasePeriod#308:46:0.7071
+Default$$SimpleName::DateTimeUtils$$org.joda.time.base.BasePeriod#308:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.base.BasePeriod#308:590:0.7071
+Default$$SimpleName::type$$org.joda.time.base.BasePeriod#308:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.base.BasePeriod#308:1531:0.7071
+Insert Before$$ReturnStatement::null$$org.joda.time.chrono.BasicYearDateTimeField#54:15:0.7071
+Default$$SimpleName::getYear$$org.joda.time.chrono.BasicYearDateTimeField#54:46:0.7071
+Default$$SimpleName::iChronology$$org.joda.time.chrono.BasicYearDateTimeField#54:466:0.7071
+Default$$MethodInvocation::null$$org.joda.time.chrono.BasicYearDateTimeField#54:590:0.7071
+Default$$SimpleName::instant$$org.joda.time.chrono.BasicYearDateTimeField#54:1040:0.7071
+Default$$ReturnStatement::null$$org.joda.time.chrono.BasicYearDateTimeField#54:1531:0.7071
+Default$$SimpleName::getFieldType$$org.joda.time.base.AbstractPeriod#68:4:0.7071
+Default$$MethodInvocation::null$$org.joda.time.base.AbstractPeriod#68:466:0.7071
+Default$$SimpleName::index$$org.joda.time.base.AbstractPeriod#68:1040:0.7071
+Insert Before$$SimpleName::rs$$org.joda.time.tz.DateTimeZoneBuilder#350:1:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.joda.time.tz.DateTimeZoneBuilder#350:3:0.7071
+Default$$SimpleType::RuleSet$$org.joda.time.tz.DateTimeZoneBuilder#350:41:0.7071
+Default$$SimpleName::get$$org.joda.time.tz.DateTimeZoneBuilder#350:46:0.7071
+Default$$SimpleName::iRuleSets$$org.joda.time.tz.DateTimeZoneBuilder#350:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.tz.DateTimeZoneBuilder#350:527:0.7071
+Default$$SimpleName::i$$org.joda.time.tz.DateTimeZoneBuilder#350:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#350:1116:0.7071
+Insert Before$$SimpleName::tr$$org.joda.time.tz.DateTimeZoneBuilder#1401:1:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.joda.time.tz.DateTimeZoneBuilder#1401:3:0.7071
+Default$$SimpleType::Transition$$org.joda.time.tz.DateTimeZoneBuilder#1401:41:0.7071
+Default$$SimpleName::get$$org.joda.time.tz.DateTimeZoneBuilder#1401:46:0.7071
+Default$$SimpleName::transitions$$org.joda.time.tz.DateTimeZoneBuilder#1401:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.tz.DateTimeZoneBuilder#1401:527:0.7071
+Default$$SimpleName::i$$org.joda.time.tz.DateTimeZoneBuilder#1401:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#1401:1116:0.7071
+Insert Before$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#351:1:0.7071
+Default$$SimpleType::Transition$$org.joda.time.tz.DateTimeZoneBuilder#351:41:0.7071
+Default$$SimpleName::firstTransition$$org.joda.time.tz.DateTimeZoneBuilder#351:46:0.7071
+Default$$SimpleName::rs$$org.joda.time.tz.DateTimeZoneBuilder#351:466:0.7071
+Default$$VariableDeclarationFragment::null$$org.joda.time.tz.DateTimeZoneBuilder#351:527:0.7071
+Default$$SimpleName::millis$$org.joda.time.tz.DateTimeZoneBuilder#351:1040:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#351:1116:0.7071
+Default$$SimpleName::get$$org.joda.time.base.BasePeriod#110:3:0.7071
+Default$$SimpleName::startInstant$$org.joda.time.base.BasePeriod#110:4:0.7071
+Default$$ThisExpression::null$$org.joda.time.base.BasePeriod#110:267:0.7071
+Default$$SimpleName::chrono$$org.joda.time.base.BasePeriod#110:466:0.7071
+Default$$SimpleName::endInstant$$org.joda.time.base.BasePeriod#110:1040:0.7071
+Default$$SimpleName::set$$org.joda.time.tz.DateTimeZoneBuilder#563:5:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#563:48:0.7071
+Default$$SimpleName::millisOfDay$$org.joda.time.tz.DateTimeZoneBuilder#563:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#563:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#563:466:0.7071
+Default$$NumberLiteral::0$$org.joda.time.tz.DateTimeZoneBuilder#563:1040:0.7071
+Default$$SimpleName::add$$org.joda.time.tz.DateTimeZoneBuilder#575:5:0.7071
+Default$$SimpleName::next$$org.joda.time.tz.DateTimeZoneBuilder#575:48:0.7071
+Default$$SimpleName::year$$org.joda.time.tz.DateTimeZoneBuilder#575:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#575:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#575:466:0.7071
+Default$$NumberLiteral::1$$org.joda.time.tz.DateTimeZoneBuilder#575:1040:0.7071
+Default$$SimpleName::set$$org.joda.time.tz.DateTimeZoneBuilder#709:5:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#709:48:0.7071
+Default$$SimpleName::dayOfMonth$$org.joda.time.tz.DateTimeZoneBuilder#709:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#709:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#709:466:0.7071
+Default$$NumberLiteral::1$$org.joda.time.tz.DateTimeZoneBuilder#709:1040:0.7071
+Default$$SimpleName::add$$org.joda.time.tz.DateTimeZoneBuilder#710:5:0.7071
+Default$$SimpleName::instant$$org.joda.time.tz.DateTimeZoneBuilder#710:48:0.7071
+Default$$SimpleName::monthOfYear$$org.joda.time.tz.DateTimeZoneBuilder#710:62:0.7071
+Default$$MethodInvocation::null$$org.joda.time.tz.DateTimeZoneBuilder#710:466:0.7071
+Default$$SimpleName::chrono$$org.joda.time.tz.DateTimeZoneBuilder#710:466:0.7071
+Default$$NumberLiteral::1$$org.joda.time.tz.DateTimeZoneBuilder#710:1040:0.7071
+Default$$SimpleName::tailZone$$org.joda.time.tz.DateTimeZoneBuilder#372:8:0.7071
+Default$$SimpleName::buildTailZone$$org.joda.time.tz.DateTimeZoneBuilder#372:46:0.7071
+Default$$SimpleName::rs$$org.joda.time.tz.DateTimeZoneBuilder#372:466:0.7071

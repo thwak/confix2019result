@@ -1,0 +1,15 @@
+Class:org.joda.time.tz.DateTimeZoneBuilder
+replace
+rs
+with
+(new RuleSet())
+at line 372
+Applied Change
+replace
+var0
+with
+(new Type0())
+from
+lucene-8024f7f:lucene/src/java/org/apache/lucene/index/codecs/preflex/PreFlexFields.java:::
+4
+P:MethodInvocation{expression},L:,R:{42}

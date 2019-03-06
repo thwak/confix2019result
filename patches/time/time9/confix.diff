@@ -1,0 +1,19 @@
+--- ../result-tf-hash/time/time9/buggy/org/joda/time/DateTimeZone.java	2019-02-22 11:40:18.741055571 +0000
++++ ../result-tf-hash/time/time9/confix/org/joda/time/DateTimeZone.java	2019-02-22 11:40:18.725055500 +0000
+@@ -41,6 +41,7 @@
+ import org.joda.time.tz.Provider;
+ import org.joda.time.tz.UTCProvider;
+ import org.joda.time.tz.ZoneInfoProvider;
++import java.net.InetAddress;
+ 
+ /**
+  * DateTimeZone represents a time zone.
+@@ -281,7 +282,7 @@
+      */
+     public static DateTimeZone forOffsetMillis(int millisOffset) {
+         String id = printOffset(millisOffset);
+-        return fixedOffsetZone(id, millisOffset);
++        return fixedOffsetZone(id, parseOffset(id));
+     }
+ 
+     /**

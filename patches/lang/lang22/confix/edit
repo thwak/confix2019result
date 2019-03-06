@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang3.math.Fraction
+replace
+Math.abs(u)
+with
+Math.abs(v)
+at line 584
+Applied Change
+replace
+var0.method0(var1)
+with
+var0.method0(var1)
+from
+lucene-65bfa48:solr/core/src/java/org/apache/solr/cloud/ZkCLI.java::
+1
+P:InfixExpression{leftOperand},L:,R:{34}

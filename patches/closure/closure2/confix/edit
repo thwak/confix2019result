@@ -1,0 +1,15 @@
+Class:com.google.javascript.jscomp.TypeCheck
+replace
+functionType.getExtendedInterfacesCount()
+with
+typedCount
+at line 1656
+Applied Change
+replace
+var0.method0()
+with
+var0
+from
+lucene-3087eb5:lucene/core/src/java/org/apache/lucene/search/spans/NearSpansUnordered.java:::
+2
+P:InfixExpression{leftOperand},L:,R:{34}

@@ -1,0 +1,183 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::boundary$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#83:8:1.0000
+Insert After$$SuperConstructorInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#83:16:1.0000
+Default$$SuperConstructorInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#83:1531:1.0000
+Insert Before$$SimpleName::scaled$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:1:0.4082
+Insert After$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:2:0.4082
+Default$$SimpleName::dotProduct$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:29:0.4082
+Default$$SimpleName::getNormal$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:62:0.4082
+Insert Before$$SimpleName::area$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:123:0.4082
+Default$$SimpleName::facetB$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:466:0.4082
+Default$$SimpleName::plane$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#180:1040:0.4082
+Insert Before$$SimpleName::facetB$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:1:0.4082
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:2:0.4082
+Default$$SimpleType::Vector3D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:2:0.4082
+Default$$SimpleName::toSpace$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:29:0.4082
+Default$$SimpleName::getBarycenter$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:62:0.4082
+Default$$SimpleName::plane$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:466:0.4082
+Default$$SimpleName::polygon$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:466:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:527:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:1040:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#179:1116:0.4082
+Default$$SimpleName::isInfinite$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#173:46:0.4082
+Default$$SimpleName::Double$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#173:466:0.4082
+Default$$SimpleName::area$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#173:1040:0.4082
+Default$$SimpleName::getTree$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#118:1:0.4082
+Default$$SimpleType::FacetsContributionVisitor$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#118:44:0.4082
+Default$$BooleanLiteral::true$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#118:1040:0.4082
+Default$$ClassInstanceCreation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#118:1040:0.4082
+Default$$SimpleName::addContribution$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#153:4:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#153:29:0.4082
+Default$$SimpleName::getPlusOutside$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#153:62:0.4082
+Default$$BooleanLiteral::false$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#153:87:0.4082
+Default$$SimpleName::attribute$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#153:466:0.4082
+Default$$SimpleType::Vector3D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#186:6:0.4082
+Default$$SimpleName::facetB$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#186:118:0.4082
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#185:9:0.4082
+Insert After$$SimpleName::scaled$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#185:17:0.4082
+Default$$SimpleName::scaled$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#185:27:0.4082
+Insert Before$$SimpleName::area$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#171:1:0.4082
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#171:2:0.4082
+Default$$SimpleName::getSize$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#171:62:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#171:253:0.4082
+Default$$SimpleName::polygon$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#171:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#171:1116:0.4082
+Insert Before$$SimpleName::plane$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:1:0.4082
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:2:0.4082
+Default$$SimpleType::Plane$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:8:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:31:0.4082
+Default$$SimpleName::getHyperplane$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:62:0.4082
+Default$$SimpleName::facet$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:466:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:527:0.4082
+Default$$CastExpression::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#178:1116:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#152:44:0.4082
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#152:61:0.4082
+Default$$SimpleName::getPlusOutside$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#152:62:0.4082
+Default$$SimpleName::attribute$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#152:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#155:44:0.4082
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#155:61:0.4082
+Default$$SimpleName::getPlusInside$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#155:62:0.4082
+Default$$SimpleName::attribute$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#155:466:0.4082
+Insert Before$$SimpleName::polygon$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:1:0.4082
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:2:0.4082
+Default$$SimpleName::getRemainingRegion$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:2:0.4082
+Default$$SimpleType::SubPlane$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:8:0.4082
+Default$$SimpleName::facet$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:31:0.4082
+Default$$SimpleType::Region$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:66:0.4082
+Default$$SimpleType::Euclidean2D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:86:0.4082
+Insert After$$SimpleType::Euclidean2D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:86:0.4082
+Default$$CastExpression::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:167:0.4082
+Default$$ParenthesizedExpression::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#170:1116:0.4082
+Default$$SimpleName::setSize$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#138:1:0.4082
+Default$$NumberLiteral::0$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#138:1040:0.4082
+Default$$SimpleType::Vector3D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#139:6:0.4082
+Default$$NumberLiteral::0$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#139:13:0.4082
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#144:1:0.4082
+Default$$QualifiedName::Order.MINUS_SUB_PLUS$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#144:590:0.4082
+Default$$ReturnStatement::null$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#144:1531:0.4082
+Insert After$$Modifier::public$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:5:0.4082
+Default$$SimpleType::Euclidean3D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:9:0.4082
+Insert Before$$Modifier::public$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:10:0.4082
+Default$$Modifier::public$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:16:0.4082
+Default$$SimpleType::AbstractRegion$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:66:0.4082
+Default$$SimpleType::Euclidean2D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:86:0.4082
+Insert After$$SimpleType::Euclidean2D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#42:86:0.4082
+Insert Before$$SimpleName::attribute$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#150:1:0.4082
+Default$$SimpleType::BoundaryAttribute$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#150:66:0.4082
+Default$$SimpleType::Euclidean3D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#150:86:0.4082
+Insert After$$SimpleType::Euclidean3D$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#150:86:0.4082
+Insert After$$Modifier::public$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#137:4:0.4082
+Default$$Modifier::public$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#137:10:0.4082
+Insert Before$$Modifier::public$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#137:15:0.4082
+Default$$SimpleName::reversed$$org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#181:2:0.4082
+Default$$SimpleName::getX$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#140:1:1.0000
+Default$$SimpleName::toSubSpace$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#140:46:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#140:466:1.0000
+Default$$SimpleName::line$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#140:466:1.0000
+Default$$SimpleName::start$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#140:1040:1.0000
+Default$$SimpleName::buildIntervalSet$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#56:13:1.0000
+Default$$SimpleType::Line$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#56:34:1.0000
+Default$$SimpleName::start$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#56:70:1.0000
+Default$$SimpleName::end$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#56:118:1.0000
+Default$$SimpleName::start$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#56:267:1.0000
+Default$$SimpleName::end$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#56:1040:1.0000
+Insert Before$$SimpleName::tree$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:1:1.0000
+Default$$SimpleName::getTree$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:1:1.0000
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:2:1.0000
+Default$$SimpleType::BSPTree$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:66:1.0000
+Default$$SimpleType::Euclidean2D$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:86:1.0000
+Insert After$$SimpleType::Euclidean2D$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:86:1.0000
+Default$$BooleanLiteral::false$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#135:1040:1.0000
+Default$$SimpleType::Boolean$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#136:8:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#136:31:1.0000
+Default$$SimpleName::getAttribute$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#136:62:1.0000
+Default$$SimpleName::tree$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#136:466:1.0000
+Insert Before$$SimpleName::line$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:1:1.0000
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:2:1.0000
+Default$$SimpleType::Line$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:34:1.0000
+Default$$SimpleName::start$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:70:1.0000
+Default$$SimpleName::end$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:118:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:527:1.0000
+Default$$ClassInstanceCreation::null$$org.apache.commons.math3.geometry.euclidean.twod.SubLine#139:1116:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#330:3:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#330:1101:1.0000
+Insert Before$$SimpleName::denom$$org.apache.commons.math3.util.FastMath#2480:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math3.util.FastMath#2480:2:0.7071
+Insert After$$SimpleName::xa$$org.apache.commons.math3.util.FastMath#2480:4:0.7071
+Insert Before$$ArrayAccess::null$$org.apache.commons.math3.util.FastMath#2480:4:0.7071
+Default$$SimpleName::TANGENT_TABLE_A$$org.apache.commons.math3.util.FastMath#2480:11:0.7071
+Default$$SimpleName::TANGENT_TABLE_B$$org.apache.commons.math3.util.FastMath#2480:11:0.7071
+Insert After$$SimpleName::xb$$org.apache.commons.math3.util.FastMath#2480:17:0.7071
+Default$$SimpleName::idx$$org.apache.commons.math3.util.FastMath#2480:38:0.7071
+Default$$SimpleName::idx$$org.apache.commons.math3.util.FastMath#2480:38:0.7071
+Insert Before$$NumberLiteral::1d$$org.apache.commons.math3.util.FastMath#2480:115:0.7071
+Insert Before$$NumberLiteral::1d$$org.apache.commons.math3.util.FastMath#2480:115:0.7071
+Default$$SimpleName::xa$$org.apache.commons.math3.util.FastMath#2480:123:0.7071
+Insert Before$$SimpleName::xa$$org.apache.commons.math3.util.FastMath#2480:123:0.7071
+Default$$SimpleName::xb$$org.apache.commons.math3.util.FastMath#2480:235:0.7071
+Insert After$$SimpleName::epsA$$org.apache.commons.math3.util.FastMath#2482:4:0.7071
+Insert After$$SimpleName::denom$$org.apache.commons.math3.util.FastMath#2482:17:0.7071
+Default$$SimpleName::epsA$$org.apache.commons.math3.util.FastMath#2482:123:0.7071
+Insert Before$$SimpleName::epsA$$org.apache.commons.math3.util.FastMath#2482:123:0.7071
+Default$$SimpleName::denom$$org.apache.commons.math3.util.FastMath#2482:235:0.7071
+Default$$InfixExpression::*$$org.apache.commons.math3.util.FastMath#2482:624:0.7071
+Insert After$$SimpleName::epsB$$org.apache.commons.math3.util.FastMath#2483:4:0.7071
+Insert After$$SimpleName::denom$$org.apache.commons.math3.util.FastMath#2483:17:0.7071
+Default$$SimpleName::epsB$$org.apache.commons.math3.util.FastMath#2483:123:0.7071
+Insert Before$$SimpleName::epsB$$org.apache.commons.math3.util.FastMath#2483:123:0.7071
+Default$$SimpleName::denom$$org.apache.commons.math3.util.FastMath#2483:235:0.7071
+Default$$InfixExpression::*$$org.apache.commons.math3.util.FastMath#2483:624:0.7071
+Default$$SimpleName::crossProduct$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:1:0.5774
+Insert Before$$SimpleName::p1$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:4:0.5774
+Default$$SimpleName::subtract$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:46:0.5774
+Default$$SimpleName::subtract$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:46:0.5774
+Insert Before$$SimpleName::p1$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:267:0.5774
+Insert Before$$SimpleName::p1$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:267:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:466:0.5774
+Default$$SimpleName::p2$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:466:0.5774
+Default$$SimpleName::p3$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:466:0.5774
+Default$$SimpleName::p1$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:1040:0.5774
+Default$$SimpleName::p1$$org.apache.commons.math3.geometry.euclidean.threed.Plane#81:1040:0.5774
+Insert Before$$SimpleName::split$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:1:0.5000
+Insert Before$$Modifier::final$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:2:0.5000
+Default$$ParameterizedType::null$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:12:0.5000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:37:0.5000
+Default$$SimpleName::split$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:46:0.5000
+Default$$SimpleType::SubHyperplane.SplitSubHyperplane$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:66:0.5000
+Default$$SimpleType::S$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:86:0.5000
+Insert After$$SimpleType::S$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:86:0.5000
+Default$$SimpleName::other$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:466:0.5000
+Default$$SimpleName::inserted$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:1040:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#204:1116:0.5000
+Default$$SimpleName::add$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#206:29:0.5000
+Default$$SimpleName::getMinus$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#206:62:0.5000
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#206:68:0.5000
+Default$$SimpleName::minusList$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#206:466:0.5000
+Default$$SimpleName::split$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#206:466:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#206:1040:0.5000
+Default$$SimpleName::add$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#205:29:0.5000
+Default$$SimpleName::getPlus$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#205:62:0.5000
+Insert Before$$MethodInvocation::null$$org.apache.commons.math3.geometry.partitioning.AbstractRegion#205:68:0.5000

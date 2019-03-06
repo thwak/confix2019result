@@ -1,0 +1,10 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::chromosomes$$org.apache.commons.math3.genetics.ListPopulation#112:1:0.7071
+Default$$SimpleName::addAll$$org.apache.commons.math3.genetics.ListPopulation#112:1:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math3.genetics.ListPopulation#112:13:0.7071
+Insert Before$$SimpleName::chromosomeColl$$org.apache.commons.math3.genetics.ListPopulation#112:267:0.7071
+Default$$FieldAccess::null$$org.apache.commons.math3.genetics.ListPopulation#112:466:0.7071
+Default$$SimpleName::chromosomeColl$$org.apache.commons.math3.genetics.ListPopulation#112:1040:0.7071
+Insert Before$$ReturnStatement::null$$org.apache.commons.math3.genetics.ListPopulation#209:20:0.7071
+Default$$SimpleName::iterator$$org.apache.commons.math3.genetics.ListPopulation#209:62:0.7071
+Default$$SimpleName::chromosomes$$org.apache.commons.math3.genetics.ListPopulation#209:466:0.7071

@@ -1,0 +1,14 @@
+Class:org.apache.commons.lang3.math.NumberUtils
+insert
+!hasDecPoint
+at Insert After
+PrefixExpression::!
+org.apache.commons.lang3.math.NumberUtils:1413
+Context:P:InfixExpression{extendedOperands},L:PrefixExpression{rightOperand},R:
+Applied Change
+insert
+!var0
+from
+lucene-65bfa48:solr/core/src/java/org/apache/solr/cloud/DistributedQueue.java:
+5
+P:InfixExpression{extendedOperands},L:PrefixExpression{rightOperand},R:

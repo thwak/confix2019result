@@ -1,0 +1,5 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$SimpleName::toolTipText$$org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#65:3:1.0000
+Insert After$$StringLiteral::" title=\""$$org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#65:4:1.0000
+Insert Before$$StringLiteral::" title=\""$$org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#65:33:1.0000
+Default$$SimpleName::toolTipText$$org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#65:74:1.0000

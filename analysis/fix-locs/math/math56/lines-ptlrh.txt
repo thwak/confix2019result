@@ -1,0 +1,90 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#106:1:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#106:1:1.0000
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.MultidimensionalCounter#106:4:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#106:17:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#106:115:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#106:123:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.math.util.MultidimensionalCounter#106:235:1.0000
+Default$$SimpleName::last$$org.apache.commons.math.util.MultidimensionalCounter#106:1116:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#227:1:1.0000
+Insert Before$$SimpleName::offset$$org.apache.commons.math.util.MultidimensionalCounter#227:1:1.0000
+Insert Before$$Modifier::final$$org.apache.commons.math.util.MultidimensionalCounter#227:2:1.0000
+Default$$SimpleName::uniCounterOffset$$org.apache.commons.math.util.MultidimensionalCounter#227:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#227:38:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#227:253:1.0000
+Default$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#227:1116:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#93:1:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#93:2:1.0000
+Insert After$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#93:4:1.0000
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.util.MultidimensionalCounter#93:12:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#93:17:1.0000
+Insert After$$SimpleName::dimension$$org.apache.commons.math.util.MultidimensionalCounter#93:17:1.0000
+Default$$InfixExpression::<$$org.apache.commons.math.util.MultidimensionalCounter#93:39:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#93:123:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#93:123:1.0000
+Default$$SimpleName::dimension$$org.apache.commons.math.util.MultidimensionalCounter#93:235:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.math.util.MultidimensionalCounter#93:1116:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#225:1:1.0000
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#225:2:1.0000
+Insert After$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#225:4:1.0000
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.util.MultidimensionalCounter#225:12:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#225:17:1.0000
+Insert After$$SimpleName::last$$org.apache.commons.math.util.MultidimensionalCounter#225:17:1.0000
+Default$$InfixExpression::<$$org.apache.commons.math.util.MultidimensionalCounter#225:39:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#225:123:1.0000
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#225:123:1.0000
+Default$$SimpleName::last$$org.apache.commons.math.util.MultidimensionalCounter#225:235:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.math.util.MultidimensionalCounter#225:1116:1.0000
+Insert Before$$SimpleName::count$$org.apache.commons.math.util.MultidimensionalCounter#224:1:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.math.util.MultidimensionalCounter#224:9:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#224:253:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.math.util.MultidimensionalCounter#224:1116:1.0000
+Insert Before$$SimpleName::idx$$org.apache.commons.math.util.MultidimensionalCounter#226:1:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.math.util.MultidimensionalCounter#226:9:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#226:253:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.math.util.MultidimensionalCounter#226:1116:1.0000
+Insert Before$$SimpleName::idx$$org.apache.commons.math.util.MultidimensionalCounter#237:1:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.math.util.MultidimensionalCounter#237:9:1.0000
+Default$$NumberLiteral::1$$org.apache.commons.math.util.MultidimensionalCounter#237:1116:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.util.MultidimensionalCounter#281:35:1.0000
+Default$$SimpleName::totalSize$$org.apache.commons.math.util.MultidimensionalCounter#281:590:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math.util.MultidimensionalCounter#281:1531:1.0000
+Default$$ArrayType::null$$org.apache.commons.math.util.MultidimensionalCounter#222:1:1.0000
+Insert After$$Dimension::null$$org.apache.commons.math.util.MultidimensionalCounter#222:1:1.0000
+Insert Before$$SimpleName::indices$$org.apache.commons.math.util.MultidimensionalCounter#222:1:1.0000
+Insert After$$Dimension::null$$org.apache.commons.math.util.MultidimensionalCounter#222:1:1.0000
+Insert Before$$Modifier::final$$org.apache.commons.math.util.MultidimensionalCounter#222:2:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MultidimensionalCounter#222:20:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.math.util.MultidimensionalCounter#222:35:1.0000
+Default$$PrimitiveType::int$$org.apache.commons.math.util.MultidimensionalCounter#222:35:1.0000
+Default$$SimpleName::dimension$$org.apache.commons.math.util.MultidimensionalCounter#222:71:1.0000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#94:4:1.0000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#94:4:1.0000
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MultidimensionalCounter#94:4:1.0000
+Insert After$$Block::null$$org.apache.commons.math.util.MultidimensionalCounter#94:7:1.0000
+Default$$SimpleName::counter$$org.apache.commons.math.util.MultidimensionalCounter#94:11:1.0000
+Default$$SimpleName::size$$org.apache.commons.math.util.MultidimensionalCounter#94:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#94:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#94:38:1.0000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#107:4:1.0000
+Insert Before$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#107:4:1.0000
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.MultidimensionalCounter#107:4:1.0000
+Default$$SimpleName::counter$$org.apache.commons.math.util.MultidimensionalCounter#107:11:1.0000
+Default$$SimpleName::size$$org.apache.commons.math.util.MultidimensionalCounter#107:11:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#107:38:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#107:38:1.0000
+Default$$SimpleName::indices$$org.apache.commons.math.util.MultidimensionalCounter#234:11:1.0000
+Default$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#234:25:1.0000
+Default$$SimpleName::i$$org.apache.commons.math.util.MultidimensionalCounter#234:38:1.0000
+Default$$SimpleName::idx$$org.apache.commons.math.util.MultidimensionalCounter#234:50:1.0000
+Default$$SimpleName::indices$$org.apache.commons.math.util.MultidimensionalCounter#243:11:1.0000
+Default$$ArrayAccess::null$$org.apache.commons.math.util.MultidimensionalCounter#243:25:1.0000
+Default$$SimpleName::last$$org.apache.commons.math.util.MultidimensionalCounter#243:38:1.0000
+Default$$SimpleName::idx$$org.apache.commons.math.util.MultidimensionalCounter#243:50:1.0000
+Default$$SimpleName::count$$org.apache.commons.math.util.MultidimensionalCounter#229:25:1.0000
+Default$$SimpleName::offset$$org.apache.commons.math.util.MultidimensionalCounter#229:624:1.0000
+Default$$SimpleName::count$$org.apache.commons.math.util.MultidimensionalCounter#233:25:1.0000
+Default$$SimpleName::offset$$org.apache.commons.math.util.MultidimensionalCounter#233:624:1.0000
+Default$$SimpleName::count$$org.apache.commons.math.util.MultidimensionalCounter#239:25:1.0000
+Default$$SimpleName::idx$$org.apache.commons.math.util.MultidimensionalCounter#239:624:1.0000

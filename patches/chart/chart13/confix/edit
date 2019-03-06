@@ -1,0 +1,15 @@
+Class:org.jfree.chart.block.BorderArrangement
+update
+w
+to
+h
+at line 450
+Applied Change
+update
+var0
+to
+var0
+from
+collections-68bbd2c:src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java::
+26
+P:ArrayAccess{array},L:,R:{34}

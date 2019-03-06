@@ -1,0 +1,14 @@
+Class:org.apache.commons.math3.distribution.AbstractIntegerDistribution
+insert
+1
+at Insert After
+SimpleName::p
+org.apache.commons.math3.distribution.AbstractIntegerDistribution:130
+Context:P:InfixExpression{extendedOperands},L:{42},R:
+Applied Change
+insert
+1
+from
+lucene-884aa16:solr/core/src/java/org/apache/solr/search/facet/FacetField.java::
+1
+P:InfixExpression{extendedOperands},L:{42},R:

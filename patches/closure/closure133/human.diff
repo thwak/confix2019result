@@ -1,0 +1,10 @@
+--- ../result-tf-hash/closure/closure133/buggy/com/google/javascript/jscomp/parsing/JsDocInfoParser.java	2019-02-21 22:35:19.358083882 +0000
++++ ../result-tf-hash/closure/closure133/human/com/google/javascript/jscomp/parsing/JsDocInfoParser.java	2019-02-21 22:35:19.362083855 +0000
+@@ -2398,6 +2398,7 @@
+    */
+   private String getRemainingJSDocLine() {
+     String result = stream.getRemainingJSDocLine();
++    unreadToken = NO_UNREAD_TOKEN;
+     return result;
+   }
+ 

@@ -1,0 +1,15 @@
+Class:org.jfree.data.time.TimeSeries
+replace
+0
+with
+startIndex
+at line 944
+Applied Change
+replace
+0
+with
+var0
+from
+lucene-a7a28ec:lucene/sandbox/src/java/org/apache/lucene/document/LatLonBoundingBox.java:
+1
+P:InfixExpression{rightOperand},L:SimpleName{leftOperand},R:

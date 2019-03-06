@@ -1,0 +1,94 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#932:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#932:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#932:6:0.7071
+Default$$SimpleName::getIndex$$org.jfree.data.time.TimeSeries#932:13:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#932:253:0.7071
+Default$$PrimitiveType::int$$org.jfree.data.time.TimeSeries#932:269:0.7071
+Default$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#932:720:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#932:720:0.7071
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#932:821:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#932:1116:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#932:1179:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#927:1:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#927:2:0.7071
+Insert Before$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#927:14:0.7071
+Default$$SimpleName::compareTo$$org.jfree.data.time.TimeSeries#927:44:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#927:110:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#927:114:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#927:411:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#927:455:0.7071
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#927:461:0.7071
+Default$$Block::null$$org.jfree.data.time.TimeSeries#927:638:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#927:675:0.7071
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#927:821:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#939:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#939:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#939:6:0.7071
+Default$$SimpleName::getIndex$$org.jfree.data.time.TimeSeries#939:13:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#939:253:0.7071
+Default$$PrimitiveType::int$$org.jfree.data.time.TimeSeries#939:269:0.7071
+Default$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#939:411:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#939:455:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#939:720:0.7071
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#939:821:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#939:1116:0.7071
+Default$$SimpleName::createCopy$$org.jfree.data.time.TimeSeries#953:13:0.7071
+Insert Before$$ReturnStatement::null$$org.jfree.data.time.TimeSeries#953:111:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#953:205:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#953:312:0.7071
+Default$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#953:590:0.7071
+Default$$ReturnStatement::null$$org.jfree.data.time.TimeSeries#953:1101:0.7071
+Default$$SimpleName::data$$org.jfree.data.time.TimeSeries#935:1:0.7071
+Default$$SimpleName::size$$org.jfree.data.time.TimeSeries#935:2:0.7071
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#935:6:0.7071
+Default$$ThisExpression::null$$org.jfree.data.time.TimeSeries#935:13:0.7071
+Insert After$$MethodInvocation::null$$org.jfree.data.time.TimeSeries#935:29:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#935:46:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#935:103:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#935:314:0.7071
+Default$$FieldAccess::null$$org.jfree.data.time.TimeSeries#935:461:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#935:675:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#933:2:0.7071
+Insert Before$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#933:6:0.7071
+Default$$SimpleName::startIndex$$org.jfree.data.time.TimeSeries#933:114:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#933:229:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#933:455:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#933:675:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#933:720:0.7071
+Default$$InfixExpression::<$$org.jfree.data.time.TimeSeries#933:1647:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#940:2:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#940:6:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#940:114:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#940:229:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#940:411:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#940:675:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#940:720:0.7071
+Default$$InfixExpression::<$$org.jfree.data.time.TimeSeries#940:1647:0.7071
+Insert Before$$SimpleName::emptyRange$$org.jfree.data.time.TimeSeries#931:1:0.7071
+Insert Before$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#931:3:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#931:6:0.7071
+Default$$VariableDeclarationFragment::null$$org.jfree.data.time.TimeSeries#931:253:0.7071
+Default$$PrimitiveType::boolean$$org.jfree.data.time.TimeSeries#931:269:0.7071
+Default$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#931:455:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#931:455:0.7071
+Default$$BooleanLiteral::false$$org.jfree.data.time.TimeSeries#931:1116:0.7071
+Insert After$$VariableDeclarationStatement::null$$org.jfree.data.time.TimeSeries#931:1179:0.7071
+Insert Before$$SimpleName::start$$org.jfree.data.time.TimeSeries#921:6:0.7071
+Default$$SimpleName::start$$org.jfree.data.time.TimeSeries#921:44:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#921:411:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#921:428:0.7071
+Default$$Block::null$$org.jfree.data.time.TimeSeries#921:638:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#921:675:0.7071
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeries#921:1647:0.7071
+Insert Before$$SimpleName::end$$org.jfree.data.time.TimeSeries#924:6:0.7071
+Default$$SimpleName::end$$org.jfree.data.time.TimeSeries#924:44:0.7071
+Insert Before$$IfStatement::null$$org.jfree.data.time.TimeSeries#924:411:0.7071
+Insert After$$IfStatement::null$$org.jfree.data.time.TimeSeries#924:411:0.7071
+Default$$Block::null$$org.jfree.data.time.TimeSeries#924:638:0.7071
+Insert After$$Block::null$$org.jfree.data.time.TimeSeries#924:675:0.7071
+Default$$InfixExpression::==$$org.jfree.data.time.TimeSeries#924:1647:0.7071
+Insert After$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#944:2:0.7071
+Insert Before$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#944:6:0.7071
+Default$$SimpleName::endIndex$$org.jfree.data.time.TimeSeries#944:114:0.7071
+Default$$NumberLiteral::0$$org.jfree.data.time.TimeSeries#944:229:0.7071

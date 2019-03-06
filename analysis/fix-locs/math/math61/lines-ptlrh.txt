@@ -1,0 +1,930 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::locale$$org.apache.commons.math.MathRuntimeException#136:7:1.0000
+Default$$SimpleName::getLocalizedString$$org.apache.commons.math.MathRuntimeException#136:46:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math.MathRuntimeException#136:70:1.0000
+Default$$SimpleName::pattern$$org.apache.commons.math.MathRuntimeException#136:466:1.0000
+Default$$SimpleName::locale$$org.apache.commons.math.MathRuntimeException#136:1040:1.0000
+Default$$SimpleName::arguments$$org.apache.commons.math.MathRuntimeException#136:1040:1.0000
+Default$$SimpleName::buildMessage$$org.apache.commons.math.MathRuntimeException#401:4:1.0000
+Default$$SimpleName::pattern$$org.apache.commons.math.MathRuntimeException#401:20:1.0000
+Default$$SimpleName::getDefault$$org.apache.commons.math.MathRuntimeException#401:62:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math.MathRuntimeException#401:267:1.0000
+Default$$SimpleName::Locale$$org.apache.commons.math.MathRuntimeException#401:466:1.0000
+Default$$SimpleName::arguments$$org.apache.commons.math.MathRuntimeException#401:1040:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math.MathRuntimeException#401:1531:1.0000
+Default$$SimpleName::buildMessage$$org.apache.commons.math.MathRuntimeException#395:1:1.0000
+Default$$SimpleName::pattern$$org.apache.commons.math.MathRuntimeException#395:20:1.0000
+Default$$QualifiedName::Locale.US$$org.apache.commons.math.MathRuntimeException#395:267:1.0000
+Default$$SimpleName::arguments$$org.apache.commons.math.MathRuntimeException#395:1040:1.0000
+Default$$SimpleName::createIllegalArgumentException$$org.apache.commons.math.distribution.PoissonDistributionImpl#94:10:1.0000
+Default$$SimpleName::p$$org.apache.commons.math.distribution.PoissonDistributionImpl#94:96:1.0000
+Default$$QualifiedName::LocalizedFormats.NOT_POSITIVE_POISSON_MEAN$$org.apache.commons.math.distribution.PoissonDistributionImpl#94:267:1.0000
+Default$$SimpleName::MathRuntimeException$$org.apache.commons.math.distribution.PoissonDistributionImpl#94:466:1.0000
+Default$$SingleVariableDeclaration::null$$org.apache.commons.math.exception.util.LocalizedFormats#335:7:1.0000
+Insert After$$CatchClause::null$$org.apache.commons.math.exception.util.LocalizedFormats#335:8:1.0000
+Default$$Block::null$$org.apache.commons.math.exception.util.LocalizedFormats#335:47:1.0000
+Default$$SimpleType::MissingResourceException$$org.apache.commons.math.exception.util.LocalizedFormats#335:232:1.0000
+Default$$SimpleName::sourceFormat$$org.apache.commons.math.exception.util.LocalizedFormats#341:590:1.0000
+Insert Before$$SimpleName::bundle$$org.apache.commons.math.exception.util.LocalizedFormats#328:1:1.0000
+Insert After$$Modifier::public$$org.apache.commons.math.MathRuntimeException#39:5:1.0000
+Insert Before$$Modifier::public$$org.apache.commons.math.MathRuntimeException#39:10:1.0000
+Default$$Modifier::public$$org.apache.commons.math.MathRuntimeException#39:16:1.0000
+Default$$SimpleName::sourceFormat$$org.apache.commons.math.exception.util.LocalizedFormats#317:1:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math.exception.util.LocalizedFormats#317:13:0.7071
+Default$$FieldAccess::null$$org.apache.commons.math.exception.util.LocalizedFormats#317:25:0.7071
+Default$$SimpleName::sourceFormat$$org.apache.commons.math.exception.util.LocalizedFormats#317:187:0.7071
+Default$$Assignment::=$$org.apache.commons.math.exception.util.LocalizedFormats#317:1531:0.7071
+Insert Before$$Modifier::private$$org.apache.commons.math.exception.util.LocalizedFormats#316:3:0.7071
+Insert After$$Modifier::private$$org.apache.commons.math.exception.util.LocalizedFormats#316:3:0.7071
+Default$$Modifier::private$$org.apache.commons.math.exception.util.LocalizedFormats#316:10:0.7071
+Default$$SimpleType::String$$org.apache.commons.math.exception.util.LocalizedFormats#316:19:0.7071
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.exception.util.LocalizedFormats#316:28:0.7071
+Default$$StringLiteral::"Argument {0} outside domain [{1} ; {2}]"$$org.apache.commons.math.exception.util.LocalizedFormats#44:6:0.7071
+Default$$StringLiteral::"array sizes should have difference 1 ({0} != {1} + 1)"$$org.apache.commons.math.exception.util.LocalizedFormats#45:6:0.7071
+Default$$StringLiteral::"array sums to zero"$$org.apache.commons.math.exception.util.LocalizedFormats#46:6:0.7071
+Default$$StringLiteral::"eigen decomposition of assymetric matrices not supported yet"$$org.apache.commons.math.exception.util.LocalizedFormats#47:6:0.7071
+Default$$StringLiteral::"matrix must have at least one column"$$org.apache.commons.math.exception.util.LocalizedFormats#48:6:0.7071
+Default$$StringLiteral::"matrix must have at least one row"$$org.apache.commons.math.exception.util.LocalizedFormats#49:6:0.7071
+Default$$StringLiteral::"bandwidth must be in the interval [0,1], but got {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#50:6:0.7071
+Default$$StringLiteral::"must have n >= k for binomial coefficient (n,k), got n = {0}, k = {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#51:6:0.7071
+Default$$StringLiteral::"must have n >= 0 for binomial coefficient (n,k), got n = {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#52:6:0.7071
+Default$$StringLiteral::"statistics constructed from external moments cannot be cleared"$$org.apache.commons.math.exception.util.LocalizedFormats#53:6:0.7071
+Default$$StringLiteral::"cannot compute 0-th root of unity, indefinite result"$$org.apache.commons.math.exception.util.LocalizedFormats#54:6:0.7071
+Default$$StringLiteral::"cannot compute beta density at 0 when alpha = {0,number}"$$org.apache.commons.math.exception.util.LocalizedFormats#55:6:0.7071
+Default$$StringLiteral::"cannot compute beta density at 1 when beta = %.3g"$$org.apache.commons.math.exception.util.LocalizedFormats#56:6:0.7071
+Default$$StringLiteral::"cannot compute nth root for null or negative n: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#57:6:0.7071
+Default$$StringLiteral::"cannot convert given object to a fraction number: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#58:6:0.7071
+Default$$StringLiteral::"cannot discard a negative number of elements ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#59:6:0.7071
+Default$$StringLiteral::"cannot format a {0} instance as a 3D vector"$$org.apache.commons.math.exception.util.LocalizedFormats#60:6:0.7071
+Default$$StringLiteral::"cannot format a {0} instance as a complex number"$$org.apache.commons.math.exception.util.LocalizedFormats#61:6:0.7071
+Default$$StringLiteral::"cannot format a {0} instance as a real vector"$$org.apache.commons.math.exception.util.LocalizedFormats#62:6:0.7071
+Default$$StringLiteral::"cannot format given object as a fraction number"$$org.apache.commons.math.exception.util.LocalizedFormats#63:6:0.7071
+Default$$StringLiteral::"statistics constructed from external moments cannot be incremented"$$org.apache.commons.math.exception.util.LocalizedFormats#64:6:0.7071
+Default$$StringLiteral::"cannot normalize a zero norm vector"$$org.apache.commons.math.exception.util.LocalizedFormats#65:6:0.7071
+Default$$StringLiteral::"elements cannot be retrieved from a negative array index {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#66:6:0.7071
+Default$$StringLiteral::"cannot set an element at a negative index {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#67:6:0.7071
+Default$$StringLiteral::"cannot substitute an element from an empty array"$$org.apache.commons.math.exception.util.LocalizedFormats#68:6:0.7071
+Default$$StringLiteral::"Conversion Exception in Transformation: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#69:6:0.7071
+Default$$StringLiteral::"Cardan angles singularity"$$org.apache.commons.math.exception.util.LocalizedFormats#70:6:0.7071
+Default$$StringLiteral::"class ({0}) does not implement Comparable"$$org.apache.commons.math.exception.util.LocalizedFormats#71:6:0.7071
+Default$$StringLiteral::"the closest orthogonal matrix has a negative determinant {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#72:6:0.7071
+Default$$StringLiteral::"column index {0} out of allowed range [{1}, {2}]"$$org.apache.commons.math.exception.util.LocalizedFormats#73:6:0.7071
+Default$$StringLiteral::"Continued fraction convergents diverged to +/- infinity for value {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#74:6:0.7071
+Default$$StringLiteral::"Continued fraction diverged to NaN for value {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#75:6:0.7071
+Default$$StringLiteral::"contraction criteria ({0}) smaller than the expansion factor ({1}).  This would lead to a never ending loop of expansion and contraction as a newly expanded internal storage array would immediately satisfy the criteria for contraction."$$org.apache.commons.math.exception.util.LocalizedFormats#76:6:0.7071
+Default$$StringLiteral::"contraction criteria smaller than one ({0}).  This would lead to a never ending loop of expansion and contraction as an internal storage array length equal to the number of elements would satisfy the contraction criteria."$$org.apache.commons.math.exception.util.LocalizedFormats#77:6:0.7071
+Default$$StringLiteral::"convergence failed"$$org.apache.commons.math.exception.util.LocalizedFormats#78:6:0.7071
+Default$$StringLiteral::"Cumulative probability function returned NaN for argument {0} p = {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#79:6:0.7071
+Default$$StringLiteral::"some rows have length {0} while others have length {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#80:6:0.7071
+Default$$StringLiteral::"digest not initialized"$$org.apache.commons.math.exception.util.LocalizedFormats#81:6:0.7071
+Default$$StringLiteral::"got {0}x{1} but expected {2}x{3}"$$org.apache.commons.math.exception.util.LocalizedFormats#82:6:0.7071
+Default$$StringLiteral::"{0} != {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#83:6:0.7071
+Default$$StringLiteral::"dimensions mismatch"$$org.apache.commons.math.exception.util.LocalizedFormats#84:6:0.7071
+Default$$StringLiteral::"Discrete cumulative probability function returned NaN for argument {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#85:6:0.7071
+Default$$StringLiteral::"distribution not loaded"$$org.apache.commons.math.exception.util.LocalizedFormats#86:6:0.7071
+Default$$StringLiteral::"Abscissa {0} is duplicated at both indices {1} and {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#87:6:0.7071
+Default$$StringLiteral::"empty polynomials coefficients array"$$org.apache.commons.math.exception.util.LocalizedFormats#88:6:0.7071
+Default$$StringLiteral::"empty selected column index array"$$org.apache.commons.math.exception.util.LocalizedFormats#89:6:0.7071
+Default$$StringLiteral::"empty selected row index array"$$org.apache.commons.math.exception.util.LocalizedFormats#90:6:0.7071
+Default$$StringLiteral::"empty string for imaginary character"$$org.apache.commons.math.exception.util.LocalizedFormats#91:6:0.7071
+Default$$StringLiteral::"endpoints do not specify an interval: [{0}, {1}]"$$org.apache.commons.math.exception.util.LocalizedFormats#92:6:0.7071
+Default$$StringLiteral::"equal vertices {0} and {1} in simplex configuration"$$org.apache.commons.math.exception.util.LocalizedFormats#93:6:0.7071
+Default$$StringLiteral::"Euler angles singularity"$$org.apache.commons.math.exception.util.LocalizedFormats#94:6:0.7071
+Default$$StringLiteral::"evaluation failed for argument = {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#95:6:0.7071
+Default$$StringLiteral::"expansion factor smaller than one ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#96:6:0.7071
+Default$$StringLiteral::"must have n >= 0 for n!, got n = {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#97:6:0.7071
+Default$$StringLiteral::"number of iterations={0}, maximum iterations={1}, initial={2}, lower bound={3}, upper bound={4}, final a value={5}, final b value={6}, f(a)={7}, f(b)={8}"$$org.apache.commons.math.exception.util.LocalizedFormats#98:6:0.7071
+Default$$StringLiteral::"Unable to convert {0} to fraction after {1} iterations"$$org.apache.commons.math.exception.util.LocalizedFormats#99:6:0.7071
+Default$$StringLiteral::"first {0} columns are not initialized yet"$$org.apache.commons.math.exception.util.LocalizedFormats#100:6:0.7071
+Default$$StringLiteral::"first element is not 0: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#101:6:0.7071
+Default$$StringLiteral::"first {0} rows are not initialized yet"$$org.apache.commons.math.exception.util.LocalizedFormats#102:6:0.7071
+Default$$StringLiteral::"Overflow trying to convert {0} to fraction ({1}/{2})"$$org.apache.commons.math.exception.util.LocalizedFormats#103:6:0.7071
+Default$$StringLiteral::"function is not differentiable"$$org.apache.commons.math.exception.util.LocalizedFormats#104:6:0.7071
+Default$$StringLiteral::"function is not polynomial"$$org.apache.commons.math.exception.util.LocalizedFormats#105:6:0.7071
+Default$$StringLiteral::"overflow: gcd({0}, {1}) is 2^31"$$org.apache.commons.math.exception.util.LocalizedFormats#106:6:0.7071
+Default$$StringLiteral::"overflow: gcd({0}, {1}) is 2^63"$$org.apache.commons.math.exception.util.LocalizedFormats#107:6:0.7071
+Default$$StringLiteral::"{0} wide hole between models time ranges"$$org.apache.commons.math.exception.util.LocalizedFormats#108:6:0.7071
+Default$$StringLiteral::"identical abscissas x[{0}] == x[{1}] == {2} cause division by zero"$$org.apache.commons.math.exception.util.LocalizedFormats#109:6:0.7071
+Default$$StringLiteral::"the index specified: {0} is larger than the current maximal index {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#110:6:0.7071
+Default$$StringLiteral::"index ({0}) is not positive"$$org.apache.commons.math.exception.util.LocalizedFormats#111:6:0.7071
+Default$$StringLiteral::"index {0} out of allowed range [{1}, {2}]"$$org.apache.commons.math.exception.util.LocalizedFormats#112:6:0.7071
+Default$$StringLiteral::"Array contains an infinite element, {0} at index {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#113:6:0.7071
+Default$$StringLiteral::"cannot convert infinite value"$$org.apache.commons.math.exception.util.LocalizedFormats#114:6:0.7071
+Default$$StringLiteral::"initial capacity ({0}) is not positive"$$org.apache.commons.math.exception.util.LocalizedFormats#115:6:0.7071
+Default$$StringLiteral::"initial column {0} after final column {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#116:6:0.7071
+Default$$StringLiteral::"initial row {0} after final row {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#117:6:0.7071
+Default$$StringLiteral::"input data comes from unsupported datasource: {0}, supported sources: {1}, {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#118:6:0.7071
+Default$$StringLiteral::"instance of class {0} not comparable to existing values"$$org.apache.commons.math.exception.util.LocalizedFormats#119:6:0.7071
+Default$$StringLiteral::"insufficient data for t statistic, needs at least 2, got {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#120:6:0.7071
+Default$$StringLiteral::"insufficient dimension {0}, must be at least {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#121:6:0.7071
+Default$$StringLiteral::"sample contains {0} observed points, at least {1} are required"$$org.apache.commons.math.exception.util.LocalizedFormats#122:6:0.7071
+Default$$StringLiteral::"insufficient data: only {0} rows and {1} columns."$$org.apache.commons.math.exception.util.LocalizedFormats#123:6:0.7071
+Default$$StringLiteral::"{0} method needs at least one previous point"$$org.apache.commons.math.exception.util.LocalizedFormats#124:6:0.7071
+Default$$StringLiteral::"internal error, please fill a bug report at {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#125:6:0.7071
+Default$$StringLiteral::"invalid bracketing parameters:  lower bound={0},  initial={1}, upper bound={2}"$$org.apache.commons.math.exception.util.LocalizedFormats#126:6:0.7071
+Default$$StringLiteral::"invalid interval, initial value parameters:  lower={0}, initial={1}, upper={2}"$$org.apache.commons.math.exception.util.LocalizedFormats#127:6:0.7071
+Default$$StringLiteral::"invalid iteration limits: min={0}, max={1}"$$org.apache.commons.math.exception.util.LocalizedFormats#128:6:0.7071
+Default$$StringLiteral::"bad value for maximum iterations number: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#129:6:0.7071
+Default$$StringLiteral::"input data array length = {0} does not match the number of observations = {1} and the number of regressors = {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#130:6:0.7071
+Default$$StringLiteral::"invalid rounding method {0}, valid methods: {1} ({2}), {3} ({4}), {5} ({6}), {7} ({8}), {9} ({10}), {11} ({12}), {13} ({14}), {15} ({16})"$$org.apache.commons.math.exception.util.LocalizedFormats#131:6:0.7071
+Default$$StringLiteral::"iterator exhausted"$$org.apache.commons.math.exception.util.LocalizedFormats#132:6:0.7071
+Default$$StringLiteral::"overflow: lcm({0}, {1}) is 2^31"$$org.apache.commons.math.exception.util.LocalizedFormats#133:6:0.7071
+Default$$StringLiteral::"overflow: lcm({0}, {1}) is 2^63"$$org.apache.commons.math.exception.util.LocalizedFormats#134:6:0.7071
+Default$$StringLiteral::"list of chromosomes bigger than maxPopulationSize"$$org.apache.commons.math.exception.util.LocalizedFormats#135:6:0.7071
+Default$$StringLiteral::"Loess expects at least 1 point"$$org.apache.commons.math.exception.util.LocalizedFormats#136:6:0.7071
+Default$$StringLiteral::"lower bound ({0}) must be strictly less than upper bound ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#137:6:0.7071
+Default$$StringLiteral::"lower endpoint ({0}) must be less than or equal to upper endpoint ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#138:6:0.7071
+Default$$StringLiteral::"map has been modified while iterating"$$org.apache.commons.math.exception.util.LocalizedFormats#139:6:0.7071
+Default$$StringLiteral::"evaluations"$$org.apache.commons.math.exception.util.LocalizedFormats#140:6:0.7071
+Default$$StringLiteral::"maximal count ({0}) exceeded"$$org.apache.commons.math.exception.util.LocalizedFormats#141:6:0.7071
+Default$$StringLiteral::"maximal number of evaluations ({0}) exceeded"$$org.apache.commons.math.exception.util.LocalizedFormats#142:6:0.7071
+Default$$StringLiteral::"maximal number of iterations ({0}) exceeded"$$org.apache.commons.math.exception.util.LocalizedFormats#143:6:0.7071
+Default$$StringLiteral::"minimal step size ({0,number,0.00E00}) reached, integration needs {1,number,0.00E00}"$$org.apache.commons.math.exception.util.LocalizedFormats#144:6:0.7071
+Default$$StringLiteral::"Loess expects the abscissa and ordinate arrays to be of the same size, but got {0} abscissae and {1} ordinatae"$$org.apache.commons.math.exception.util.LocalizedFormats#145:6:0.7071
+Default$$StringLiteral::"element {0} is NaN"$$org.apache.commons.math.exception.util.LocalizedFormats#146:6:0.7071
+Default$$StringLiteral::"cannot convert NaN value"$$org.apache.commons.math.exception.util.LocalizedFormats#147:6:0.7071
+Default$$StringLiteral::"brightness exponent should be positive or null, but got {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#148:6:0.7071
+Default$$StringLiteral::"negative complex module {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#149:6:0.7071
+Default$$StringLiteral::"element ({0}, {1}) is negative: {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#150:6:0.7071
+Default$$StringLiteral::"element {0} is negative: {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#151:6:0.7071
+Default$$StringLiteral::"number of successes must be non-negative ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#152:6:0.7071
+Default$$StringLiteral::"number of trials must be non-negative ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#153:6:0.7071
+Default$$StringLiteral::"the number of robustness iterations must be non-negative, but got {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#154:6:0.7071
+Default$$StringLiteral::"start position ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#155:6:0.7071
+Default$$StringLiteral::"Continued fraction convergents failed to converge for value {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#156:6:0.7071
+Default$$StringLiteral::"number of microsphere elements must be positive, but got {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#157:6:0.7071
+Default$$StringLiteral::"polynomial degree must be positive: degree={0}"$$org.apache.commons.math.exception.util.LocalizedFormats#158:6:0.7071
+Default$$StringLiteral::"all abscissae must be finite real numbers, but {0}-th is {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#159:6:0.7071
+Default$$StringLiteral::"all ordinatae must be finite real numbers, but {0}-th is {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#160:6:0.7071
+Default$$StringLiteral::"all weights must be finite real numbers, but {0}-th is {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#161:6:0.7071
+Default$$StringLiteral::"a {0}x{1} matrix was provided instead of a square matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#162:6:0.7071
+Default$$StringLiteral::"Cannot normalize to an infinite value"$$org.apache.commons.math.exception.util.LocalizedFormats#163:6:0.7071
+Default$$StringLiteral::"Cannot normalize to NaN"$$org.apache.commons.math.exception.util.LocalizedFormats#164:6:0.7071
+Default$$StringLiteral::"{0}x{1} and {2}x{3} matrices are not addition compatible"$$org.apache.commons.math.exception.util.LocalizedFormats#165:6:0.7071
+Default$$StringLiteral::"points {0} and {1} are not decreasing ({2} < {3})"$$org.apache.commons.math.exception.util.LocalizedFormats#166:6:0.7071
+Default$$StringLiteral::"points {3} and {2} are not decreasing ({1} < {0})"$$org.apache.commons.math.exception.util.LocalizedFormats#167:6:0.7071
+Default$$StringLiteral::"not enough data ({0} rows) for this many predictors ({1} predictors)"$$org.apache.commons.math.exception.util.LocalizedFormats#168:6:0.7071
+Default$$StringLiteral::"spline partition must have at least {0} points, got {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#169:6:0.7071
+Default$$StringLiteral::"points {0} and {1} are not increasing ({2} > {3})"$$org.apache.commons.math.exception.util.LocalizedFormats#170:6:0.7071
+Default$$StringLiteral::"points {3} and {2} are not increasing ({1} > {0})"$$org.apache.commons.math.exception.util.LocalizedFormats#171:6:0.7071
+Default$$StringLiteral::"{0}x{1} and {2}x{3} matrices are not multiplication compatible"$$org.apache.commons.math.exception.util.LocalizedFormats#172:6:0.7071
+Default$$StringLiteral::"alpha must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#173:6:0.7071
+Default$$StringLiteral::"beta must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#174:6:0.7071
+Default$$StringLiteral::"invalid column dimension: {0} (must be positive)"$$org.apache.commons.math.exception.util.LocalizedFormats#175:6:0.7071
+Default$$StringLiteral::"not positive definite matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#176:6:0.7071
+Default$$StringLiteral::"degrees of freedom must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#177:6:0.7071
+Default$$StringLiteral::"element {0} is not positive: {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#178:6:0.7071
+Default$$StringLiteral::"invalid exponent {0} (must be positive)"$$org.apache.commons.math.exception.util.LocalizedFormats#179:6:0.7071
+Default$$StringLiteral::"length must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#180:6:0.7071
+Default$$StringLiteral::"length ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#181:6:0.7071
+Default$$StringLiteral::"mean must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#182:6:0.7071
+Default$$StringLiteral::"mean ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#183:6:0.7071
+Default$$StringLiteral::"number of sample is not positive: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#184:6:0.7071
+Default$$StringLiteral::"number of samples ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#185:6:0.7071
+Default$$StringLiteral::"permutation k ({0}) must be positive"$$org.apache.commons.math.exception.util.LocalizedFormats#186:6:0.7071
+Default$$StringLiteral::"permutation size ({0}"$$org.apache.commons.math.exception.util.LocalizedFormats#187:6:0.7071
+Default$$StringLiteral::"the Poisson mean must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#188:6:0.7071
+Default$$StringLiteral::"population size must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#189:6:0.7071
+Default$$StringLiteral::"invalid row dimension: {0} (must be positive)"$$org.apache.commons.math.exception.util.LocalizedFormats#190:6:0.7071
+Default$$StringLiteral::"sample size must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#191:6:0.7071
+Default$$StringLiteral::"scale must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#192:6:0.7071
+Default$$StringLiteral::"shape must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#193:6:0.7071
+Default$$StringLiteral::"standard deviation must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#194:6:0.7071
+Default$$StringLiteral::"standard deviation ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#195:6:0.7071
+Default$$StringLiteral::"upper bound must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#196:6:0.7071
+Default$$StringLiteral::"window size must be positive ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#197:6:0.7071
+Default$$StringLiteral::"{0} is not a power of 2"$$org.apache.commons.math.exception.util.LocalizedFormats#198:6:0.7071
+Default$$StringLiteral::"{0} is not a power of 2, consider padding for fix"$$org.apache.commons.math.exception.util.LocalizedFormats#199:6:0.7071
+Default$$StringLiteral::"{0} is not a power of 2 plus one"$$org.apache.commons.math.exception.util.LocalizedFormats#200:6:0.7071
+Default$$StringLiteral::"points {0} and {1} are not strictly decreasing ({2} <= {3})"$$org.apache.commons.math.exception.util.LocalizedFormats#201:6:0.7071
+Default$$StringLiteral::"points {3} and {2} are not strictly decreasing ({1} <= {0})"$$org.apache.commons.math.exception.util.LocalizedFormats#202:6:0.7071
+Default$$StringLiteral::"knot values must be strictly increasing"$$org.apache.commons.math.exception.util.LocalizedFormats#203:6:0.7071
+Default$$StringLiteral::"points {0} and {1} are not strictly increasing ({2} >= {3})"$$org.apache.commons.math.exception.util.LocalizedFormats#204:6:0.7071
+Default$$StringLiteral::"points {3} and {2} are not strictly increasing ({1} >= {0})"$$org.apache.commons.math.exception.util.LocalizedFormats#205:6:0.7071
+Default$$StringLiteral::"{0}x{1} and {2}x{3} matrices are not subtraction compatible"$$org.apache.commons.math.exception.util.LocalizedFormats#206:6:0.7071
+Default$$StringLiteral::"not symmetric matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#207:6:0.7071
+Default$$StringLiteral::"no bin selected"$$org.apache.commons.math.exception.util.LocalizedFormats#208:6:0.7071
+Default$$StringLiteral::"none of the {0} start points lead to convergence"$$org.apache.commons.math.exception.util.LocalizedFormats#209:6:0.7071
+Default$$StringLiteral::"no data"$$org.apache.commons.math.exception.util.LocalizedFormats#210:6:0.7071
+Default$$StringLiteral::"no degrees of freedom ({0} measurements, {1} parameters)"$$org.apache.commons.math.exception.util.LocalizedFormats#211:6:0.7071
+Default$$StringLiteral::"This distribution does not have a density function implemented"$$org.apache.commons.math.exception.util.LocalizedFormats#212:6:0.7071
+Default$$StringLiteral::"no feasible solution"$$org.apache.commons.math.exception.util.LocalizedFormats#213:6:0.7071
+Default$$StringLiteral::"no optimum computed yet"$$org.apache.commons.math.exception.util.LocalizedFormats#214:6:0.7071
+Default$$StringLiteral::"no result available"$$org.apache.commons.math.exception.util.LocalizedFormats#215:6:0.7071
+Default$$StringLiteral::"no entry at indices ({0}, {1}) in a {2}x{3} matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#216:6:0.7071
+Default$$StringLiteral::"null is not allowed"$$org.apache.commons.math.exception.util.LocalizedFormats#217:6:0.7071
+Default$$StringLiteral::"covariance matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#218:6:0.7071
+Default$$StringLiteral::"denominator"$$org.apache.commons.math.exception.util.LocalizedFormats#219:6:0.7071
+Default$$StringLiteral::"denominator format"$$org.apache.commons.math.exception.util.LocalizedFormats#220:6:0.7071
+Default$$StringLiteral::"fraction"$$org.apache.commons.math.exception.util.LocalizedFormats#221:6:0.7071
+Default$$StringLiteral::"function"$$org.apache.commons.math.exception.util.LocalizedFormats#222:6:0.7071
+Default$$StringLiteral::"imaginary format"$$org.apache.commons.math.exception.util.LocalizedFormats#223:6:0.7071
+Default$$StringLiteral::"input array"$$org.apache.commons.math.exception.util.LocalizedFormats#224:6:0.7071
+Default$$StringLiteral::"numerator"$$org.apache.commons.math.exception.util.LocalizedFormats#225:6:0.7071
+Default$$StringLiteral::"numerator format"$$org.apache.commons.math.exception.util.LocalizedFormats#226:6:0.7071
+Default$$StringLiteral::"conversion exception in transformation"$$org.apache.commons.math.exception.util.LocalizedFormats#227:6:0.7071
+Default$$StringLiteral::"real format"$$org.apache.commons.math.exception.util.LocalizedFormats#228:6:0.7071
+Default$$StringLiteral::"whole format"$$org.apache.commons.math.exception.util.LocalizedFormats#229:6:0.7071
+Default$$StringLiteral::"{0} is larger than the maximum ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#230:6:0.7071
+Default$$StringLiteral::"{0} is smaller than the minimum ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#231:6:0.7071
+Default$$StringLiteral::"{0} is larger than, or equal to, the maximum ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#232:6:0.7071
+Default$$StringLiteral::"{0} is smaller than, or equal to, the minimum ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#233:6:0.7071
+Default$$StringLiteral::"number of successes ({0}) must be less than or equal to population size ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#234:6:0.7071
+Default$$StringLiteral::"overflow, numerator too large after multiply: {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#235:6:0.7071
+Default$$StringLiteral::"{0} points Legendre-Gauss integrator not supported, number of points must be in the {1}-{2} range"$$org.apache.commons.math.exception.util.LocalizedFormats#236:6:0.7071
+Default$$StringLiteral::"observed counts are all 0 in observed array {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#237:6:0.7071
+Default$$StringLiteral::"observed counts are both zero for entry {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#238:6:0.7071
+Default$$StringLiteral::"out of bounds quantile value: {0}, must be in (0, 100]"$$org.apache.commons.math.exception.util.LocalizedFormats#239:6:0.7071
+Default$$StringLiteral::"out of bounds significance level {0}, must be between {1} and {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#240:6:0.7071
+Default$$StringLiteral::"the abscissae array must be sorted in a strictly increasing order, but the {0}-th element is {1} whereas {2}-th is {3}"$$org.apache.commons.math.exception.util.LocalizedFormats#241:6:0.7071
+Default$$StringLiteral::"out of range root of unity index {0} (must be in [{1};{2}])"$$org.apache.commons.math.exception.util.LocalizedFormats#242:6:0.7071
+Default$$StringLiteral::"{0} out of [{1}, {2}] range"$$org.apache.commons.math.exception.util.LocalizedFormats#243:6:0.7071
+Default$$StringLiteral::"overflow in fraction {0}/{1}, cannot negate"$$org.apache.commons.math.exception.util.LocalizedFormats#244:6:0.7071
+Default$$StringLiteral::"overflow in addition: {0} + {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#245:6:0.7071
+Default$$StringLiteral::"overflow in subtraction: {0} - {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#246:6:0.7071
+Default$$StringLiteral::"cannot access {0} method in percentile implementation {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#247:6:0.7071
+Default$$StringLiteral::"percentile implementation {0} does not support {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#248:6:0.7071
+Default$$StringLiteral::"permutation size ({0}) exceeds permuation domain ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#249:6:0.7071
+Default$$StringLiteral::"number of polynomial interpolants must match the number of segments ({0} != {1} - 1)"$$org.apache.commons.math.exception.util.LocalizedFormats#250:6:0.7071
+Default$$StringLiteral::"population limit has to be positive"$$org.apache.commons.math.exception.util.LocalizedFormats#251:6:0.7071
+Default$$StringLiteral::"position {0} and size {1} don't fit to the size of the input array {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#252:6:0.7071
+Default$$StringLiteral::"cannot raise an integral value to a negative power ({0}^{1})"$$org.apache.commons.math.exception.util.LocalizedFormats#253:6:0.7071
+Default$$StringLiteral::"propagation direction mismatch"$$org.apache.commons.math.exception.util.LocalizedFormats#254:6:0.7071
+Default$$StringLiteral::"RandomKeyMutation works only with RandomKeys, not {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#255:6:0.7071
+Default$$StringLiteral::"roots of unity have not been computed yet"$$org.apache.commons.math.exception.util.LocalizedFormats#256:6:0.7071
+Default$$StringLiteral::"a {0}x{1} matrix cannot be a rotation matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#257:6:0.7071
+Default$$StringLiteral::"row index {0} out of allowed range [{1}, {2}]"$$org.apache.commons.math.exception.util.LocalizedFormats#258:6:0.7071
+Default$$StringLiteral::"function values at endpoints do not have different signs, endpoints: [{0}, {1}], values: [{2}, {3}]"$$org.apache.commons.math.exception.util.LocalizedFormats#259:6:0.7071
+Default$$StringLiteral::"sample size ({0}) exceeds collection size ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#260:6:0.7071
+Default$$StringLiteral::"sample size ({0}) must be less than or equal to population size ({1})"$$org.apache.commons.math.exception.util.LocalizedFormats#261:6:0.7071
+Default$$StringLiteral::"simplex must contain at least one point"$$org.apache.commons.math.exception.util.LocalizedFormats#262:6:0.7071
+Default$$StringLiteral::"{0}"$$org.apache.commons.math.exception.util.LocalizedFormats#263:6:0.7071
+Default$$StringLiteral::"matrix is singular"$$org.apache.commons.math.exception.util.LocalizedFormats#264:6:0.7071
+Default$$StringLiteral::"subarray ends after array end"$$org.apache.commons.math.exception.util.LocalizedFormats#265:6:0.7071
+Default$$StringLiteral::"cutoff singular value is {0}, should be at most {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#266:6:0.7071
+Default$$StringLiteral::"cannot discard {0} elements from a {1} elements array"$$org.apache.commons.math.exception.util.LocalizedFormats#267:6:0.7071
+Default$$StringLiteral::"the bandwidth must be large enough to accomodate at least 2 points. There are {0}  data points, and bandwidth must be at least {1}  but it is only {2}"$$org.apache.commons.math.exception.util.LocalizedFormats#268:6:0.7071
+Default$$StringLiteral::"cost relative tolerance is too small ({0}), no further reduction in the sum of squares is possible"$$org.apache.commons.math.exception.util.LocalizedFormats#269:6:0.7071
+Default$$StringLiteral::"too small integration interval: length = {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#270:6:0.7071
+Default$$StringLiteral::"orthogonality tolerance is too small ({0}), solution is orthogonal to the jacobian"$$org.apache.commons.math.exception.util.LocalizedFormats#271:6:0.7071
+Default$$StringLiteral::"parameters relative tolerance is too small ({0}), no further improvement in the approximate solution is possible"$$org.apache.commons.math.exception.util.LocalizedFormats#272:6:0.7071
+Default$$StringLiteral::"two or more categories required, got {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#273:6:0.7071
+Default$$StringLiteral::"two or more values required in each category, one has {0}"$$org.apache.commons.math.exception.util.LocalizedFormats#274:6:0.7071
+Default$$StringLiteral::"unable to bracket optimum in line search"$$org.apache.commons.math.exception.util.LocalizedFormats#275:6:0.7071
+Default$$StringLiteral::"unable to compute covariances: singular problem"$$org.apache.commons.math.exception.util.LocalizedFormats#276:6:0.7071
+Default$$StringLiteral::"unable to first guess the harmonic coefficients"$$org.apache.commons.math.exception.util.LocalizedFormats#277:6:0.7071
+Default$$StringLiteral::"unable to orthogonalize matrix in {0} iterations"$$org.apache.commons.math.exception.util.LocalizedFormats#278:6:0.7071
+Default$$StringLiteral::"unable to perform Q.R decomposition on the {0}x{1} jacobian matrix"$$org.apache.commons.math.exception.util.LocalizedFormats#279:6:0.7071
+Default$$StringLiteral::"unable to solve: singular problem"$$org.apache.commons.math.exception.util.LocalizedFormats#280:6:0.7071
+Default$$StringLiteral::"unbounded solution"$$org.apache.commons.math.exception.util.LocalizedFormats#281:6:0.7071
+Default$$StringLiteral::"unknown mode {0}, known modes: {1} ({2}), {3} ({4}), {5} ({6}), {7} ({8}), {9} ({10}) and {11} ({12})"$$org.apache.commons.math.exception.util.LocalizedFormats#282:6:0.7071
+Default$$StringLiteral::"unparseable 3D vector: \"{0}\""$$org.apache.commons.math.exception.util.LocalizedFormats#283:6:0.7071
+Default$$StringLiteral::"unparseable complex number: \"{0}\""$$org.apache.commons.math.exception.util.LocalizedFormats#284:6:0.7071
+Default$$StringLiteral::"unparseable fraction number: \"{0}\""$$org.apache.commons.math.exception.util.LocalizedFormats#285:6:0.7071
+Default$$StringLiteral::"unparseable real vector: \"{0}\""$$org.apache.commons.math.exception.util.LocalizedFormats#286:6:0.7071
+Default$$StringLiteral::"unsupported expansion mode {0}, supported modes are {1} ({2}) and {3} ({4})"$$org.apache.commons.math.exception.util.LocalizedFormats#287:6:0.7071
+Default$$StringLiteral::"unsupported operation"$$org.apache.commons.math.exception.util.LocalizedFormats#288:6:0.7071
+Default$$StringLiteral::"URL {0} contains no data"$$org.apache.commons.math.exception.util.LocalizedFormats#289:6:0.7071
+Default$$StringLiteral::"{0} values have been added before statistic is configured"$$org.apache.commons.math.exception.util.LocalizedFormats#290:6:0.7071
+Default$$StringLiteral::"vector length mismatch: got {0} but expected {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#291:6:0.7071
+Default$$StringLiteral::"vector must have at least one element"$$org.apache.commons.math.exception.util.LocalizedFormats#292:6:0.7071
+Default$$StringLiteral::"weigth array must contain at least one non-zero value"$$org.apache.commons.math.exception.util.LocalizedFormats#293:6:0.7071
+Default$$StringLiteral::"wrong array shape (block length = {0}, expected {1})"$$org.apache.commons.math.exception.util.LocalizedFormats#294:6:0.7071
+Default$$StringLiteral::"{0} points are required, got only {1}"$$org.apache.commons.math.exception.util.LocalizedFormats#295:6:0.7071
+Default$$StringLiteral::"number of points ({0})"$$org.apache.commons.math.exception.util.LocalizedFormats#296:6:0.7071
+Default$$StringLiteral::"denominator must be different from 0"$$org.apache.commons.math.exception.util.LocalizedFormats#297:6:0.7071
+Default$$StringLiteral::"zero denominator in fraction {0}/{1}"$$org.apache.commons.math.exception.util.LocalizedFormats#298:6:0.7071
+Default$$StringLiteral::"the fraction to divide by must not be zero: {0}/{1}"$$org.apache.commons.math.exception.util.LocalizedFormats#299:6:0.7071
+Default$$StringLiteral::"zero norm"$$org.apache.commons.math.exception.util.LocalizedFormats#300:6:0.7071
+Default$$StringLiteral::"zero norm for rotation axis"$$org.apache.commons.math.exception.util.LocalizedFormats#301:6:0.7071
+Default$$StringLiteral::"zero norm for rotation defining vector"$$org.apache.commons.math.exception.util.LocalizedFormats#302:6:0.7071
+Default$$StringLiteral::"zero not allowed here"$$org.apache.commons.math.exception.util.LocalizedFormats#303:6:0.7071
+Insert Before$$Modifier::public$$org.apache.commons.math.exception.util.LocalizedFormats#39:1:0.7071
+Insert After$$Modifier::public$$org.apache.commons.math.exception.util.LocalizedFormats#39:1:0.7071
+Default$$SimpleName::quadMult$$org.apache.commons.math.util.FastMath#896:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#896:267:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#896:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#896:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1409:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1409:267:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1409:267:0.2887
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1409:1040:0.2887
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#1582:2:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1582:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1582:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1582:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1582:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1563:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1563:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1563:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1563:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1564:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1564:267:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1564:267:0.2887
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1564:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1581:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1581:267:0.2887
+Default$$SimpleName::bs$$org.apache.commons.math.util.FastMath#1581:267:0.2887
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1581:1040:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1583:13:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1583:267:0.2887
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1583:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1583:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1588:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1588:267:0.2887
+Default$$SimpleName::bs$$org.apache.commons.math.util.FastMath#1588:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1588:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1589:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1589:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1589:267:0.2887
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1589:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#688:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#688:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#688:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#688:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1424:13:0.2887
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1424:267:0.2887
+Default$$SimpleName::x2$$org.apache.commons.math.util.FastMath#1424:267:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1424:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1454:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1454:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1454:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1454:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1497:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1497:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1497:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1497:1040:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#695:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#695:267:0.2887
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#695:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#695:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#830:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#830:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#830:267:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#830:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#837:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#837:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#837:267:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#837:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#849:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#849:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#849:267:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#849:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#861:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#861:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#861:267:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#861:1040:0.2887
+Default$$SimpleName::quadMult$$org.apache.commons.math.util.FastMath#900:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#900:267:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#900:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#900:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1414:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1414:267:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1414:267:0.2887
+Default$$SimpleName::x2$$org.apache.commons.math.util.FastMath#1414:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1432:13:0.2887
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1432:267:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1432:267:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1432:1040:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1469:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1469:267:0.2887
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1469:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1469:1040:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1512:13:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1512:267:0.2887
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1512:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1512:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1558:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1558:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1558:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1558:1040:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1567:13:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1567:267:0.2887
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1567:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1567:1040:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1592:13:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1592:267:0.2887
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1592:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1592:1040:0.2887
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1612:13:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1612:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1612:267:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1612:1040:0.2887
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.util.FastMath#219:15:0.2887
+Default$$SimpleName::sqrt$$org.apache.commons.math.util.FastMath#219:46:0.2887
+Default$$SimpleName::Math$$org.apache.commons.math.util.FastMath#219:466:0.2887
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#219:590:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#219:1040:0.2887
+Default$$ReturnStatement::null$$org.apache.commons.math.util.FastMath#219:1531:0.2887
+Insert After$$SimpleName::p$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:4:0.2887
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:4:0.2887
+Default$$SimpleName::p$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:7:0.2887
+Insert After$$MethodInvocation::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:7:0.2887
+Default$$SimpleType::NormalDistributionImpl$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:34:0.2887
+Default$$SimpleName::sqrt$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:46:0.2887
+Insert Before$$SimpleName::p$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:70:0.2887
+Default$$SimpleName::FastMath$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:466:0.2887
+Default$$SimpleName::p$$org.apache.commons.math.distribution.PoissonDistributionImpl#97:1040:0.2887
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#185:13:0.2887
+Default$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#185:267:0.2887
+Default$$SimpleName::recip$$org.apache.commons.math.util.FastMath#185:1040:0.2887
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1406:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1406:267:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1406:1040:0.2887
+Default$$SimpleName::expint$$org.apache.commons.math.util.FastMath#179:13:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#179:267:0.2887
+Default$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#179:1040:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#684:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#684:267:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#684:1040:0.2887
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#693:13:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#693:267:0.2887
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#693:1040:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1401:13:0.2887
+Default$$SimpleName::xi$$org.apache.commons.math.util.FastMath#1401:267:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1401:1040:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1450:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1450:267:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1450:1040:0.2887
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1462:13:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1462:267:0.2887
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1462:1040:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1493:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1493:267:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1493:1040:0.2887
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1505:13:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1505:267:0.2887
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1505:1040:0.2887
+Default$$SimpleName::slowSin$$org.apache.commons.math.util.FastMath#1533:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1533:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1533:1040:0.2887
+Default$$SimpleName::slowCos$$org.apache.commons.math.util.FastMath#1537:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1537:267:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1537:1040:0.2887
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1607:13:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1607:267:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1607:1040:0.2887
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#200:1:0.2887
+Insert After$$NumberLiteral::42$$org.apache.commons.math.util.FastMath#200:4:0.2887
+Insert After$$NumberLiteral::0x3ff0000000000000L$$org.apache.commons.math.util.FastMath#200:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#200:30:0.2887
+Default$$SimpleName::Double$$org.apache.commons.math.util.FastMath#200:466:0.2887
+Default$$SimpleName::LN_MANT$$org.apache.commons.math.util.FastMath#201:11:0.2887
+Default$$SimpleName::slowLog$$org.apache.commons.math.util.FastMath#201:13:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#201:38:0.2887
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#201:50:0.2887
+Default$$SimpleName::d$$org.apache.commons.math.util.FastMath#201:1040:0.2887
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#754:13:0.2887
+Default$$SimpleName::ans$$org.apache.commons.math.util.FastMath#754:1040:0.2887
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#766:13:0.2887
+Default$$SimpleName::ans$$org.apache.commons.math.util.FastMath#766:1040:0.2887
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#910:13:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#910:1040:0.2887
+Default$$SimpleName::setStandardDeviationInternal$$org.apache.commons.math.distribution.NormalDistributionImpl#80:13:0.2887
+Default$$SimpleName::sd$$org.apache.commons.math.distribution.NormalDistributionImpl#80:1040:0.2887
+Default$$SimpleName::setMeanInternal$$org.apache.commons.math.distribution.NormalDistributionImpl#79:13:0.2887
+Default$$SimpleName::mean$$org.apache.commons.math.distribution.NormalDistributionImpl#79:1040:0.2887
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#1408:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1408:1040:0.2887
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#1405:13:0.2887
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1405:1040:0.2887
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#804:13:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#804:1040:0.2887
+Insert Before$$Modifier::private$$org.apache.commons.math.distribution.NormalDistributionImpl#48:1:0.2887
+Insert After$$Modifier::private$$org.apache.commons.math.distribution.NormalDistributionImpl#48:1:0.2887
+Insert Before$$Modifier::static$$org.apache.commons.math.distribution.NormalDistributionImpl#48:1:0.2887
+Insert Before$$SimpleName::SQRT2PI$$org.apache.commons.math.distribution.NormalDistributionImpl#48:1:0.2887
+Insert After$$QualifiedName::FastMath.PI$$org.apache.commons.math.distribution.NormalDistributionImpl#48:3:0.2887
+Default$$Modifier::private$$org.apache.commons.math.distribution.NormalDistributionImpl#48:6:0.2887
+Default$$QualifiedName::FastMath.PI$$org.apache.commons.math.distribution.NormalDistributionImpl#48:12:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.distribution.NormalDistributionImpl#48:55:0.2887
+Insert Before$$NumberLiteral::2$$org.apache.commons.math.distribution.NormalDistributionImpl#48:115:0.2887
+Default$$SimpleName::FastMath$$org.apache.commons.math.distribution.NormalDistributionImpl#48:466:0.2887
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1427:11:0.2887
+Default$$SimpleName::LN_SPLIT_COEF$$org.apache.commons.math.util.FastMath#1427:11:0.2887
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1427:13:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1427:15:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1427:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#1427:267:0.2887
+Insert After$$NumberLiteral::1024.0$$org.apache.commons.math.util.FastMath#193:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#193:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#193:123:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#692:2:0.2887
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#692:11:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#692:15:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#692:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#692:267:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1461:2:0.2887
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#1461:11:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1461:15:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1461:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#1461:267:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1504:2:0.2887
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#1504:11:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1504:15:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1504:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#1504:267:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#828:1:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#828:6:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#828:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#828:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#828:267:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#829:1:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#829:6:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#829:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#829:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#829:267:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#836:1:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#836:6:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#836:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#836:38:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#847:1:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#847:6:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#847:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#847:38:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#848:1:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#848:6:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#848:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#848:38:0.2887
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#848:267:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#859:1:0.2887
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#859:6:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#859:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#859:38:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#860:1:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#860:6:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#860:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#860:38:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#892:1:0.2887
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#892:52:0.2887
+Insert After$$Modifier::public$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:4:0.2887
+Default$$Modifier::public$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:10:0.2887
+Insert Before$$Modifier::public$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:15:0.2887
+Insert After$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:39:0.2887
+Default$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:39:0.2887
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:39:0.2887
+Insert After$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:39:0.2887
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:39:0.2887
+Default$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:96:0.2887
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:96:0.2887
+Default$$PrimitiveType::int$$org.apache.commons.math.distribution.PoissonDistributionImpl#92:232:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#797:38:0.2887
+Insert Before$$SimpleName::b$$org.apache.commons.math.util.FastMath#797:123:0.2887
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#797:123:0.2887
+Insert Before$$SimpleName::err$$org.apache.commons.math.util.FastMath#808:1:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#808:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#808:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#808:7:0.2887
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#808:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#808:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#808:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#808:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#808:38:0.2887
+Insert Before$$NumberLiteral::1.0$$org.apache.commons.math.util.FastMath#808:115:0.2887
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#731:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math.util.FastMath#731:2:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#731:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#731:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#731:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#731:38:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#731:123:0.2887
+Insert After$$NumberLiteral::8e298$$org.apache.commons.math.util.FastMath#714:4:0.2887
+Default$$SimpleName::d$$org.apache.commons.math.util.FastMath#714:11:0.2887
+Default$$SimpleName::d$$org.apache.commons.math.util.FastMath#714:115:0.2887
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#714:123:0.2887
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#714:123:0.2887
+Default$$SimpleName::mean$$org.apache.commons.math.distribution.NormalDistributionImpl#114:1:0.2887
+Default$$ThisExpression::null$$org.apache.commons.math.distribution.NormalDistributionImpl#114:13:0.2887
+Default$$FieldAccess::null$$org.apache.commons.math.distribution.NormalDistributionImpl#114:25:0.2887
+Default$$SimpleName::newMean$$org.apache.commons.math.distribution.NormalDistributionImpl#114:187:0.2887
+Default$$Assignment::=$$org.apache.commons.math.distribution.NormalDistributionImpl#114:1531:0.2887
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#715:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math.util.FastMath#715:2:0.2887
+Insert After$$NumberLiteral::1073741824.0$$org.apache.commons.math.util.FastMath#715:4:0.2887
+Default$$SimpleName::d$$org.apache.commons.math.util.FastMath#715:115:0.2887
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#715:123:0.2887
+Insert Before$$SimpleName::x$$org.apache.commons.math.util.FastMath#1531:1:0.2887
+Insert After$$NumberLiteral::8.0$$org.apache.commons.math.util.FastMath#1531:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1531:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1531:123:0.2887
+Insert Before$$SimpleName::z$$org.apache.commons.math.util.FastMath#734:1:0.2887
+Insert After$$NumberLiteral::1073741824.0$$org.apache.commons.math.util.FastMath#734:4:0.2887
+Default$$SimpleName::c$$org.apache.commons.math.util.FastMath#734:115:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#734:123:0.2887
+Insert Before$$SimpleName::z$$org.apache.commons.math.util.FastMath#738:1:0.2887
+Insert After$$NumberLiteral::9.31322574615478515625E-10$$org.apache.commons.math.util.FastMath#738:4:0.2887
+Default$$SimpleName::c$$org.apache.commons.math.util.FastMath#738:115:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#738:123:0.2887
+Insert Before$$Modifier::private$$org.apache.commons.math.distribution.PoissonDistributionImpl#65:1:0.2887
+Insert Before$$SimpleName::maxIterations$$org.apache.commons.math.distribution.PoissonDistributionImpl#65:1:0.2887
+Default$$Modifier::private$$org.apache.commons.math.distribution.PoissonDistributionImpl#65:3:0.2887
+Insert After$$Modifier::private$$org.apache.commons.math.distribution.PoissonDistributionImpl#65:5:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#65:55:0.2887
+Default$$SimpleName::DEFAULT_MAX_ITERATIONS$$org.apache.commons.math.distribution.PoissonDistributionImpl#65:1116:0.2887
+Insert Before$$Modifier::private$$org.apache.commons.math.distribution.PoissonDistributionImpl#70:1:0.2887
+Insert Before$$SimpleName::epsilon$$org.apache.commons.math.distribution.PoissonDistributionImpl#70:1:0.2887
+Default$$Modifier::private$$org.apache.commons.math.distribution.PoissonDistributionImpl#70:3:0.2887
+Insert After$$Modifier::private$$org.apache.commons.math.distribution.PoissonDistributionImpl#70:5:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#70:55:0.2887
+Default$$SimpleName::DEFAULT_EPSILON$$org.apache.commons.math.distribution.PoissonDistributionImpl#70:1116:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#730:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math.util.FastMath#730:2:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#730:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#730:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#730:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#730:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#839:1:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#839:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#839:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#839:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#839:38:0.2887
+Default$$SimpleName::ans$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#751:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#751:38:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1423:1:0.2887
+Default$$InfixExpression::>=$$org.apache.commons.math.util.FastMath#1423:1:0.2887
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1423:4:0.2887
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1423:4:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1423:35:0.2887
+Insert Before$$QualifiedName::LN_SPLIT_COEF.length$$org.apache.commons.math.util.FastMath#1423:55:0.2887
+Default$$QualifiedName::LN_SPLIT_COEF.length$$org.apache.commons.math.util.FastMath#1423:115:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1423:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1423:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1423:235:0.2887
+Default$$InfixExpression::-$$org.apache.commons.math.util.FastMath#1423:1116:0.2887
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#789:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math.util.FastMath#789:2:0.2887
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#789:12:0.2887
+Insert After$$SimpleName::b$$org.apache.commons.math.util.FastMath#789:17:0.2887
+Insert Before$$NumberLiteral::1.0$$org.apache.commons.math.util.FastMath#789:115:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#811:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#811:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#811:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#811:38:0.2887
+Insert Before$$SimpleName::err$$org.apache.commons.math.util.FastMath#811:123:0.2887
+Insert Before$$SimpleName::b$$org.apache.commons.math.util.FastMath#788:1:0.2887
+Insert After$$NumberLiteral::1.0$$org.apache.commons.math.util.FastMath#788:1:0.2887
+Insert Before$$Modifier::final$$org.apache.commons.math.util.FastMath#788:2:0.2887
+Insert After$$NumberLiteral::4194304.0$$org.apache.commons.math.util.FastMath#788:4:0.2887
+Insert Before$$NumberLiteral::1.0$$org.apache.commons.math.util.FastMath#788:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#806:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#806:2:0.2887
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#806:4:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#806:17:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#806:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#806:123:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#806:235:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#806:1116:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1530:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1530:2:0.2887
+Insert After$$NumberLiteral::7$$org.apache.commons.math.util.FastMath#1530:4:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1530:17:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1530:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1530:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1530:1116:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1543:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1543:2:0.2887
+Insert After$$NumberLiteral::14$$org.apache.commons.math.util.FastMath#1543:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1543:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1543:123:0.2887
+Default$$NumberLiteral::14$$org.apache.commons.math.util.FastMath#1543:235:0.2887
+Default$$NumberLiteral::7$$org.apache.commons.math.util.FastMath#1543:1116:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1599:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1599:2:0.2887
+Insert After$$NumberLiteral::14$$org.apache.commons.math.util.FastMath#1599:4:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1599:17:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1599:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1599:123:0.2887
+Default$$NumberLiteral::14$$org.apache.commons.math.util.FastMath#1599:235:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1599:1116:0.2887
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#171:1:0.2887
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#171:4:0.2887
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#171:11:0.2887
+Insert After$$SimpleName::i$$org.apache.commons.math.util.FastMath#171:17:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#171:38:0.2887
+Default$$InfixExpression::-$$org.apache.commons.math.util.FastMath#171:38:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#171:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#171:123:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#171:235:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#687:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#687:2:0.2887
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#687:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#687:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#687:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#687:235:0.2887
+Default$$NumberLiteral::19$$org.apache.commons.math.util.FastMath#687:1116:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1453:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1453:2:0.2887
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1453:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1453:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1453:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1453:235:0.2887
+Default$$NumberLiteral::19$$org.apache.commons.math.util.FastMath#1453:1116:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1496:1:0.2887
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.util.FastMath#1496:2:0.2887
+Insert After$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1496:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1496:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1496:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1496:235:0.2887
+Default$$NumberLiteral::19$$org.apache.commons.math.util.FastMath#1496:1116:0.2887
+Insert Before$$InfixExpression::+$$org.apache.commons.math.util.FastMath#739:1:0.2887
+Insert After$$SimpleName::c$$org.apache.commons.math.util.FastMath#739:4:0.2887
+Insert After$$NumberLiteral::1073741824.0$$org.apache.commons.math.util.FastMath#739:4:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#739:7:0.2887
+Default$$SimpleName::c$$org.apache.commons.math.util.FastMath#739:8:0.2887
+Insert After$$SimpleName::z$$org.apache.commons.math.util.FastMath#739:17:0.2887
+Insert After$$SimpleName::c$$org.apache.commons.math.util.FastMath#739:17:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#739:38:0.2887
+Default$$SimpleName::c$$org.apache.commons.math.util.FastMath#739:123:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#739:123:0.2887
+Default$$SimpleName::z$$org.apache.commons.math.util.FastMath#739:235:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#840:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#840:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#840:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#840:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#840:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#840:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#840:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#840:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#840:123:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#843:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#843:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#843:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#843:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#843:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#843:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#843:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#843:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#843:123:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#852:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#852:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#852:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#852:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#852:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#852:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#852:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#852:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#852:123:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#855:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#855:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#855:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#855:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#855:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#855:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#855:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#855:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#855:123:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#864:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#864:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#864:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#864:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#864:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#864:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#864:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#864:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#864:123:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#867:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#867:7:0.2887
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#867:7:0.2887
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#867:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#867:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#867:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#867:38:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#867:38:0.2887
+Insert Before$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#867:123:0.2887
+Insert After$$SimpleName::d$$org.apache.commons.math.util.FastMath#716:4:0.2887
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#716:7:0.2887
+Insert After$$SimpleName::a$$org.apache.commons.math.util.FastMath#716:17:0.2887
+Insert After$$SimpleName::a$$org.apache.commons.math.util.FastMath#716:17:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#716:38:0.2887
+Default$$SimpleName::d$$org.apache.commons.math.util.FastMath#716:123:0.2887
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#716:123:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#716:235:0.2887
+Insert After$$SimpleName::c$$org.apache.commons.math.util.FastMath#735:4:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#735:7:0.2887
+Insert After$$SimpleName::z$$org.apache.commons.math.util.FastMath#735:17:0.2887
+Insert After$$SimpleName::z$$org.apache.commons.math.util.FastMath#735:17:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#735:38:0.2887
+Default$$SimpleName::c$$org.apache.commons.math.util.FastMath#735:123:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#735:123:0.2887
+Default$$SimpleName::z$$org.apache.commons.math.util.FastMath#735:235:0.2887
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1575:4:0.2887
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#1575:4:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1575:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1575:38:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1575:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1575:123:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1575:235:0.2887
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1576:4:0.2887
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#1576:4:0.2887
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1576:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#1576:38:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1576:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1576:123:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1576:235:0.2887
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1577:4:0.2887
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#1577:4:0.2887
+Default$$SimpleName::bs$$org.apache.commons.math.util.FastMath#1577:7:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#1577:38:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1577:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1577:123:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1577:235:0.2887
+Insert After$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1578:4:0.2887
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#1578:4:0.2887
+Default$$SimpleName::bs$$org.apache.commons.math.util.FastMath#1578:7:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#1578:38:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1578:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#1578:123:0.2887
+Default$$NumberLiteral::2$$org.apache.commons.math.util.FastMath#1578:235:0.2887
+Insert Before$$SimpleName::randomData$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:1:0.2887
+Insert After$$Modifier::final$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:3:0.2887
+Default$$Modifier::final$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:5:0.2887
+Default$$Modifier::protected$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:8:0.2887
+Default$$SimpleType::RandomDataImpl$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:11:0.2887
+Default$$SimpleType::RandomDataImpl$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:44:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:155:0.2887
+Default$$ClassInstanceCreation::null$$org.apache.commons.math.distribution.AbstractContinuousDistribution#50:1116:0.2887
+Insert Before$$SimpleName::randomData$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:1:0.2887
+Insert After$$Modifier::final$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:3:0.2887
+Default$$Modifier::final$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:5:0.2887
+Default$$Modifier::protected$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:8:0.2887
+Default$$SimpleType::RandomDataImpl$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:11:0.2887
+Default$$SimpleType::RandomDataImpl$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:44:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:155:0.2887
+Default$$ClassInstanceCreation::null$$org.apache.commons.math.distribution.AbstractIntegerDistribution#46:1116:0.2887
+Default$$SimpleName::maxIterations$$org.apache.commons.math.distribution.PoissonDistributionImpl#99:1:0.2887
+Default$$ThisExpression::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#99:13:0.2887
+Default$$FieldAccess::null$$org.apache.commons.math.distribution.PoissonDistributionImpl#99:25:0.2887
+Default$$Assignment::=$$org.apache.commons.math.distribution.PoissonDistributionImpl#99:129:0.2887
+Default$$SimpleName::maxIterations$$org.apache.commons.math.distribution.PoissonDistributionImpl#99:187:0.2887
+Insert After$$NumberLiteral::20$$org.apache.commons.math.util.FastMath#170:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#170:8:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#170:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#170:123:0.2887
+Default$$NumberLiteral::20$$org.apache.commons.math.util.FastMath#170:235:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#170:624:0.2887
+Insert After$$NumberLiteral::750$$org.apache.commons.math.util.FastMath#178:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#178:8:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#178:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#178:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#178:624:0.2887
+Insert After$$NumberLiteral::1025$$org.apache.commons.math.util.FastMath#192:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#192:8:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#192:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#192:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#192:624:0.2887
+Insert After$$NumberLiteral::1024$$org.apache.commons.math.util.FastMath#199:4:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#199:8:0.2887
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#199:115:0.2887
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#199:123:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#199:624:0.2887
+Insert Before$$Modifier::private$$org.apache.commons.math.random.RandomDataImpl#111:1:0.2887
+Insert Before$$SimpleName::rand$$org.apache.commons.math.random.RandomDataImpl#111:1:0.2887
+Insert After$$Modifier::private$$org.apache.commons.math.random.RandomDataImpl#111:3:0.2887
+Default$$Modifier::private$$org.apache.commons.math.random.RandomDataImpl#111:5:0.2887
+Default$$SimpleType::RandomGenerator$$org.apache.commons.math.random.RandomDataImpl#111:6:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.random.RandomDataImpl#111:155:0.2887
+Default$$NullLiteral::null$$org.apache.commons.math.random.RandomDataImpl#111:1116:0.2887
+Insert Before$$Modifier::private$$org.apache.commons.math.random.RandomDataImpl#114:1:0.2887
+Insert Before$$SimpleName::secRand$$org.apache.commons.math.random.RandomDataImpl#114:1:0.2887
+Insert After$$Modifier::private$$org.apache.commons.math.random.RandomDataImpl#114:3:0.2887
+Default$$Modifier::private$$org.apache.commons.math.random.RandomDataImpl#114:5:0.2887
+Default$$SimpleType::SecureRandom$$org.apache.commons.math.random.RandomDataImpl#114:6:0.2887
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.random.RandomDataImpl#114:155:0.2887
+Default$$NullLiteral::null$$org.apache.commons.math.random.RandomDataImpl#114:1116:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#736:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#736:7:0.2887
+Insert After$$SimpleName::d$$org.apache.commons.math.util.FastMath#736:17:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#736:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#736:38:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#736:123:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#740:7:0.2887
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#740:7:0.2887
+Insert After$$SimpleName::d$$org.apache.commons.math.util.FastMath#740:17:0.2887
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#740:38:0.2887
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#740:38:0.2887
+Insert Before$$SimpleName::c$$org.apache.commons.math.util.FastMath#740:123:0.2887

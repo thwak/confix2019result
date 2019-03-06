@@ -1,0 +1,79 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$SimpleName::d$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:2:0.5774
+Default$$SimpleName::distanceFrom$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:29:0.5774
+Default$$SimpleName::getCenter$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:62:0.5774
+Default$$SimpleName::p$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:466:0.5774
+Default$$SimpleName::nearest$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#179:1116:0.5774
+Insert Before$$SimpleName::nearest$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:2:0.5774
+Default$$ParameterizedType::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:12:0.5774
+Default$$SimpleName::getNearestCluster$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:13:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:37:0.5774
+Default$$SimpleType::Cluster$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:66:0.5774
+Default$$SimpleType::T$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:86:0.5774
+Insert After$$SimpleType::T$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:86:0.5774
+Default$$SimpleName::resultSet$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:267:0.5774
+Default$$SimpleName::p$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#178:1116:0.5774
+Insert Before$$SimpleName::p$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:1:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:2:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:2:0.5774
+Default$$SimpleType::T$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:12:0.5774
+Default$$SimpleName::get$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:46:0.5774
+Default$$SimpleName::pointSet$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:466:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:527:0.5774
+Default$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#177:1116:0.5774
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:1:0.5774
+Insert Before$$SimpleName::p$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:2:0.5774
+Default$$SimpleType::T$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:12:0.5774
+Default$$SimpleName::remove$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:46:0.5774
+Default$$SimpleName::pointSet$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:466:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:527:0.5774
+Default$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:1040:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#189:1116:0.5774
+Default$$SimpleName::p$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:16:0.5774
+Default$$ParameterizedType::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:34:0.5774
+Default$$SimpleType::Cluster$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:66:0.5774
+Default$$SimpleType::T$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:86:0.5774
+Insert After$$SimpleType::T$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:86:0.5774
+Default$$SimpleName::resultSet$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:466:0.5774
+Default$$ClassInstanceCreation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#190:1040:0.5774
+Insert Before$$SimpleName::r$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:1:0.5774
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:2:0.5774
+Insert After$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:2:0.5774
+Insert After$$SimpleName::sum$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:17:0.5774
+Default$$SimpleName::sum$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:60:0.5774
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:61:0.5774
+Default$$SimpleName::nextDouble$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:62:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:123:0.5774
+Default$$SimpleName::random$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#186:466:0.5774
+Insert Before$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:1:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:2:0.5774
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:3:0.5774
+Insert After$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:14:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:17:0.5774
+Default$$InfixExpression::<$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:39:0.5774
+Default$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:61:0.5774
+Default$$SimpleName::size$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:62:0.5774
+Insert Before$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:123:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:235:0.5774
+Default$$SimpleName::pointSet$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:466:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#176:1116:0.5774
+Insert Before$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:1:0.5774
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:2:0.5774
+Insert After$$QualifiedName::dx2.length$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:3:0.5774
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:4:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:17:0.5774
+Default$$InfixExpression::<$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:39:0.5774
+Default$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:55:0.5774
+Insert Before$$SimpleName::i$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:123:0.5774
+Default$$QualifiedName::dx2.length$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:235:0.5774
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#187:1116:0.5774
+Insert Before$$SimpleName::sum$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#175:1:0.5774
+Default$$PrimitiveType::int$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#175:9:0.5774
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer#175:253:0.5774

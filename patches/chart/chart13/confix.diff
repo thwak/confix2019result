@@ -1,0 +1,19 @@
+--- ../result-tf-hash/chart/chart13/buggy/org/jfree/chart/block/BorderArrangement.java	2019-02-21 11:23:58.189768099 +0000
++++ ../result-tf-hash/chart/chart13/confix/org/jfree/chart/block/BorderArrangement.java	2019-02-21 11:23:58.177768049 +0000
+@@ -55,6 +55,7 @@
+ import org.jfree.chart.util.RectangleEdge;
+ import org.jfree.chart.util.Size2D;
+ import org.jfree.data.Range;
++import java.util.Map;
+ 
+ /**
+  * An arrangement manager that lays out blocks in a similar way to
+@@ -447,7 +448,7 @@
+                     LengthConstraintType.RANGE, h[2], null,
+                     LengthConstraintType.FIXED);
+             Size2D size = this.leftBlock.arrange(g2, c3);
+-            w[2] = size.width;
++            h[2] = size.width;
+         }
+         h[3] = h[2];
+         if (this.rightBlock != null) {

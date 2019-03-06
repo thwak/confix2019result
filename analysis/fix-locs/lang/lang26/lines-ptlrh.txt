@@ -1,0 +1,26 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::selectNumberRule$$org.apache.commons.lang3.time.FastDateFormat#654:1:1.0000
+Default$$SimpleName::tokenLen$$org.apache.commons.lang3.time.FastDateFormat#654:96:1.0000
+Default$$QualifiedName::Calendar.WEEK_OF_YEAR$$org.apache.commons.lang3.time.FastDateFormat#654:267:1.0000
+Default$$SimpleName::get$$org.apache.commons.lang3.time.FastDateFormat#1171:46:0.7071
+Default$$SimpleName::buffer$$org.apache.commons.lang3.time.FastDateFormat#1171:466:0.7071
+Default$$SimpleName::calendar$$org.apache.commons.lang3.time.FastDateFormat#1171:466:0.7071
+Default$$SimpleName::mField$$org.apache.commons.lang3.time.FastDateFormat#1171:1040:0.7071
+Default$$SimpleName::append$$org.apache.commons.lang3.time.FastDateFormat#1130:46:0.7071
+Default$$SimpleName::buffer$$org.apache.commons.lang3.time.FastDateFormat#1130:466:0.7071
+Default$$SimpleName::mValue$$org.apache.commons.lang3.time.FastDateFormat#1130:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.lang3.time.FastDateFormat#1130:1531:0.7071
+Default$$SimpleName::setTime$$org.apache.commons.lang3.time.FastDateFormat#821:46:0.1796
+Default$$SimpleName::c$$org.apache.commons.lang3.time.FastDateFormat#821:466:0.1796
+Default$$SimpleName::date$$org.apache.commons.lang3.time.FastDateFormat#821:1040:0.1796
+Default$$SimpleName::c$$org.apache.commons.lang3.time.FastDateFormat#822:5:0.1796
+Default$$SimpleName::applyRules$$org.apache.commons.lang3.time.FastDateFormat#822:13:0.1796
+Default$$SimpleType::StringBuffer$$org.apache.commons.lang3.time.FastDateFormat#822:34:0.1796
+Default$$SimpleName::mMaxLengthEstimate$$org.apache.commons.lang3.time.FastDateFormat#822:141:0.1796
+Default$$ClassInstanceCreation::null$$org.apache.commons.lang3.time.FastDateFormat#822:1040:0.1796
+Insert Before$$SimpleName::c$$org.apache.commons.lang3.time.FastDateFormat#820:1:0.1796
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.lang3.time.FastDateFormat#820:8:0.1796
+Default$$SimpleType::Calendar$$org.apache.commons.lang3.time.FastDateFormat#820:8:0.1796
+Default$$SimpleType::GregorianCalendar$$org.apache.commons.lang3.time.FastDateFormat#820:34:0.1796
+Default$$VariableDeclarationStatement::null$$org.apache.commons.lang3.time.FastDateFormat#820:50:0.1796
+Insert After$$SimpleName::mTimeZone$$org.apache.commons.lang3.time.FastDateFormat#820:118:0.1796

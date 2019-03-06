@@ -1,0 +1,15 @@
+Class:org.apache.commons.lang3.math.NumberUtils
+replace
+expPos
+with
+decPos + 1
+at line 489
+Applied Change
+replace
+var0
+with
+var0 - 1
+from
+collections-9dbf838:src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java::
+1
+P:MethodInvocation{arguments},L:{34},R:

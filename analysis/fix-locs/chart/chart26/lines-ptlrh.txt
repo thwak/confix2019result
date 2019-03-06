@@ -1,0 +1,23 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleType::PlotRenderingInfo$$org.jfree.chart.plot.CategoryPlot#2547:1:1.0000
+Default$$ClassInstanceCreation::null$$org.jfree.chart.plot.CategoryPlot#2547:624:1.0000
+Default$$SimpleName::getDomainAxisEdge$$org.jfree.chart.plot.CategoryPlot#2690:13:0.9574
+Default$$SimpleName::add$$org.jfree.chart.plot.CategoryPlot#2690:46:0.9574
+Default$$SimpleName::xAxis$$org.jfree.chart.plot.CategoryPlot#2690:68:0.9574
+Default$$SimpleName::axisCollection$$org.jfree.chart.plot.CategoryPlot#2690:466:0.9574
+Default$$MethodInvocation::null$$org.jfree.chart.plot.CategoryPlot#2690:1040:0.9574
+Default$$SimpleName::index$$org.jfree.chart.plot.CategoryPlot#2690:1040:0.9574
+Default$$SimpleName::getRangeAxisEdge$$org.jfree.chart.plot.CategoryPlot#2698:13:0.9574
+Default$$SimpleName::add$$org.jfree.chart.plot.CategoryPlot#2698:46:0.9574
+Default$$SimpleName::yAxis$$org.jfree.chart.plot.CategoryPlot#2698:68:0.9574
+Default$$SimpleName::axisCollection$$org.jfree.chart.plot.CategoryPlot#2698:466:0.9574
+Default$$MethodInvocation::null$$org.jfree.chart.plot.CategoryPlot#2698:1040:0.9574
+Default$$SimpleName::index$$org.jfree.chart.plot.CategoryPlot#2698:1040:0.9574
+Insert Before$$SimpleName::axisStateMap$$org.jfree.chart.plot.CategoryPlot#2571:1:0.9574
+Default$$SimpleType::Map$$org.jfree.chart.plot.CategoryPlot#2571:5:0.9574
+Default$$SimpleName::drawAxes$$org.jfree.chart.plot.CategoryPlot#2571:13:0.9574
+Default$$SimpleName::g2$$org.jfree.chart.plot.CategoryPlot#2571:267:0.9574
+Default$$SimpleName::area$$org.jfree.chart.plot.CategoryPlot#2571:267:0.9574
+Default$$SimpleName::dataArea$$org.jfree.chart.plot.CategoryPlot#2571:267:0.9574
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.plot.CategoryPlot#2571:527:0.9574
+Default$$SimpleName::state$$org.jfree.chart.plot.CategoryPlot#2571:1040:0.9574

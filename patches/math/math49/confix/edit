@@ -1,0 +1,15 @@
+Class:org.apache.commons.math.linear.OpenMapRealVector
+replace
+entries.remove(index)
+with
+entries.put(index,value)
+at line 667
+Applied Change
+replace
+var0.method0(var1)
+with
+var0.method0(var1, var2)
+from
+lucene-773ed71:lucene/misc/src/java/org/apache/lucene/misc/HighFreqTerms.java::
+3
+P:IfStatement{statements},L:,R:

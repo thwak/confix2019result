@@ -1,0 +1,599 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:2:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:3:0.7071
+Default$$SimpleName::optima$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:11:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:38:0.7071
+Default$$SimpleName::optimize$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:46:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:46:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:46:0.7071
+Default$$SimpleName::f$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:267:0.7071
+Default$$SimpleName::bound1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:267:0.7071
+Default$$SimpleName::bound1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:267:0.7071
+Default$$SimpleName::optimizer$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:466:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:466:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:466:0.7071
+Default$$SimpleName::bound2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:1040:0.7071
+Default$$SimpleName::bound2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#162:1040:0.7071
+Default$$SimpleName::optimize$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#146:13:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#146:48:0.7071
+Default$$SimpleName::f$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#146:267:0.7071
+Default$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#146:267:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#146:267:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#146:1040:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:2:0.7071
+Insert After$$SimpleName::usedEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:17:0.7071
+Default$$SimpleName::usedEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:60:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:61:0.7071
+Default$$SimpleName::getMaxEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:62:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:123:0.7071
+Default$$SimpleName::optimizer$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:466:0.7071
+Default$$SimpleName::optimizer$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#170:466:0.7071
+Default$$SimpleName::sort$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#191:46:0.7071
+Default$$SimpleType::Comparator$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#191:66:0.7071
+Default$$SimpleType::UnivariateRealPointValuePair$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#191:86:0.7071
+Insert After$$SimpleType::UnivariateRealPointValuePair$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#191:86:0.7071
+Default$$SimpleName::Arrays$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#191:466:0.7071
+Insert Before$$SimpleName::bound1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:2:0.7071
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:4:0.7071
+Insert After$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:4:0.7071
+Insert After$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:17:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:61:0.7071
+Default$$SimpleName::nextDouble$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:62:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:115:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:123:0.7071
+Insert Before$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:123:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:123:0.7071
+Insert Before$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:123:0.7071
+Default$$InfixExpression::==$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:167:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:235:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:235:0.7071
+Default$$SimpleName::generator$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#160:466:0.7071
+Insert Before$$SimpleName::bound2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:2:0.7071
+Insert After$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:4:0.7071
+Insert After$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:4:0.7071
+Insert After$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:17:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:61:0.7071
+Default$$SimpleName::nextDouble$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:62:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:115:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:123:0.7071
+Insert Before$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:123:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:123:0.7071
+Insert Before$$SimpleName::max$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:123:0.7071
+Default$$InfixExpression::==$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:167:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:235:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:235:0.7071
+Default$$SimpleName::generator$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#161:466:0.7071
+Default$$SimpleName::sortPairs$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#174:13:0.7071
+Default$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#174:1040:0.7071
+Insert Before$$SimpleName::v1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#199:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#199:2:0.7071
+Default$$SimpleName::getValue$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#199:62:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#199:253:0.7071
+Default$$SimpleName::o1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#199:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#199:1116:0.7071
+Insert Before$$SimpleName::v2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#200:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#200:2:0.7071
+Default$$SimpleName::getValue$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#200:62:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#200:253:0.7071
+Default$$SimpleName::o2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#200:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#200:1116:0.7071
+Insert Before$$SimpleName::usedEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:2:0.7071
+Default$$PrimitiveType::int$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:26:0.7071
+Default$$SimpleName::getEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:62:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:253:0.7071
+Default$$SimpleName::optimizer$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#169:1116:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:1:0.7071
+Insert After$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:2:0.7071
+Insert After$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:4:0.7071
+Default$$InfixExpression::<$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:8:0.7071
+Default$$VariableDeclarationExpression::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:12:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:17:0.7071
+Insert After$$SimpleName::starts$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:17:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:51:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:123:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:123:0.7071
+Default$$SimpleName::starts$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:235:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#158:1116:0.7071
+Default$$SimpleName::generator$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#75:1:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#75:13:0.7071
+Default$$FieldAccess::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#75:25:0.7071
+Default$$Assignment::=$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#75:129:0.7071
+Default$$SimpleName::generator$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#75:187:0.7071
+Insert After$$QualifiedName::GoalType.MINIMIZE$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#201:3:0.7071
+Default$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#201:55:0.7071
+Insert Before$$SimpleName::goal$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#201:123:0.7071
+Default$$QualifiedName::GoalType.MINIMIZE$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#201:235:0.7071
+Default$$SimpleName::optimizer$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#73:1:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#73:13:0.7071
+Default$$FieldAccess::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#73:25:0.7071
+Default$$Assignment::=$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#73:98:0.7071
+Default$$SimpleName::optimizer$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#73:187:0.7071
+Default$$SimpleName::totalEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#171:25:0.7071
+Default$$SimpleName::usedEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#171:624:0.7071
+Default$$SimpleName::starts$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#74:1:0.7071
+Default$$ThisExpression::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#74:13:0.7071
+Default$$FieldAccess::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#74:25:0.7071
+Default$$Assignment::=$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#74:38:0.7071
+Default$$SimpleName::starts$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#74:187:0.7071
+Insert After$$Block::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#196:1:0.7071
+Default$$SimpleName::o2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#196:44:0.7071
+Insert Before$$SimpleName::o2$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#196:123:0.7071
+Default$$SimpleName::o1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#194:44:0.7071
+Insert Before$$SimpleName::o1$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#194:123:0.7071
+Insert After$$Dimension::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#154:1:0.7071
+Default$$SimpleName::optima$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#154:2:0.7071
+Default$$ArrayType::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#154:4:0.7071
+Default$$SimpleName::starts$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#154:17:0.7071
+Default$$SimpleType::UnivariateRealPointValuePair$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#154:35:0.7071
+Default$$SimpleName::optima$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#182:7:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#182:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#182:590:0.7071
+Default$$SimpleName::totalEvaluations$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#155:8:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#155:624:0.7071
+Default$$SimpleName::optima$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#176:7:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#176:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#176:44:0.7071
+Insert Before$$SingleVariableDeclaration::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#72:1:0.7071
+Insert After$$SingleVariableDeclaration::null$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#72:2:0.7071
+Default$$SimpleType::RandomGenerator$$org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer#72:19:0.7071
+Insert After$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#3044:4:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#3044:18:0.7071
+Default$$SimpleName::doubleToLongBits$$org.apache.commons.math.util.FastMath#3044:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#3044:115:0.7071
+Insert Before$$SimpleName::x$$org.apache.commons.math.util.FastMath#3044:123:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.FastMath#3044:466:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.FastMath#3044:466:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#3044:1040:0.7071
+Default$$PrefixExpression::!$$org.apache.commons.math.util.MathUtils#494:1:0.7071
+Default$$SimpleName::isNaN$$org.apache.commons.math.util.MathUtils#494:46:0.7071
+Default$$SimpleName::isNaN$$org.apache.commons.math.util.MathUtils#494:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#494:51:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#494:51:0.7071
+Insert Before$$SimpleName::isEqual$$org.apache.commons.math.util.MathUtils#494:123:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.MathUtils#494:466:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.MathUtils#494:466:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.MathUtils#494:1040:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.MathUtils#494:1040:0.7071
+Insert After$$SimpleName::max$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:4:0.7071
+Default$$SimpleName::optimize$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:13:0.7071
+Insert After$$SimpleName::min$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:17:0.7071
+Insert Before$$NumberLiteral::0.5$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:115:0.7071
+Insert Before$$SimpleName::min$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:123:0.7071
+Default$$SimpleName::max$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:123:0.7071
+Insert Before$$SimpleName::max$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:123:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:235:0.7071
+Default$$SimpleName::f$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:267:0.7071
+Default$$SimpleName::goalType$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:267:0.7071
+Default$$SimpleName::min$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#144:267:0.7071
+Default$$SimpleName::quadMult$$org.apache.commons.math.util.FastMath#896:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#896:267:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#896:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#896:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1409:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1409:267:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1409:267:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1409:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#1582:2:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1582:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1582:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1582:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1582:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1563:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1563:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1563:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1563:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1564:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1564:267:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1564:267:0.7071
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1564:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1581:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1581:267:0.7071
+Default$$SimpleName::bs$$org.apache.commons.math.util.FastMath#1581:267:0.7071
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1581:1040:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1583:13:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1583:267:0.7071
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1583:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1583:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1588:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1588:267:0.7071
+Default$$SimpleName::bs$$org.apache.commons.math.util.FastMath#1588:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1588:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1589:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1589:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1589:267:0.7071
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1589:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#688:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#688:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#688:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#688:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1424:13:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1424:267:0.7071
+Default$$SimpleName::x2$$org.apache.commons.math.util.FastMath#1424:267:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1424:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1454:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1454:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1454:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1454:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1497:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1497:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1497:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1497:1040:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#695:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#695:267:0.7071
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#695:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#695:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#830:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#830:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#830:267:0.7071
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#830:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#837:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#837:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#837:267:0.7071
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#837:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#849:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#849:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#849:267:0.7071
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#849:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#861:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#861:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#861:267:0.7071
+Default$$SimpleName::zs$$org.apache.commons.math.util.FastMath#861:1040:0.7071
+Default$$SimpleName::quadMult$$org.apache.commons.math.util.FastMath#900:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#900:267:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#900:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#900:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1414:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1414:267:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1414:267:0.7071
+Default$$SimpleName::x2$$org.apache.commons.math.util.FastMath#1414:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1432:13:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1432:267:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1432:267:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1432:1040:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1469:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1469:267:0.7071
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1469:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1469:1040:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1512:13:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1512:267:0.7071
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1512:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1512:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1558:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1558:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1558:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1558:1040:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1567:13:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1567:267:0.7071
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1567:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1567:1040:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1592:13:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1592:267:0.7071
+Default$$SimpleName::temps$$org.apache.commons.math.util.FastMath#1592:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1592:1040:0.7071
+Default$$SimpleName::splitMult$$org.apache.commons.math.util.FastMath#1612:13:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1612:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1612:267:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1612:1040:0.7071
+Insert Before$$SimpleName::tol1$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:2:0.7071
+Insert After$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:7:0.7071
+Insert After$$SimpleName::absoluteThreshold$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:17:0.7071
+Default$$SimpleName::relativeThreshold$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:18:0.7071
+Default$$SimpleName::abs$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:46:0.7071
+Insert Before$$SimpleName::relativeThreshold$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:123:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:235:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:466:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#128:1040:0.7071
+Insert Before$$SimpleName::xInt$$org.apache.commons.math.util.MathUtils#481:1:0.7071
+Default$$SimpleName::doubleToLongBits$$org.apache.commons.math.util.MathUtils#481:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MathUtils#481:253:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.MathUtils#481:466:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.MathUtils#481:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#481:1116:0.7071
+Insert Before$$SimpleName::yInt$$org.apache.commons.math.util.MathUtils#482:1:0.7071
+Default$$SimpleName::doubleToLongBits$$org.apache.commons.math.util.MathUtils#482:46:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.util.MathUtils#482:253:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.MathUtils#482:466:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.MathUtils#482:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#482:1116:0.7071
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.util.FastMath#219:15:0.7071
+Default$$SimpleName::sqrt$$org.apache.commons.math.util.FastMath#219:46:0.7071
+Default$$SimpleName::Math$$org.apache.commons.math.util.FastMath#219:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#219:590:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#219:1040:0.7071
+Default$$ReturnStatement::null$$org.apache.commons.math.util.FastMath#219:1531:0.7071
+Default$$SimpleName::setMaximalCount$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#55:46:0.7071
+Default$$SimpleName::evaluations$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#55:466:0.7071
+Default$$SimpleName::maxEvaluations$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#55:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#55:1531:0.7071
+Default$$SimpleName::value$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#110:46:0.7071
+Default$$SimpleName::function$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#110:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#110:590:0.7071
+Default$$SimpleName::point$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#110:1040:0.7071
+Default$$SimpleName::tol1$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:17:0.7071
+Insert After$$SimpleName::tol1$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:17:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:18:0.7071
+Default$$SimpleName::abs$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:123:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:466:0.7071
+Default$$SimpleName::e$$org.apache.commons.math.optimization.univariate.BrentOptimizer#139:1040:0.7071
+Default$$SimpleName::tol1$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:17:0.7071
+Insert After$$SimpleName::tol1$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:17:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:18:0.7071
+Default$$SimpleName::abs$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:46:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:123:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:466:0.7071
+Default$$SimpleName::d$$org.apache.commons.math.optimization.univariate.BrentOptimizer#189:1040:0.7071
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#185:13:0.7071
+Default$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#185:267:0.7071
+Default$$SimpleName::recip$$org.apache.commons.math.util.FastMath#185:1040:0.7071
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1406:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1406:267:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1406:1040:0.7071
+Default$$SimpleName::expint$$org.apache.commons.math.util.FastMath#179:13:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#179:267:0.7071
+Default$$SimpleName::tmp$$org.apache.commons.math.util.FastMath#179:1040:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#684:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#684:267:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#684:1040:0.7071
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#693:13:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#693:267:0.7071
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#693:1040:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1401:13:0.7071
+Default$$SimpleName::xi$$org.apache.commons.math.util.FastMath#1401:267:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1401:1040:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1450:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1450:267:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1450:1040:0.7071
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1462:13:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1462:267:0.7071
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1462:1040:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1493:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1493:267:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#1493:1040:0.7071
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1505:13:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1505:267:0.7071
+Default$$SimpleName::facts$$org.apache.commons.math.util.FastMath#1505:1040:0.7071
+Default$$SimpleName::slowSin$$org.apache.commons.math.util.FastMath#1533:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1533:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1533:1040:0.7071
+Default$$SimpleName::slowCos$$org.apache.commons.math.util.FastMath#1537:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1537:267:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#1537:1040:0.7071
+Default$$SimpleName::splitReciprocal$$org.apache.commons.math.util.FastMath#1607:13:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1607:267:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#1607:1040:0.7071
+Insert Before$$SimpleName::stop$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:2:0.7071
+Insert After$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:4:0.7071
+Insert After$$SimpleName::b$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:4:0.7071
+Insert After$$SimpleName::m$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:17:0.7071
+Insert After$$SimpleName::a$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:17:0.7071
+Insert Before$$NumberLiteral::0.5$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:115:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:123:0.7071
+Insert Before$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:123:0.7071
+Insert Before$$SimpleName::tol2$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:123:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:123:0.7071
+Insert Before$$SimpleName::b$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:123:0.7071
+Default$$SimpleName::m$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:235:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:235:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:466:0.7071
+Default$$InfixExpression::-$$org.apache.commons.math.optimization.univariate.BrentOptimizer#132:1040:0.7071
+Default$$SimpleName::equals$$org.apache.commons.math.util.MathUtils#417:13:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.MathUtils#417:48:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.MathUtils#417:267:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.MathUtils#417:1040:0.7071
+Default$$SimpleName::isNaN$$org.apache.commons.math.util.FastMath#3224:2:0.7071
+Insert After$$SimpleName::a$$org.apache.commons.math.util.FastMath#3224:4:0.7071
+Insert After$$SimpleName::a$$org.apache.commons.math.util.FastMath#3224:4:0.7071
+Insert After$$SimpleName::b$$org.apache.commons.math.util.FastMath#3224:17:0.7071
+Insert After$$SimpleName::b$$org.apache.commons.math.util.FastMath#3224:17:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#3224:123:0.7071
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#3224:123:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#3224:123:0.7071
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#3224:123:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#3224:235:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#3224:235:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.FastMath#3224:466:0.7071
+Default$$SimpleName::isNaN$$org.apache.commons.math.util.FastMath#3260:2:0.7071
+Insert After$$SimpleName::a$$org.apache.commons.math.util.FastMath#3260:4:0.7071
+Insert After$$SimpleName::a$$org.apache.commons.math.util.FastMath#3260:4:0.7071
+Insert After$$SimpleName::b$$org.apache.commons.math.util.FastMath#3260:17:0.7071
+Insert After$$SimpleName::b$$org.apache.commons.math.util.FastMath#3260:17:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#3260:123:0.7071
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#3260:123:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#3260:123:0.7071
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#3260:123:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#3260:235:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#3260:235:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.FastMath#3260:466:0.7071
+Insert Before$$SimpleName::fx$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:1:0.7071
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:4:0.7071
+Default$$SimpleName::computeObjectiveValue$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:13:0.7071
+Default$$PrimitiveType::double$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:68:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:253:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#114:1116:0.7071
+Insert Before$$SimpleName::fu$$org.apache.commons.math.optimization.univariate.BrentOptimizer#199:1:0.7071
+Default$$SimpleName::computeObjectiveValue$$org.apache.commons.math.optimization.univariate.BrentOptimizer#199:13:0.7071
+Default$$PrimitiveType::double$$org.apache.commons.math.optimization.univariate.BrentOptimizer#199:68:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#199:253:0.7071
+Default$$SimpleName::u$$org.apache.commons.math.optimization.univariate.BrentOptimizer#199:1040:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#199:1116:0.7071
+Insert Before$$SimpleName::isEqual$$org.apache.commons.math.util.MathUtils#492:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.util.MathUtils#492:2:0.7071
+Insert After$$SimpleName::xInt$$org.apache.commons.math.util.MathUtils#492:4:0.7071
+Insert After$$SimpleName::yInt$$org.apache.commons.math.util.MathUtils#492:17:0.7071
+Insert After$$SimpleName::maxUlps$$org.apache.commons.math.util.MathUtils#492:17:0.7071
+Default$$SimpleName::xInt$$org.apache.commons.math.util.MathUtils#492:123:0.7071
+Insert Before$$SimpleName::xInt$$org.apache.commons.math.util.MathUtils#492:123:0.7071
+Default$$SimpleName::yInt$$org.apache.commons.math.util.MathUtils#492:235:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.util.MathUtils#492:466:0.7071
+Insert Before$$SimpleName::d$$org.apache.commons.math.util.FastMath#200:1:0.7071
+Insert After$$NumberLiteral::42$$org.apache.commons.math.util.FastMath#200:4:0.7071
+Insert After$$NumberLiteral::0x3ff0000000000000L$$org.apache.commons.math.util.FastMath#200:4:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#200:30:0.7071
+Default$$SimpleName::Double$$org.apache.commons.math.util.FastMath#200:466:0.7071
+Default$$SimpleName::LN_MANT$$org.apache.commons.math.util.FastMath#201:11:0.7071
+Default$$SimpleName::slowLog$$org.apache.commons.math.util.FastMath#201:13:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#201:38:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.util.FastMath#201:50:0.7071
+Default$$SimpleName::d$$org.apache.commons.math.util.FastMath#201:1040:0.7071
+Insert Before$$Modifier::private$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:1:0.7071
+Insert After$$Modifier::private$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:1:0.7071
+Insert Before$$Modifier::static$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:1:0.7071
+Insert Before$$SimpleName::GOLDEN_SECTION$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:1:0.7071
+Default$$Modifier::private$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:6:0.7071
+Default$$SimpleName::sqrt$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:6:0.7071
+Insert Before$$NumberLiteral::0.5$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:115:0.7071
+Insert Before$$NumberLiteral::3$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:115:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:466:0.7071
+Default$$NumberLiteral::5$$org.apache.commons.math.optimization.univariate.BrentOptimizer#47:1040:0.7071
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#754:13:0.7071
+Default$$SimpleName::ans$$org.apache.commons.math.util.FastMath#754:1040:0.7071
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#766:13:0.7071
+Default$$SimpleName::ans$$org.apache.commons.math.util.FastMath#766:1040:0.7071
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#910:13:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#910:1040:0.7071
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#1408:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1408:1040:0.7071
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#1405:13:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.util.FastMath#1405:1040:0.7071
+Default$$SimpleName::resplit$$org.apache.commons.math.util.FastMath#804:13:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#804:1040:0.7071
+Insert Before$$Modifier::private$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:1:0.7071
+Insert After$$Modifier::private$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:1:0.7071
+Insert Before$$Modifier::static$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:1:0.7071
+Insert Before$$SimpleName::MIN_RELATIVE_TOLERANCE$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:1:0.7071
+Default$$Modifier::private$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:6:0.7071
+Default$$SimpleName::ulp$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:6:0.7071
+Insert Before$$NumberLiteral::2$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:115:0.7071
+Default$$SimpleName::FastMath$$org.apache.commons.math.optimization.univariate.BrentOptimizer#51:466:0.7071
+Default$$SimpleName::y$$org.apache.commons.math.util.FastMath#1427:11:0.7071
+Default$$SimpleName::LN_SPLIT_COEF$$org.apache.commons.math.util.FastMath#1427:11:0.7071
+Default$$SimpleName::splitAdd$$org.apache.commons.math.util.FastMath#1427:13:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#1427:15:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1427:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#1427:267:0.7071
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#60:20:0.7071
+Default$$SimpleName::getMaximalCount$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#60:62:0.7071
+Default$$SimpleName::evaluations$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#60:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#60:590:0.7071
+Default$$ReturnStatement::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#60:1531:0.7071
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#65:20:0.7071
+Default$$SimpleName::getCount$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#65:62:0.7071
+Default$$SimpleName::evaluations$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#65:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#65:590:0.7071
+Default$$ReturnStatement::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#65:1531:0.7071
+Insert After$$NumberLiteral::1024.0$$org.apache.commons.math.util.FastMath#193:4:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#193:115:0.7071
+Insert Before$$SimpleName::i$$org.apache.commons.math.util.FastMath#193:123:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#692:2:0.7071
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#692:11:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#692:15:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#692:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#692:267:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1461:2:0.7071
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#1461:11:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1461:15:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1461:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#1461:267:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#1504:2:0.7071
+Default$$SimpleName::FACT$$org.apache.commons.math.util.FastMath#1504:11:0.7071
+Default$$SimpleName::as$$org.apache.commons.math.util.FastMath#1504:15:0.7071
+Default$$SimpleName::i$$org.apache.commons.math.util.FastMath#1504:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#1504:267:0.7071
+Default$$SimpleName::incrementCount$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#106:62:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#106:210:0.7071
+Default$$SimpleName::evaluations$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#106:466:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#828:1:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#828:6:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#828:7:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#828:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#828:267:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#829:1:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#829:6:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#829:7:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#829:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#829:267:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#836:1:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#836:6:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#836:7:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#836:38:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#847:1:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#847:6:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#847:7:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#847:38:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#848:1:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#848:6:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#848:7:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#848:38:0.7071
+Default$$ArrayAccess::null$$org.apache.commons.math.util.FastMath#848:267:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#859:1:0.7071
+Default$$SimpleName::xs$$org.apache.commons.math.util.FastMath#859:6:0.7071
+Default$$SimpleName::a$$org.apache.commons.math.util.FastMath#859:7:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#859:38:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#860:1:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#860:6:0.7071
+Default$$SimpleName::b$$org.apache.commons.math.util.FastMath#860:7:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#860:38:0.7071
+Default$$SimpleName::resetCount$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#133:62:0.7071
+Default$$SimpleName::evaluations$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#133:466:0.7071
+Default$$SimpleName::split$$org.apache.commons.math.util.FastMath#892:1:0.7071
+Default$$SimpleName::ys$$org.apache.commons.math.util.FastMath#892:52:0.7071
+Insert Before$$SimpleName::isMinim$$org.apache.commons.math.optimization.univariate.BrentOptimizer#90:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.BrentOptimizer#90:2:0.7071
+Insert After$$QualifiedName::GoalType.MINIMIZE$$org.apache.commons.math.optimization.univariate.BrentOptimizer#90:3:0.7071
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#90:9:0.7071
+Default$$QualifiedName::GoalType.MINIMIZE$$org.apache.commons.math.optimization.univariate.BrentOptimizer#90:27:0.7071
+Insert Before$$SimpleName::lo$$org.apache.commons.math.optimization.univariate.BrentOptimizer#91:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.BrentOptimizer#91:2:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#91:253:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#91:1116:0.7071
+Insert Before$$SimpleName::mid$$org.apache.commons.math.optimization.univariate.BrentOptimizer#92:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.BrentOptimizer#92:2:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#92:253:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#92:1116:0.7071
+Insert Before$$SimpleName::hi$$org.apache.commons.math.optimization.univariate.BrentOptimizer#93:1:0.7071
+Insert Before$$Modifier::final$$org.apache.commons.math.optimization.univariate.BrentOptimizer#93:2:0.7071
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#93:253:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.BrentOptimizer#93:1116:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#797:7:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#797:38:0.7071
+Insert Before$$SimpleName::b$$org.apache.commons.math.util.FastMath#797:123:0.7071
+Insert Before$$SimpleName::a$$org.apache.commons.math.util.FastMath#797:123:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer#136:590:0.7071
+Insert Before$$SimpleName::err$$org.apache.commons.math.util.FastMath#808:1:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#808:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#808:7:0.7071
+Default$$SimpleName::result$$org.apache.commons.math.util.FastMath#808:7:0.7071
+Default$$SimpleName::in$$org.apache.commons.math.util.FastMath#808:7:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#808:38:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#808:38:0.7071
+Default$$NumberLiteral::0$$org.apache.commons.math.util.FastMath#808:38:0.7071
+Default$$NumberLiteral::1$$org.apache.commons.math.util.FastMath#808:38:0.7071
+Insert Before$$NumberLiteral::1.0$$org.apache.commons.math.util.FastMath#808:115:0.7071
+Insert After$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:4:0.7071
+Insert After$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:4:0.7071
+Insert After$$SimpleName::v$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:17:0.7071
+Insert After$$SimpleName::q$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:17:0.7071
+Insert After$$SimpleName::w$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:17:0.7071
+Insert After$$SimpleName::r$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:17:0.7071
+Default$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:123:0.7071
+Insert Before$$SimpleName::x$$org.apache.commons.math.optimization.univariate.BrentOptimizer#142:123:0.7071

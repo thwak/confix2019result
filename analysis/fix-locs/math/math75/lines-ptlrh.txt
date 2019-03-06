@@ -1,0 +1,240 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::getPct$$org.apache.commons.math.stat.Frequency#342:1:1.0000
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#342:46:1.0000
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#342:466:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#342:1040:1.0000
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#342:1040:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#342:1531:1.0000
+Insert After$$WildcardType::null$$org.apache.commons.math.stat.Frequency#303:1:1.0000
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#303:3:1.0000
+Default$$WildcardType::null$$org.apache.commons.math.stat.Frequency#303:86:1.0000
+Default$$SimpleName::getPct$$org.apache.commons.math.stat.Frequency#331:1:0.7071
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#331:46:0.7071
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#331:466:0.7071
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#331:1040:0.7071
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#331:1040:0.7071
+Default$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#331:1531:0.7071
+Default$$SimpleName::getCumFreq$$org.apache.commons.math.stat.Frequency#444:1:0.5774
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#444:46:0.5774
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#444:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#444:1040:0.5774
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#444:1040:0.5774
+Default$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#444:1531:0.5774
+Default$$SimpleName::longValue$$org.apache.commons.math.stat.Frequency#386:2:0.5774
+Default$$SimpleType::Integer$$org.apache.commons.math.stat.Frequency#386:8:0.5774
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#386:31:0.5774
+Default$$CastExpression::null$$org.apache.commons.math.stat.Frequency#386:167:0.5774
+Default$$ParenthesizedExpression::null$$org.apache.commons.math.stat.Frequency#386:466:0.5774
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#386:1040:0.5774
+Default$$SimpleName::addValue$$org.apache.commons.math.stat.Frequency#177:1:0.5000
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#177:46:0.5000
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#177:466:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#177:1040:0.5000
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#177:1040:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#177:1531:0.5000
+Default$$SimpleName::getCount$$org.apache.commons.math.stat.Frequency#320:13:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#320:30:0.5000
+Default$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#320:30:0.5000
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#320:1040:0.5000
+Insert Before$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#408:2:0.5000
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#408:590:0.5000
+Default$$ReturnStatement::null$$org.apache.commons.math.stat.Frequency#408:1101:0.5000
+Insert After$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#142:1:0.4472
+Insert After$$NumberLiteral::1$$org.apache.commons.math.stat.Frequency#142:4:0.4472
+Default$$SimpleName::put$$org.apache.commons.math.stat.Frequency#142:46:0.4472
+Default$$NumberLiteral::1$$org.apache.commons.math.stat.Frequency#142:60:0.4472
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#142:61:0.4472
+Default$$SimpleName::longValue$$org.apache.commons.math.stat.Frequency#142:62:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#142:115:0.4472
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#142:466:0.4472
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#142:466:0.4472
+Default$$SimpleName::count$$org.apache.commons.math.stat.Frequency#142:466:0.4472
+Default$$InfixExpression::+$$org.apache.commons.math.stat.Frequency#142:1040:0.4472
+Insert After$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#403:4:0.4472
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#403:7:0.4472
+Default$$SimpleName::compare$$org.apache.commons.math.stat.Frequency#403:46:0.4472
+Default$$SimpleName::firstKey$$org.apache.commons.math.stat.Frequency#403:62:0.4472
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#403:68:0.4472
+Default$$SimpleName::c$$org.apache.commons.math.stat.Frequency#403:466:0.4472
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#403:466:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#403:1040:0.4472
+Insert After$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#407:4:0.4472
+Default$$SimpleName::compare$$org.apache.commons.math.stat.Frequency#407:46:0.4472
+Default$$SimpleName::lastKey$$org.apache.commons.math.stat.Frequency#407:62:0.4472
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#407:68:0.4472
+Default$$SimpleName::c$$org.apache.commons.math.stat.Frequency#407:466:0.4472
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#407:466:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#407:1040:0.4472
+Insert Before$$SimpleName::value$$org.apache.commons.math.stat.Frequency#395:1:0.4472
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.stat.Frequency#395:3:0.4472
+Default$$SimpleType::Long$$org.apache.commons.math.stat.Frequency#395:41:0.4472
+Default$$SimpleName::get$$org.apache.commons.math.stat.Frequency#395:46:0.4472
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#395:466:0.4472
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#395:527:0.4472
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#395:1040:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#395:1116:0.4472
+Default$$SimpleName::result$$org.apache.commons.math.stat.Frequency#218:2:0.4472
+Default$$SimpleName::longValue$$org.apache.commons.math.stat.Frequency#218:11:0.4472
+Default$$SimpleName::next$$org.apache.commons.math.stat.Frequency#218:62:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#218:466:0.4472
+Default$$SimpleName::iterator$$org.apache.commons.math.stat.Frequency#218:466:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#218:624:0.4472
+Default$$SimpleName::getCumFreq$$org.apache.commons.math.stat.Frequency#495:13:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#495:30:0.4472
+Default$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#495:30:0.4472
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#495:1040:0.4472
+Default$$SimpleType::Comparator$$org.apache.commons.math.stat.Frequency#388:1:0.4472
+Insert After$$WildcardType::null$$org.apache.commons.math.stat.Frequency#388:1:0.4472
+Insert Before$$SimpleName::c$$org.apache.commons.math.stat.Frequency#388:1:0.4472
+Default$$SimpleType::Comparator$$org.apache.commons.math.stat.Frequency#388:1:0.4472
+Insert After$$WildcardType::null$$org.apache.commons.math.stat.Frequency#388:1:0.4472
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#388:3:0.4472
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#388:3:0.4472
+Default$$SimpleName::comparator$$org.apache.commons.math.stat.Frequency#388:62:0.4472
+Default$$WildcardType::null$$org.apache.commons.math.stat.Frequency#388:86:0.4472
+Default$$WildcardType::null$$org.apache.commons.math.stat.Frequency#388:86:0.4472
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#388:466:0.4472
+Default$$SimpleName::compareTo$$org.apache.commons.math.stat.Frequency#561:2:0.4472
+Default$$SimpleType::T$$org.apache.commons.math.stat.Frequency#561:8:0.4472
+Default$$SimpleName::o2$$org.apache.commons.math.stat.Frequency#561:31:0.4472
+Default$$SimpleName::o1$$org.apache.commons.math.stat.Frequency#561:466:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#561:590:0.4472
+Default$$CastExpression::null$$org.apache.commons.math.stat.Frequency#561:1040:0.4472
+Default$$SimpleName::result$$org.apache.commons.math.stat.Frequency#251:12:0.4472
+Default$$SimpleName::longValue$$org.apache.commons.math.stat.Frequency#251:62:0.4472
+Default$$SimpleName::count$$org.apache.commons.math.stat.Frequency#251:466:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#251:624:0.4472
+Default$$Assignment::=$$org.apache.commons.math.stat.Frequency#251:1101:0.4472
+Default$$SimpleName::result$$org.apache.commons.math.stat.Frequency#397:12:0.4472
+Default$$SimpleName::longValue$$org.apache.commons.math.stat.Frequency#397:62:0.4472
+Default$$SimpleName::value$$org.apache.commons.math.stat.Frequency#397:466:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#397:624:0.4472
+Default$$Assignment::=$$org.apache.commons.math.stat.Frequency#397:1101:0.4472
+Insert Before$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#316:1:0.4472
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.Frequency#316:2:0.4472
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#316:253:0.4472
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#316:1116:0.4472
+Insert After$$Modifier::private$$org.apache.commons.math.stat.Frequency#541:1:0.4472
+Insert Before$$Modifier::static$$org.apache.commons.math.stat.Frequency#541:1:0.4472
+Insert After$$TypeParameter::null$$org.apache.commons.math.stat.Frequency#541:1:0.4472
+Insert After$$Modifier::static$$org.apache.commons.math.stat.Frequency#541:3:0.4472
+Default$$SimpleType::Comparator$$org.apache.commons.math.stat.Frequency#541:3:0.4472
+Insert Before$$ParameterizedType::null$$org.apache.commons.math.stat.Frequency#541:4:0.4472
+Default$$Modifier::private$$org.apache.commons.math.stat.Frequency#541:8:0.4472
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#541:66:0.4472
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#541:66:0.4472
+Default$$SimpleType::T$$org.apache.commons.math.stat.Frequency#541:86:0.4472
+Insert After$$SimpleType::T$$org.apache.commons.math.stat.Frequency#541:86:0.4472
+Default$$ParameterizedType::null$$org.apache.commons.math.stat.Frequency#541:86:0.4472
+Default$$SimpleType::T$$org.apache.commons.math.stat.Frequency#541:86:0.4472
+Insert After$$SimpleType::T$$org.apache.commons.math.stat.Frequency#541:86:0.4472
+Insert Before$$SimpleName::result$$org.apache.commons.math.stat.Frequency#392:1:0.4472
+Default$$PrimitiveType::long$$org.apache.commons.math.stat.Frequency#392:9:0.4472
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#392:253:0.4472
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#392:1116:0.4472
+Default$$SimpleName::c$$org.apache.commons.math.stat.Frequency#390:2:0.4472
+Default$$SimpleType::NaturalComparator$$org.apache.commons.math.stat.Frequency#390:44:0.4472
+Default$$ClassInstanceCreation::null$$org.apache.commons.math.stat.Frequency#390:624:0.4472
+Default$$Assignment::=$$org.apache.commons.math.stat.Frequency#390:1101:0.4472
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#396:6:0.4472
+Default$$InfixExpression::!=$$org.apache.commons.math.stat.Frequency#396:25:0.4472
+Default$$SimpleName::value$$org.apache.commons.math.stat.Frequency#396:44:0.4472
+Insert Before$$SimpleName::value$$org.apache.commons.math.stat.Frequency#396:123:0.4472
+Default$$Block::null$$org.apache.commons.math.stat.Frequency#396:166:0.4472
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#389:3:0.4472
+Default$$SimpleName::c$$org.apache.commons.math.stat.Frequency#389:44:0.4472
+Insert Before$$SimpleName::c$$org.apache.commons.math.stat.Frequency#389:123:0.4472
+Insert After$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#317:4:0.4472
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#317:4:0.4472
+Default$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#317:115:0.4472
+Insert Before$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#317:123:0.4472
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#317:235:0.4472
+Default$$SimpleType::Integer$$org.apache.commons.math.stat.Frequency#385:6:0.4472
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#385:8:0.4472
+Insert Before$$SimpleName::count$$org.apache.commons.math.stat.Frequency#249:1:0.4082
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.stat.Frequency#249:3:0.4082
+Default$$SimpleType::Long$$org.apache.commons.math.stat.Frequency#249:41:0.4082
+Default$$SimpleName::get$$org.apache.commons.math.stat.Frequency#249:46:0.4082
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#249:466:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#249:527:0.4082
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#249:1040:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#249:1116:0.4082
+Insert Before$$SimpleName::iterator$$org.apache.commons.math.stat.Frequency#216:1:0.4082
+Default$$SimpleName::iterator$$org.apache.commons.math.stat.Frequency#216:11:0.4082
+Default$$SimpleName::values$$org.apache.commons.math.stat.Frequency#216:62:0.4082
+Default$$SimpleType::Iterator$$org.apache.commons.math.stat.Frequency#216:66:0.4082
+Default$$SimpleType::Long$$org.apache.commons.math.stat.Frequency#216:86:0.4082
+Insert After$$SimpleType::Long$$org.apache.commons.math.stat.Frequency#216:86:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#216:466:0.4082
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#216:466:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#216:1116:0.4082
+Default$$SimpleName::hasNext$$org.apache.commons.math.stat.Frequency#217:62:0.4082
+Default$$SimpleName::iterator$$org.apache.commons.math.stat.Frequency#217:466:0.4082
+Insert Before$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#491:1:0.4082
+Insert Before$$Modifier::final$$org.apache.commons.math.stat.Frequency#491:2:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#491:253:0.4082
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#491:1116:0.4082
+Insert After$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#382:4:0.4082
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#382:7:0.4082
+Insert Before$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#382:9:0.4082
+Insert Before$$SimpleName::result$$org.apache.commons.math.stat.Frequency#215:1:0.4082
+Default$$PrimitiveType::long$$org.apache.commons.math.stat.Frequency#215:9:0.4082
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.stat.Frequency#215:31:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#215:253:0.4082
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#215:1116:0.4082
+Insert Before$$SimpleName::result$$org.apache.commons.math.stat.Frequency#247:1:0.4082
+Default$$PrimitiveType::long$$org.apache.commons.math.stat.Frequency#247:9:0.4082
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#247:253:0.4082
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#247:1116:0.4082
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#250:6:0.4082
+Default$$InfixExpression::!=$$org.apache.commons.math.stat.Frequency#250:25:0.4082
+Default$$SimpleName::count$$org.apache.commons.math.stat.Frequency#250:44:0.4082
+Insert Before$$SimpleName::count$$org.apache.commons.math.stat.Frequency#250:123:0.4082
+Default$$Block::null$$org.apache.commons.math.stat.Frequency#250:166:0.4082
+Insert After$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#492:4:0.4082
+Insert After$$Block::null$$org.apache.commons.math.stat.Frequency#492:4:0.4082
+Default$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#492:115:0.4082
+Insert Before$$SimpleName::sumFreq$$org.apache.commons.math.stat.Frequency#492:123:0.4082
+Default$$NumberLiteral::0$$org.apache.commons.math.stat.Frequency#492:235:0.4082
+Default$$SimpleName::result$$org.apache.commons.math.stat.Frequency#220:590:0.4082
+Default$$SimpleName::result$$org.apache.commons.math.stat.Frequency#256:590:0.4082
+Default$$SimpleType::Integer$$org.apache.commons.math.stat.Frequency#244:6:0.4082
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#244:8:0.4082
+Default$$SimpleName::addValue$$org.apache.commons.math.stat.Frequency#158:1:0.3780
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#158:46:0.3780
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#158:466:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#158:1040:0.3780
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#158:1040:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#158:1531:0.3780
+Default$$SimpleName::obj$$org.apache.commons.math.stat.Frequency#140:3:0.3780
+Default$$SimpleName::valueOf$$org.apache.commons.math.stat.Frequency#140:6:0.3780
+Default$$SimpleName::put$$org.apache.commons.math.stat.Frequency#140:46:0.3780
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#140:466:0.3780
+Default$$SimpleName::Long$$org.apache.commons.math.stat.Frequency#140:466:0.3780
+Default$$NumberLiteral::1$$org.apache.commons.math.stat.Frequency#140:1040:0.3780
+Insert Before$$SimpleName::count$$org.apache.commons.math.stat.Frequency#138:1:0.3780
+Insert Before$$VariableDeclarationStatement::null$$org.apache.commons.math.stat.Frequency#138:3:0.3780
+Default$$SimpleType::Long$$org.apache.commons.math.stat.Frequency#138:41:0.3780
+Default$$SimpleName::get$$org.apache.commons.math.stat.Frequency#138:46:0.3780
+Default$$SimpleName::freqTable$$org.apache.commons.math.stat.Frequency#138:466:0.3780
+Default$$VariableDeclarationFragment::null$$org.apache.commons.math.stat.Frequency#138:527:0.3780
+Default$$SimpleName::obj$$org.apache.commons.math.stat.Frequency#138:1040:0.3780
+Default$$MethodInvocation::null$$org.apache.commons.math.stat.Frequency#138:1116:0.3780
+Insert After$$WildcardType::null$$org.apache.commons.math.stat.Frequency#133:1:0.3780
+Insert Before$$SimpleName::obj$$org.apache.commons.math.stat.Frequency#133:1:0.3780
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#133:3:0.3780
+Default$$WildcardType::null$$org.apache.commons.math.stat.Frequency#133:86:0.3780
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#133:1116:0.3780
+Default$$SimpleName::count$$org.apache.commons.math.stat.Frequency#139:44:0.3780
+Insert Before$$SimpleName::count$$org.apache.commons.math.stat.Frequency#139:123:0.3780
+Default$$SimpleType::Integer$$org.apache.commons.math.stat.Frequency#134:6:0.3780
+Default$$SimpleName::v$$org.apache.commons.math.stat.Frequency#134:8:0.3780
+Default$$SimpleType::TreeMap$$org.apache.commons.math.stat.Frequency#60:1:0.3536
+Insert After$$WildcardType::null$$org.apache.commons.math.stat.Frequency#60:1:0.3536
+Default$$SimpleType::Comparable$$org.apache.commons.math.stat.Frequency#60:3:0.3536
+Default$$ParameterizedType::null$$org.apache.commons.math.stat.Frequency#60:9:0.3536
+Default$$WildcardType::null$$org.apache.commons.math.stat.Frequency#60:86:0.3536
+Insert After$$SimpleType::Long$$org.apache.commons.math.stat.Frequency#60:86:0.3536
+Insert After$$Modifier::public$$org.apache.commons.math.stat.Frequency#59:4:0.3536
+Default$$Modifier::public$$org.apache.commons.math.stat.Frequency#59:10:0.3536
+Insert Before$$Modifier::public$$org.apache.commons.math.stat.Frequency#59:15:0.3536

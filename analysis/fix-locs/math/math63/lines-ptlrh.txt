@@ -1,0 +1,4 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#417:1:1.0000
+Insert After$$SimpleName::x$$org.apache.commons.math.util.MathUtils#417:4:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.math.util.MathUtils#417:7:1.0000

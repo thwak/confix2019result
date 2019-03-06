@@ -1,0 +1,26 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert Before$$ReturnStatement::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1793:18:1.0000
+Default$$SimpleName::result$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1793:590:1.0000
+Default$$ReturnStatement::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1793:1101:1.0000
+Insert Before$$SimpleName::dataset$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1796:1:0.1622
+Default$$SimpleName::plot$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1796:1:0.1622
+Default$$SimpleName::getDataset$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1796:1:0.1622
+Default$$ThisExpression::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1796:13:0.1622
+Default$$FieldAccess::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1796:466:0.1622
+Default$$SimpleName::index$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1796:1040:0.1622
+Insert Before$$SimpleName::index$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1795:1:0.1622
+Default$$SimpleName::plot$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1795:1:0.1622
+Default$$ThisExpression::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1795:13:0.1622
+Default$$FieldAccess::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1795:466:0.1622
+Default$$ThisExpression::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1795:1040:0.1622
+Insert Before$$SimpleName::result$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1791:1:0.1622
+Default$$SimpleType::LegendItemCollection$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1791:16:0.1622
+Insert Before$$VariableDeclarationStatement::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1791:21:0.1622
+Default$$SimpleType::LegendItemCollection$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1791:44:0.1622
+Default$$VariableDeclarationFragment::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1791:527:0.1622
+Default$$ClassInstanceCreation::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1791:1116:0.1622
+Insert Before$$ReturnStatement::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1798:18:0.1622
+Default$$SimpleName::result$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1798:590:0.1622
+Default$$ReturnStatement::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1798:1101:0.1622
+Insert After$$Block::null$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1797:9:0.1622
+Default$$InfixExpression::!=$$org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1797:44:0.1622

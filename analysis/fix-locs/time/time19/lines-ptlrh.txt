@@ -1,0 +1,5 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Insert After$$NumberLiteral::0$$org.joda.time.DateTimeZone#900:4:0.0373
+Default$$SimpleName::offsetLocal$$org.joda.time.DateTimeZone#900:115:0.0373
+Insert Before$$SimpleName::offsetLocal$$org.joda.time.DateTimeZone#900:123:0.0373
+Default$$NumberLiteral::0$$org.joda.time.DateTimeZone#900:235:0.0373

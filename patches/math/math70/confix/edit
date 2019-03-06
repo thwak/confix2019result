@@ -1,0 +1,14 @@
+Class:org.apache.commons.math.analysis.solvers.BisectionSolver
+insert
+f
+at Insert Before
+SimpleName::min
+org.apache.commons.math.analysis.solvers.BisectionSolver:72
+Context:P:MethodInvocation{arguments},L:{42},R:{42}
+Applied Change
+insert
+var0
+from
+collections-a3b3b74:src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java:::
+611
+P:MethodInvocation{arguments},L:{42},R:{42}

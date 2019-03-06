@@ -1,0 +1,14 @@
+--- ../result-tf-hash/closure/closure83/buggy/com/google/javascript/jscomp/CommandLineRunner.java	2019-02-22 09:03:18.301221612 +0000
++++ ../result-tf-hash/closure/closure83/human/com/google/javascript/jscomp/CommandLineRunner.java	2019-02-22 09:03:18.309221645 +0000
+@@ -331,7 +331,10 @@
+ 
+       @Override
+       public int parseArguments(Parameters params) throws CmdLineException {
+-        String param = params.getParameter(0);
++        String param = null;
++        try {
++          param = params.getParameter(0);
++        } catch (CmdLineException e) {}
+ 
+         if (param == null) {
+           setter.addValue(true);

@@ -1,0 +1,108 @@
+LocKind$$Loc$$Class#Line:Freq:Score
+Default$$SimpleName::append$$org.apache.commons.lang.WordUtils#632:5:1.0000
+Default$$SimpleName::defaultString$$org.apache.commons.lang.WordUtils#632:46:1.0000
+Insert Before$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#632:267:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#632:466:1.0000
+Default$$SimpleName::StringUtils$$org.apache.commons.lang.WordUtils#632:466:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#632:1040:1.0000
+Default$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#632:1040:1.0000
+Insert After$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#632:1040:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#632:1101:1.0000
+Default$$SimpleName::append$$org.apache.commons.lang.WordUtils#636:5:1.0000
+Default$$SimpleName::defaultString$$org.apache.commons.lang.WordUtils#636:46:1.0000
+Insert Before$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#636:267:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#636:466:1.0000
+Default$$SimpleName::StringUtils$$org.apache.commons.lang.WordUtils#636:466:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#636:1040:1.0000
+Default$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#636:1040:1.0000
+Insert After$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#636:1040:1.0000
+Default$$SimpleName::append$$org.apache.commons.lang.WordUtils#639:5:1.0000
+Default$$SimpleName::defaultString$$org.apache.commons.lang.WordUtils#639:46:1.0000
+Insert Before$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#639:267:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#639:466:1.0000
+Default$$SimpleName::StringUtils$$org.apache.commons.lang.WordUtils#639:466:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#639:1040:1.0000
+Default$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#639:1040:1.0000
+Insert After$$SimpleName::appendToEnd$$org.apache.commons.lang.WordUtils#639:1040:1.0000
+Default$$SimpleName::append$$org.apache.commons.lang.WordUtils#635:1:1.0000
+Default$$SimpleName::substring$$org.apache.commons.lang.WordUtils#635:6:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#635:52:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.WordUtils#635:267:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#635:466:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#635:466:1.0000
+Default$$SimpleName::append$$org.apache.commons.lang.WordUtils#638:1:1.0000
+Default$$SimpleName::substring$$org.apache.commons.lang.WordUtils#638:6:1.0000
+Default$$SimpleName::index$$org.apache.commons.lang.WordUtils#638:52:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.WordUtils#638:267:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#638:466:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#638:466:1.0000
+Default$$SimpleName::append$$org.apache.commons.lang.WordUtils#629:1:1.0000
+Default$$SimpleName::substring$$org.apache.commons.lang.WordUtils#629:6:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#629:52:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.WordUtils#629:267:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#629:466:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#629:466:1.0000
+Insert Before$$SimpleName::index$$org.apache.commons.lang.WordUtils#627:1:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#627:32:1.0000
+Default$$SimpleName::indexOf$$org.apache.commons.lang.WordUtils#627:46:1.0000
+Default$$SimpleName::lower$$org.apache.commons.lang.WordUtils#627:107:1.0000
+Default$$StringLiteral::" "$$org.apache.commons.lang.WordUtils#627:267:1.0000
+Default$$SimpleName::StringUtils$$org.apache.commons.lang.WordUtils#627:466:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#619:12:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang.WordUtils#619:62:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#619:466:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#619:624:1.0000
+Default$$Assignment::=$$org.apache.commons.lang.WordUtils#619:1101:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.WordUtils#618:6:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#618:11:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#618:14:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#618:61:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang.WordUtils#618:62:1.0000
+Insert Before$$SimpleName::upper$$org.apache.commons.lang.WordUtils#618:123:1.0000
+Insert Before$$SimpleName::upper$$org.apache.commons.lang.WordUtils#618:123:1.0000
+Default$$PrefixExpression::-$$org.apache.commons.lang.WordUtils#618:235:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#618:235:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#618:466:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.WordUtils#631:1:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#631:14:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#631:61:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang.WordUtils#631:62:1.0000
+Insert Before$$SimpleName::upper$$org.apache.commons.lang.WordUtils#631:123:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#631:235:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#631:466:1.0000
+Default$$SimpleName::toString$$org.apache.commons.lang.WordUtils#641:62:1.0000
+Default$$SimpleName::result$$org.apache.commons.lang.WordUtils#641:466:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#641:590:1.0000
+Insert After$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#610:1:1.0000
+Insert After$$NumberLiteral::0$$org.apache.commons.lang.WordUtils#610:4:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.WordUtils#610:4:1.0000
+Default$$NumberLiteral::0$$org.apache.commons.lang.WordUtils#610:60:1.0000
+Insert Before$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#610:61:1.0000
+Default$$SimpleName::length$$org.apache.commons.lang.WordUtils#610:62:1.0000
+Default$$MethodInvocation::null$$org.apache.commons.lang.WordUtils#610:115:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#610:466:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#623:25:1.0000
+Default$$SimpleName::lower$$org.apache.commons.lang.WordUtils#623:624:1.0000
+Default$$Assignment::=$$org.apache.commons.lang.WordUtils#623:1101:1.0000
+Insert Before$$SimpleName::result$$org.apache.commons.lang.WordUtils#626:1:1.0000
+Default$$SimpleType::StringBuffer$$org.apache.commons.lang.WordUtils#626:16:1.0000
+Default$$SimpleType::StringBuffer$$org.apache.commons.lang.WordUtils#626:44:1.0000
+Default$$VariableDeclarationFragment::null$$org.apache.commons.lang.WordUtils#626:527:1.0000
+Default$$ClassInstanceCreation::null$$org.apache.commons.lang.WordUtils#626:1116:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang.WordUtils#608:3:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.lang.WordUtils#608:1101:1.0000
+Insert Before$$ReturnStatement::null$$org.apache.commons.lang.WordUtils#611:2:1.0000
+Default$$QualifiedName::StringUtils.EMPTY$$org.apache.commons.lang.WordUtils#611:590:1.0000
+Default$$ReturnStatement::null$$org.apache.commons.lang.WordUtils#611:1101:1.0000
+Insert Before$$IfStatement::null$$org.apache.commons.lang.WordUtils#607:3:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.WordUtils#607:4:1.0000
+Default$$InfixExpression::==$$org.apache.commons.lang.WordUtils#607:27:1.0000
+Default$$SimpleName::str$$org.apache.commons.lang.WordUtils#607:44:1.0000
+Default$$Block::null$$org.apache.commons.lang.WordUtils#607:99:1.0000
+Insert Before$$SimpleName::str$$org.apache.commons.lang.WordUtils#607:123:1.0000
+Insert After$$SimpleName::upper$$org.apache.commons.lang.WordUtils#622:4:1.0000
+Insert After$$Block::null$$org.apache.commons.lang.WordUtils#622:7:1.0000
+Insert After$$SimpleName::lower$$org.apache.commons.lang.WordUtils#622:17:1.0000
+Default$$SimpleName::upper$$org.apache.commons.lang.WordUtils#622:123:1.0000
+Insert Before$$SimpleName::upper$$org.apache.commons.lang.WordUtils#622:123:1.0000
+Default$$SimpleName::lower$$org.apache.commons.lang.WordUtils#622:235:1.0000

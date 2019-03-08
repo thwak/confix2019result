@@ -1,3 +1,23 @@
+ConFix generated patches and their information.  
+
+For each bug, differences between buggy code and human-written/ConFix-generated are given.  
+For each ConFix patch, the following information is also presented.  
+
+Assessment of patches - **Correct** or **Incorrect**  
+For **Correct** patches, we explained the reason why they are considered correct.
+
+```
+Seed - a seed value used to generated the patch  
+PTLRH/PLRT - pool names (context types) used to generate the patch  
+PatchNum:n - the patch is n-th candidate  
+Time - execution time to generate the patch  
+CompileError - the number of candidates with compile errors until the patch was generated  
+TestFailure - the number of candidates with test failures until the patch was generated
+Concretize - Concretization method used to the generate patch.
+```
+
+# Patches and Information
+
 # Chart
 
 ## chart1
@@ -18,6 +38,9 @@
          int seriesCount = dataset.getRowCount();
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch. 
 
 ```
 Seed:62
@@ -60,6 +83,8 @@ Concretize:hash-local
              for (int index = start; index <= end; index++) {
 ```
 ### ConFix
+
+**Incorrect**  
 
 ```
 Seed:16
@@ -111,6 +136,8 @@ Concretize:neighbors
                  overwritten = (XYDataItem) existing.clone();
 ```
 ### ConFix
+
+**Incorrect**  
 
 ```
 Seed:37
@@ -165,6 +192,8 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Incorrect**  
+
 ```
 Seed:31
 PTLRH
@@ -215,6 +244,8 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Incorrect**  
+
 ```
 Seed:45
 PLRT
@@ -256,6 +287,9 @@ Concretize:neighbors
  
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch. 
 
 ```
 Seed:4
@@ -299,6 +333,12 @@ Concretize:hash-package
 ```
 ### ConFix
 
+**Correct**  
+Semantically equivalent to human patch.  
+Human patch updates a variable `p1` to `p2`, so that `iterator2` contains the path iterator of `p2`.  
+ConFix patch also updates `p1` to `p2`, but for `iterator1`.  
+Since remaining code simply compares `iterator1` and `iterator2`, swapping these two produces the same results.  
+
 ```
 Seed:5
 PTLRH
@@ -337,6 +377,9 @@ Concretize:neighbors
 ```
 ```
 ### ConFix
+
+**Incorrect**  
+Fixed a completely different file, hence no corresponding human patch.
 
 ```
 Seed:49
@@ -380,6 +423,8 @@ Concretize:neighbors
 ```
 ### ConFix
 
+**Incorrect**  
+
 ```
 Seed:71
 PTLRH
@@ -418,6 +463,9 @@ Concretize:hash-local
 ```
 ```
 ### ConFix
+
+**Incorrect**  
+Fixed a completely different file, hence no corresponding human patch.
 
 ```
 Seed:86
@@ -461,6 +509,9 @@ Concretize:neighbors
      }
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch. 
 
 ```
 Seed:87
@@ -561,6 +612,8 @@ Concretize:neighbors
 ```
 ### ConFix
 
+**Incorrect**  
+
 ```
 Seed:0
 PTLRH
@@ -591,6 +644,9 @@ Concretize:neighbors
 ```
 ```
 ### ConFix
+
+**Incorrect**  
+Fixed a completely different file, hence no corresponding human patch.  
 
 ```
 Seed:33
@@ -641,6 +697,8 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Incorrect**  
+
 ```
 Seed:44
 PTLRH
@@ -682,6 +740,9 @@ Concretize:neighbors,local+members
            return computeFollowNode(fromNode, parent, cfa);
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch. 
 
 ```
 Seed:68
@@ -877,6 +938,12 @@ Concretize:neighbors,global
 ```
 ### ConFix
 
+**Correct**  
+Human patch adds one more condition `negativeZero` which is `true` if `x` is negative zero `-0`.    
+ConFix patch modifies `x < 0` to `x < +1`, which is `true` if `x` is either `+0` or `-0`.   
+However, when `prev == '-'`, `x` cannot be `+0`.  
+Hence `x < +1` is equivalent to `x < 0 || negativeZero` at this if condition.
+
 ```
 Seed:74
 PTLRH
@@ -1048,6 +1115,10 @@ Concretize:hash-local
                // Other characters can be misinterpreted by some js parsers,
 ```
 ### ConFix
+
+**Correct**  
+Human patch replaces the condition `c <= 0x7f` with `c < 0x7f`.  
+ConFix patch inserts the same new condition `c < 0x7f`, which masks `c <= 0x7f`, hence it is an equivalent condition.  
 
 ```
 Seed:19
@@ -1260,6 +1331,9 @@ Concretize:neighbors,local+members
 ```
 ### ConFix
 
+**Correct**  
+Identical to human patch.  
+
 ```
 Seed:51
 PTLRH
@@ -1301,6 +1375,9 @@ Concretize:hash-local
              compiler.getNodeForCodeInsertion(minimumModule)
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch.  
 
 ```
 Seed:28
@@ -1413,6 +1490,11 @@ Concretize:neighbors
    /**
 ```
 ### ConFix
+
+**Correct**  
+Based on comments of the code, `parseContextTypeExpression` should parse two cases - `ContextTypeExpression := BasicTypeExpression | '?'`  
+ConFix patch calls `parseTypeExpression(token)`, which parses six different cases of expressions including two cases.  
+Hence calling `parseTypeExpression(token)` has the same effect as the inserted statements in human patch.  
 
 ```
 Seed:70
@@ -1633,6 +1715,9 @@ Concretize:neighbors
 ```
 ### ConFix
 
+**Correct**  
+Identical to human patch.  
+
 ```
 Seed:73
 PTLRH
@@ -1789,6 +1874,9 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Correct**  
+Identical to human patch.  
+
 ```
 Seed:47
 PLRT
@@ -1830,6 +1918,9 @@ Concretize:neighbors,local+members
      }
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch.  
 
 ```
 Seed:89
@@ -2122,6 +2213,10 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Correct**  
+Human patch directly returns false.  
+ConFix patch inserts `break` instead, but the next executed statement after `break` is `return false`, hence it is equivalent.  
+
 ```
 Seed:47
 PLRT
@@ -2162,6 +2257,9 @@ Concretize:hash-local
      //-----------------------------------------------------------------------
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch.  
 
 ```
 Seed:89
@@ -2463,6 +2561,9 @@ Concretize:hash-local
          if (isInfinite) {
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch.  
 
 ```
 Seed:96
@@ -2894,6 +2995,10 @@ Concretize:neighbors
 ```
 ### ConFix
 
+**Correct**  
+The issue is the overflow of `n1n2prod * (n1 + n2 + 1)`, when it is compated as `int`.  
+By casting `n1` to `double`, `n1n2prod * (n1 + n2 + 1)` is computed as `double`, hence `VarU` has the correct value. 
+
 ```
 Seed:79
 PTLRH
@@ -2967,6 +3072,9 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Correct**  
+Identical to human patch.  
+
 ```
 Seed:75
 PTLRH
@@ -3015,6 +3123,10 @@ Concretize:hash-local
  }
 ```
 ### ConFix
+
+**Correct**  
+Human patch calls `getChromosomes()`, which simply returns `Collections.unmodifiableList(chromosomes)`.
+Hence ConFix patch is equivalent to human patch. 
 
 ```
 Seed:19
@@ -3597,6 +3709,9 @@ Concretize:hash-local
 ```
 ### ConFix
 
+**Correct**  
+Identical to human patch.  
+
 ```
 Seed:3
 PTLRH
@@ -3685,6 +3800,9 @@ Concretize:neighbors
      /**
 ```
 ### ConFix
+
+**Correct**  
+Identical to human patch.  
 
 ```
 Seed:22
@@ -4524,6 +4642,9 @@ Concretize:hash-local
                  int offsetPrev = getOffset(prev);
 ```
 ### ConFix
+
+**Correct**  
+The two if conditions `offsetLocal >= 0` and `offsetLocal > -1` are equivalent, since `offsetLocal` is an integer.   
 
 ```
 Seed:97

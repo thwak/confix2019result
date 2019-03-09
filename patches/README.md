@@ -1,7 +1,8 @@
 ConFix generated patches and their information.  
 
 For each bug, differences between buggy code and human-written/ConFix-generated are given.  
-For each ConFix patch, the following information is also presented.  
+Difference is only given for a file which ConFix modified.  
+Hence if ConFix modified a different file from human-written patch, there is no change shown for human patch.  
 
 Assessment of patches - **Correct** or **Incorrect**  
 For **Correct** patches, we explained the reason why they are considered correct.

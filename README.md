@@ -1,6 +1,7 @@
 ## ConFix 2019 Experiment Results
-`patches` directory contains Human and ConFix patches.
-`analysis` contains information related to ConFix's strategy analysis.
+`patches` directory contains Human and ConFix patches.  
+`analysis` contains information related to ConFix's strategy analysis.  
+For ConFix source code, please check https://github.com/thwak/ConFix  
 
 Directories and files in `patches` have the following structure.
 > - project

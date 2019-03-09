@@ -102,8 +102,8 @@ Here is one correct patch that we assessed as incorrect.
 ### Human
 
 ```
---- src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java	2016-05-15 19:11:53.000000000 +0900
-+++ ../math65f/src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java	2016-05-15 19:11:57.000000000 +0900
+--- org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
++++ org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
 @@ -237,12 +237,7 @@
       * @return RMS value
       */
@@ -134,7 +134,9 @@ Here is one correct patch that we assessed as incorrect.
 ```
 --- original/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
 +++ fixed/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
-@@ -255,7 +255,7 @@ public abstract class AbstractLeastSquaresOptimizer implements DifferentiableMul         double chiSquare = 0;
+@@ -255,7 +255,7 @@ 
+public abstract class AbstractLeastSquaresOptimizer implements DifferentiableMul         
+         double chiSquare = 0;
          for (int i = 0; i < rows; ++i) {
              final double residual = residuals[i];
 -            chiSquare += residual * residual / residualsWeights[i];
@@ -285,8 +287,8 @@ Since SimFix patch merely avoids executing `mant=str.substring(0, expPos)` only 
 ### Human
 
 ```
---- org/apache/commons/lang/ClassUtils.java	2016-05-15 18:06:29.000000000 +0900
-+++ org/apache/commons/lang/ClassUtils.java	2016-05-15 18:06:35.000000000 +0900
+--- org/apache/commons/lang/ClassUtils.java
++++ org/apache/commons/lang/ClassUtils.java
 @@ -188,10 +188,23 @@
              return StringUtils.EMPTY;
          }
@@ -366,8 +368,8 @@ SimFix patch only updates method `getShortClassName()` to `getShortCanonicalName
 ### Human 
 
 ```
---- src/java/org/apache/commons/lang/time/FastDateFormat.java	2016-05-15 18:11:12.000000000 +0900
-+++ ../lang50f/src/java/org/apache/commons/lang/time/FastDateFormat.java	2016-05-15 18:11:19.000000000 +0900
+--- org/apache/commons/lang/time/FastDateFormat.java
++++ org/apache/commons/lang/time/FastDateFormat.java
 @@ -282,16 +282,14 @@
              key = new Pair(key, timeZone);
          }
@@ -573,8 +575,8 @@ Hence if we only consider the first patch, it is incorrect.
 ### Human 
 
 ```
---- org/apache/commons/math/linear/BigMatrixImpl.java	2016-05-15 19:16:50.000000000 +0900
-+++ org/apache/commons/math/linear/BigMatrixImpl.java	2016-05-15 19:16:54.000000000 +0900
+--- org/apache/commons/math/linear/BigMatrixImpl.java
++++ org/apache/commons/math/linear/BigMatrixImpl.java
 @@ -988,7 +988,7 @@
          }
          final int nRows = this.getRowDimension();
@@ -584,8 +586,8 @@ Hence if we only consider the first patch, it is incorrect.
          for (int row = 0; row < nRows; row++) {
              BigDecimal sum = ZERO;
              for (int i = 0; i < nCols; i++) {
---- org/apache/commons/math/linear/RealMatrixImpl.java	2016-05-15 19:16:50.000000000 +0900
-+++ org/apache/commons/math/linear/RealMatrixImpl.java	2016-05-15 19:16:54.000000000 +0900
+--- org/apache/commons/math/linear/RealMatrixImpl.java
++++ org/apache/commons/math/linear/RealMatrixImpl.java
 @@ -776,7 +776,7 @@
          if (v.length != nCols) {
              throw new IllegalArgumentException("vector has wrong length");

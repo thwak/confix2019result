@@ -1,8 +1,16 @@
 ## ConFix 2019 Experiment Results
 `patches` directory contains Human and ConFix patches.  
 `analysis` contains information related to ConFix's strategy analysis.  
-For ConFix source code, please check https://github.com/thwak/ConFix  
+`coverage.tar.gz` contains `coverage-info.obj` files for Defects4j bugs used for experiments.  
+`analysis` contains information related to ConFix's strategy analysis.  
+For ConFix source code, please check [here](https://github.com/thwak/ConFix).
 
+`pool` contains PTLRH and PLRT change pools used for experiments.  
+Files are splitted due to GitHub's file size limitation.  
+You can use following command to unarchive files.  
+`cat pool.tar.gz.* | tar xz` 
+
+`patches` directory contains Human and ConFix patches.
 Directories and files in `patches` have the following structure.
 > - project
 >   - bugname

@@ -1,7 +1,7 @@
 We provide a sample - Chart 10 Bug of Defects4j - for ConFix execution to replicate our experiments.  
 
 ## Requirements
-Java 1.7
+Java - 1.7   
 [Defects4j](http://defects4j.org) installed.
 
 ## How to Run ConFix on The Sample.

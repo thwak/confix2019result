@@ -27,18 +27,18 @@ If you're running ConFix on Amazon EC2, you can use seed values in our results t
 Remind that the same seed value leads an execution differently on the different machine (e.g. on OS X or Windows).  
 
 Fix Location Identification. 
-`patch.strategy`
+`patch.strategy`   
 `noctx` - Using only SBFL technique for fix locations.
 `flfreq` - FLFreq strategy using SBFL + Context Frequency.
 
 Change Concretization.  
-`concretize.strategy`
+`concretize.strategy`   
 `tc` - Using Type-Compatibile method. 
 `neighbor` - Using TC method with three ranges of identifiers:neighbor, local, global. 
 `hash-match` - Using Hash Match method + `neighbor`.  
 
 SBFL technique.  
-`fl.metric`
+`fl.metric`    
 `jaccard` - Compute suspiciousness with Jaccard.  
 `tarantula` - Compute suspiciousness with Tarantula.  
 `ochiai` - Compute suspiciousness with Ochiai. 
@@ -51,8 +51,8 @@ Here is an example of Lang 1 Bug.
 Run `defects4j checkout -p Lang -v 1b -w lang1b` to check out.  
 
 Then compile classes and tests.  
-`cd lang1b`
-`defects4j compile`
+`cd lang1b`  
+`defects4j compile`   
 
 After that you need to create `confix.properties` and `tests.*` for configuration.  
 Run `../config.sh .` or `confix.sh lang1b` in `replication` directory.  

@@ -24,7 +24,7 @@ Here are some possible options for configurations.
 Seed
 `seed` controls random feature of ConFix.  
 If you're running ConFix on Amazon EC2, you can use seed values in our results to replicate the same execution.  
-Remind that the same seed value leads an execution differently on the different machine (e.g. onOS X or Windows).  
+Remind that the same seed value leads an execution differently on the different machine (e.g. on OS X or Windows).  
 
 Fix Location Identification. 
 `patch.strategy`
@@ -45,21 +45,20 @@ SBFL technique.
 
 ## Run ConFix on other Defects4j Bugs.
 
-To run ConFix on other Defects4j bugs, you first need to check out a bug. 
-
+To run ConFix on other Defects4j bugs, you first need to check out a bug.  
 Here is an example of Lang 1 Bug.  
 
-Run `defects4j checkout -p Lang -v 1b -w lang1b` to check out.
+Run `defects4j checkout -p Lang -v 1b -w lang1b` to check out.  
 
-Then compile classes and tests.
+Then compile classes and tests.  
 `cd lang1b`
 `defects4j compile`
 
 After that you need to create `confix.properties` and `tests.*` for configuration.  
 Run `../config.sh .` or `confix.sh lang1b` in `replication` directory.  
 
-Lastly, copy `coverage-info.obj` and `confix.sh` to the bug directory `lang1b`. 
-You can get `coverage-info.obj` by unarchive `coverage.tar.gz` in the repository, and find corresponding directory for a bug.  `confix.sh` can be copied from the sample `chart10b`.  
+Lastly, copy `coverage-info.obj` and `confix.sh` to the bug directory `lang1b`.  
+You can get `coverage-info.obj` by unarchive `coverage.tar.gz` in the repository, and find corresponding directory for a bug.    `confix.sh` can be copied from the sample `chart10b`.  
 
 Now you can run ConFix in `lang1b`.  
 

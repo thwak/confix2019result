@@ -4,7 +4,7 @@
 `coverage.tar.gz` contains `coverage-info.obj` files for Defects4j bugs used for experiments.  
 `analysis` contains information related to ConFix's strategy analysis.  
 
-For ConFix source code, please check [here](https://github.com/thwak/ConFix).
+For ConFix source code, please check [here](https://github.com/thwak/ConFix).  
 Note that code can be updated from the version we used for experiments.  
 For replication, we provide a binary and a sample in `replication` directory.  
 

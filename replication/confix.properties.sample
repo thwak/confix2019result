@@ -1,0 +1,12 @@
+jvm=/usr/bin/java
+version=1.7
+pool.path=../../pool/ptlrh,../../pool/plrt
+cp.lib=../lib/confix-ami.jar
+patch.count=20000
+max.change.count=25
+max.trials=5
+timeout=30
+patch.strategy=tested-first
+concretize.strategy=hash-match
+fl.metric=ochiai
+

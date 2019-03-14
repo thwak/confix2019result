@@ -21,12 +21,12 @@ We assume that Defects4j has been installed on `/data/defects4j`, and this repos
 If you want to try different patch generation strategies or configuration, modify `confix.properties`.  
 Here are some possible options for configurations.
 
-Seed
+Seed  
 `seed` controls random feature of ConFix.  
 If you're running ConFix on Amazon EC2, you can use seed values in our results to replicate the same execution.  
-Remind that the same seed value leads an execution differently on the different machine (e.g. on OS X or Windows).  
+Remind that the same seed value leads an execution differently on different machines (e.g. on OS X or Windows).  
 
-Fix Location Identification. 
+Fix Location Identification.  
 `patch.strategy`   
 `noctx` - Using only SBFL technique for fix locations.
 `flfreq` - FLFreq strategy using SBFL + Context Frequency.

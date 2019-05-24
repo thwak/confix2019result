@@ -25,8 +25,18 @@ However, these information can be also accessed outside ConFix by following meth
 ### Using Coverage Information.  
 
 As mentioned above, you can simply use `ObjectInputStream` to read `coverage-info.obj` files as `CoverageManager` class instance.  
-In your Java code, import `com.github.thwak.confix.coverage.CoverageManager` class which can be obtained from [ConFix](https://github.com/thwak/ConFix) implmentation.  
-For supported functionalities, please refer to the actual implementation.  
+In your Java code, import `com.github.thwak.confix.coverage.CoverageManager` class which can be obtained from [ConFix](https://github.com/thwak/ConFix) implmentation, and read `.obj` file as an instance.  
+To obtained a list of covered lines, you can use `computeScore()` method like the following.  
+
+```
+CoverageManager manager;
+//Read .obj file
+List<CoveredLine> lines = manager.computeScore("ochiai");
+```
+
+This will return a list sorted in descending order of FL scores computed by Ochiai, and each `CoveredLine` in the returned list contains class name, line number, and computed FL score.  
+
+For more supported functionalities, please refer to the actual implementation.  
 
 ### Using Collected Human-written Changes from Change Pools.
 

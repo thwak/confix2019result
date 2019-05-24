@@ -15,11 +15,11 @@ You can use following command to unarchive files.
 
 ## How to Access Coverage Information and Collected Changes outside ConFix.
 
-All coverage information, contexts and changes are stored in `.obj` files, which you may find after unarchive `coverage.tar.gz` or `pool.tar.gz.*`.    
+All coverage information, contexts and changes are stored in `.obj` files, which you may find after unarchiving `coverage.tar.gz` or `pool.tar.gz.*`.   
 They are object instances stored by `ObjectOutputStream`.
 For example, `coverage-info.obj` can be read as a `com.github.thwak.confix.coverage.CoverageManager` class instance.
 
-Normally, these files are read and used by ConFix automatically.
+Normally, these files are automatically read and used by ConFix.
 However, these information can be also accessed outside ConFix by following methods.
 
 ### Using Coverage Information.  

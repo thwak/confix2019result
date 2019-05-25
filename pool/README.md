@@ -7,4 +7,4 @@ Format is `BugID,Buggy Rev,Patch Rev`.
 Once unarchive the files with `cat pool.tar.gz.* | tar xz`, you can see two directories `ptlrh` and `plrt`, which indicate PTLRH and PLRT change pools repectively.  
 
 To access change pools without ConFix, please refer to [here](https://github.com/thwak/confix2019result#using-collected-human-written-changes-from-change-pools).   
-
+Note that we only collected changes in actual programs, not in test classes or resources and samples for the changes pools.  

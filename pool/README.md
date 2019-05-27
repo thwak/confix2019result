@@ -1,6 +1,6 @@
 ## Human-written Patches and Change Pools 
 
-`human-patch-info.tar` contains `[project].patches` files, which is a list of bug IDs and revisions of collected human-written patches for change pools.  
+`patch-list` contains `[project].patches` files, which is a list of bug IDs and revisions of collected human-written patches for change pools.  
 Format is `BugID,Buggy Rev,Patch Rev`.  
 
 `pool.tar.gz.*` files are for PTLRH and PLRT change pools built from the human-written patches.  
